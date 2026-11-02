@@ -1,0 +1,55 @@
+name: Daily AZPreps pull
+
+on:
+  schedule:
+    - cron: "23 12 * * *"   # 5:23 AM Arizona time
+    - cron: "23 20 * * *"   # 1:23 PM Arizona time
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/**", "watch.json"]
+  workflow_dispatch:
+    inputs:
+      quick:
+        description: "Quick smoke test (6A boys varsity only, no commit)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Tests
+        run: python -m unittest discover -s tests
+      - name: Quick smoke test
+        if: ${{ inputs.quick }}
+        run: python scripts/hsfeed.py --out /tmp/quick --quick --no-geo && head -5 /tmp/quick/schedule.csv
+      - name: Crawl azpreps365 (about 25 minutes, 10 seconds between pages)
+        if: ${{ !inputs.quick }}
+        run: python scripts/hsfeed.py --out data
+      - name: Tell me about changes at my schools
+        if: ${{ !inputs.quick }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/notify.py
+      - name: Save the data
+        if: ${{ !inputs.quick && always() }}
+        run: |
+          git config user.name "akrew-hsfeed"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "AZPreps pull $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
