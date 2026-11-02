@@ -151,3 +151,24 @@ class EndToEnd(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class History(unittest.TestCase):
+    def test_team_page(self):
+        rows = H.parse_team_page(fx("2025_teams_soccer_winter_boys_3839_brophy_prep_183678_varsity.html"), 2025, "3839", "Brophy Prep")
+        self.assertEqual(len(rows), 3)
+        a, b, c = rows
+        self.assertEqual((a["home"]["name"], a["away"]["name"], a["home_score"], a["away_score"]), ("Brophy Prep", "Centennial", 5, 0))
+        self.assertEqual(a["date"], "2025-12-01")
+        self.assertEqual((b["home"]["name"], b["away"]["name"], b["home_score"], b["away_score"]), ("Hamilton", "Brophy Prep", 1, 3))
+        self.assertEqual(b["home"]["program"], "2057")
+        self.assertEqual((c["home_score"], c["away_score"], c["date"]), (0, 2, "2026-02-25"))
+
+    def test_history_run(self):
+        out = tempfile.mkdtemp()
+        try:
+            H.main(["--out", out, "--quick", "--replay", FX, "--today", "2026-11-02", "--history", "last"])
+            js = json.load(open(os.path.join(out, "history_2025.json")))
+            self.assertEqual(len(js["games"]), 3)
+        finally:
+            shutil.rmtree(out)

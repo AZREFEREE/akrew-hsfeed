@@ -260,9 +260,9 @@ def _contest(el, start_year):
     res = el.find(cls="results")
     score = None
     if res is not None:
-        txt = res.text()
-        m = re.search(r"(\d+)\s*[-–]\s*(\d+)", txt)
-        if m:
+        sc = res.find(cls="scores")
+        txt = sc.text() if sc is not None else res.text()
+        if re.search(r"\d+\s*[-–]\s*\d+", txt):
             score = txt
     return {
         "id": cid,
@@ -395,6 +395,63 @@ def parse_standings_page(text):
                 row["conf_rank"] = int(m.group(1))
             out.append(row)
     return out
+
+
+def parse_team_page(text, start_year, me_program, me_name):
+    """One team's season (a /teams/.../<id>-varsity page): every game with the result if played."""
+    root = parse_html(text)
+    out = []
+    for el in root.find_all(cls="event-contest"):
+        cid = el.attrs.get("data-contest-id")
+        if not cid:
+            continue
+        hd = el.find(cls="home-designation")
+        opp = _team(el.find(cls="opponent"))
+        if not opp["name"]:
+            continue
+        is_home = hd is not None and (hd.has_class("is-home") or hd.text().lower().startswith("vs"))
+        res = el.find(cls="results")
+        sc = res.find(cls="scores") if res is not None else None
+        mine = theirs = None
+        if sc is not None:
+            m = re.match(r"\s*(\d+)\s*-\s*(\d+)", sc.text())
+            if m:
+                mine, theirs = int(m.group(1)), int(m.group(2))
+        loc = el.find(cls="location")
+        tn = el.find(cls="time")
+        me = {"name": me_name, "program": me_program}
+        out.append({"id": cid, "date": _date_of(el, start_year), "time": parse_time(tn.text() if tn else ""),
+                    "home": me if is_home else {"name": opp["name"], "program": opp["program"]},
+                    "away": {"name": opp["name"], "program": opp["program"]} if is_home else me,
+                    "home_score": mine if is_home else theirs, "away_score": theirs if is_home else mine,
+                    "location": loc.text() if loc is not None else "",
+                    "tags": [t.text() for t in el.find_all(cls="tag")]})
+    return out
+
+
+def crawl_history(cr, year, start_year, sports, classes, log=print):
+    """Every varsity game (with scores) of one season, from each team's page."""
+    games = {}
+    for g, sport in sports.items():
+        for c in classes:
+            text = cr.get(("/%d" % year if year else "") + "/teams/%s/%s" % (sport, c))
+            if text is None:
+                continue
+            for p in parse_teams_page(text):
+                tid = p["teams"].get("varsity")
+                if not tid:
+                    continue
+                path = ("/%d" % year if year else "") + "/teams/%s/%s-%s/%s-varsity" % (sport, p["program"], p["slug"], tid)
+                page = cr.get(path)
+                if page is None:
+                    continue
+                for x in parse_team_page(page, start_year, p["program"], p["name"]):
+                    x.update(gender=g, level="Varsity")
+                    old = games.get(x["id"])
+                    if old is None or (old.get("home_score") is None and x.get("home_score") is not None):
+                        games[x["id"]] = x
+                log("  history %s %s %s %s: %d games so far" % (year or "now", g, c, p["name"], len(games)))
+    return games
 
 
 # --------------------------------------------------------------------------- crawler
@@ -566,11 +623,15 @@ def geocode_schools(rows, cache_path, log=print, delay=1.1):
     done = 0
     for r in rows:
         q = r["venue"] or (r["school"] + " High School")
-        if q in cache:
+        if cache.get(q):
             hit = cache[q]
         else:
             hit = None
-            for query in (q + ", Arizona", r["school"] + " High School, Arizona"):
+            base = re.sub(r"\s*\(.*?\)", "", r["school"]).replace("ALA - ", "American Leadership Academy ").strip()
+            city = (re.search(r"\(([^)]+)\)", r["school"]) or [None, None])[1]
+            tries = [q + ", Arizona", r["school"] + " High School, Arizona", base + " High School" + (", " + city if city else "") + ", Arizona",
+                     base + (", " + city if city else "") + ", Arizona"]
+            for query in dict.fromkeys(tries):
                 url = "https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode(
                     {"q": query, "format": "json", "limit": 1, "countrycodes": "us",
                      "viewbox": "-114.9,37.1,-109.0,31.3", "bounded": 1})
@@ -584,7 +645,8 @@ def geocode_schools(rows, cache_path, log=print, delay=1.1):
                         break
                 except Exception as e:
                     log("  geocode failed for %s: %s" % (query, e))
-            cache[q] = hit
+            if hit:
+                cache[q] = hit  # misses are tried again next run
             done += 1
         r["lat"] = hit["lat"] if hit else None
         r["lon"] = hit["lon"] if hit else None
@@ -677,6 +739,8 @@ def main(argv=None):
     ap.add_argument("--out", default="data")
     ap.add_argument("--quick", action="store_true", help="6A boys varsity only (smoke test)")
     ap.add_argument("--only", choices=["schools", "schedules", "tables"], help="run one part")
+    ap.add_argument("--history", choices=["last", "now", "both"],
+                    help="pull past results from every varsity team page (weekly job, about an hour)")
     ap.add_argument("--delay", type=float, default=10.0, help="seconds between requests (robots.txt: 10)")
     ap.add_argument("--no-geo", action="store_true", help="skip map lookups for schools")
     ap.add_argument("--replay", help="read pages from this folder instead of the web (tests)")
@@ -699,6 +763,21 @@ def main(argv=None):
     if os.path.exists(games_path):
         with open(games_path, encoding="utf-8") as f:
             old_games = {g["id"]: g for g in json.load(f).get("games", [])}
+
+    if a.history:
+        seasons = {"last": [start_year - 1], "now": [start_year], "both": [start_year - 1, start_year]}[a.history]
+        for yr in seasons:
+            print("History %d-%d ..." % (yr, yr + 1))
+            hist = crawl_history(cr, None if yr == start_year else yr, yr, sports, classes)
+            write_json(os.path.join(a.out, "history_%d.json" % yr),
+                       {"season": "%d-%d" % (yr, yr + 1), "updated": status["run_at"],
+                        "games": sorted(hist.values(), key=lambda x: (x.get("date") or "", x["id"]))})
+            status["history_%d" % yr] = len(hist)
+        status["requests"] = cr.count
+        status["errors"] = cr.errors
+        write_json(os.path.join(a.out, "status_history.json"), status)
+        print(json.dumps(status, indent=1))
+        return 0
 
     games = events = None
     if a.only in (None, "schedules", "schools"):

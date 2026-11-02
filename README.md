@@ -2,7 +2,7 @@
 
 Arizona high school winter soccer (boys and girls, 6A–2A, varsity / JV / freshman-sophomore), pulled from [azpreps365.com](https://azpreps365.com) twice a day for AKREW.
 
-It runs by itself on GitHub at about **5:23 AM and 1:23 PM Arizona time**. Each run takes about 25 minutes, because azpreps365 asks for 10 seconds between page requests and we honor that. To run it now: **Actions → Daily AZPreps pull → Run workflow**.
+It runs by itself on GitHub at about **5:23 AM and 1:23 PM Arizona time**, plus a results-history pull early every Sunday. Each run takes about 25 minutes, because azpreps365 asks for 10 seconds between page requests and we honor that. To run it now: **Actions → Daily AZPreps pull → Run workflow**.
 
 ## What's in `data/`
 
@@ -13,6 +13,7 @@ It runs by itself on GitHub at about **5:23 AM and 1:23 PM Arizona time**. Each 
 | `schools.csv` / `schools.json` | Every school: class (6A–2A) and region for boys and girls, mascot, home venue, map location, and a suggested area (East / Central / North / West / Tucson / Outlying). |
 | `standings.json` | This season's region standings: region, conference and overall records, plus conference rank. |
 | `rankings.json` | This season's AIA rankings (rating, record, Open seed) plus **last season's final rankings**, so schools can be weighted before this season's rankings come out. |
+| `history_<year>.json` | Every varsity game of a season with the final score, from each team's page (weekly, Sunday). AKREW uses it for matchups: when two teams last met and whether it was close. |
 | `changes.json` | What changed since the previous run: moved, cancelled, removed or new games, future dates only. |
 | `changes_log.jsonl` | Every change ever seen, one per line. |
 | `status.json` | When the last run happened, the counts, and any errors. |

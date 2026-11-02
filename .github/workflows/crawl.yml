@@ -52,4 +52,5 @@ jobs:
           git add data
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "AZPreps pull $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase -X theirs origin main || true
           git push
