@@ -1,0 +1,5646 @@
+{
+ "schools": [
+  {
+   "area_suggested": "West",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "agua fria",
+   "lat": 33.4414975,
+   "lon": -112.3433004,
+   "mascot": "Owls",
+   "program_boys": "3474",
+   "program_girls": "3475",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Agua Fria",
+   "teams": {
+    "boys": {
+     "jv": "222758",
+     "varsity": "222756"
+    },
+    "girls": {
+     "jv": "222762",
+     "varsity": "222760"
+    }
+   },
+   "venue": "Agua Fria High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "ala anthem south",
+   "lat": null,
+   "lon": null,
+   "mascot": "Titans",
+   "program_boys": "13348",
+   "program_girls": "13349",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "ALA - Anthem South",
+   "teams": {
+    "boys": {
+     "varsity": "228104"
+    },
+    "girls": {
+     "varsity": "228106"
+    }
+   },
+   "venue": "American Leadership Academy - Anthem South"
+  },
+  {
+   "area_suggested": "East",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "ala gilbert north",
+   "lat": 33.2932275,
+   "lon": -111.7371234,
+   "mascot": "Eagles",
+   "program_boys": "11435",
+   "program_girls": "11436",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "ALA - Gilbert North",
+   "teams": {
+    "boys": {
+     "jv": "225313",
+     "varsity": "225311"
+    },
+    "girls": {
+     "varsity": "225315"
+    }
+   },
+   "venue": "American Leadership Academy - Gilbert"
+  },
+  {
+   "area_suggested": "",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "ala ironwood",
+   "lat": null,
+   "lon": null,
+   "mascot": "Warriors",
+   "program_boys": "11387",
+   "program_girls": "11388",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "ALA - Ironwood",
+   "teams": {
+    "boys": {
+     "jv": "212360",
+     "varsity": "212358"
+    },
+    "girls": {
+     "jv": "212364",
+     "varsity": "212362"
+    }
+   },
+   "venue": "American Leadership Academy – Ironwood"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "ala mesa north",
+   "lat": null,
+   "lon": null,
+   "mascot": "Mavericks",
+   "program_boys": "14349",
+   "program_girls": "14350",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "ALA - Mesa North",
+   "teams": {
+    "boys": {
+     "jv": "225780",
+     "varsity": "225782"
+    },
+    "girls": {
+     "jv": "225784",
+     "varsity": "225786"
+    }
+   },
+   "venue": "American Leadership Academy - Mesa North"
+  },
+  {
+   "area_suggested": "",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "ala qc",
+   "lat": null,
+   "lon": null,
+   "mascot": "Patriots",
+   "program_boys": "6879",
+   "program_girls": "7066",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "ALA - QC",
+   "teams": {
+    "boys": {
+     "jv": "216436",
+     "varsity": "216434"
+    },
+    "girls": {
+     "jv": "216440",
+     "varsity": "216438"
+    }
+   },
+   "venue": "American Leadership Academy - QC"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "ala radiance",
+   "lat": 33.3326462,
+   "lon": -111.5818252,
+   "mascot": "Rangers",
+   "program_boys": "15107",
+   "program_girls": "15108",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "ALA - Radiance",
+   "teams": {
+    "boys": {
+     "jv": "232284"
+    },
+    "girls": {
+     "jv": "232286"
+    }
+   },
+   "venue": "American Leadership Academy - Radiance"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "ala sierra vista",
+   "lat": 31.5135612,
+   "lon": -110.2513979,
+   "mascot": "Guardians",
+   "program_boys": "15145",
+   "program_girls": "15146",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "ALA - Sierra Vista",
+   "teams": {
+    "boys": {
+     "varsity": "232466"
+    },
+    "girls": {
+     "varsity": "232468"
+    }
+   },
+   "venue": "American Leadership Academy - Sierra Vista"
+  },
+  {
+   "area_suggested": "West",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "ala vistancia",
+   "lat": 33.7432122,
+   "lon": -112.3182305,
+   "mascot": "Defenders",
+   "program_boys": "14710",
+   "program_girls": "14711",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "ALA - Vistancia",
+   "teams": {
+    "boys": {
+     "jv": "222300",
+     "varsity": "222302"
+    },
+    "girls": {
+     "jv": "222304",
+     "varsity": "222306"
+    }
+   },
+   "venue": "American Leadership Academy - Vistancia"
+  },
+  {
+   "area_suggested": "West",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "ala west foothills",
+   "lat": 33.568046,
+   "lon": -112.4378443,
+   "mascot": "Guardians",
+   "program_boys": "12772",
+   "program_girls": "12773",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "ALA - West Foothills",
+   "teams": {
+    "boys": {
+     "jv": "230262",
+     "varsity": "230260"
+    },
+    "girls": {
+     "jv": "230266",
+     "varsity": "230264"
+    }
+   },
+   "venue": "American Leadership Academy - West Foothills"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "alhambra",
+   "lat": 33.5068771,
+   "lon": -112.1407113,
+   "mascot": "Lions",
+   "program_boys": "1489",
+   "program_girls": "1490",
+   "region": "Central Valley",
+   "region_boys": "Central Valley",
+   "region_girls": "Central Valley",
+   "school": "Alhambra",
+   "teams": {
+    "boys": {
+     "frso": "223042",
+     "jv": "223040",
+     "varsity": "223038"
+    },
+    "girls": {
+     "jv": "223046",
+     "varsity": "223044"
+    }
+   },
+   "venue": "Alhambra High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "amphitheater",
+   "lat": 32.2695493,
+   "lon": -110.9744392,
+   "mascot": "Panthers",
+   "program_boys": "2205",
+   "program_girls": "2206",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Amphitheater",
+   "teams": {
+    "boys": {
+     "varsity": "221570"
+    },
+    "girls": {
+     "varsity": "221572"
+    }
+   },
+   "venue": "Amphitheater High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "andrada polytechnic",
+   "lat": null,
+   "lon": null,
+   "mascot": "Mavericks",
+   "program_boys": "12846",
+   "program_girls": "12847",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Andrada Polytechnic",
+   "teams": {
+    "boys": {
+     "jv": "226962",
+     "varsity": "226960"
+    },
+    "girls": {
+     "jv": "226966",
+     "varsity": "226964"
+    }
+   },
+   "venue": "Andrada Polytechnic High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "anthem",
+   "lat": null,
+   "lon": null,
+   "mascot": "Eagles",
+   "program_boys": "7377",
+   "program_girls": "7378",
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "Valley",
+   "school": "Anthem Prep",
+   "teams": {
+    "boys": {
+     "varsity": "215442"
+    },
+    "girls": {
+     "varsity": "215444"
+    }
+   },
+   "venue": "Anthem Preparatory Academy"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "apache junction",
+   "lat": 33.3902133,
+   "lon": -111.5610586,
+   "mascot": "Prospectors",
+   "program_boys": "1856",
+   "program_girls": "1857",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Apache Junction",
+   "teams": {
+    "boys": {
+     "varsity": "226912"
+    },
+    "girls": {
+     "jv": "226916",
+     "varsity": "226914"
+    }
+   },
+   "venue": "Apache Junction High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "apollo",
+   "lat": 33.5553792,
+   "lon": -112.1580846,
+   "mascot": "Hawks",
+   "program_boys": "1350",
+   "program_girls": "1351",
+   "region": "Central",
+   "region_boys": "Central",
+   "region_girls": "Central",
+   "school": "Apollo",
+   "teams": {
+    "boys": {
+     "frso": "224536",
+     "jv": "224532",
+     "jv-2": "224534",
+     "varsity": "224530"
+    },
+    "girls": {
+     "frso": "224542",
+     "jv": "224540",
+     "varsity": "224538"
+    }
+   },
+   "venue": "Apollo High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "arcadia",
+   "lat": 33.4927222,
+   "lon": -111.9825981,
+   "mascot": "Titans",
+   "program_boys": "3821",
+   "program_girls": "3822",
+   "region": "Desert Sky",
+   "region_boys": "Desert Sky",
+   "region_girls": "Desert Sky",
+   "school": "Arcadia",
+   "teams": {
+    "boys": {
+     "jv": "228716",
+     "varsity": "228714"
+    },
+    "girls": {
+     "jv": "228720",
+     "varsity": "228718"
+    }
+   },
+   "venue": "Arcadia High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "arete",
+   "lat": 33.3782576,
+   "lon": -111.7362973,
+   "mascot": "Chargers",
+   "program_boys": "4002",
+   "program_girls": "4003",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Arete Prep",
+   "teams": {
+    "boys": {
+     "varsity": "214298"
+    },
+    "girls": {
+     "varsity": "214300"
+    }
+   },
+   "venue": "Arete Preparatory Academy"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "",
+   "key": "arizona lutheran",
+   "lat": 33.3906303,
+   "lon": -112.1186282,
+   "mascot": "Coyotes",
+   "program_boys": "1146",
+   "program_girls": null,
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "",
+   "school": "Arizona Lutheran",
+   "teams": {
+    "boys": {
+     "varsity": "226090"
+    }
+   },
+   "venue": "Arizona Lutheran Academy"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "az college",
+   "lat": 33.3104008,
+   "lon": -111.8613148,
+   "mascot": "Knights",
+   "program_boys": "8035",
+   "program_girls": "8036",
+   "region": "Premier",
+   "region_boys": "Premier",
+   "region_girls": "Premier",
+   "school": "AZ College Prep",
+   "teams": {
+    "boys": {
+     "jv": "226178",
+     "jv-2": "226180",
+     "varsity": "226176"
+    },
+    "girls": {
+     "jv": "226184",
+     "jv-2": "226186",
+     "varsity": "226182"
+    }
+   },
+   "venue": "Arizona College Prep"
+  },
+  {
+   "area_suggested": "North",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "barry goldwater",
+   "lat": 33.6783452,
+   "lon": -112.1202789,
+   "mascot": "Bulldogs",
+   "program_boys": "2710",
+   "program_girls": "2711",
+   "region": "Skyline",
+   "region_boys": "Skyline",
+   "region_girls": "Skyline",
+   "school": "Barry Goldwater",
+   "teams": {
+    "boys": {
+     "jv": "222650",
+     "varsity": "222648"
+    },
+    "girls": {
+     "jv": "222654",
+     "varsity": "222652"
+    }
+   },
+   "venue": "Barry Goldwater High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "basha",
+   "lat": 33.221099,
+   "lon": -111.7588756,
+   "mascot": "Bears",
+   "program_boys": "2796",
+   "program_girls": "2797",
+   "region": "Premier",
+   "region_boys": "Premier",
+   "region_girls": "Premier",
+   "school": "Basha",
+   "teams": {
+    "boys": {
+     "frso": "225065",
+     "jv": "225063",
+     "varsity": "225061"
+    },
+    "girls": {
+     "jv": "225069",
+     "jv-2": "225071",
+     "varsity": "225067"
+    }
+   },
+   "venue": "Basha High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "benjamin franklin",
+   "lat": 33.2805659,
+   "lon": -111.67667,
+   "mascot": "Chargers",
+   "program_boys": "4354",
+   "program_girls": "4355",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Benjamin Franklin",
+   "teams": {
+    "boys": {
+     "jv": "213694",
+     "varsity": "213692"
+    },
+    "girls": {
+     "jv": "213702",
+     "varsity": "213698"
+    }
+   },
+   "venue": "Benjamin Franklin High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "betty h fairfax",
+   "lat": 33.3730939,
+   "lon": -112.1820773,
+   "mascot": "Stampede",
+   "program_boys": "2997",
+   "program_girls": "2998",
+   "region": "Desert West",
+   "region_boys": "Desert West",
+   "region_girls": "Desert West",
+   "school": "Betty H. Fairfax",
+   "teams": {
+    "boys": {
+     "frso": "228464",
+     "jv": "228462",
+     "varsity": "228460"
+    },
+    "girls": {
+     "frso": "228470",
+     "jv": "228468",
+     "varsity": "228466"
+    }
+   },
+   "venue": "Betty H. Fairfax High School"
+  },
+  {
+   "area_suggested": "North",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "boulder creek",
+   "lat": 33.8504868,
+   "lon": -112.1407393,
+   "mascot": "Jaguars",
+   "program_boys": "2732",
+   "program_girls": "2733",
+   "region": "Desert Valley",
+   "region_boys": "Desert Valley",
+   "region_girls": "Desert Valley",
+   "school": "Boulder Creek",
+   "teams": {
+    "boys": {
+     "jv": "225413",
+     "varsity": "225411"
+    },
+    "girls": {
+     "jv": "225419",
+     "varsity": "225417"
+    }
+   },
+   "venue": "Boulder Creek High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "bourgade catholic",
+   "lat": 33.5047509,
+   "lon": -112.1268328,
+   "mascot": "Golden Eagles",
+   "program_boys": "1612",
+   "program_girls": "7467",
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "Valley",
+   "school": "Bourgade Catholic",
+   "teams": {
+    "boys": {
+     "jv": "219433",
+     "varsity": "219431"
+    },
+    "girls": {
+     "varsity": "219435"
+    }
+   },
+   "venue": "Bourgade Catholic High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "bradshaw mountain",
+   "lat": 34.5994915,
+   "lon": -112.3471841,
+   "mascot": "Bears",
+   "program_boys": "2184",
+   "program_girls": "2185",
+   "region": "Grand Canyon",
+   "region_boys": "Grand Canyon",
+   "region_girls": "Grand Canyon",
+   "school": "Bradshaw Mountain",
+   "teams": {
+    "boys": {
+     "jv": "211668",
+     "varsity": "211666"
+    },
+    "girls": {
+     "jv": "211672",
+     "varsity": "211670"
+    }
+   },
+   "venue": "Bradshaw Mountain High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "",
+   "key": "brophy",
+   "lat": null,
+   "lon": null,
+   "mascot": "Broncos",
+   "program_boys": "3839",
+   "program_girls": null,
+   "region": "Central",
+   "region_boys": "Central",
+   "region_girls": "",
+   "school": "Brophy Prep",
+   "teams": {
+    "boys": {
+     "frso": "220638",
+     "jv": "220636",
+     "varsity": "220634"
+    }
+   },
+   "venue": "Graham Family Sports Campus"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "buckeye union",
+   "lat": 33.3747264,
+   "lon": -112.5771668,
+   "mascot": "Hawks",
+   "program_boys": "413",
+   "program_girls": "458",
+   "region": "Desert West",
+   "region_boys": "Desert West",
+   "region_girls": "Desert West",
+   "school": "Buckeye Union",
+   "teams": {
+    "boys": {
+     "frso": "229684",
+     "jv": "229682",
+     "varsity": "229680"
+    },
+    "girls": {
+     "jv": "229688",
+     "varsity": "229686"
+    }
+   },
+   "venue": "Buckeye Union High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "buena",
+   "lat": 31.5711007,
+   "lon": -110.2369235,
+   "mascot": "Colts",
+   "program_boys": "389",
+   "program_girls": "434",
+   "region": "Southern",
+   "region_boys": "Southern",
+   "region_girls": "Southern",
+   "school": "Buena",
+   "teams": {
+    "boys": {
+     "jv": "211392",
+     "varsity": "211390"
+    },
+    "girls": {
+     "jv": "211396",
+     "varsity": "211394"
+    }
+   },
+   "venue": "Buena High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "cactus",
+   "lat": 33.6271188,
+   "lon": -112.1965483,
+   "mascot": "Cobras",
+   "program_boys": "1563",
+   "program_girls": "1564",
+   "region": "Desert Sky",
+   "region_boys": "Desert Sky",
+   "region_girls": "Desert Sky",
+   "school": "Cactus",
+   "teams": {
+    "boys": {
+     "jv": "229886",
+     "varsity": "229884"
+    },
+    "girls": {
+     "varsity": "229888"
+    }
+   },
+   "venue": "Cactus High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "cactus canyon",
+   "lat": 33.3918853,
+   "lon": -111.555825,
+   "mascot": "Champions",
+   "program_boys": "3036",
+   "program_girls": "3037",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Cactus Canyon",
+   "teams": {
+    "boys": {
+     "frso": "218380",
+     "jv": "218378",
+     "varsity": "218376"
+    },
+    "girls": {
+     "jv": "218384",
+     "varsity": "218382"
+    }
+   },
+   "venue": "Cactus Canyon High School"
+  },
+  {
+   "area_suggested": "North",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "cactus shadows",
+   "lat": 33.7855071,
+   "lon": -111.9557867,
+   "mascot": "Falcons",
+   "program_boys": "3270",
+   "program_girls": "3271",
+   "region": "Desert Sky",
+   "region_boys": "Desert Sky",
+   "region_girls": "Desert Sky",
+   "school": "Cactus Shadows",
+   "teams": {
+    "boys": {
+     "jv": "218190",
+     "varsity": "218188"
+    },
+    "girls": {
+     "jv": "218194",
+     "varsity": "218192"
+    }
+   },
+   "venue": "Cactus Shadows High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "camelback",
+   "lat": 33.5046734,
+   "lon": -112.023779,
+   "mascot": "Spartans",
+   "program_boys": "2548",
+   "program_girls": "2549",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Camelback",
+   "teams": {
+    "boys": {
+     "frso": "216250",
+     "jv": "216248",
+     "varsity": "216246"
+    },
+    "girls": {
+     "jv": "216254",
+     "varsity": "216252"
+    }
+   },
+   "venue": "Camelback High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "campo verde",
+   "lat": 33.2810832,
+   "lon": -111.7619079,
+   "mascot": "Coyotes",
+   "program_boys": "2456",
+   "program_girls": "2457",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "Campo Verde",
+   "teams": {
+    "boys": {
+     "jv": "220125",
+     "varsity": "220123"
+    },
+    "girls": {
+     "jv": "220129",
+     "varsity": "220127"
+    }
+   },
+   "venue": "Campo Verde High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "canyon del oro",
+   "lat": 32.3763474,
+   "lon": -110.9722252,
+   "mascot": "Dorado",
+   "program_boys": "402",
+   "program_girls": "447",
+   "region": "Sonoran",
+   "region_boys": "Sonoran",
+   "region_girls": "Sonoran",
+   "school": "Canyon Del Oro",
+   "teams": {
+    "boys": {
+     "jv": "229212",
+     "varsity": "229210"
+    },
+    "girls": {
+     "jv": "229216",
+     "varsity": "229214"
+    }
+   },
+   "venue": "Canyon Del Oro High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "canyon view",
+   "lat": 33.5244422,
+   "lon": -112.4661254,
+   "mascot": "Jaguars",
+   "program_boys": "11403",
+   "program_girls": "11404",
+   "region": "Desert Valley",
+   "region_boys": "Desert Valley",
+   "region_girls": "Desert Valley",
+   "school": "Canyon View",
+   "teams": {
+    "boys": {
+     "jv": "230648",
+     "varsity": "230646"
+    },
+    "girls": {
+     "jv": "230652",
+     "varsity": "230650"
+    }
+   },
+   "venue": "Canyon View High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "carl hayden",
+   "lat": 33.4569748,
+   "lon": -112.1323827,
+   "mascot": "Falcons",
+   "program_boys": "388",
+   "program_girls": "433",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Carl Hayden",
+   "teams": {
+    "boys": {
+     "frso": "223600",
+     "jv": "223598",
+     "varsity": "223596"
+    },
+    "girls": {
+     "jv": "223604",
+     "varsity": "223602"
+    }
+   },
+   "venue": "Carl Hayden Community High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "casa grande",
+   "lat": 32.9348435,
+   "lon": -111.7373432,
+   "mascot": "Cougars",
+   "program_boys": "3250",
+   "program_girls": "3251",
+   "region": "Sonoran",
+   "region_boys": "Sonoran",
+   "region_girls": "Sonoran",
+   "school": "Casa Grande",
+   "teams": {
+    "boys": {
+     "jv": "223526",
+     "varsity": "223524"
+    },
+    "girls": {
+     "jv": "223530",
+     "varsity": "223528"
+    }
+   },
+   "venue": "Casa Grande Union High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "casteel",
+   "lat": 33.2219311,
+   "lon": -111.6817024,
+   "mascot": "Colts",
+   "program_boys": "7732",
+   "program_girls": "7733",
+   "region": "Premier",
+   "region_boys": "Premier",
+   "region_girls": "Premier",
+   "school": "Casteel",
+   "teams": {
+    "boys": {
+     "frso": "221786",
+     "jv": "221784",
+     "varsity": "221782"
+    },
+    "girls": {
+     "frso": "221792",
+     "jv": "221790",
+     "varsity": "221788"
+    }
+   },
+   "venue": "Casteel High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "catalina",
+   "lat": 32.2452736,
+   "lon": -110.9161401,
+   "mascot": "Trojans",
+   "program_boys": "410",
+   "program_girls": "455",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Catalina",
+   "teams": {
+    "boys": {
+     "jv": "228044",
+     "varsity": "228042"
+    },
+    "girls": {
+     "varsity": "228046"
+    }
+   },
+   "venue": "Catalina Magnet High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "catalina foothills",
+   "lat": 32.3052863,
+   "lon": -110.900171,
+   "mascot": "Falcons",
+   "program_boys": "1008",
+   "program_girls": "1009",
+   "region": "Sonoran",
+   "region_boys": "Sonoran",
+   "region_girls": "Sonoran",
+   "school": "Catalina Foothills",
+   "teams": {
+    "boys": {
+     "jv": "220826",
+     "varsity": "220824"
+    },
+    "girls": {
+     "jv": "220830",
+     "varsity": "220828"
+    }
+   },
+   "venue": "Catalina Foothills High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "centennial",
+   "lat": 33.6156427,
+   "lon": -112.2310272,
+   "mascot": "Coyotes",
+   "program_boys": "2434",
+   "program_girls": "2435",
+   "region": "Northwest Valley",
+   "region_boys": "Northwest Valley",
+   "region_girls": "Northwest Valley",
+   "school": "Centennial",
+   "teams": {
+    "boys": {
+     "jv": "217622",
+     "varsity": "217620"
+    },
+    "girls": {
+     "jv": "217626",
+     "varsity": "217624"
+    }
+   },
+   "venue": "Centennial High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "central",
+   "lat": 33.5015794,
+   "lon": -112.0661199,
+   "mascot": "Bobcats",
+   "program_boys": "3634",
+   "program_girls": "3635",
+   "region": "Desert West",
+   "region_boys": "Desert West",
+   "region_girls": "Desert West",
+   "school": "Central",
+   "teams": {
+    "boys": {
+     "jv": "218610",
+     "varsity": "218608"
+    },
+    "girls": {
+     "jv": "218614",
+     "varsity": "218612"
+    }
+   },
+   "venue": "Central High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "chandler",
+   "lat": 33.3088342,
+   "lon": -111.8437568,
+   "mascot": "Wolves",
+   "program_boys": "3650",
+   "program_girls": "3651",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Chandler",
+   "teams": {
+    "boys": {
+     "jv": "219123",
+     "varsity": "219121"
+    },
+    "girls": {
+     "jv": "219127",
+     "varsity": "219125"
+    }
+   },
+   "venue": "Chandler High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "chaparral",
+   "lat": 33.5767338,
+   "lon": -111.9325672,
+   "mascot": "Firebirds",
+   "program_boys": "1048",
+   "program_girls": "1049",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "Chaparral",
+   "teams": {
+    "boys": {
+     "jv": "223950",
+     "varsity": "223948"
+    },
+    "girls": {
+     "frso": "223956",
+     "jv": "223954",
+     "varsity": "223952"
+    }
+   },
+   "venue": "Chaparral High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "cholla",
+   "lat": 32.2043036,
+   "lon": -111.0096506,
+   "mascot": "Chargers",
+   "program_boys": "403",
+   "program_girls": "448",
+   "region": "Sonoran",
+   "region_boys": "Sonoran",
+   "region_girls": "Sonoran",
+   "school": "Cholla",
+   "teams": {
+    "boys": {
+     "jv": "221024",
+     "varsity": "221022"
+    },
+    "girls": {
+     "varsity": "221026"
+    }
+   },
+   "venue": "Cholla High Magnet School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "cibola",
+   "lat": 32.6931406,
+   "lon": -114.6699902,
+   "mascot": "Raiders",
+   "program_boys": "383",
+   "program_girls": "428",
+   "region": "Desert Southwest",
+   "region_boys": "Desert Southwest",
+   "region_girls": "Desert Southwest",
+   "school": "Cibola",
+   "teams": {
+    "boys": {
+     "frso": "217246",
+     "jv": "217244",
+     "varsity": "217242"
+    },
+    "girls": {
+     "frso": "217256",
+     "jv": "217254",
+     "varsity": "217252"
+    }
+   },
+   "venue": "Cibola High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "cicero",
+   "lat": 33.6343413,
+   "lon": -111.8817948,
+   "mascot": "Centurions",
+   "program_boys": "11421",
+   "program_girls": "11422",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Cicero Prep",
+   "teams": {
+    "boys": {
+     "varsity": "219737"
+    },
+    "girls": {
+     "varsity": "219739"
+    }
+   },
+   "venue": "Scottsdale Preparatory Academy"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "cienega",
+   "lat": 32.0563288,
+   "lon": -110.7210336,
+   "mascot": "Bobcats",
+   "program_boys": "2837",
+   "program_girls": "2838",
+   "region": "Southern",
+   "region_boys": "Southern",
+   "region_girls": "Southern",
+   "school": "Cienega",
+   "teams": {
+    "boys": {
+     "jv": "227444",
+     "varsity": "227442"
+    },
+    "girls": {
+     "jv": "227448",
+     "varsity": "227446"
+    }
+   },
+   "venue": "Cienega High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "coconino",
+   "lat": 35.2161224,
+   "lon": -111.6234945,
+   "mascot": "Panthers",
+   "program_boys": "408",
+   "program_girls": "453",
+   "region": "Grand Canyon",
+   "region_boys": "Grand Canyon",
+   "region_girls": "Grand Canyon",
+   "school": "Coconino",
+   "teams": {
+    "boys": {
+     "jv": "220906",
+     "varsity": "220904"
+    },
+    "girls": {
+     "jv": "220910",
+     "varsity": "220908"
+    }
+   },
+   "venue": "Coconino High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "combs",
+   "lat": 33.275701,
+   "lon": -111.5406442,
+   "mascot": "Coyotes",
+   "program_boys": "3193",
+   "program_girls": "3194",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "Combs",
+   "teams": {
+    "boys": {
+     "jv": "228248",
+     "varsity": "228246"
+    },
+    "girls": {
+     "varsity": "228250"
+    }
+   },
+   "venue": "Combs High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "coolidge",
+   "lat": 32.9821221,
+   "lon": -111.5291405,
+   "mascot": "Bears",
+   "program_boys": "3867",
+   "program_girls": "3868",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Coolidge",
+   "teams": {
+    "boys": {
+     "varsity": "212163"
+    },
+    "girls": {
+     "varsity": "212165"
+    }
+   },
+   "venue": "Coolidge High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "copper canyon",
+   "lat": 33.5110609,
+   "lon": -112.2573428,
+   "mascot": "Aztecs",
+   "program_boys": "3385",
+   "program_girls": "3386",
+   "region": "Central Valley",
+   "region_boys": "Central Valley",
+   "region_girls": "Central Valley",
+   "school": "Copper Canyon",
+   "teams": {
+    "boys": {
+     "frso": "214948",
+     "jv": "214946",
+     "varsity": "214944"
+    },
+    "girls": {
+     "jv": "214952",
+     "varsity": "214950"
+    }
+   },
+   "venue": "Copper Canyon High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "corona del sol",
+   "lat": 33.3247677,
+   "lon": -111.9253945,
+   "mascot": "Aztecs",
+   "program_boys": "1791",
+   "program_girls": "1792",
+   "region": "Central",
+   "region_boys": "Central",
+   "region_girls": "Central",
+   "school": "Corona del Sol",
+   "teams": {
+    "boys": {
+     "frso": "222150",
+     "jv": "222148",
+     "varsity": "222146"
+    },
+    "girls": {
+     "jv": "222154",
+     "varsity": "222152"
+    }
+   },
+   "venue": "Corona del Sol High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "coronado",
+   "lat": 33.4748956,
+   "lon": -111.9197268,
+   "mascot": "Dons",
+   "program_boys": "3317",
+   "program_girls": "3318",
+   "region": "Black Canyon",
+   "region_boys": "Black Canyon",
+   "region_girls": "Black Canyon",
+   "school": "Coronado",
+   "teams": {
+    "boys": {
+     "jv": "212302",
+     "varsity": "212300"
+    },
+    "girls": {
+     "varsity": "212304"
+    }
+   },
+   "venue": "Coronado High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "cortez",
+   "lat": 33.5648511,
+   "lon": -112.128833,
+   "mascot": "Colts",
+   "program_boys": "1582",
+   "program_girls": "1583",
+   "region": "Black Canyon",
+   "region_boys": "Black Canyon",
+   "region_girls": "Black Canyon",
+   "school": "Cortez",
+   "teams": {
+    "boys": {
+     "jv": "217018",
+     "varsity": "217016"
+    },
+    "girls": {
+     "jv": "217022",
+     "varsity": "217020"
+    }
+   },
+   "venue": "Cortez High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "crismon",
+   "lat": 33.2233664,
+   "lon": -111.6112393,
+   "mascot": "Rattlers",
+   "program_boys": "13340",
+   "program_girls": "13341",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "Crismon",
+   "teams": {
+    "boys": {
+     "frso": "229020",
+     "jv": "229016",
+     "jv-2": "229018",
+     "varsity": "229014"
+    },
+    "girls": {
+     "frso": "229028",
+     "jv": "229024",
+     "jv-2": "229026",
+     "varsity": "229022"
+    }
+   },
+   "venue": "Crismon High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "deer valley",
+   "lat": 33.6525663,
+   "lon": -112.1722155,
+   "mascot": "Skyhawks",
+   "program_boys": "3675",
+   "program_girls": "3676",
+   "region": "Desert Sky",
+   "region_boys": "Desert Sky",
+   "region_girls": "Desert Sky",
+   "school": "Deer Valley",
+   "teams": {
+    "boys": {
+     "jv": "227832",
+     "varsity": "227830"
+    },
+    "girls": {
+     "jv": "227836",
+     "varsity": "227834"
+    }
+   },
+   "venue": "Deer Valley High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "desert christian",
+   "lat": null,
+   "lon": null,
+   "mascot": "Eagles",
+   "program_boys": "10171",
+   "program_girls": "10172",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Desert Christian",
+   "teams": {
+    "boys": {
+     "varsity": "226040"
+    },
+    "girls": {
+     "varsity": "226042"
+    }
+   },
+   "venue": "Desert Christian High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "desert edge",
+   "lat": 33.4368504,
+   "lon": -112.4000028,
+   "mascot": "Scorpions",
+   "program_boys": "2225",
+   "program_girls": "2226",
+   "region": "Desert West",
+   "region_boys": "Desert West",
+   "region_girls": "Desert West",
+   "school": "Desert Edge",
+   "teams": {
+    "boys": {
+     "jv": "211580",
+     "varsity": "211578"
+    },
+    "girls": {
+     "jv": "211584",
+     "varsity": "211582"
+    }
+   },
+   "venue": "Desert Edge High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "desert mountain",
+   "lat": 33.5872318,
+   "lon": -111.8090562,
+   "mascot": "Wolves",
+   "program_boys": "1028",
+   "program_girls": "1029",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "Desert Mountain",
+   "teams": {
+    "boys": {
+     "jv": "226570",
+     "varsity": "226568"
+    },
+    "girls": {
+     "jv": "226574",
+     "varsity": "226572"
+    }
+   },
+   "venue": "Desert Mountain High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "desert ridge",
+   "lat": 33.368997,
+   "lon": -111.6161007,
+   "mascot": "Jaguars",
+   "program_boys": "1877",
+   "program_girls": "1878",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Desert Ridge",
+   "teams": {
+    "boys": {
+     "jv": "216148",
+     "varsity": "216146"
+    },
+    "girls": {
+     "jv": "216152",
+     "varsity": "216150"
+    }
+   },
+   "venue": "Desert Ridge High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "",
+   "class_girls": "2A",
+   "key": "desert star",
+   "lat": null,
+   "lon": null,
+   "mascot": "Titan",
+   "program_boys": null,
+   "program_girls": "14919",
+   "region": "West",
+   "region_boys": "",
+   "region_girls": "West",
+   "school": "Desert Star",
+   "teams": {
+    "girls": {
+     "jv": "211958"
+    }
+   },
+   "venue": ""
+  },
+  {
+   "area_suggested": "East",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "desert sunrise",
+   "lat": 33.0269614,
+   "lon": -111.9475924,
+   "mascot": "Golden Hawks",
+   "program_boys": "13364",
+   "program_girls": "13365",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "Desert Sunrise",
+   "teams": {
+    "boys": {
+     "jv": "223684",
+     "varsity": "223682"
+    },
+    "girls": {
+     "jv": "223688",
+     "varsity": "223686"
+    }
+   },
+   "venue": "Desert Sunrise High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "desert view",
+   "lat": 32.1364454,
+   "lon": -110.9049483,
+   "mascot": "Jaguars",
+   "program_boys": "2858",
+   "program_girls": "2859",
+   "region": "Southern",
+   "region_boys": "Southern",
+   "region_girls": "Southern",
+   "school": "Desert View",
+   "teams": {
+    "boys": {
+     "frso": "225970",
+     "jv": "225968",
+     "varsity": "225966"
+    },
+    "girls": {
+     "jv": "225974",
+     "varsity": "225972"
+    }
+   },
+   "venue": "Desert View High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "desert vista",
+   "lat": 33.295395,
+   "lon": -112.016779,
+   "mascot": "Thunder",
+   "program_boys": "2035",
+   "program_girls": "2036",
+   "region": "Central",
+   "region_boys": "Central",
+   "region_girls": "Central",
+   "school": "Desert Vista",
+   "teams": {
+    "boys": {
+     "frso": "221664",
+     "jv": "221662",
+     "varsity": "221660"
+    },
+    "girls": {
+     "jv": "221668",
+     "varsity": "221666"
+    }
+   },
+   "venue": "Desert Vista High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "dobson",
+   "lat": 33.3623066,
+   "lon": -111.867832,
+   "mascot": "Mustangs",
+   "program_boys": "2392",
+   "program_girls": "2393",
+   "region": "East Valley",
+   "region_boys": "East Valley",
+   "region_girls": "East Valley",
+   "school": "Dobson",
+   "teams": {
+    "boys": {
+     "jv": "212552",
+     "jv-2": "212554",
+     "varsity": "212550"
+    },
+    "girls": {
+     "jv": "212558",
+     "varsity": "212556"
+    }
+   },
+   "venue": "Dobson High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "douglas",
+   "lat": 31.3506581,
+   "lon": -109.5378446,
+   "mascot": "Bulldogs",
+   "program_boys": "988",
+   "program_girls": "989",
+   "region": "Kino",
+   "region_boys": "Kino",
+   "region_girls": "Kino",
+   "school": "Douglas",
+   "teams": {
+    "boys": {
+     "frso": "214414",
+     "jv": "214412",
+     "varsity": "214410"
+    },
+    "girls": {
+     "jv": "214418",
+     "varsity": "214416"
+    }
+   },
+   "venue": "Douglas High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "dysart",
+   "lat": 33.5900649,
+   "lon": -112.3380202,
+   "mascot": "Demons",
+   "program_boys": "406",
+   "program_girls": "451",
+   "region": "Black Canyon",
+   "region_boys": "Black Canyon",
+   "region_girls": "Black Canyon",
+   "school": "Dysart",
+   "teams": {
+    "boys": {
+     "frso": "226406",
+     "jv": "226404",
+     "varsity": "226402"
+    },
+    "girls": {
+     "varsity": "226408"
+    }
+   },
+   "venue": "Dysart High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "eastmark",
+   "lat": 33.3239018,
+   "lon": -111.6267269,
+   "mascot": "Firebirds",
+   "program_boys": "12248",
+   "program_girls": "12249",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "Eastmark",
+   "teams": {
+    "boys": {
+     "jv": "230754",
+     "varsity": "230752"
+    },
+    "girls": {
+     "jv": "230758",
+     "varsity": "230756"
+    }
+   },
+   "venue": "Eastmark High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "empire",
+   "lat": 32.0882127,
+   "lon": -110.7633353,
+   "mascot": "Ravens",
+   "program_boys": "414",
+   "program_girls": "459",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Empire",
+   "teams": {
+    "boys": {
+     "jv": "222840",
+     "varsity": "222838"
+    },
+    "girls": {
+     "jv": "235002",
+     "varsity": "222842"
+    }
+   },
+   "venue": "Empire High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "estrella foothills",
+   "lat": 33.3274426,
+   "lon": -112.4217824,
+   "mascot": "Wolves",
+   "program_boys": "3081",
+   "program_girls": "3082",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Estrella Foothills",
+   "teams": {
+    "boys": {
+     "jv": "213544",
+     "varsity": "213542"
+    },
+    "girls": {
+     "jv": "213548",
+     "varsity": "213546"
+    }
+   },
+   "venue": "Estrella Foothills High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "flagstaff",
+   "lat": 35.2061763,
+   "lon": -111.6510328,
+   "mascot": "Eagles",
+   "program_boys": "407",
+   "program_girls": "452",
+   "region": "Grand Canyon",
+   "region_boys": "Grand Canyon",
+   "region_girls": "Grand Canyon",
+   "school": "Flagstaff",
+   "teams": {
+    "boys": {
+     "jv": "217424",
+     "varsity": "217422"
+    },
+    "girls": {
+     "jv": "217428",
+     "varsity": "217426"
+    }
+   },
+   "venue": "Flagstaff High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "florence",
+   "lat": 33.0223005,
+   "lon": -111.3897753,
+   "mascot": "Gophers",
+   "program_boys": "3289",
+   "program_girls": "3290",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Florence",
+   "teams": {
+    "boys": {
+     "varsity": "222064"
+    },
+    "girls": {
+     "varsity": "222066"
+    }
+   },
+   "venue": "Florence High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "flowing wells",
+   "lat": 32.2745758,
+   "lon": -110.9971766,
+   "mascot": "Caballeros",
+   "program_boys": "399",
+   "program_girls": "444",
+   "region": "Southern",
+   "region_boys": "Southern",
+   "region_girls": "Southern",
+   "school": "Flowing Wells",
+   "teams": {
+    "boys": {
+     "frso": "216780",
+     "jv": "216778",
+     "varsity": "216776"
+    },
+    "girls": {
+     "frso": "216786",
+     "jv": "216784",
+     "varsity": "216782"
+    }
+   },
+   "venue": "Flowing Wells High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "fountain hills",
+   "lat": 33.6167355,
+   "lon": -111.7337159,
+   "mascot": "Falcons",
+   "program_boys": "1692",
+   "program_girls": "1693",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Fountain Hills",
+   "teams": {
+    "boys": {
+     "varsity": "224126"
+    },
+    "girls": {
+     "varsity": "224128"
+    }
+   },
+   "venue": "Fountain Hills High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "gila ridge",
+   "lat": 32.6857011,
+   "lon": -114.5106917,
+   "mascot": "Hawks",
+   "program_boys": "3539",
+   "program_girls": "3540",
+   "region": "Desert Southwest",
+   "region_boys": "Desert Southwest",
+   "region_girls": "Desert Southwest",
+   "school": "Gila Ridge",
+   "teams": {
+    "boys": {
+     "frso": "225570",
+     "jv": "225566",
+     "jv-2": "225568",
+     "varsity": "225564"
+    },
+    "girls": {
+     "frso": "225578",
+     "jv": "225574",
+     "jv-2": "225576",
+     "varsity": "225572"
+    }
+   },
+   "venue": "Gila Ridge High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "gilbert",
+   "lat": 33.3478422,
+   "lon": -111.7663993,
+   "mascot": "Tigers",
+   "program_boys": "380",
+   "program_girls": "425",
+   "region": "Fiesta",
+   "region_boys": "Fiesta",
+   "region_girls": "Fiesta",
+   "school": "Gilbert",
+   "teams": {
+    "boys": {
+     "jv": "229784",
+     "varsity": "229782"
+    },
+    "girls": {
+     "jv": "229788",
+     "varsity": "229786"
+    }
+   },
+   "venue": "Gilbert High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "gilbert christian",
+   "lat": 33.3269472,
+   "lon": -111.7115586,
+   "mascot": "Knights",
+   "program_boys": "3803",
+   "program_girls": "7394",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Gilbert Christian",
+   "teams": {
+    "boys": {
+     "jv": "220009",
+     "varsity": "220007"
+    },
+    "girls": {
+     "jv": "220013",
+     "varsity": "220011"
+    }
+   },
+   "venue": "Gilbert Christian High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "gilbert classical",
+   "lat": 33.3694168,
+   "lon": -111.7837934,
+   "mascot": "Spartans",
+   "program_boys": "3712",
+   "program_girls": "3713",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Gilbert Classical",
+   "teams": {
+    "boys": {
+     "varsity": "226280"
+    },
+    "girls": {
+     "varsity": "226282"
+    }
+   },
+   "venue": "Gilbert Classical Academy"
+  },
+  {
+   "area_suggested": "West",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "glendale",
+   "lat": 33.5403638,
+   "lon": -112.1947035,
+   "mascot": "Cardinals",
+   "program_boys": "4289",
+   "program_girls": "4290",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Glendale",
+   "teams": {
+    "boys": {
+     "varsity": "230038"
+    },
+    "girls": {
+     "jv": "230042",
+     "varsity": "230040"
+    }
+   },
+   "venue": "Glendale High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "globe",
+   "lat": 33.3938076,
+   "lon": -110.7813203,
+   "mascot": "Tigers",
+   "program_boys": "1596",
+   "program_girls": "1597",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Globe",
+   "teams": {
+    "boys": {
+     "jv": "221284",
+     "varsity": "221282"
+    },
+    "girls": {
+     "jv": "221288",
+     "varsity": "221286"
+    }
+   },
+   "venue": "Harbison Field"
+  },
+  {
+   "area_suggested": "West",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "goodyear",
+   "lat": 33.4535612,
+   "lon": -112.4306862,
+   "mascot": "Mavericks",
+   "program_boys": "14685",
+   "program_girls": "14686",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Goodyear",
+   "teams": {
+    "boys": {
+     "jv": "218284",
+     "varsity": "218282"
+    },
+    "girls": {
+     "jv": "218288",
+     "varsity": "218286"
+    }
+   },
+   "venue": "Goodyear High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "greenway",
+   "lat": 33.6275255,
+   "lon": -112.1445573,
+   "mascot": "Demons",
+   "program_boys": "2265",
+   "program_girls": "2266",
+   "region": "Skyline",
+   "region_boys": "Skyline",
+   "region_girls": "Skyline",
+   "school": "Greenway",
+   "teams": {
+    "boys": {
+     "jv": "219915",
+     "varsity": "219913"
+    },
+    "girls": {
+     "jv": "219919",
+     "varsity": "219917"
+    }
+   },
+   "venue": "Greenway High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "hamilton",
+   "lat": 33.2512313,
+   "lon": -111.843587,
+   "mascot": "Huskies",
+   "program_boys": "2057",
+   "program_girls": "2058",
+   "region": "Premier",
+   "region_boys": "Premier",
+   "region_girls": "Premier",
+   "school": "Hamilton",
+   "teams": {
+    "boys": {
+     "frso": "228592",
+     "jv": "228590",
+     "varsity": "228588"
+    },
+    "girls": {
+     "frso": "228598",
+     "jv": "228596",
+     "varsity": "228594"
+    }
+   },
+   "venue": "Hamilton High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "heritage gateway",
+   "lat": 33.2773521,
+   "lon": -111.6591681,
+   "mascot": "Heroes",
+   "program_boys": "15190",
+   "program_girls": "15191",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Heritage Acad Gateway",
+   "teams": {
+    "boys": {
+     "varsity": "232587"
+    },
+    "girls": {
+     "varsity": "232589"
+    }
+   },
+   "venue": "Heritage Academy Gateway"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "heritage laveen",
+   "lat": 33.3765814,
+   "lon": -112.1500454,
+   "mascot": "Heroes",
+   "program_boys": "11503",
+   "program_girls": "11992",
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "Valley",
+   "school": "Heritage Acad Laveen",
+   "teams": {
+    "boys": {
+     "jv": "214164",
+     "varsity": "214162"
+    },
+    "girls": {
+     "jv": "214168",
+     "varsity": "214166"
+    }
+   },
+   "venue": "Heritage Academy Laveen"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "heritage maricopa",
+   "lat": 33.0413041,
+   "lon": -112.043562,
+   "mascot": "Heroes",
+   "program_boys": "15161",
+   "program_girls": "15162",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Heritage Acad Maricopa",
+   "teams": {
+    "boys": {
+     "jv": "232507",
+     "varsity": "232505"
+    },
+    "girls": {
+     "jv": "232511",
+     "varsity": "232509"
+    }
+   },
+   "venue": "Copper Sky Recreation Complex"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "",
+   "class_girls": "2A",
+   "key": "heritage mesa",
+   "lat": null,
+   "lon": null,
+   "mascot": "Heroes",
+   "program_boys": null,
+   "program_girls": "15226",
+   "region": "West",
+   "region_boys": "",
+   "region_girls": "West",
+   "school": "Heritage Acad Mesa",
+   "teams": {
+    "girls": {
+     "varsity": "233535"
+    }
+   },
+   "venue": "Lehi Sports Complex"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "highland",
+   "lat": 33.361238,
+   "lon": -111.6982663,
+   "mascot": "Hawks",
+   "program_boys": "12801",
+   "program_girls": "12802",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Highland",
+   "teams": {
+    "boys": {
+     "varsity": "224944"
+    },
+    "girls": {
+     "varsity": "224946"
+    }
+   },
+   "venue": "Highland High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "highland west",
+   "lat": 33.4487148,
+   "lon": -112.3222501,
+   "mascot": "Hornets",
+   "program_boys": "14934",
+   "program_girls": "13318",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Highland Prep West",
+   "teams": {
+    "boys": {
+     "jv": "220453",
+     "varsity": "220451"
+    },
+    "girls": {
+     "jv": "220457",
+     "varsity": "220455"
+    }
+   },
+   "venue": "Highland Prep West"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "higley",
+   "lat": 33.2953484,
+   "lon": -111.7008863,
+   "mascot": "Knights",
+   "program_boys": "2477",
+   "program_girls": "2478",
+   "region": "Fiesta",
+   "region_boys": "Fiesta",
+   "region_girls": "Fiesta",
+   "school": "Higley",
+   "teams": {
+    "boys": {
+     "jv": "222388",
+     "varsity": "222386"
+    },
+    "girls": {
+     "jv": "222392",
+     "varsity": "222390"
+    }
+   },
+   "venue": "Higley High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "horizon",
+   "lat": 33.6248092,
+   "lon": -111.956994,
+   "mascot": "Huskies",
+   "program_boys": "391",
+   "program_girls": "436",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "Horizon",
+   "teams": {
+    "boys": {
+     "jv": "227120",
+     "varsity": "227118"
+    },
+    "girls": {
+     "jv": "227124",
+     "varsity": "227122"
+    }
+   },
+   "venue": "Horizon High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "horizon honors",
+   "lat": 33.2922226,
+   "lon": -111.9799794,
+   "mascot": "Eagles",
+   "program_boys": "1113",
+   "program_girls": "1114",
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "Valley",
+   "school": "Horizon Honors",
+   "teams": {
+    "boys": {
+     "jv": "227588",
+     "varsity": "227586"
+    },
+    "girls": {
+     "varsity": "227590"
+    }
+   },
+   "venue": "Pecos Park"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "independence",
+   "lat": 33.531846,
+   "lon": -112.2227175,
+   "mascot": "Patriots",
+   "program_boys": "2899",
+   "program_girls": "2900",
+   "region": "Central Valley",
+   "region_boys": "Central Valley",
+   "region_girls": "Central Valley",
+   "school": "Independence",
+   "teams": {
+    "boys": {
+     "frso": "224742",
+     "jv": "224740",
+     "varsity": "224738"
+    },
+    "girls": {
+     "frso": "224748",
+     "jv": "224746",
+     "varsity": "224744"
+    }
+   },
+   "venue": "Independence High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "ironwood",
+   "lat": 33.601648,
+   "lon": -112.1881423,
+   "mascot": "Eagles",
+   "program_boys": "2413",
+   "program_girls": "2414",
+   "region": "Northwest Valley",
+   "region_boys": "Northwest Valley",
+   "region_girls": "Northwest Valley",
+   "school": "Ironwood",
+   "teams": {
+    "boys": {
+     "jv": "223144",
+     "varsity": "223142"
+    },
+    "girls": {
+     "jv": "223148",
+     "varsity": "223146"
+    }
+   },
+   "venue": "Ironwood High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "ironwood ridge",
+   "lat": 32.4080642,
+   "lon": -111.0227451,
+   "mascot": "Nighthawks",
+   "program_boys": "396",
+   "program_girls": "441",
+   "region": "Kino",
+   "region_boys": "Kino",
+   "region_girls": "Kino",
+   "school": "Ironwood Ridge",
+   "teams": {
+    "boys": {
+     "frso": "221988",
+     "jv": "221986",
+     "varsity": "221984"
+    },
+    "girls": {
+     "jv": "221992",
+     "varsity": "221990"
+    }
+   },
+   "venue": "Ironwood Ridge High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "kingman",
+   "lat": 35.2235942,
+   "lon": -114.0280521,
+   "mascot": "Bulldogs",
+   "program_boys": "9175",
+   "program_girls": "9176",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Kingman",
+   "teams": {
+    "boys": {
+     "varsity": "211844"
+    },
+    "girls": {
+     "varsity": "211846"
+    }
+   },
+   "venue": "Kingman High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "kofa",
+   "lat": 32.6731379,
+   "lon": -114.6366967,
+   "mascot": "Kings",
+   "program_boys": "3221",
+   "program_girls": "3222",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Kofa",
+   "teams": {
+    "boys": {
+     "frso": "229466",
+     "jv": "229464",
+     "varsity": "229462"
+    },
+    "girls": {
+     "frso": "229472",
+     "jv": "229470",
+     "varsity": "229468"
+    }
+   },
+   "venue": "Kofa High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "la joya community",
+   "lat": 33.4260435,
+   "lon": -112.3095852,
+   "mascot": "Lobos",
+   "program_boys": "3403",
+   "program_girls": "3404",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "La Joya Community",
+   "teams": {
+    "boys": {
+     "jv": "219681",
+     "varsity": "219679"
+    },
+    "girls": {
+     "jv": "219685",
+     "varsity": "219683"
+    }
+   },
+   "venue": "La Joya Community High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "lake havasu",
+   "lat": 34.4934617,
+   "lon": -114.3189515,
+   "mascot": "Knights",
+   "program_boys": "395",
+   "program_girls": "440",
+   "region": "Central Valley",
+   "region_boys": "Central Valley",
+   "region_girls": "Central Valley",
+   "school": "Lake Havasu",
+   "teams": {
+    "boys": {
+     "jv": "217110",
+     "varsity": "217108"
+    },
+    "girls": {
+     "jv": "217114",
+     "varsity": "217112"
+    }
+   },
+   "venue": "Lake Havasu High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "lee williams",
+   "lat": 35.1920864,
+   "lon": -114.0595364,
+   "mascot": "Volunteers",
+   "program_boys": "5706",
+   "program_girls": "5835",
+   "region": "Grand Canyon",
+   "region_boys": "Grand Canyon",
+   "region_girls": "Grand Canyon",
+   "school": "Lee Williams",
+   "teams": {
+    "boys": {
+     "jv": "229596",
+     "varsity": "229594"
+    },
+    "girls": {
+     "jv": "229600",
+     "varsity": "229598"
+    }
+   },
+   "venue": "Lee Williams High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "liberty",
+   "lat": 33.6850735,
+   "lon": -112.2659965,
+   "mascot": "Lions",
+   "program_boys": "3745",
+   "program_girls": "3746",
+   "region": "Desert Valley",
+   "region_boys": "Desert Valley",
+   "region_girls": "Desert Valley",
+   "school": "Liberty",
+   "teams": {
+    "boys": {
+     "jv": "214644",
+     "varsity": "214642"
+    },
+    "girls": {
+     "jv": "214648",
+     "varsity": "214646"
+    }
+   },
+   "venue": "Liberty High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "",
+   "key": "lincoln",
+   "lat": null,
+   "lon": null,
+   "mascot": "Lightning",
+   "program_boys": "12278",
+   "program_girls": null,
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "",
+   "school": "Lincoln Prep",
+   "teams": {
+    "boys": {
+     "varsity": "222230"
+    }
+   },
+   "venue": "Lincoln Preparatory Academy"
+  },
+  {
+   "area_suggested": "",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "madison highland",
+   "lat": null,
+   "lon": null,
+   "mascot": "Heat",
+   "program_boys": "14948",
+   "program_girls": "12789",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Madison Highland",
+   "teams": {
+    "boys": {
+     "varsity": "224987"
+    },
+    "girls": {
+     "varsity": "224989"
+    }
+   },
+   "venue": "Madison Highland Prep"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "marana",
+   "lat": 32.3694427,
+   "lon": -111.221615,
+   "mascot": "Tigers",
+   "program_boys": "2879",
+   "program_girls": "2880",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Marana",
+   "teams": {
+    "boys": {
+     "jv": "221896",
+     "varsity": "221894"
+    },
+    "girls": {
+     "jv": "221900",
+     "varsity": "221898"
+    }
+   },
+   "venue": "Marana High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "marcos de niza",
+   "lat": 33.3654377,
+   "lon": -111.9221382,
+   "mascot": "Padres",
+   "program_boys": "1732",
+   "program_girls": "1733",
+   "region": "Black Canyon",
+   "region_boys": "Black Canyon",
+   "region_girls": "Black Canyon",
+   "school": "Marcos de Niza",
+   "teams": {
+    "boys": {
+     "frso": "227344",
+     "jv": "227342",
+     "varsity": "227340"
+    },
+    "girls": {
+     "jv": "227348",
+     "varsity": "227346"
+    }
+   },
+   "venue": "Marcos de Niza High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "maricopa",
+   "lat": 33.0553267,
+   "lon": -112.0524039,
+   "mascot": "Rams",
+   "program_boys": "1662",
+   "program_girls": "1663",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Maricopa",
+   "teams": {
+    "boys": {
+     "jv": "228170",
+     "varsity": "228168"
+    },
+    "girls": {
+     "jv": "228174",
+     "varsity": "228172"
+    }
+   },
+   "venue": "Maricopa High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "maryvale",
+   "lat": 33.4894088,
+   "lon": -112.1830276,
+   "mascot": "Panthers",
+   "program_boys": "13757",
+   "program_girls": "13758",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Maryvale",
+   "teams": {
+    "boys": {
+     "varsity": "220968"
+    },
+    "girls": {
+     "varsity": "220970"
+    }
+   },
+   "venue": "Maryvale High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "mcclintock",
+   "lat": 33.3982295,
+   "lon": -111.9066165,
+   "mascot": "Chargers",
+   "program_boys": "2818",
+   "program_girls": "2819",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "McClintock",
+   "teams": {
+    "boys": {
+     "jv": "223772",
+     "varsity": "223770"
+    },
+    "girls": {
+     "jv": "223776",
+     "varsity": "223774"
+    }
+   },
+   "venue": "McClintock High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "mesa",
+   "lat": 33.3971274,
+   "lon": -111.7947047,
+   "mascot": "Jackrabbits",
+   "program_boys": "2079",
+   "program_girls": "2080",
+   "region": "East Valley",
+   "region_boys": "East Valley",
+   "region_girls": "East Valley",
+   "school": "Mesa",
+   "teams": {
+    "boys": {
+     "frso": "215606",
+     "jv": "215604",
+     "varsity": "215602"
+    },
+    "girls": {
+     "frso": "215612",
+     "jv": "215610",
+     "varsity": "215608"
+    }
+   },
+   "venue": "Mesa High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "mesquite",
+   "lat": 33.3417185,
+   "lon": -111.8276049,
+   "mascot": "Wildcats",
+   "program_boys": "384",
+   "program_girls": "429",
+   "region": "Desert Sky",
+   "region_boys": "Desert Sky",
+   "region_girls": "Desert Sky",
+   "school": "Mesquite",
+   "teams": {
+    "boys": {
+     "jv": "216638",
+     "varsity": "216636"
+    },
+    "girls": {
+     "varsity": "216640"
+    }
+   },
+   "venue": "Mesquite High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "metro tech",
+   "lat": 33.4825075,
+   "lon": -112.1021443,
+   "mascot": "Knights",
+   "program_boys": "8230",
+   "program_girls": "8231",
+   "region": "Central Valley",
+   "region_boys": "Central Valley",
+   "region_girls": "Central Valley",
+   "school": "Metro Tech",
+   "teams": {
+    "boys": {
+     "frso": "230372",
+     "jv": "230370",
+     "varsity": "230368"
+    },
+    "girls": {
+     "jv": "230376",
+     "varsity": "230374"
+    }
+   },
+   "venue": "Metro Tech High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "mica mountain",
+   "lat": null,
+   "lon": null,
+   "mascot": "Thunderbolts",
+   "program_boys": "12573",
+   "program_girls": "12574",
+   "region": "Kino",
+   "region_boys": "Kino",
+   "region_girls": "Kino",
+   "school": "Mica Mountain",
+   "teams": {
+    "boys": {
+     "jv": "227264",
+     "varsity": "227262"
+    },
+    "girls": {
+     "jv": "227268",
+     "varsity": "227266"
+    }
+   },
+   "venue": "Mica Mountain High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "millennium",
+   "lat": null,
+   "lon": null,
+   "mascot": "Tigers",
+   "program_boys": "390",
+   "program_girls": "435",
+   "region": "Central",
+   "region_boys": "Central",
+   "region_girls": "Central",
+   "school": "Millennium",
+   "teams": {
+    "boys": {
+     "jv": "230116",
+     "varsity": "230114"
+    },
+    "girls": {
+     "jv": "230120",
+     "varsity": "230118"
+    }
+   },
+   "venue": "Millennium High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "mingus union",
+   "lat": 34.7158439,
+   "lon": -112.0053081,
+   "mascot": "Marauders",
+   "program_boys": "411",
+   "program_girls": "456",
+   "region": "Grand Canyon",
+   "region_boys": "Grand Canyon",
+   "region_girls": "Grand Canyon",
+   "school": "Mingus Union",
+   "teams": {
+    "boys": {
+     "jv": "224298",
+     "varsity": "224296"
+    },
+    "girls": {
+     "jv": "224302",
+     "varsity": "224300"
+    }
+   },
+   "venue": "Mingus Union High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "mohave",
+   "lat": 35.0565484,
+   "lon": -114.5990755,
+   "mascot": "Thunderbirds",
+   "program_boys": "1676",
+   "program_girls": "1677",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Mohave",
+   "teams": {
+    "boys": {
+     "jv": "218720",
+     "varsity": "218718"
+    },
+    "girls": {
+     "jv": "218724",
+     "varsity": "218722"
+    }
+   },
+   "venue": "Anderson Auto Group Fieldhouse"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "mohave accelerated",
+   "lat": null,
+   "lon": null,
+   "mascot": "Patriots",
+   "program_boys": "4364",
+   "program_girls": "7173",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Mohave Accelerated",
+   "teams": {
+    "boys": {
+     "varsity": "215140"
+    },
+    "girls": {
+     "varsity": "215142"
+    }
+   },
+   "venue": "Mohave Accelerated Learning Center"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "moon valley",
+   "lat": 33.593848,
+   "lon": -112.1367777,
+   "mascot": "Rockets",
+   "program_boys": "2767",
+   "program_girls": "2768",
+   "region": "Black Canyon",
+   "region_boys": "Black Canyon",
+   "region_girls": "Black Canyon",
+   "school": "Moon Valley",
+   "teams": {
+    "boys": {
+     "jv": "224382",
+     "varsity": "224380"
+    },
+    "girls": {
+     "jv": "224386",
+     "varsity": "224384"
+    }
+   },
+   "venue": "Moon Valley High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "",
+   "key": "morenci",
+   "lat": 33.0396989,
+   "lon": -109.3215609,
+   "mascot": "Wildcats",
+   "program_boys": "9553",
+   "program_girls": null,
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "",
+   "school": "Morenci",
+   "teams": {
+    "boys": {
+     "varsity": "226488"
+    }
+   },
+   "venue": "Morenci Jr./Sr. High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "mountain pointe",
+   "lat": 33.325132,
+   "lon": -111.9917716,
+   "mascot": "Pride",
+   "program_boys": "1837",
+   "program_girls": "1838",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Mountain Pointe",
+   "teams": {
+    "boys": {
+     "jv": "235007",
+     "varsity": "220355"
+    },
+    "girls": {
+     "varsity": "220357"
+    }
+   },
+   "venue": "Mountain Pointe High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "mountain ridge",
+   "lat": 33.6915939,
+   "lon": -112.2055891,
+   "mascot": "Mountain Lions",
+   "program_boys": "3443",
+   "program_girls": "3444",
+   "region": "Desert Valley",
+   "region_boys": "Desert Valley",
+   "region_girls": "Desert Valley",
+   "school": "Mountain Ridge",
+   "teams": {
+    "boys": {
+     "jv": "219209",
+     "jv-2": "219211",
+     "varsity": "219207"
+    },
+    "girls": {
+     "jv": "219215",
+     "jv-2": "219217",
+     "varsity": "219213"
+    }
+   },
+   "venue": "Mountain Ridge High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "mountain view marana",
+   "lat": null,
+   "lon": null,
+   "mascot": "Mountain Lions",
+   "program_boys": "394",
+   "program_girls": "439",
+   "region": "Sonoran",
+   "region_boys": "Sonoran",
+   "region_girls": "Sonoran",
+   "school": "Mountain View (Marana)",
+   "teams": {
+    "boys": {
+     "jv": "215696",
+     "varsity": "215694"
+    },
+    "girls": {
+     "jv": "215700",
+     "varsity": "215698"
+    }
+   },
+   "venue": "Mountain View (Marana) High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "mountain view mesa",
+   "lat": null,
+   "lon": null,
+   "mascot": "Toros",
+   "program_boys": "1069",
+   "program_girls": "1070",
+   "region": "East Valley",
+   "region_boys": "East Valley",
+   "region_girls": "East Valley",
+   "school": "Mountain View (Mesa)",
+   "teams": {
+    "boys": {
+     "frso": "216532",
+     "jv": "216530",
+     "varsity": "216528"
+    },
+    "girls": {
+     "frso": "216538",
+     "jv": "216536",
+     "varsity": "216534"
+    }
+   },
+   "venue": "Mountain View (Mesa) High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "mountainside",
+   "lat": 33.7509843,
+   "lon": -112.5304846,
+   "mascot": "Wolves",
+   "program_boys": "13098",
+   "program_girls": "13099",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Mountainside",
+   "teams": {
+    "boys": {
+     "varsity": "220582"
+    },
+    "girls": {
+     "varsity": "220584"
+    }
+   },
+   "venue": "Mountainside High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "nfl yet",
+   "lat": null,
+   "lon": null,
+   "mascot": "Eagles",
+   "program_boys": "7056",
+   "program_girls": "7057",
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "Valley",
+   "school": "NFL Yet",
+   "teams": {
+    "boys": {
+     "jv": "222490",
+     "varsity": "222488"
+    },
+    "girls": {
+     "jv": "222492",
+     "varsity": "222494"
+    }
+   },
+   "venue": "NFL YET College Preparatory"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "nogales",
+   "lat": 31.3686892,
+   "lon": -110.9479753,
+   "mascot": "Apaches",
+   "program_boys": "404",
+   "program_girls": "449",
+   "region": "Southern",
+   "region_boys": "Southern",
+   "region_girls": "Southern",
+   "school": "Nogales",
+   "teams": {
+    "boys": {
+     "frso": "227024",
+     "jv": "227022",
+     "varsity": "227020"
+    },
+    "girls": {
+     "jv": "227028",
+     "varsity": "227026"
+    }
+   },
+   "venue": "Nogales High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "north",
+   "lat": 33.4776904,
+   "lon": -112.058019,
+   "mascot": "Mustangs",
+   "program_boys": "385",
+   "program_girls": "430",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "North",
+   "teams": {
+    "boys": {
+     "jv": "230438",
+     "varsity": "230436"
+    },
+    "girls": {
+     "jv": "230444",
+     "varsity": "230442"
+    }
+   },
+   "venue": "North High School"
+  },
+  {
+   "area_suggested": "North",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "north canyon",
+   "lat": 33.6567964,
+   "lon": -112.0446211,
+   "mascot": "Rattlers",
+   "program_boys": "386",
+   "program_girls": "431",
+   "region": "Skyline",
+   "region_boys": "Skyline",
+   "region_girls": "Skyline",
+   "school": "North Canyon",
+   "teams": {
+    "boys": {
+     "jv": "228804",
+     "varsity": "228802"
+    },
+    "girls": {
+     "jv": "228808",
+     "varsity": "228806"
+    }
+   },
+   "venue": "North Canyon High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "north phoenix",
+   "lat": null,
+   "lon": null,
+   "mascot": "Gladiators",
+   "program_boys": "7743",
+   "program_girls": "7744",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "North Phoenix Preparatory",
+   "teams": {
+    "boys": {
+     "varsity": "211874"
+    },
+    "girls": {
+     "varsity": "211876"
+    }
+   },
+   "venue": "North Phoenix Preparatory"
+  },
+  {
+   "area_suggested": "",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "northwest christian",
+   "lat": null,
+   "lon": null,
+   "mascot": "Crusaders",
+   "program_boys": "2530",
+   "program_girls": "2531",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Northwest Christian",
+   "teams": {
+    "boys": {
+     "jv": "223254",
+     "varsity": "223252"
+    },
+    "girls": {
+     "jv": "223258",
+     "jv-2": "234822",
+     "varsity": "223256"
+    }
+   },
+   "venue": "Northwest Christian High"
+  },
+  {
+   "area_suggested": "",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "notre dame",
+   "lat": null,
+   "lon": null,
+   "mascot": "Saints",
+   "program_boys": "2979",
+   "program_girls": "2980",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "Notre Dame Prep",
+   "teams": {
+    "boys": {
+     "jv": "222550",
+     "varsity": "222548"
+    },
+    "girls": {
+     "jv": "222554",
+     "varsity": "222552"
+    }
+   },
+   "venue": "Notre Dame Preparatory"
+  },
+  {
+   "area_suggested": "",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "odyssey institute",
+   "lat": null,
+   "lon": null,
+   "mascot": "Minotaurs",
+   "program_boys": "6937",
+   "program_girls": "6938",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Odyssey Institute",
+   "teams": {
+    "boys": {
+     "jv": "223868",
+     "varsity": "223866"
+    },
+    "girls": {
+     "varsity": "223870"
+    }
+   },
+   "venue": "The Odyssey for Advanced and International Studies"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "palo verde magnet",
+   "lat": 32.2047662,
+   "lon": -110.8465519,
+   "mascot": "Titans",
+   "program_boys": "2623",
+   "program_girls": "2624",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Palo Verde Magnet",
+   "teams": {
+    "boys": {
+     "jv": "217896",
+     "varsity": "217894"
+    },
+    "girls": {
+     "varsity": "217898"
+    }
+   },
+   "venue": "Palo Verde High Magnet School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "paradise honors",
+   "lat": 33.6009163,
+   "lon": -112.4347422,
+   "mascot": "Panthers",
+   "program_boys": "4097",
+   "program_girls": "4098",
+   "region": "Skyline",
+   "region_boys": "Skyline",
+   "region_girls": "Skyline",
+   "school": "Paradise Honors",
+   "teams": {
+    "boys": {
+     "jv": "213102",
+     "varsity": "213100"
+    },
+    "girls": {
+     "jv": "213106",
+     "varsity": "213104"
+    }
+   },
+   "venue": "Paradise Honors High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "paradise valley",
+   "lat": 33.6428362,
+   "lon": -111.9984155,
+   "mascot": "Trojans",
+   "program_boys": "1229",
+   "program_girls": "1230",
+   "region": "Desert West",
+   "region_boys": "Desert West",
+   "region_girls": "Desert West",
+   "school": "Paradise Valley",
+   "teams": {
+    "boys": {
+     "frso": "226720",
+     "jv": "226718",
+     "varsity": "226716"
+    },
+    "girls": {
+     "jv": "226724",
+     "varsity": "226722"
+    }
+   },
+   "venue": "Paradise Valley High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "parker",
+   "lat": 34.1423733,
+   "lon": -114.2884314,
+   "mascot": "Broncs",
+   "program_boys": "416",
+   "program_girls": "7767",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Parker",
+   "teams": {
+    "boys": {
+     "jv": "224896",
+     "varsity": "224894"
+    },
+    "girls": {
+     "varsity": "224898"
+    }
+   },
+   "venue": "Parker High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "peoria",
+   "lat": 33.5857965,
+   "lon": -112.2399497,
+   "mascot": "Panthers",
+   "program_boys": "405",
+   "program_girls": "450",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Peoria",
+   "teams": {
+    "boys": {
+     "jv": "219367",
+     "varsity": "219365"
+    },
+    "girls": {
+     "jv": "219371",
+     "varsity": "219369"
+    }
+   },
+   "venue": "Peoria High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "perry",
+   "lat": 33.2617072,
+   "lon": -111.7482077,
+   "mascot": "Pumas",
+   "program_boys": "2164",
+   "program_girls": "2165",
+   "region": "Premier",
+   "region_boys": "Premier",
+   "region_girls": "Premier",
+   "school": "Perry",
+   "teams": {
+    "boys": {
+     "jv": "212858",
+     "jv-2": "212860",
+     "varsity": "212856"
+    },
+    "girls": {
+     "jv": "212864",
+     "jv-2": "212866",
+     "varsity": "212862"
+    }
+   },
+   "venue": "Perry High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "phoenix christian",
+   "lat": 33.4943662,
+   "lon": -112.0971451,
+   "mascot": "Cougars",
+   "program_boys": "1627",
+   "program_girls": "4380",
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "Valley",
+   "school": "Phoenix Christian",
+   "teams": {
+    "boys": {
+     "varsity": "228918"
+    },
+    "girls": {
+     "varsity": "228920"
+    }
+   },
+   "venue": "Phoenix Christian Jr./Sr. High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "phoenix country day",
+   "lat": 33.5150512,
+   "lon": -111.997523,
+   "mascot": "Eagles",
+   "program_boys": "10250",
+   "program_girls": "2516",
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "Valley",
+   "school": "Phoenix Country Day",
+   "teams": {
+    "boys": {
+     "varsity": "218839"
+    },
+    "girls": {
+     "varsity": "218841"
+    }
+   },
+   "venue": "Phoenix Country Day School"
+  },
+  {
+   "area_suggested": "North",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "pinnacle",
+   "lat": 33.679626,
+   "lon": -112.007878,
+   "mascot": "Pioneers",
+   "program_boys": "3560",
+   "program_girls": "3561",
+   "region": "Desert Valley",
+   "region_boys": "Desert Valley",
+   "region_girls": "Desert Valley",
+   "school": "Pinnacle",
+   "teams": {
+    "boys": {
+     "jv": "214096",
+     "jv-2": "214098",
+     "varsity": "214094"
+    },
+    "girls": {
+     "jv": "214102",
+     "varsity": "214100"
+    }
+   },
+   "venue": "Pinnacle High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "poston butte",
+   "lat": 33.1741347,
+   "lon": -111.5427772,
+   "mascot": "Broncos",
+   "program_boys": "1209",
+   "program_girls": "1210",
+   "region": "East Sky",
+   "region_boys": "East Sky",
+   "region_girls": "East Sky",
+   "school": "Poston Butte",
+   "teams": {
+    "boys": {
+     "jv": "220275",
+     "varsity": "220273"
+    },
+    "girls": {
+     "jv": "220279",
+     "varsity": "220277"
+    }
+   },
+   "venue": "Poston Butte High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "prescott",
+   "lat": 34.5624254,
+   "lon": -112.4780931,
+   "mascot": "Badgers",
+   "program_boys": "1645",
+   "program_girls": "1646",
+   "region": "Grand Canyon",
+   "region_boys": "Grand Canyon",
+   "region_girls": "Grand Canyon",
+   "school": "Prescott",
+   "teams": {
+    "boys": {
+     "jv": "215898",
+     "varsity": "215896"
+    },
+    "girls": {
+     "jv": "215902",
+     "varsity": "215900"
+    }
+   },
+   "venue": "Prescott High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "pueblo",
+   "lat": 32.1835946,
+   "lon": -110.9797779,
+   "mascot": "Warriors",
+   "program_boys": "397",
+   "program_girls": "442",
+   "region": "Southern",
+   "region_boys": "Southern",
+   "region_girls": "Southern",
+   "school": "Pueblo",
+   "teams": {
+    "boys": {
+     "jv": "215094",
+     "varsity": "215092"
+    },
+    "girls": {
+     "varsity": "215096"
+    }
+   },
+   "venue": "Pueblo High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "pusch ridge",
+   "lat": null,
+   "lon": null,
+   "mascot": "Lions",
+   "program_boys": "1545",
+   "program_girls": "1546",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Pusch Ridge",
+   "teams": {
+    "boys": {
+     "jv": "215278",
+     "varsity": "215276"
+    },
+    "girls": {
+     "jv": "215282",
+     "varsity": "215280"
+    }
+   },
+   "venue": "Pusch Ridge Christian Academy"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "queen creek",
+   "lat": 33.2443111,
+   "lon": -111.605689,
+   "mascot": "Bulldogs",
+   "program_boys": "4046",
+   "program_girls": "4047",
+   "region": "Fiesta",
+   "region_boys": "Fiesta",
+   "region_girls": "Fiesta",
+   "school": "Queen Creek",
+   "teams": {
+    "boys": {
+     "jv": "220728",
+     "varsity": "220726"
+    },
+    "girls": {
+     "jv": "220732",
+     "varsity": "220730"
+    }
+   },
+   "venue": "Queen Creek High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "rancho solano",
+   "lat": 33.6272271,
+   "lon": -111.959196,
+   "mascot": "Mustangs",
+   "program_boys": "13393",
+   "program_girls": "10287",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Rancho Solano Prep",
+   "teams": {
+    "boys": {
+     "varsity": "213328"
+    },
+    "girls": {
+     "varsity": "213330"
+    }
+   },
+   "venue": "Rancho Solano Preparatory School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "raymond s kellis",
+   "lat": 33.5471561,
+   "lon": -112.2528384,
+   "mascot": "Cougars",
+   "program_boys": "398",
+   "program_girls": "443",
+   "region": "Northwest Valley",
+   "region_boys": "Northwest Valley",
+   "region_girls": "Northwest Valley",
+   "school": "Raymond S. Kellis",
+   "teams": {
+    "boys": {
+     "jv": "224048",
+     "varsity": "224046"
+    },
+    "girls": {
+     "jv": "224052",
+     "varsity": "224050"
+    }
+   },
+   "venue": "Raymond S. Kellis High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "red mountain",
+   "lat": 33.4333753,
+   "lon": -111.6751887,
+   "mascot": "Mountain Lions",
+   "program_boys": "2585",
+   "program_girls": "2586",
+   "region": "East Valley",
+   "region_boys": "East Valley",
+   "region_girls": "East Valley",
+   "school": "Red Mountain",
+   "teams": {
+    "boys": {
+     "jv": "213438",
+     "jv-2": "213440",
+     "varsity": "213436"
+    },
+    "girls": {
+     "jv": "213444",
+     "jv-2": "213446",
+     "varsity": "213442"
+    }
+   },
+   "venue": "Red Mountain High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "rincon university",
+   "lat": 32.2272933,
+   "lon": -110.8902398,
+   "mascot": "Rangers",
+   "program_boys": "392",
+   "program_girls": "437",
+   "region": "Sonoran",
+   "region_boys": "Sonoran",
+   "region_girls": "Sonoran",
+   "school": "Rincon/University",
+   "teams": {
+    "boys": {
+     "jv": "229980",
+     "varsity": "229978"
+    },
+    "girls": {
+     "jv": "229984",
+     "varsity": "229982"
+    }
+   },
+   "venue": "Rincon High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "rio rico",
+   "lat": null,
+   "lon": null,
+   "mascot": "Hawks",
+   "program_boys": "412",
+   "program_girls": "457",
+   "region": "Kino",
+   "region_boys": "Kino",
+   "region_girls": "Kino",
+   "school": "Rio Rico",
+   "teams": {
+    "boys": {
+     "jv": "212426",
+     "varsity": "212424"
+    },
+    "girls": {
+     "jv": "212430",
+     "varsity": "212428"
+    }
+   },
+   "venue": "Rio Rico High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "river valley",
+   "lat": 35.0565484,
+   "lon": -114.5990755,
+   "mascot": "Dust Devils",
+   "program_boys": "4074",
+   "program_girls": "7658",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "River Valley",
+   "teams": {
+    "boys": {
+     "varsity": "220411"
+    },
+    "girls": {
+     "varsity": "220413"
+    }
+   },
+   "venue": "Anderson Auto Group Fieldhouse"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "sabino",
+   "lat": 32.2979786,
+   "lon": -110.7872553,
+   "mascot": "Sabercats",
+   "program_boys": "2644",
+   "program_girls": "2645",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Sabino",
+   "teams": {
+    "boys": {
+     "jv": "224846",
+     "varsity": "224844"
+    },
+    "girls": {
+     "jv": "224850",
+     "varsity": "224848"
+    }
+   },
+   "venue": "Sabino High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "safford",
+   "lat": 32.8288678,
+   "lon": -109.7288354,
+   "mascot": "Bulldogs",
+   "program_boys": "1286",
+   "program_girls": "1287",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Safford",
+   "teams": {
+    "boys": {
+     "jv": "227704",
+     "varsity": "227702"
+    },
+    "girls": {
+     "jv": "227708",
+     "varsity": "227706"
+    }
+   },
+   "venue": "Safford High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "saguaro",
+   "lat": 33.5276111,
+   "lon": -111.9065688,
+   "mascot": "Sabercats",
+   "program_boys": "1712",
+   "program_girls": "1713",
+   "region": "Desert Sky",
+   "region_boys": "Desert Sky",
+   "region_girls": "Desert Sky",
+   "school": "Saguaro",
+   "teams": {
+    "boys": {
+     "jv": "211482",
+     "varsity": "211480"
+    },
+    "girls": {
+     "jv": "211486",
+     "varsity": "211484"
+    }
+   },
+   "venue": "Saguaro High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "sahuarita",
+   "lat": 31.9591209,
+   "lon": -110.9729233,
+   "mascot": "Mustangs",
+   "program_boys": "409",
+   "program_girls": "454",
+   "region": "Kino",
+   "region_boys": "Kino",
+   "region_girls": "Kino",
+   "school": "Sahuarita",
+   "teams": {
+    "boys": {
+     "jv": "213024",
+     "varsity": "213022"
+    },
+    "girls": {
+     "jv": "213028",
+     "varsity": "213026"
+    }
+   },
+   "venue": "Sahuarita High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "sahuaro",
+   "lat": 32.2262558,
+   "lon": -110.8089955,
+   "mascot": "Cougars",
+   "program_boys": "400",
+   "program_girls": "445",
+   "region": "Kino",
+   "region_boys": "Kino",
+   "region_girls": "Kino",
+   "school": "Sahuaro",
+   "teams": {
+    "boys": {
+     "jv": "216058",
+     "varsity": "216056"
+    },
+    "girls": {
+     "jv": "216062",
+     "varsity": "216060"
+    }
+   },
+   "venue": "Sahuaro High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "salpointe catholic",
+   "lat": 32.2553163,
+   "lon": -110.9503663,
+   "mascot": "Lancers",
+   "program_boys": "3696",
+   "program_girls": "3697",
+   "region": "Sonoran",
+   "region_boys": "Sonoran",
+   "region_girls": "Sonoran",
+   "school": "Salpointe Catholic",
+   "teams": {
+    "boys": {
+     "frso": "212073",
+     "jv": "212071",
+     "varsity": "212069"
+    },
+    "girls": {
+     "jv": "212077",
+     "varsity": "212075"
+    }
+   },
+   "venue": "Salpointe Catholic High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "san luis",
+   "lat": 32.5022247,
+   "lon": -114.7624448,
+   "mascot": "Sidewinders",
+   "program_boys": "381",
+   "program_girls": "426",
+   "region": "Desert Southwest",
+   "region_boys": "Desert Southwest",
+   "region_girls": "Desert Southwest",
+   "school": "San Luis",
+   "teams": {
+    "boys": {
+     "frso": "229126",
+     "jv": "229124",
+     "varsity": "229122"
+    },
+    "girls": {
+     "frso": "229132",
+     "jv": "229130",
+     "varsity": "229128"
+    }
+   },
+   "venue": "San Luis High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "san miguel",
+   "lat": null,
+   "lon": null,
+   "mascot": "Vipers",
+   "program_boys": "6323",
+   "program_girls": "7365",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "San Miguel",
+   "teams": {
+    "boys": {
+     "varsity": "211944"
+    },
+    "girls": {
+     "varsity": "211946"
+    }
+   },
+   "venue": "Kino Sports Complex South"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "san tan charter",
+   "lat": 33.3563791,
+   "lon": -111.6897196,
+   "mascot": "Roadrunners",
+   "program_boys": "12592",
+   "program_girls": "12593",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "San Tan Charter",
+   "teams": {
+    "boys": {
+     "jv": "234783",
+     "varsity": "217698"
+    },
+    "girls": {
+     "varsity": "217700"
+    }
+   },
+   "venue": "San Tan Charter High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "san tan foothills",
+   "lat": 33.1381587,
+   "lon": -111.5817341,
+   "mascot": "Sabercats",
+   "program_boys": "2320",
+   "program_girls": "2321",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "San Tan Foothills",
+   "teams": {
+    "boys": {
+     "jv": "226796",
+     "varsity": "226794"
+    },
+    "girls": {
+     "jv": "226800",
+     "varsity": "226798"
+    }
+   },
+   "venue": "San Tan Foothills High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "sandra day o connor",
+   "lat": null,
+   "lon": null,
+   "mascot": "Eagles",
+   "program_boys": "2688",
+   "program_girls": "2689",
+   "region": "Desert Valley",
+   "region_boys": "Desert Valley",
+   "region_girls": "Desert Valley",
+   "school": "Sandra Day O'Connor",
+   "teams": {
+    "boys": {
+     "jv": "225868",
+     "varsity": "225866"
+    },
+    "girls": {
+     "jv": "225872",
+     "varsity": "225870"
+    }
+   },
+   "venue": "Sandra Day O'Connor High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "santa cruz valley",
+   "lat": 32.7588867,
+   "lon": -111.5570332,
+   "mascot": "Dust Devil",
+   "program_boys": "3784",
+   "program_girls": "3785",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Santa Cruz Valley",
+   "teams": {
+    "boys": {
+     "varsity": "229528"
+    },
+    "girls": {
+     "varsity": "229530"
+    }
+   },
+   "venue": "Santa Cruz Valley Union High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "santa rita",
+   "lat": 32.1741151,
+   "lon": -110.8216483,
+   "mascot": "Eagles",
+   "program_boys": "2937",
+   "program_girls": "2938",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Santa Rita",
+   "teams": {
+    "boys": {
+     "varsity": "214544"
+    },
+    "girls": {
+     "varsity": "233609"
+    }
+   },
+   "venue": "Santa Rita High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "scottsdale christian",
+   "lat": 33.6173484,
+   "lon": -111.9790442,
+   "mascot": "Eagles",
+   "program_boys": "2340",
+   "program_girls": "2341",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Scottsdale Christian",
+   "teams": {
+    "boys": {
+     "jv": "227524",
+     "varsity": "227522"
+    },
+    "girls": {
+     "varsity": "227526"
+    }
+   },
+   "venue": "Scottsdale Christian Academy"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "scottsdale",
+   "lat": 33.6343413,
+   "lon": -111.8817948,
+   "mascot": "Spartans",
+   "program_boys": "3726",
+   "program_girls": "3727",
+   "region": "East",
+   "region_boys": "East",
+   "region_girls": "East",
+   "school": "Scottsdale Prep",
+   "teams": {
+    "boys": {
+     "varsity": "213370"
+    },
+    "girls": {
+     "varsity": "213372"
+    }
+   },
+   "venue": "Scottsdale Preparatory Academy"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "sedona red rock",
+   "lat": 34.8584363,
+   "lon": -111.7627862,
+   "mascot": "Scorpions",
+   "program_boys": "417",
+   "program_girls": "460",
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "Valley",
+   "school": "Sedona Red Rock",
+   "teams": {
+    "boys": {
+     "varsity": "229284"
+    },
+    "girls": {
+     "varsity": "229286"
+    }
+   },
+   "venue": "Sedona Red Rock"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "seton catholic",
+   "lat": 33.3237573,
+   "lon": -111.8774795,
+   "mascot": "Sentinels",
+   "program_boys": "2958",
+   "program_girls": "2959",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Seton Catholic Prep",
+   "teams": {
+    "boys": {
+     "varsity": "217540"
+    },
+    "girls": {
+     "varsity": "217542"
+    }
+   },
+   "venue": "Seton Catholic High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "shadow mountain",
+   "lat": 33.5842361,
+   "lon": -112.0196504,
+   "mascot": "Matadors",
+   "program_boys": "401",
+   "program_girls": "446",
+   "region": "Skyline",
+   "region_boys": "Skyline",
+   "region_girls": "Skyline",
+   "school": "Shadow Mountain",
+   "teams": {
+    "boys": {
+     "jv": "223336",
+     "varsity": "223334"
+    },
+    "girls": {
+     "jv": "223340",
+     "varsity": "223338"
+    }
+   },
+   "venue": "Shadow Mountain High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "shadow ridge",
+   "lat": 33.5832862,
+   "lon": -112.4589897,
+   "mascot": "Stallions",
+   "program_boys": "1809",
+   "program_girls": "1810",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Shadow Ridge",
+   "teams": {
+    "boys": {
+     "frso": "219585",
+     "jv": "219583",
+     "varsity": "219581"
+    },
+    "girls": {
+     "jv": "219589",
+     "varsity": "219587"
+    }
+   },
+   "venue": "Shadow Ridge High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "sierra linda",
+   "lat": 33.4181342,
+   "lon": -112.2068681,
+   "mascot": "Bulldogs",
+   "program_boys": "3421",
+   "program_girls": "3422",
+   "region": "Central Valley",
+   "region_boys": "Central Valley",
+   "region_girls": "Central Valley",
+   "school": "Sierra Linda",
+   "teams": {
+    "boys": {
+     "frso": "215976",
+     "jv": "215974",
+     "varsity": "215972"
+    },
+    "girls": {
+     "frso": "215982",
+     "jv": "215980",
+     "varsity": "215978"
+    }
+   },
+   "venue": "Sierra Linda High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "skyline",
+   "lat": 33.398839,
+   "lon": -111.6123252,
+   "mascot": "Coyotes",
+   "program_boys": "2101",
+   "program_girls": "2102",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Skyline",
+   "teams": {
+    "boys": {
+     "jv": "221368",
+     "varsity": "221366"
+    },
+    "girls": {
+     "jv": "221372",
+     "varsity": "221370"
+    }
+   },
+   "venue": "Skyline High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "somerton",
+   "lat": 32.6012465,
+   "lon": -114.7205522,
+   "mascot": "Toros",
+   "program_boys": "13779",
+   "program_girls": "13780",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Somerton",
+   "teams": {
+    "boys": {
+     "jv": "221452",
+     "varsity": "221454"
+    },
+    "girls": {
+     "jv": "221456",
+     "varsity": "221458"
+    }
+   },
+   "venue": "Somerton High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "south mountain",
+   "lat": 33.3968479,
+   "lon": -112.0613477,
+   "mascot": "Jaguars",
+   "program_boys": "2142",
+   "program_girls": "2143",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "South Mountain",
+   "teams": {
+    "boys": {
+     "jv": "214742",
+     "varsity": "214740"
+    },
+    "girls": {
+     "frso": "214748",
+     "jv": "214746",
+     "varsity": "214744"
+    }
+   },
+   "venue": "South Mountain High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "st augustine",
+   "lat": 32.2032442,
+   "lon": -110.8041126,
+   "mascot": "Wolves",
+   "program_boys": "5445",
+   "program_girls": "8016",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "St. Augustine",
+   "teams": {
+    "boys": {
+     "varsity": "230835"
+    },
+    "girls": {
+     "varsity": "233607"
+    }
+   },
+   "venue": "St. Augustine Catholic High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "st john paul ii",
+   "lat": 33.4819249,
+   "lon": -112.3559995,
+   "mascot": "Lions",
+   "program_boys": "12295",
+   "program_girls": "12296",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "St. John Paul II",
+   "teams": {
+    "boys": {
+     "jv": "212232",
+     "varsity": "212230"
+    },
+    "girls": {
+     "jv": "212236",
+     "varsity": "212234"
+    }
+   },
+   "venue": "St. John Paul II Catholic High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "st mary s",
+   "lat": 33.473527,
+   "lon": -112.0673779,
+   "mascot": "Knights",
+   "program_boys": "2014",
+   "program_girls": "2015",
+   "region": "Desert Sky",
+   "region_boys": "Desert Sky",
+   "region_girls": "Desert Sky",
+   "school": "St. Mary's",
+   "teams": {
+    "boys": {
+     "varsity": "221094"
+    },
+    "girls": {
+     "varsity": "221096"
+    }
+   },
+   "venue": "Monterey Park"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "sunnyside",
+   "lat": 32.143406,
+   "lon": -110.9457575,
+   "mascot": "Blue Devils",
+   "program_boys": "387",
+   "program_girls": "432",
+   "region": "Fiesta",
+   "region_boys": "Fiesta",
+   "region_girls": "Fiesta",
+   "school": "Sunnyside",
+   "teams": {
+    "boys": {
+     "frso": "211758",
+     "jv": "211756",
+     "varsity": "211754"
+    },
+    "girls": {
+     "jv": "211762",
+     "varsity": "211760"
+    }
+   },
+   "venue": "Sunnyside High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "sunnyslope",
+   "lat": 33.5657279,
+   "lon": -112.0761824,
+   "mascot": "Vikings",
+   "program_boys": "3157",
+   "program_girls": "3158",
+   "region": "Central",
+   "region_boys": "Central",
+   "region_girls": "Central",
+   "school": "Sunnyslope",
+   "teams": {
+    "boys": {
+     "frso": "217974",
+     "jv": "217972",
+     "varsity": "217970"
+    },
+    "girls": {
+     "frso": "217980",
+     "jv": "217978",
+     "varsity": "217976"
+    }
+   },
+   "venue": "Sunnyslope High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "sunrise mountain",
+   "lat": 33.6760935,
+   "lon": -112.2403262,
+   "mascot": "Mustangs",
+   "program_boys": "1327",
+   "program_girls": "1328",
+   "region": "Northwest Valley",
+   "region_boys": "Northwest Valley",
+   "region_girls": "Northwest Valley",
+   "school": "Sunrise Mountain",
+   "teams": {
+    "boys": {
+     "jv": "213984",
+     "varsity": "213982"
+    },
+    "girls": {
+     "jv": "213988",
+     "varsity": "213986"
+    }
+   },
+   "venue": "Sunrise Mountain High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "tanque verde",
+   "lat": 32.285016,
+   "lon": -110.7573025,
+   "mascot": "Hawks",
+   "program_boys": "418",
+   "program_girls": "461",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Tanque Verde",
+   "teams": {
+    "boys": {
+     "jv": "228396",
+     "varsity": "228394"
+    },
+    "girls": {
+     "jv": "228400",
+     "varsity": "228398"
+    }
+   },
+   "venue": "Tanque Verde High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "tempe",
+   "lat": 33.4089173,
+   "lon": -111.9417254,
+   "mascot": "Buffaloes",
+   "program_boys": "1465",
+   "program_girls": "1466",
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "Valley",
+   "school": "Tempe",
+   "teams": {
+    "boys": {
+     "varsity": "217742"
+    },
+    "girls": {
+     "varsity": "217744"
+    }
+   },
+   "venue": "Tempe High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "thatcher",
+   "lat": 32.8411288,
+   "lon": -109.7536145,
+   "mascot": "Eagles",
+   "program_boys": "3174",
+   "program_girls": "4323",
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "South",
+   "school": "Thatcher",
+   "teams": {
+    "boys": {
+     "jv": "218778",
+     "varsity": "218776"
+    },
+    "girls": {
+     "jv": "218782",
+     "varsity": "218780"
+    }
+   },
+   "venue": "EAC Mickelson Field"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "",
+   "key": "gregory",
+   "lat": 32.2659209,
+   "lon": -110.877483,
+   "mascot": "Hawks",
+   "program_boys": "7786",
+   "program_girls": null,
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "",
+   "school": "The Gregory School",
+   "teams": {
+    "boys": {
+     "varsity": "229370"
+    }
+   },
+   "venue": "The Gregory School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "thunderbird",
+   "lat": 33.6129668,
+   "lon": -112.0970122,
+   "mascot": "Titans",
+   "program_boys": "3513",
+   "program_girls": "3514",
+   "region": "Skyline",
+   "region_boys": "Skyline",
+   "region_girls": "Skyline",
+   "school": "Thunderbird",
+   "teams": {
+    "boys": {
+     "jv": "218084",
+     "varsity": "218082"
+    },
+    "girls": {
+     "jv": "218088",
+     "varsity": "218086"
+    }
+   },
+   "venue": "Thunderbird High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "tolleson union",
+   "lat": 33.4482161,
+   "lon": -112.2655103,
+   "mascot": "Wolverines",
+   "program_boys": "3347",
+   "program_girls": "3348",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Tolleson Union",
+   "teams": {
+    "boys": {
+     "frso": "213192",
+     "jv": "213190",
+     "varsity": "213188"
+    },
+    "girls": {
+     "jv": "213196",
+     "varsity": "213194"
+    }
+   },
+   "venue": "Tolleson High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "",
+   "key": "tombstone",
+   "lat": 31.7276716,
+   "lon": -110.0699741,
+   "mascot": "Yellow Jackets",
+   "program_boys": "11330",
+   "program_girls": null,
+   "region": "South",
+   "region_boys": "South",
+   "region_girls": "",
+   "school": "Tombstone",
+   "teams": {
+    "boys": {
+     "varsity": "229316"
+    }
+   },
+   "venue": "Tombstone High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "tonopah valley",
+   "lat": 33.491344,
+   "lon": -112.8731146,
+   "mascot": "The Phoenix",
+   "program_boys": "7246",
+   "program_girls": "10193",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Tonopah Valley",
+   "teams": {
+    "boys": {
+     "varsity": "218452"
+    },
+    "girls": {
+     "varsity": "218454"
+    }
+   },
+   "venue": "Tonopah Valley High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "trevor g browne",
+   "lat": null,
+   "lon": null,
+   "mascot": "Bruins",
+   "program_boys": "379",
+   "program_girls": "424",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Trevor G. Browne",
+   "teams": {
+    "boys": {
+     "frso": "221164",
+     "jv": "221162",
+     "varsity": "221160"
+    },
+    "girls": {
+     "frso": "221168",
+     "jv": "221170",
+     "varsity": "221166"
+    }
+   },
+   "venue": "Trevor G. Browne High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "trivium",
+   "lat": null,
+   "lon": null,
+   "mascot": "Crimson Knights",
+   "program_boys": "7792",
+   "program_girls": "7678",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Trivium Prep",
+   "teams": {
+    "boys": {
+     "jv": "233587",
+     "varsity": "212010"
+    },
+    "girls": {
+     "varsity": "212012"
+    }
+   },
+   "venue": "Trivium Preparatory Academy"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "tucson",
+   "lat": 32.2264391,
+   "lon": -110.9618508,
+   "mascot": "Badgers",
+   "program_boys": "378",
+   "program_girls": "423",
+   "region": "East Valley",
+   "region_boys": "East Valley",
+   "region_girls": "East Valley",
+   "school": "Tucson",
+   "teams": {
+    "boys": {
+     "jv": "225698",
+     "varsity": "225696"
+    },
+    "girls": {
+     "jv": "225702",
+     "varsity": "225700"
+    }
+   },
+   "venue": "Tucson High Magnet School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "valley christian",
+   "lat": 33.3131899,
+   "lon": -111.9604851,
+   "mascot": "Trojans",
+   "program_boys": "1099",
+   "program_girls": "1100",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Valley Christian",
+   "teams": {
+    "boys": {
+     "jv": "213825",
+     "varsity": "213822"
+    },
+    "girls": {
+     "varsity": "213830"
+    }
+   },
+   "venue": "Valley Christian High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "valley vista",
+   "lat": 33.6260136,
+   "lon": -112.3880431,
+   "mascot": "Monsoon",
+   "program_boys": "1508",
+   "program_girls": "1509",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Valley Vista",
+   "teams": {
+    "boys": {
+     "jv": "224646",
+     "varsity": "224644"
+    },
+    "girls": {
+     "jv": "224650",
+     "varsity": "224648"
+    }
+   },
+   "venue": "Valley Vista High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "veritas",
+   "lat": 33.4843756,
+   "lon": -111.9630908,
+   "mascot": "Falcons",
+   "program_boys": "2749",
+   "program_girls": "2750",
+   "region": "Valley",
+   "region_boys": "Valley",
+   "region_girls": "Valley",
+   "school": "Veritas Prep",
+   "teams": {
+    "boys": {
+     "varsity": "226336"
+    },
+    "girls": {
+     "varsity": "226338"
+    }
+   },
+   "venue": "Veritas Preparatory Academy"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "verrado",
+   "lat": 33.4955909,
+   "lon": -112.4930566,
+   "mascot": "Vipers",
+   "program_boys": "3613",
+   "program_girls": "3614",
+   "region": "Desert West",
+   "region_boys": "Desert West",
+   "region_girls": "Desert West",
+   "school": "Verrado",
+   "teams": {
+    "boys": {
+     "jv": "219043",
+     "varsity": "219041"
+    },
+    "girls": {
+     "jv": "219047",
+     "varsity": "219045"
+    }
+   },
+   "venue": "Verrado High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "vista grande",
+   "lat": 32.8917466,
+   "lon": -111.7118544,
+   "mascot": "Spartans",
+   "program_boys": "1248",
+   "program_girls": "1249",
+   "region": "Southern",
+   "region_boys": "Southern",
+   "region_girls": "Southern",
+   "school": "Vista Grande",
+   "teams": {
+    "boys": {
+     "jv": "212952",
+     "varsity": "212950"
+    },
+    "girls": {
+     "varsity": "212954"
+    }
+   },
+   "venue": "Vista Grande High School"
+  },
+  {
+   "area_suggested": "Tucson",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "walden grove",
+   "lat": 31.9700934,
+   "lon": -110.9336567,
+   "mascot": "Red Wolves",
+   "program_boys": "3919",
+   "program_girls": "3920",
+   "region": "Kino",
+   "region_boys": "Kino",
+   "region_girls": "Kino",
+   "school": "Walden Grove",
+   "teams": {
+    "boys": {
+     "jv": "212762",
+     "varsity": "212760"
+    },
+    "girls": {
+     "jv": "212766",
+     "varsity": "212764"
+    }
+   },
+   "venue": "Walden Grove High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
+   "key": "washington",
+   "lat": 33.5367339,
+   "lon": -112.1060942,
+   "mascot": "Rams",
+   "program_boys": "1751",
+   "program_girls": "1752",
+   "region": "Skyline",
+   "region_boys": "Skyline",
+   "region_girls": "Skyline",
+   "school": "Washington",
+   "teams": {
+    "boys": {
+     "frso": "216880",
+     "jv": "216878",
+     "varsity": "216876"
+    },
+    "girls": {
+     "jv": "216884",
+     "varsity": "216882"
+    }
+   },
+   "venue": "Washington High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "west point",
+   "lat": 33.4734104,
+   "lon": -112.3109824,
+   "mascot": "Dragons",
+   "program_boys": "12221",
+   "program_girls": "12222",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "West Point",
+   "teams": {
+    "boys": {
+     "frso": "217336",
+     "jv": "217334",
+     "varsity": "217332"
+    },
+    "girls": {
+     "frso": "217342",
+     "jv": "217340",
+     "varsity": "217338"
+    }
+   },
+   "venue": "West Point High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "westview",
+   "lat": 33.4909202,
+   "lon": -112.2927171,
+   "mascot": "Knights",
+   "program_boys": "3367",
+   "program_girls": "3368",
+   "region": "Desert West",
+   "region_boys": "Desert West",
+   "region_girls": "Desert West",
+   "school": "Westview",
+   "teams": {
+    "boys": {
+     "jv": "215366",
+     "varsity": "215364"
+    },
+    "girls": {
+     "jv": "215370",
+     "varsity": "215368"
+    }
+   },
+   "venue": "Westview High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "westwood",
+   "lat": 33.4280229,
+   "lon": -111.8491977,
+   "mascot": "Warriors",
+   "program_boys": "2123",
+   "program_girls": "2124",
+   "region": "East Valley",
+   "region_boys": "East Valley",
+   "region_girls": "East Valley",
+   "school": "Westwood",
+   "teams": {
+    "boys": {
+     "jv": "222922",
+     "varsity": "222920"
+    },
+    "girls": {
+     "jv": "222926",
+     "varsity": "222924"
+    }
+   },
+   "venue": "Westwood High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "wickenburg",
+   "lat": 33.9544172,
+   "lon": -112.7798277,
+   "mascot": "Wranglers",
+   "program_boys": "415",
+   "program_girls": "8024",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Wickenburg",
+   "teams": {
+    "boys": {
+     "varsity": "213276"
+    },
+    "girls": {
+     "varsity": "213278"
+    }
+   },
+   "venue": "Wickenburg High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "williams field",
+   "lat": 33.3131515,
+   "lon": -111.7232807,
+   "mascot": "Black Hawks",
+   "program_boys": "3137",
+   "program_girls": "3138",
+   "region": "Fiesta",
+   "region_boys": "Fiesta",
+   "region_girls": "Fiesta",
+   "school": "Williams Field",
+   "teams": {
+    "boys": {
+     "jv": "223424",
+     "varsity": "223422"
+    },
+    "girls": {
+     "jv": "223428",
+     "jv-2": "223430",
+     "varsity": "223426"
+    }
+   },
+   "venue": "Williams Field High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "5A",
+   "class_boys": "5A",
+   "class_girls": "5A",
+   "key": "willow canyon",
+   "lat": 33.6329609,
+   "lon": -112.4442557,
+   "mascot": "Wildcats",
+   "program_boys": "1527",
+   "program_girls": "1528",
+   "region": "Northwest Valley",
+   "region_boys": "Northwest Valley",
+   "region_girls": "Northwest Valley",
+   "school": "Willow Canyon",
+   "teams": {
+    "boys": {
+     "frso": "215798",
+     "jv": "215796",
+     "varsity": "215794"
+    },
+    "girls": {
+     "jv": "215802",
+     "varsity": "215800"
+    }
+   },
+   "venue": "Willow Canyon High School"
+  },
+  {
+   "area_suggested": "Central",
+   "class": "6A",
+   "class_boys": "",
+   "class_girls": "6A",
+   "key": "xavier",
+   "lat": 33.5053133,
+   "lon": -112.0668847,
+   "mascot": "Gators",
+   "program_boys": null,
+   "program_girls": "3850",
+   "region": "Central",
+   "region_boys": "",
+   "region_girls": "Central",
+   "school": "Xavier Prep",
+   "teams": {
+    "girls": {
+     "frso": "214220",
+     "jv": "214218",
+     "varsity": "214216"
+    }
+   },
+   "venue": "Xavier College Preparatory"
+  },
+  {
+   "area_suggested": "West",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
+   "key": "youngker",
+   "lat": 33.4193937,
+   "lon": -112.5775885,
+   "mascot": "Roughriders",
+   "program_boys": "1770",
+   "program_girls": "1771",
+   "region": "West Valley",
+   "region_boys": "West Valley",
+   "region_girls": "West Valley",
+   "school": "Youngker",
+   "teams": {
+    "boys": {
+     "frso": "218913",
+     "jv": "218911",
+     "varsity": "218909"
+    },
+    "girls": {
+     "frso": "218919",
+     "jv": "218917",
+     "varsity": "218915"
+    }
+   },
+   "venue": "Youngker High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "yuma",
+   "lat": 32.7191097,
+   "lon": -114.6291986,
+   "mascot": "Criminals",
+   "program_boys": "3017",
+   "program_girls": "3018",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Yuma",
+   "teams": {
+    "boys": {
+     "jv": "213896",
+     "varsity": "213894"
+    },
+    "girls": {
+     "jv": "213900",
+     "varsity": "213898"
+    }
+   },
+   "venue": "Yuma High School"
+  },
+  {
+   "area_suggested": "Outlying",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "yuma catholic",
+   "lat": 32.6761927,
+   "lon": -114.6437585,
+   "mascot": "Shamrocks",
+   "program_boys": "1406",
+   "program_girls": "1407",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Yuma Catholic",
+   "teams": {
+    "boys": {
+     "jv": "215022",
+     "varsity": "215020"
+    },
+    "girls": {
+     "jv": "215026",
+     "varsity": "215024"
+    }
+   },
+   "venue": "Yuma Catholic"
+  }
+ ],
+ "updated": "2026-11-02T19:18:31+00:00"
+}

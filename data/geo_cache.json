@@ -1,0 +1,754 @@
+{
+ "Agua Fria High School": {
+  "lat": 33.4414975,
+  "lon": -112.3433004
+ },
+ "Alhambra High School": {
+  "lat": 33.5068771,
+  "lon": -112.1407113
+ },
+ "American Leadership Academy - Anthem South": null,
+ "American Leadership Academy - Gilbert": {
+  "lat": 33.2932275,
+  "lon": -111.7371234
+ },
+ "American Leadership Academy - Mesa North": null,
+ "American Leadership Academy - QC": null,
+ "American Leadership Academy - Radiance": {
+  "lat": 33.3326462,
+  "lon": -111.5818252
+ },
+ "American Leadership Academy - Sierra Vista": {
+  "lat": 31.5135612,
+  "lon": -110.2513979
+ },
+ "American Leadership Academy - Vistancia": {
+  "lat": 33.7432122,
+  "lon": -112.3182305
+ },
+ "American Leadership Academy - West Foothills": {
+  "lat": 33.568046,
+  "lon": -112.4378443
+ },
+ "American Leadership Academy \u2013 Ironwood": null,
+ "Amphitheater High School": {
+  "lat": 32.2695493,
+  "lon": -110.9744392
+ },
+ "Anderson Auto Group Fieldhouse": {
+  "lat": 35.0565484,
+  "lon": -114.5990755
+ },
+ "Andrada Polytechnic High School": null,
+ "Anthem Preparatory Academy": null,
+ "Apache Junction High School": {
+  "lat": 33.3902133,
+  "lon": -111.5610586
+ },
+ "Apollo High School": {
+  "lat": 33.5553792,
+  "lon": -112.1580846
+ },
+ "Arcadia High School": {
+  "lat": 33.4927222,
+  "lon": -111.9825981
+ },
+ "Arete Preparatory Academy": {
+  "lat": 33.3782576,
+  "lon": -111.7362973
+ },
+ "Arizona College Prep": {
+  "lat": 33.3104008,
+  "lon": -111.8613148
+ },
+ "Arizona Lutheran Academy": {
+  "lat": 33.3906303,
+  "lon": -112.1186282
+ },
+ "Barry Goldwater High School": {
+  "lat": 33.6783452,
+  "lon": -112.1202789
+ },
+ "Basha High School": {
+  "lat": 33.221099,
+  "lon": -111.7588756
+ },
+ "Benjamin Franklin High School": {
+  "lat": 33.2805659,
+  "lon": -111.67667
+ },
+ "Betty H. Fairfax High School": {
+  "lat": 33.3730939,
+  "lon": -112.1820773
+ },
+ "Boulder Creek High School": {
+  "lat": 33.8504868,
+  "lon": -112.1407393
+ },
+ "Bourgade Catholic High School": {
+  "lat": 33.5047509,
+  "lon": -112.1268328
+ },
+ "Bradshaw Mountain High School": {
+  "lat": 34.5994915,
+  "lon": -112.3471841
+ },
+ "Buckeye Union High School": {
+  "lat": 33.3747264,
+  "lon": -112.5771668
+ },
+ "Buena High School": {
+  "lat": 31.5711007,
+  "lon": -110.2369235
+ },
+ "Cactus Canyon High School": {
+  "lat": 33.3918853,
+  "lon": -111.555825
+ },
+ "Cactus High School": {
+  "lat": 33.6271188,
+  "lon": -112.1965483
+ },
+ "Cactus Shadows High School": {
+  "lat": 33.7855071,
+  "lon": -111.9557867
+ },
+ "Camelback High School": {
+  "lat": 33.5046734,
+  "lon": -112.023779
+ },
+ "Campo Verde High School": {
+  "lat": 33.2810832,
+  "lon": -111.7619079
+ },
+ "Canyon Del Oro High School": {
+  "lat": 32.3763474,
+  "lon": -110.9722252
+ },
+ "Canyon View High School": {
+  "lat": 33.5244422,
+  "lon": -112.4661254
+ },
+ "Carl Hayden Community High School": {
+  "lat": 33.4569748,
+  "lon": -112.1323827
+ },
+ "Casa Grande Union High School": {
+  "lat": 32.9348435,
+  "lon": -111.7373432
+ },
+ "Casteel High School": {
+  "lat": 33.2219311,
+  "lon": -111.6817024
+ },
+ "Catalina Foothills High School": {
+  "lat": 32.3052863,
+  "lon": -110.900171
+ },
+ "Catalina Magnet High School": {
+  "lat": 32.2452736,
+  "lon": -110.9161401
+ },
+ "Centennial High School": {
+  "lat": 33.6156427,
+  "lon": -112.2310272
+ },
+ "Central High School": {
+  "lat": 33.5015794,
+  "lon": -112.0661199
+ },
+ "Chandler High School": {
+  "lat": 33.3088342,
+  "lon": -111.8437568
+ },
+ "Chaparral High School": {
+  "lat": 33.5767338,
+  "lon": -111.9325672
+ },
+ "Cholla High Magnet School": {
+  "lat": 32.2043036,
+  "lon": -111.0096506
+ },
+ "Cibola High School": {
+  "lat": 32.6931406,
+  "lon": -114.6699902
+ },
+ "Cienega High School": {
+  "lat": 32.0563288,
+  "lon": -110.7210336
+ },
+ "Coconino High School": {
+  "lat": 35.2161224,
+  "lon": -111.6234945
+ },
+ "Combs High School": {
+  "lat": 33.275701,
+  "lon": -111.5406442
+ },
+ "Coolidge High School": {
+  "lat": 32.9821221,
+  "lon": -111.5291405
+ },
+ "Copper Canyon High School": {
+  "lat": 33.5110609,
+  "lon": -112.2573428
+ },
+ "Copper Sky Recreation Complex": {
+  "lat": 33.0413041,
+  "lon": -112.043562
+ },
+ "Corona del Sol High School": {
+  "lat": 33.3247677,
+  "lon": -111.9253945
+ },
+ "Coronado High School": {
+  "lat": 33.4748956,
+  "lon": -111.9197268
+ },
+ "Cortez High School": {
+  "lat": 33.5648511,
+  "lon": -112.128833
+ },
+ "Crismon High School": {
+  "lat": 33.2233664,
+  "lon": -111.6112393
+ },
+ "Deer Valley High School": {
+  "lat": 33.6525663,
+  "lon": -112.1722155
+ },
+ "Desert Christian High School": null,
+ "Desert Edge High School": {
+  "lat": 33.4368504,
+  "lon": -112.4000028
+ },
+ "Desert Mountain High School": {
+  "lat": 33.5872318,
+  "lon": -111.8090562
+ },
+ "Desert Ridge High School": {
+  "lat": 33.368997,
+  "lon": -111.6161007
+ },
+ "Desert Star High School": null,
+ "Desert Sunrise High School": {
+  "lat": 33.0269614,
+  "lon": -111.9475924
+ },
+ "Desert View High School": {
+  "lat": 32.1364454,
+  "lon": -110.9049483
+ },
+ "Desert Vista High School": {
+  "lat": 33.295395,
+  "lon": -112.016779
+ },
+ "Dobson High School": {
+  "lat": 33.3623066,
+  "lon": -111.867832
+ },
+ "Douglas High School": {
+  "lat": 31.3506581,
+  "lon": -109.5378446
+ },
+ "Dysart High School": {
+  "lat": 33.5900649,
+  "lon": -112.3380202
+ },
+ "EAC Mickelson Field": {
+  "lat": 32.8411288,
+  "lon": -109.7536145
+ },
+ "Eastmark High School": {
+  "lat": 33.3239018,
+  "lon": -111.6267269
+ },
+ "Empire High School": {
+  "lat": 32.0882127,
+  "lon": -110.7633353
+ },
+ "Estrella Foothills High School": {
+  "lat": 33.3274426,
+  "lon": -112.4217824
+ },
+ "Flagstaff High School": {
+  "lat": 35.2061763,
+  "lon": -111.6510328
+ },
+ "Florence High School": {
+  "lat": 33.0223005,
+  "lon": -111.3897753
+ },
+ "Flowing Wells High School": {
+  "lat": 32.2745758,
+  "lon": -110.9971766
+ },
+ "Fountain Hills High School": {
+  "lat": 33.6167355,
+  "lon": -111.7337159
+ },
+ "Gila Ridge High School": {
+  "lat": 32.6857011,
+  "lon": -114.5106917
+ },
+ "Gilbert Christian High School": {
+  "lat": 33.3269472,
+  "lon": -111.7115586
+ },
+ "Gilbert Classical Academy": {
+  "lat": 33.3694168,
+  "lon": -111.7837934
+ },
+ "Gilbert High School": {
+  "lat": 33.3478422,
+  "lon": -111.7663993
+ },
+ "Glendale High School": {
+  "lat": 33.5403638,
+  "lon": -112.1947035
+ },
+ "Goodyear High School": {
+  "lat": 33.4535612,
+  "lon": -112.4306862
+ },
+ "Graham Family Sports Campus": null,
+ "Greenway High School": {
+  "lat": 33.6275255,
+  "lon": -112.1445573
+ },
+ "Hamilton High School": {
+  "lat": 33.2512313,
+  "lon": -111.843587
+ },
+ "Harbison Field": {
+  "lat": 33.3938076,
+  "lon": -110.7813203
+ },
+ "Heritage Academy Gateway": {
+  "lat": 33.2773521,
+  "lon": -111.6591681
+ },
+ "Heritage Academy Laveen": {
+  "lat": 33.3765814,
+  "lon": -112.1500454
+ },
+ "Highland High School": {
+  "lat": 33.361238,
+  "lon": -111.6982663
+ },
+ "Highland Prep West": {
+  "lat": 33.4487148,
+  "lon": -112.3222501
+ },
+ "Higley High School": {
+  "lat": 33.2953484,
+  "lon": -111.7008863
+ },
+ "Horizon High School": {
+  "lat": 33.6248092,
+  "lon": -111.956994
+ },
+ "Independence High School": {
+  "lat": 33.531846,
+  "lon": -112.2227175
+ },
+ "Ironwood High School": {
+  "lat": 33.601648,
+  "lon": -112.1881423
+ },
+ "Ironwood Ridge High School": {
+  "lat": 32.4080642,
+  "lon": -111.0227451
+ },
+ "Kingman High School": {
+  "lat": 35.2235942,
+  "lon": -114.0280521
+ },
+ "Kino Sports Complex South": null,
+ "Kofa High School": {
+  "lat": 32.6731379,
+  "lon": -114.6366967
+ },
+ "La Joya Community High School": {
+  "lat": 33.4260435,
+  "lon": -112.3095852
+ },
+ "Lake Havasu High School": {
+  "lat": 34.4934617,
+  "lon": -114.3189515
+ },
+ "Lee Williams High School": {
+  "lat": 35.1920864,
+  "lon": -114.0595364
+ },
+ "Lehi Sports Complex": null,
+ "Liberty High School": {
+  "lat": 33.6850735,
+  "lon": -112.2659965
+ },
+ "Lincoln Preparatory Academy": null,
+ "Madison Highland Prep": null,
+ "Marana High School": {
+  "lat": 32.3694427,
+  "lon": -111.221615
+ },
+ "Marcos de Niza High School": {
+  "lat": 33.3654377,
+  "lon": -111.9221382
+ },
+ "Maricopa High School": {
+  "lat": 33.0553267,
+  "lon": -112.0524039
+ },
+ "Maryvale High School": {
+  "lat": 33.4894088,
+  "lon": -112.1830276
+ },
+ "McClintock High School": {
+  "lat": 33.3982295,
+  "lon": -111.9066165
+ },
+ "Mesa High School": {
+  "lat": 33.3971274,
+  "lon": -111.7947047
+ },
+ "Mesquite High School": {
+  "lat": 33.3417185,
+  "lon": -111.8276049
+ },
+ "Metro Tech High School": {
+  "lat": 33.4825075,
+  "lon": -112.1021443
+ },
+ "Mica Mountain High School": null,
+ "Millennium High School": null,
+ "Mingus Union High School": {
+  "lat": 34.7158439,
+  "lon": -112.0053081
+ },
+ "Mohave Accelerated Learning Center": null,
+ "Monterey Park": {
+  "lat": 33.473527,
+  "lon": -112.0673779
+ },
+ "Moon Valley High School": {
+  "lat": 33.593848,
+  "lon": -112.1367777
+ },
+ "Morenci Jr./Sr. High School": {
+  "lat": 33.0396989,
+  "lon": -109.3215609
+ },
+ "Mountain Pointe High School": {
+  "lat": 33.325132,
+  "lon": -111.9917716
+ },
+ "Mountain Ridge High School": {
+  "lat": 33.6915939,
+  "lon": -112.2055891
+ },
+ "Mountain View (Marana) High School": null,
+ "Mountain View (Mesa) High School": null,
+ "Mountainside High School": {
+  "lat": 33.7509843,
+  "lon": -112.5304846
+ },
+ "NFL YET College Preparatory": null,
+ "Nogales High School": {
+  "lat": 31.3686892,
+  "lon": -110.9479753
+ },
+ "North Canyon High School": {
+  "lat": 33.6567964,
+  "lon": -112.0446211
+ },
+ "North High School": {
+  "lat": 33.4776904,
+  "lon": -112.058019
+ },
+ "North Phoenix Preparatory": null,
+ "Northwest Christian High": null,
+ "Notre Dame Preparatory": null,
+ "Palo Verde High Magnet School": {
+  "lat": 32.2047662,
+  "lon": -110.8465519
+ },
+ "Paradise Honors High School": {
+  "lat": 33.6009163,
+  "lon": -112.4347422
+ },
+ "Paradise Valley High School": {
+  "lat": 33.6428362,
+  "lon": -111.9984155
+ },
+ "Parker High School": {
+  "lat": 34.1423733,
+  "lon": -114.2884314
+ },
+ "Pecos Park": {
+  "lat": 33.2922226,
+  "lon": -111.9799794
+ },
+ "Peoria High School": {
+  "lat": 33.5857965,
+  "lon": -112.2399497
+ },
+ "Perry High School": {
+  "lat": 33.2617072,
+  "lon": -111.7482077
+ },
+ "Phoenix Christian Jr./Sr. High School": {
+  "lat": 33.4943662,
+  "lon": -112.0971451
+ },
+ "Phoenix Country Day School": {
+  "lat": 33.5150512,
+  "lon": -111.997523
+ },
+ "Pinnacle High School": {
+  "lat": 33.679626,
+  "lon": -112.007878
+ },
+ "Poston Butte High School": {
+  "lat": 33.1741347,
+  "lon": -111.5427772
+ },
+ "Prescott High School": {
+  "lat": 34.5624254,
+  "lon": -112.4780931
+ },
+ "Pueblo High School": {
+  "lat": 32.1835946,
+  "lon": -110.9797779
+ },
+ "Pusch Ridge Christian Academy": null,
+ "Queen Creek High School": {
+  "lat": 33.2443111,
+  "lon": -111.605689
+ },
+ "Rancho Solano Preparatory School": {
+  "lat": 33.6272271,
+  "lon": -111.959196
+ },
+ "Raymond S. Kellis High School": {
+  "lat": 33.5471561,
+  "lon": -112.2528384
+ },
+ "Red Mountain High School": {
+  "lat": 33.4333753,
+  "lon": -111.6751887
+ },
+ "Rincon High School": {
+  "lat": 32.2272933,
+  "lon": -110.8902398
+ },
+ "Rio Rico High School": null,
+ "Sabino High School": {
+  "lat": 32.2979786,
+  "lon": -110.7872553
+ },
+ "Safford High School": {
+  "lat": 32.8288678,
+  "lon": -109.7288354
+ },
+ "Saguaro High School": {
+  "lat": 33.5276111,
+  "lon": -111.9065688
+ },
+ "Sahuarita High School": {
+  "lat": 31.9591209,
+  "lon": -110.9729233
+ },
+ "Sahuaro High School": {
+  "lat": 32.2262558,
+  "lon": -110.8089955
+ },
+ "Salpointe Catholic High School": {
+  "lat": 32.2553163,
+  "lon": -110.9503663
+ },
+ "San Luis High School": {
+  "lat": 32.5022247,
+  "lon": -114.7624448
+ },
+ "San Tan Charter High School": {
+  "lat": 33.3563791,
+  "lon": -111.6897196
+ },
+ "San Tan Foothills High School": {
+  "lat": 33.1381587,
+  "lon": -111.5817341
+ },
+ "Sandra Day O'Connor High School": null,
+ "Santa Cruz Valley Union High School": {
+  "lat": 32.7588867,
+  "lon": -111.5570332
+ },
+ "Santa Rita High School": {
+  "lat": 32.1741151,
+  "lon": -110.8216483
+ },
+ "Scottsdale Christian Academy": {
+  "lat": 33.6173484,
+  "lon": -111.9790442
+ },
+ "Scottsdale Preparatory Academy": {
+  "lat": 33.6343413,
+  "lon": -111.8817948
+ },
+ "Sedona Red Rock": {
+  "lat": 34.8584363,
+  "lon": -111.7627862
+ },
+ "Seton Catholic High School": {
+  "lat": 33.3237573,
+  "lon": -111.8774795
+ },
+ "Shadow Mountain High School": {
+  "lat": 33.5842361,
+  "lon": -112.0196504
+ },
+ "Shadow Ridge High School": {
+  "lat": 33.5832862,
+  "lon": -112.4589897
+ },
+ "Sierra Linda High School": {
+  "lat": 33.4181342,
+  "lon": -112.2068681
+ },
+ "Skyline High School": {
+  "lat": 33.398839,
+  "lon": -111.6123252
+ },
+ "Somerton High School": {
+  "lat": 32.6012465,
+  "lon": -114.7205522
+ },
+ "South Mountain High School": {
+  "lat": 33.3968479,
+  "lon": -112.0613477
+ },
+ "St. Augustine Catholic High School": {
+  "lat": 32.2032442,
+  "lon": -110.8041126
+ },
+ "St. John Paul II Catholic High School": {
+  "lat": 33.4819249,
+  "lon": -112.3559995
+ },
+ "Sunnyside High School": {
+  "lat": 32.143406,
+  "lon": -110.9457575
+ },
+ "Sunnyslope High School": {
+  "lat": 33.5657279,
+  "lon": -112.0761824
+ },
+ "Sunrise Mountain High School": {
+  "lat": 33.6760935,
+  "lon": -112.2403262
+ },
+ "Tanque Verde High School": {
+  "lat": 32.285016,
+  "lon": -110.7573025
+ },
+ "Tempe High School": {
+  "lat": 33.4089173,
+  "lon": -111.9417254
+ },
+ "The Gregory School": {
+  "lat": 32.2659209,
+  "lon": -110.877483
+ },
+ "The Odyssey for Advanced and International Studies": null,
+ "Thunderbird High School": {
+  "lat": 33.6129668,
+  "lon": -112.0970122
+ },
+ "Tolleson High School": {
+  "lat": 33.4482161,
+  "lon": -112.2655103
+ },
+ "Tombstone High School": {
+  "lat": 31.7276716,
+  "lon": -110.0699741
+ },
+ "Tonopah Valley High School": {
+  "lat": 33.491344,
+  "lon": -112.8731146
+ },
+ "Trevor G. Browne High School": null,
+ "Trivium Preparatory Academy": null,
+ "Tucson High Magnet School": {
+  "lat": 32.2264391,
+  "lon": -110.9618508
+ },
+ "Valley Christian High School": {
+  "lat": 33.3131899,
+  "lon": -111.9604851
+ },
+ "Valley Vista High School": {
+  "lat": 33.6260136,
+  "lon": -112.3880431
+ },
+ "Veritas Preparatory Academy": {
+  "lat": 33.4843756,
+  "lon": -111.9630908
+ },
+ "Verrado High School": {
+  "lat": 33.4955909,
+  "lon": -112.4930566
+ },
+ "Vista Grande High School": {
+  "lat": 32.8917466,
+  "lon": -111.7118544
+ },
+ "Walden Grove High School": {
+  "lat": 31.9700934,
+  "lon": -110.9336567
+ },
+ "Washington High School": {
+  "lat": 33.5367339,
+  "lon": -112.1060942
+ },
+ "West Point High School": {
+  "lat": 33.4734104,
+  "lon": -112.3109824
+ },
+ "Westview High School": {
+  "lat": 33.4909202,
+  "lon": -112.2927171
+ },
+ "Westwood High School": {
+  "lat": 33.4280229,
+  "lon": -111.8491977
+ },
+ "Wickenburg High School": {
+  "lat": 33.9544172,
+  "lon": -112.7798277
+ },
+ "Williams Field High School": {
+  "lat": 33.3131515,
+  "lon": -111.7232807
+ },
+ "Willow Canyon High School": {
+  "lat": 33.6329609,
+  "lon": -112.4442557
+ },
+ "Xavier College Preparatory": {
+  "lat": 33.5053133,
+  "lon": -112.0668847
+ },
+ "Youngker High School": {
+  "lat": 33.4193937,
+  "lon": -112.5775885
+ },
+ "Yuma Catholic": {
+  "lat": 32.6761927,
+  "lon": -114.6437585
+ },
+ "Yuma High School": {
+  "lat": 32.7191097,
+  "lon": -114.6291986
+ }
+}
