@@ -58,11 +58,11 @@ Coronado,Coronado High School,4A,Black Canyon,4A,Black Canyon,East,Dons,33.47489
 Cortez,Cortez High School,4A,Black Canyon,4A,Black Canyon,Central,Colts,33.5648511,-112.128833
 Crismon,Crismon High School,4A,East Sky,4A,East Sky,East,Rattlers,33.2233664,-111.6112393
 Deer Valley,Deer Valley High School,4A,Desert Sky,4A,Desert Sky,West,Skyhawks,33.6525663,-112.1722155
-Desert Christian,Desert Christian High School,2A,South,2A,South,,Eagles,,
+Desert Christian,Desert Christian High School,2A,South,2A,South,Central,Eagles,33.5524479,-112.0906361
 Desert Edge,Desert Edge High School,5A,Desert West,5A,Desert West,West,Scorpions,33.4368504,-112.4000028
 Desert Mountain,Desert Mountain High School,5A,East Sky,5A,East Sky,East,Wolves,33.5872318,-111.8090562
 Desert Ridge,Desert Ridge High School,6A,Metro,6A,Metro,East,Jaguars,33.368997,-111.6161007
-Desert Star,,2A,West,2A,West,,Titan,,
+Desert Star,,2A,West,2A,West,Tucson,Titan,32.2227501,-111.0301166
 Desert Sunrise,Desert Sunrise High School,4A,East Sky,4A,East Sky,East,Golden Hawks,33.0269614,-111.9475924
 Desert View,Desert View High School,5A,Southern,5A,Southern,Tucson,Jaguars,32.1364454,-110.9049483
 Desert Vista,Desert Vista High School,6A,Central,6A,Central,East,Thunder,33.295395,-112.016779
@@ -113,8 +113,8 @@ McClintock,McClintock High School,5A,Metro,5A,Metro,East,Chargers,33.3982295,-11
 Mesa,Mesa High School,6A,East Valley,6A,East Valley,East,Jackrabbits,33.3971274,-111.7947047
 Mesquite,Mesquite High School,4A,Desert Sky,4A,Desert Sky,East,Wildcats,33.3417185,-111.8276049
 Metro Tech,Metro Tech High School,5A,Central Valley,5A,Central Valley,Central,Knights,33.4825075,-112.1021443
-Mica Mountain,Mica Mountain High School,4A,Kino,4A,Kino,,Thunderbolts,,
-Millennium,Millennium High School,6A,Central,6A,Central,,Tigers,,
+Mica Mountain,Mica Mountain High School,4A,Kino,4A,Kino,Outlying,Thunderbolts,32.2197452,-110.5435235
+Millennium,Millennium High School,6A,Central,6A,Central,West,Tigers,33.4325099,-112.2324764
 Mingus Union,Mingus Union High School,4A,Grand Canyon,4A,Grand Canyon,Outlying,Marauders,34.7158439,-112.0053081
 Mohave,Anderson Auto Group Fieldhouse,3A,West,3A,West,Outlying,Thunderbirds,35.0565484,-114.5990755
 Mohave Accelerated,Mohave Accelerated Learning Center,2A,West,2A,West,,Patriots,,
@@ -122,17 +122,17 @@ Moon Valley,Moon Valley High School,4A,Black Canyon,4A,Black Canyon,Central,Rock
 Morenci,Morenci Jr./Sr. High School,2A,South,,,Outlying,Wildcats,33.0396989,-109.3215609
 Mountain Pointe,Mountain Pointe High School,5A,Metro,5A,Metro,East,Pride,33.325132,-111.9917716
 Mountain Ridge,Mountain Ridge High School,6A,Desert Valley,6A,Desert Valley,West,Mountain Lions,33.6915939,-112.2055891
-Mountain View (Marana),Mountain View (Marana) High School,5A,Sonoran,5A,Sonoran,,Mountain Lions,,
-Mountain View (Mesa),Mountain View (Mesa) High School,6A,East Valley,6A,East Valley,,Toros,,
+Mountain View (Marana),Mountain View (Marana) High School,5A,Sonoran,5A,Sonoran,Tucson,Mountain Lions,32.4256043,-111.0461058
+Mountain View (Mesa),Mountain View (Mesa) High School,6A,East Valley,6A,East Valley,East,Toros,33.4401033,-111.773122
 Mountainside,Mountainside High School,2A,West,2A,West,West,Wolves,33.7509843,-112.5304846
-NFL Yet,NFL YET College Preparatory,2A,Valley,2A,Valley,,Eagles,,
+NFL Yet,NFL YET College Preparatory,2A,Valley,2A,Valley,Central,Eagles,33.3747639,-112.071742
 Nogales,Nogales High School,5A,Southern,5A,Southern,Outlying,Apaches,31.3686892,-110.9479753
 North,North High School,5A,Metro,5A,Metro,Central,Mustangs,33.4776904,-112.058019
 North Canyon,North Canyon High School,4A,Skyline,4A,Skyline,North,Rattlers,33.6567964,-112.0446211
 North Phoenix Preparatory,North Phoenix Preparatory,2A,West,2A,West,,Gladiators,,
-Northwest Christian,Northwest Christian High,3A,Metro,3A,Metro,,Crusaders,,
+Northwest Christian,Northwest Christian High,3A,Metro,3A,Metro,Central,Crusaders,33.6353392,-112.1478918
 Notre Dame Prep,Notre Dame Preparatory,5A,East Sky,5A,East Sky,,Saints,,
-Odyssey Institute,The Odyssey for Advanced and International Studies,3A,West,3A,West,,Minotaurs,,
+Odyssey Institute,The Odyssey for Advanced and International Studies,3A,West,3A,West,West,Minotaurs,33.4329329,-112.5022472
 Palo Verde Magnet,Palo Verde High Magnet School,3A,South,3A,South,Tucson,Titans,32.2047662,-110.8465519
 Paradise Honors,Paradise Honors High School,4A,Skyline,4A,Skyline,West,Panthers,33.6009163,-112.4347422
 Paradise Valley,Paradise Valley High School,5A,Desert West,5A,Desert West,Central,Trojans,33.6428362,-111.9984155
@@ -145,13 +145,13 @@ Pinnacle,Pinnacle High School,6A,Desert Valley,6A,Desert Valley,North,Pioneers,3
 Poston Butte,Poston Butte High School,4A,East Sky,4A,East Sky,East,Broncos,33.1741347,-111.5427772
 Prescott,Prescott High School,4A,Grand Canyon,4A,Grand Canyon,Outlying,Badgers,34.5624254,-112.4780931
 Pueblo,Pueblo High School,5A,Southern,5A,Southern,Tucson,Warriors,32.1835946,-110.9797779
-Pusch Ridge,Pusch Ridge Christian Academy,3A,South,3A,South,,Lions,,
+Pusch Ridge,Pusch Ridge Christian Academy,3A,South,3A,South,Tucson,Lions,32.3777805,-110.9246943
 Queen Creek,Queen Creek High School,6A,Fiesta,6A,Fiesta,East,Bulldogs,33.2443111,-111.605689
 Rancho Solano Prep,Rancho Solano Preparatory School,2A,East,2A,East,Central,Mustangs,33.6272271,-111.959196
 Raymond S. Kellis,Raymond S. Kellis High School,5A,Northwest Valley,5A,Northwest Valley,West,Cougars,33.5471561,-112.2528384
 Red Mountain,Red Mountain High School,6A,East Valley,6A,East Valley,East,Mountain Lions,33.4333753,-111.6751887
 Rincon/University,Rincon High School,5A,Sonoran,5A,Sonoran,Tucson,Rangers,32.2272933,-110.8902398
-Rio Rico,Rio Rico High School,4A,Kino,4A,Kino,,Hawks,,
+Rio Rico,Rio Rico High School,4A,Kino,4A,Kino,Outlying,Hawks,31.4714828,-110.9764769
 River Valley,Anderson Auto Group Fieldhouse,3A,West,3A,West,Outlying,Dust Devils,35.0565484,-114.5990755
 Sabino,Sabino High School,3A,South,3A,South,Tucson,Sabercats,32.2979786,-110.7872553
 Safford,Safford High School,3A,South,3A,South,Outlying,Bulldogs,32.8288678,-109.7288354
@@ -160,7 +160,7 @@ Sahuarita,Sahuarita High School,4A,Kino,4A,Kino,Tucson,Mustangs,31.9591209,-110.
 Sahuaro,Sahuaro High School,4A,Kino,4A,Kino,Tucson,Cougars,32.2262558,-110.8089955
 Salpointe Catholic,Salpointe Catholic High School,5A,Sonoran,5A,Sonoran,Tucson,Lancers,32.2553163,-110.9503663
 San Luis,San Luis High School,6A,Desert Southwest,6A,Desert Southwest,Outlying,Sidewinders,32.5022247,-114.7624448
-San Miguel,Kino Sports Complex South,2A,South,2A,South,,Vipers,,
+San Miguel,Kino Sports Complex South,2A,South,2A,South,Outlying,Vipers,31.6168016,-111.7806409
 San Tan Charter,San Tan Charter High School,2A,East,2A,East,East,Roadrunners,33.3563791,-111.6897196
 San Tan Foothills,San Tan Foothills High School,3A,East,3A,East,East,Sabercats,33.1381587,-111.5817341
 Sandra Day O'Connor,Sandra Day O'Connor High School,6A,Desert Valley,6A,Desert Valley,,Eagles,,

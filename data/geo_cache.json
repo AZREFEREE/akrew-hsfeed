@@ -217,7 +217,10 @@
   "lat": 33.6525663,
   "lon": -112.1722155
  },
- "Desert Christian High School": null,
+ "Desert Christian High School": {
+  "lat": 33.5524479,
+  "lon": -112.0906361
+ },
  "Desert Edge High School": {
   "lat": 33.4368504,
   "lon": -112.4000028
@@ -230,7 +233,10 @@
   "lat": 33.368997,
   "lon": -111.6161007
  },
- "Desert Star High School": null,
+ "Desert Star High School": {
+  "lat": 32.2227501,
+  "lon": -111.0301166
+ },
  "Desert Sunrise High School": {
   "lat": 33.0269614,
   "lon": -111.9475924
@@ -364,7 +370,10 @@
   "lat": 35.2235942,
   "lon": -114.0280521
  },
- "Kino Sports Complex South": null,
+ "Kino Sports Complex South": {
+  "lat": 31.6168016,
+  "lon": -111.7806409
+ },
  "Kofa High School": {
   "lat": 32.6731379,
   "lon": -114.6366967
@@ -420,8 +429,14 @@
   "lat": 33.4825075,
   "lon": -112.1021443
  },
- "Mica Mountain High School": null,
- "Millennium High School": null,
+ "Mica Mountain High School": {
+  "lat": 32.2197452,
+  "lon": -110.5435235
+ },
+ "Millennium High School": {
+  "lat": 33.4325099,
+  "lon": -112.2324764
+ },
  "Mingus Union High School": {
   "lat": 34.7158439,
   "lon": -112.0053081
@@ -447,13 +462,22 @@
   "lat": 33.6915939,
   "lon": -112.2055891
  },
- "Mountain View (Marana) High School": null,
- "Mountain View (Mesa) High School": null,
+ "Mountain View (Marana) High School": {
+  "lat": 32.4256043,
+  "lon": -111.0461058
+ },
+ "Mountain View (Mesa) High School": {
+  "lat": 33.4401033,
+  "lon": -111.773122
+ },
  "Mountainside High School": {
   "lat": 33.7509843,
   "lon": -112.5304846
  },
- "NFL YET College Preparatory": null,
+ "NFL YET College Preparatory": {
+  "lat": 33.3747639,
+  "lon": -112.071742
+ },
  "Nogales High School": {
   "lat": 31.3686892,
   "lon": -110.9479753
@@ -467,7 +491,10 @@
   "lon": -112.058019
  },
  "North Phoenix Preparatory": null,
- "Northwest Christian High": null,
+ "Northwest Christian High": {
+  "lat": 33.6353392,
+  "lon": -112.1478918
+ },
  "Notre Dame Preparatory": null,
  "Palo Verde High Magnet School": {
   "lat": 32.2047662,
@@ -521,7 +548,10 @@
   "lat": 32.1835946,
   "lon": -110.9797779
  },
- "Pusch Ridge Christian Academy": null,
+ "Pusch Ridge Christian Academy": {
+  "lat": 32.3777805,
+  "lon": -110.9246943
+ },
  "Queen Creek High School": {
   "lat": 33.2443111,
   "lon": -111.605689
@@ -542,7 +572,10 @@
   "lat": 32.2272933,
   "lon": -110.8902398
  },
- "Rio Rico High School": null,
+ "Rio Rico High School": {
+  "lat": 31.4714828,
+  "lon": -110.9764769
+ },
  "Sabino High School": {
   "lat": 32.2979786,
   "lon": -110.7872553
@@ -660,7 +693,10 @@
   "lat": 32.2659209,
   "lon": -110.877483
  },
- "The Odyssey for Advanced and International Studies": null,
+ "The Odyssey for Advanced and International Studies": {
+  "lat": 33.4329329,
+  "lon": -112.5022472
+ },
  "Thunderbird High School": {
   "lat": 33.6129668,
   "lon": -112.0970122

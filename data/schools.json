@@ -1587,13 +1587,13 @@
    "venue": "Deer Valley High School"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "Central",
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
    "key": "desert christian",
-   "lat": null,
-   "lon": null,
+   "lat": 33.5524479,
+   "lon": -112.0906361,
    "mascot": "Eagles",
    "program_boys": "10171",
    "program_girls": "10172",
@@ -1693,13 +1693,13 @@
    "venue": "Desert Ridge High School"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "Tucson",
    "class": "2A",
    "class_boys": "",
    "class_girls": "2A",
    "key": "desert star",
-   "lat": null,
-   "lon": null,
+   "lat": 32.2227501,
+   "lon": -111.0301166,
    "mascot": "Titan",
    "program_boys": null,
    "program_girls": "14919",
@@ -3057,13 +3057,13 @@
    "venue": "Metro Tech High School"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "Outlying",
    "class": "4A",
    "class_boys": "4A",
    "class_girls": "4A",
    "key": "mica mountain",
-   "lat": null,
-   "lon": null,
+   "lat": 32.2197452,
+   "lon": -110.5435235,
    "mascot": "Thunderbolts",
    "program_boys": "12573",
    "program_girls": "12574",
@@ -3084,13 +3084,13 @@
    "venue": "Mica Mountain High School"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "West",
    "class": "6A",
    "class_boys": "6A",
    "class_girls": "6A",
    "key": "millennium",
-   "lat": null,
-   "lon": null,
+   "lat": 33.4325099,
+   "lon": -112.2324764,
    "mascot": "Tigers",
    "program_boys": "390",
    "program_girls": "435",
@@ -3294,13 +3294,13 @@
    "venue": "Mountain Ridge High School"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "Tucson",
    "class": "5A",
    "class_boys": "5A",
    "class_girls": "5A",
    "key": "mountain view marana",
-   "lat": null,
-   "lon": null,
+   "lat": 32.4256043,
+   "lon": -111.0461058,
    "mascot": "Mountain Lions",
    "program_boys": "394",
    "program_girls": "439",
@@ -3321,13 +3321,13 @@
    "venue": "Mountain View (Marana) High School"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "East",
    "class": "6A",
    "class_boys": "6A",
    "class_girls": "6A",
    "key": "mountain view mesa",
-   "lat": null,
-   "lon": null,
+   "lat": 33.4401033,
+   "lon": -111.773122,
    "mascot": "Toros",
    "program_boys": "1069",
    "program_girls": "1070",
@@ -3375,13 +3375,13 @@
    "venue": "Mountainside High School"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "Central",
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
    "key": "nfl yet",
-   "lat": null,
-   "lon": null,
+   "lat": 33.3747639,
+   "lon": -112.071742,
    "mascot": "Eagles",
    "program_boys": "7056",
    "program_girls": "7057",
@@ -3509,13 +3509,13 @@
    "venue": "North Phoenix Preparatory"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "Central",
    "class": "3A",
    "class_boys": "3A",
    "class_girls": "3A",
    "key": "northwest christian",
-   "lat": null,
-   "lon": null,
+   "lat": 33.6353392,
+   "lon": -112.1478918,
    "mascot": "Crusaders",
    "program_boys": "2530",
    "program_girls": "2531",
@@ -3564,13 +3564,13 @@
    "venue": "Notre Dame Preparatory"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "West",
    "class": "3A",
    "class_boys": "3A",
    "class_girls": "3A",
    "key": "odyssey institute",
-   "lat": null,
-   "lon": null,
+   "lat": 33.4329329,
+   "lon": -112.5022472,
    "mascot": "Minotaurs",
    "program_boys": "6937",
    "program_girls": "6938",
@@ -3911,13 +3911,13 @@
    "venue": "Pueblo High School"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "Tucson",
    "class": "3A",
    "class_boys": "3A",
    "class_girls": "3A",
    "key": "pusch ridge",
-   "lat": null,
-   "lon": null,
+   "lat": 32.3777805,
+   "lon": -110.9246943,
    "mascot": "Lions",
    "program_boys": "1545",
    "program_girls": "1546",
@@ -4073,13 +4073,13 @@
    "venue": "Rincon High School"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "Outlying",
    "class": "4A",
    "class_boys": "4A",
    "class_girls": "4A",
    "key": "rio rico",
-   "lat": null,
-   "lon": null,
+   "lat": 31.4714828,
+   "lon": -110.9764769,
    "mascot": "Hawks",
    "program_boys": "412",
    "program_girls": "457",
@@ -4317,13 +4317,13 @@
    "venue": "San Luis High School"
   },
   {
-   "area_suggested": "",
+   "area_suggested": "Outlying",
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
    "key": "san miguel",
-   "lat": null,
-   "lon": null,
+   "lat": 31.6168016,
+   "lon": -111.7806409,
    "mascot": "Vipers",
    "program_boys": "6323",
    "program_girls": "7365",
@@ -5642,5 +5642,5 @@
    "venue": "Yuma Catholic"
   }
  ],
- "updated": "2026-11-02T19:18:31+00:00"
+ "updated": "2026-11-02T19:52:54+00:00"
 }
