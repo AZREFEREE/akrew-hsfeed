@@ -53,6 +53,20 @@ class Parsers(unittest.TestCase):
         self.assertEqual(rows[0]["teams"], {"varsity": "221660", "jv": "221662"})
         self.assertEqual(rows[2]["region"], "Central")
 
+    def test_lookalike_schools(self):
+        # 'Chandler' (6A) and 'Chandler Prep' (2A) are two schools; boys and girls of one school still merge
+        def prog(name, g, c, pid):
+            return {"name": name, "mascot": "", "gender": g, "class": c, "region": "R", "program": pid, "teams": {}}
+        progs = [prog("Chandler", "boys", "6A", "1"), prog("Chandler", "girls", "6A", "2"),
+                 prog("Chandler Prep", "boys", "2A", "3"), prog("Chandler Prep", "girls", "2A", "4"),
+                 prog("Yuma", "boys", "4A", "5"), prog("Yuma Catholic", "boys", "3A", "6")]
+        rows = {r["school"]: r for r in H.build_schools(progs, {})}
+        self.assertEqual(sorted(rows), ["Chandler", "Chandler Prep", "Yuma", "Yuma Catholic"])
+        self.assertEqual((rows["Chandler"]["class_boys"], rows["Chandler"]["class_girls"]), ("6A", "6A"))
+        self.assertEqual((rows["Chandler Prep"]["class_boys"], rows["Chandler Prep"]["class_girls"]), ("2A", "2A"))
+        self.assertEqual(rows["Yuma"]["class"], "4A")
+        self.assertEqual(rows["Yuma Catholic"]["class"], "3A")
+
     def test_rankings(self):
         rows = H.parse_rankings_page(fx("2025_rankings_soccer_winter_boys_6a.html"))
         self.assertEqual(len(rows), 2)

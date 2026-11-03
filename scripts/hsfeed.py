@@ -185,6 +185,18 @@ def parse_time(t):
     return "%02d:%02d" % (h, mi)
 
 
+def school_key(s):
+    """Key that joins a school's boys and girls programs. Unlike norm_name it keeps Prep, Academy and Catholic:
+    'Chandler' and 'Chandler Prep', 'Tempe' and 'Tempe Prep', 'Yuma' and 'Yuma Catholic' are different schools."""
+    s = html.unescape(s or "").lower()
+    s = s.replace("&", " and ")
+    s = re.sub(r"[^a-z0-9]+", " ", s)
+    s = re.sub(r"\bpreparatory\b", "prep", s)
+    s = re.sub(r"\bacad\b", "academy", s)
+    s = re.sub(r"\b(high school|high|school|hs|the)\b", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
 def norm_name(s):
     """Loose school name key: 'Mountain View (Mesa) High School' -> 'mountain view mesa'."""
     s = html.unescape(s or "").lower()
@@ -570,7 +582,7 @@ def build_schools(programs, games):
             home_loc[p][gm["location"]] += 1
     schools = {}
     for p in programs:
-        key = norm_name(p["name"])
+        key = school_key(p["name"])
         s = schools.setdefault(key, {"school": p["name"], "mascot": p["mascot"], "class": {},
                                      "region": {}, "programs": {}, "teams": {}, "venue": ""})
         s["class"][p["gender"]] = p["class"]
