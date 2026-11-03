@@ -2,8 +2,9 @@ name: Daily AZPreps pull
 
 on:
   schedule:
-    - cron: "23 12 * * *"   # 5:23 AM Arizona time
-    - cron: "23 20 * * *"   # 1:23 PM Arizona time
+    # every 4 hours. GitHub drops or delays scheduled runs (Nov 3: the 5:23 AM run never started
+    # and the 1:23 PM run on Nov 2 started 6 hours late), so more chances keep the feed fresh.
+    - cron: "23 0,4,8,12,16,20 * * *"   # 5:23 PM, 9:23 PM, 1:23 AM, 5:23 AM, 9:23 AM, 1:23 PM Arizona time
   push:
     branches: [main]
     paths: ["scripts/**", ".github/workflows/**", "watch.json"]

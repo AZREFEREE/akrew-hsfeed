@@ -33,6 +33,27 @@ SPORTS = {"boys": "soccer-winter-boys", "girls": "soccer-winter-girls"}
 CLASSES = ["6a", "5a", "4a", "3a", "2a"]
 LEVELS = ["varsity", "jv", "fr-so"]
 LEVEL_NAME = {"varsity": "Varsity", "jv": "JV", "fr-so": "Freshman/Sophomore"}
+# A team link ends in its squad: varsity, jv, jv-2, frso. AZPreps365 lists a school's second JV
+# (jv-2) and its frosh-soph team on the JV page, so the page alone can't tell those games apart
+# from the real JV game the same night (Highland jv-2 at Corona del Sol frso, after the JV game).
+SQUAD_RANK = {"varsity": 3, "jv": 2}
+
+
+def game_level(page_level, away, home):
+    """The game's level from the two squads in its team links; the page level when a link is missing.
+    Any squad below JV (jv-2, frso, freshman...) makes it a Freshman/Sophomore (JVB) game."""
+    ranks = []
+    for t in (away, home):
+        sq = (t or {}).get("squad")
+        if not sq:
+            return page_level
+        ranks.append(SQUAD_RANK.get(sq, 1))
+    lo = min(ranks)
+    by_rank = {3: "Varsity", 2: "JV", 1: "Freshman/Sophomore"}
+    order = ["Freshman/Sophomore", "JV", "Varsity"]
+    lv = by_rank[lo]
+    # never above the page it is listed on
+    return lv if order.index(lv) <= order.index(page_level) else page_level
 MONTHS = {m: i + 1 for i, m in enumerate(
     ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"])}
 
@@ -246,11 +267,11 @@ def _date_of(el, start_year):
 
 def _team(span):
     if span is None:
-        return {"name": "", "mascot": "", "program": None, "team": None}
+        return {"name": "", "mascot": "", "program": None, "team": None, "squad": None}
     a = span.find("a")
     mascot = ""
     name = ""
-    prog = team = None
+    prog = team = _lv = None
     if a is not None:
         m = a.find(cls="mascot")
         mascot = m.text() if m is not None else ""
@@ -258,7 +279,7 @@ def _team(span):
         prog, _slug, team, _lv = team_from_href(a.attrs.get("href"))
     else:
         name = span.text()
-    return {"name": html.unescape(name).strip(), "mascot": mascot, "program": prog, "team": team}
+    return {"name": html.unescape(name).strip(), "mascot": mascot, "program": prog, "team": team, "squad": _lv}
 
 
 def _contest(el, start_year):
@@ -521,7 +542,8 @@ def crawl_schedules(cr, start_year, sports, classes, levels):
                     gs, evs, last = parse_schedule_page(text, start_year)
                     for x in gs:
                         x["gender"] = g
-                        x["level"] = LEVEL_NAME[lv]
+                        x["page_level"] = LEVEL_NAME[lv]
+                        x["level"] = game_level(LEVEL_NAME[lv], x.get("away"), x.get("home"))
                         prev = games.get(x["id"])
                         if prev:
                             prev["listed_in"] = sorted(set(prev["listed_in"] + [c.upper()]))
