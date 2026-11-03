@@ -1,4 +1,453 @@
 {
- "changes": [],
- "run_at": "2026-11-02T19:52:54+00:00"
+ "changes": [
+  {
+   "game": {
+    "away": "Paradise Valley",
+    "date": "2027-01-15",
+    "gender": "boys",
+    "home": "Willow Canyon",
+    "level": "Freshman/Sophomore",
+    "location": "Willow Canyon High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2572645",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-01",
+     "2027-01-06"
+    ]
+   },
+   "game": {
+    "away": "Moon Valley",
+    "date": "2027-01-06",
+    "gender": "boys",
+    "home": "Deer Valley",
+    "level": "Varsity",
+    "location": "Deer Valley High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2480637",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-01",
+     "2027-01-06"
+    ]
+   },
+   "game": {
+    "away": "Moon Valley",
+    "date": "2027-01-06",
+    "gender": "boys",
+    "home": "Deer Valley",
+    "level": "JV",
+    "location": "Deer Valley High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2480638",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Mohave",
+    "date": "2026-12-01",
+    "gender": "boys",
+    "home": "North Phoenix Preparatory",
+    "level": "Varsity",
+    "location": "North Phoenix Preparatory",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "16:00"
+   },
+   "id": "2572905",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Corona del Sol",
+    "date": "2026-12-07",
+    "gender": "girls",
+    "home": "AZ College Prep",
+    "level": "JV",
+    "location": "Arizona College Prep",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2464187",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Highland",
+    "date": "2026-12-09",
+    "gender": "girls",
+    "home": "Corona del Sol",
+    "level": "JV",
+    "location": "Corona del Sol High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2464317",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Williams Field",
+    "date": "2027-01-08",
+    "gender": "girls",
+    "home": "Corona del Sol",
+    "level": "JV",
+    "location": "Corona del Sol High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2464674",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Corona del Sol",
+    "date": "2027-01-13",
+    "gender": "girls",
+    "home": "Red Mountain",
+    "level": "JV",
+    "location": "Red Mountain High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2465179",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Maryvale",
+    "date": "2026-12-10",
+    "gender": "girls",
+    "home": "Corona del Sol",
+    "level": "Freshman/Sophomore",
+    "location": "Corona del Sol High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2466223",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Corona del Sol",
+    "date": "2027-01-20",
+    "gender": "girls",
+    "home": "Apollo",
+    "level": "Freshman/Sophomore",
+    "location": "Apollo High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2465441",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Corona del Sol",
+    "date": "2027-01-28",
+    "gender": "girls",
+    "home": "Sunnyslope",
+    "level": "Freshman/Sophomore",
+    "location": "Sunnyslope High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2465719",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Corona del Sol",
+    "date": "2027-02-01",
+    "gender": "girls",
+    "home": "Xavier Prep",
+    "level": "Freshman/Sophomore",
+    "location": "Xavier College Preparatory",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2465992",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-01",
+     "2027-01-06"
+    ]
+   },
+   "game": {
+    "away": "Deer Valley",
+    "date": "2027-01-06",
+    "gender": "girls",
+    "home": "Moon Valley",
+    "level": "Varsity",
+    "location": "Moon Valley High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2480639",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-01",
+     "2027-01-06"
+    ]
+   },
+   "game": {
+    "away": "Deer Valley",
+    "date": "2027-01-06",
+    "gender": "girls",
+    "home": "Moon Valley",
+    "level": "JV",
+    "location": "Moon Valley High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2480640",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Mohave",
+    "date": "2026-12-01",
+    "gender": "girls",
+    "home": "North Phoenix Preparatory",
+    "level": "Varsity",
+    "location": "North Phoenix Preparatory",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2572906",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "NFL Yet",
+    "date": "2026-12-01",
+    "gender": "girls",
+    "home": "Lincoln Prep",
+    "level": "Varsity",
+    "location": "Lincoln Preparatory Academy",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2536155",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Lincoln Prep",
+    "date": "2026-12-07",
+    "gender": "girls",
+    "home": "Fountain Hills",
+    "level": "Varsity",
+    "location": "Fountain Hills High School",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2447383",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Chandler Prep",
+    "date": "2026-12-09",
+    "gender": "girls",
+    "home": "Lincoln Prep",
+    "level": "Varsity",
+    "location": "Lincoln Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2447415",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "San Tan Charter",
+    "date": "2027-01-07",
+    "gender": "girls",
+    "home": "Lincoln Prep",
+    "level": "Varsity",
+    "location": "Lincoln Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2447469",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cicero Prep",
+    "date": "2027-01-11",
+    "gender": "girls",
+    "home": "Lincoln Prep",
+    "level": "Varsity",
+    "location": "Lincoln Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2447493",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Lincoln Prep",
+    "date": "2027-01-13",
+    "gender": "girls",
+    "home": "Globe",
+    "level": "Varsity",
+    "location": "Harbison Field",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2447517",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Lincoln Prep",
+    "date": "2027-01-15",
+    "gender": "girls",
+    "home": "ALA - Mesa North",
+    "level": "Varsity",
+    "location": "American Leadership Academy - Mesa North",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2447423",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Lincoln Prep",
+    "date": "2027-01-19",
+    "gender": "girls",
+    "home": "Arete Prep",
+    "level": "Varsity",
+    "location": "Arete Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "17:00"
+   },
+   "id": "2447533",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Scottsdale Prep",
+    "date": "2027-01-21",
+    "gender": "girls",
+    "home": "Lincoln Prep",
+    "level": "Varsity",
+    "location": "Lincoln Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2447557",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Lincoln Prep",
+    "date": "2027-01-25",
+    "gender": "girls",
+    "home": "Scottsdale Christian",
+    "level": "Varsity",
+    "location": "Scottsdale Christian Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2447581",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Rancho Solano Prep",
+    "date": "2027-01-27",
+    "gender": "girls",
+    "home": "Lincoln Prep",
+    "level": "Varsity",
+    "location": "Lincoln Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2447601",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Gilbert Classical",
+    "date": "2027-02-02",
+    "gender": "girls",
+    "home": "Lincoln Prep",
+    "level": "Varsity",
+    "location": "Lincoln Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2447633",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Kofa",
+    "date": "2027-02-02",
+    "gender": "boys",
+    "home": "Yuma",
+    "level": "JV",
+    "location": "Yuma High School",
+    "tags": [],
+    "time": "17:00"
+   },
+   "id": "2571816",
+   "kind": "removed"
+  }
+ ],
+ "run_at": "2026-11-03T02:26:10+00:00"
 }

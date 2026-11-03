@@ -3615,114 +3615,6 @@
   },
   {
    "away": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2767",
-    "team": "224380"
-   },
-   "date": "2026-12-01",
-   "gender": "boys",
-   "home": {
-    "mascot": "Skyhawks",
-    "name": "Deer Valley",
-    "program": "3675",
-    "team": "227830"
-   },
-   "id": "2480637",
-   "level": "Varsity",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Deer Valley High School",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2767",
-    "team": "224382"
-   },
-   "date": "2026-12-01",
-   "gender": "boys",
-   "home": {
-    "mascot": "Skyhawks",
-    "name": "Deer Valley",
-    "program": "3675",
-    "team": "227832"
-   },
-   "id": "2480638",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Deer Valley High School",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Skyhawks",
-    "name": "Deer Valley",
-    "program": "3676",
-    "team": "227834"
-   },
-   "date": "2026-12-01",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "team": "224384"
-   },
-   "id": "2480639",
-   "level": "Varsity",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Moon Valley High School",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Skyhawks",
-    "name": "Deer Valley",
-    "program": "3676",
-    "team": "227836"
-   },
-   "date": "2026-12-01",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "team": "224386"
-   },
-   "id": "2480640",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Moon Valley High School",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Eagles",
     "name": "ALA - Gilbert North",
     "program": "11435",
@@ -4403,6 +4295,34 @@
   },
   {
    "away": {
+    "mascot": "Eagles",
+    "name": "NFL Yet",
+    "program": "7057",
+    "team": "222494"
+   },
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "id": "2536155",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Lincoln Preparatory Academy",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Yellow Jackets",
     "name": "Tombstone",
     "program": "11330",
@@ -4596,6 +4516,64 @@
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Thunderbirds",
+    "name": "Mohave",
+    "program": "1676",
+    "team": "218718"
+   },
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "mascot": "Gladiators",
+    "name": "North Phoenix Preparatory",
+    "program": "7743",
+    "team": "211874"
+   },
+   "id": "2572905",
+   "level": "Varsity",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "North Phoenix Preparatory",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Thunderbirds",
+    "name": "Mohave",
+    "program": "1677",
+    "team": "218722"
+   },
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "mascot": "Gladiators",
+    "name": "North Phoenix Preparatory",
+    "program": "7744",
+    "team": "211876"
+   },
+   "id": "2572906",
+   "level": "Varsity",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "North Phoenix Preparatory",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -9261,6 +9239,34 @@
   },
   {
    "away": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "date": "2026-12-07",
+   "gender": "girls",
+   "home": {
+    "mascot": "Falcons",
+    "name": "Fountain Hills",
+    "program": "1693",
+    "team": "224128"
+   },
+   "id": "2447383",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Fountain Hills High School",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Spartans",
     "name": "Gilbert Classical",
     "program": "3712",
@@ -11450,6 +11456,32 @@
    "tags": [],
    "time": "17:00",
    "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Aztecs",
+    "name": "Corona del Sol",
+    "program": "1792",
+    "team": "222156"
+   },
+   "date": "2026-12-07",
+   "gender": "girls",
+   "home": {
+    "mascot": "Knights",
+    "name": "AZ College Prep",
+    "program": "8036",
+    "team": "226186"
+   },
+   "id": "2464187",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Arizona College Prep",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -15852,6 +15884,34 @@
   },
   {
    "away": {
+    "mascot": "Titans",
+    "name": "Chandler Prep",
+    "program": "3651",
+    "team": "219125"
+   },
+   "date": "2026-12-09",
+   "gender": "girls",
+   "home": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "id": "2447415",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Lincoln Preparatory Academy",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Mavericks",
     "name": "ALA - Mesa North",
     "program": "14349",
@@ -17667,6 +17727,32 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Hawks",
+    "name": "Highland",
+    "program": "1308",
+    "team": "227972"
+   },
+   "date": "2026-12-09",
+   "gender": "girls",
+   "home": {
+    "mascot": "Aztecs",
+    "name": "Corona del Sol",
+    "program": "1792",
+    "team": "222156"
+   },
+   "id": "2464317",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Corona del Sol High School",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -24049,6 +24135,32 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Panthers",
+    "name": "Maryvale",
+    "program": "427",
+    "team": "218516"
+   },
+   "date": "2026-12-10",
+   "gender": "girls",
+   "home": {
+    "mascot": "Aztecs",
+    "name": "Corona del Sol",
+    "program": "1792",
+    "team": "222156"
+   },
+   "id": "2466223",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Corona del Sol High School",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -42658,6 +42770,114 @@
   },
   {
    "away": {
+    "mascot": "Rockets",
+    "name": "Moon Valley",
+    "program": "2767",
+    "team": "224380"
+   },
+   "date": "2027-01-06",
+   "gender": "boys",
+   "home": {
+    "mascot": "Skyhawks",
+    "name": "Deer Valley",
+    "program": "3675",
+    "team": "227830"
+   },
+   "id": "2480637",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Deer Valley High School",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Rockets",
+    "name": "Moon Valley",
+    "program": "2767",
+    "team": "224382"
+   },
+   "date": "2027-01-06",
+   "gender": "boys",
+   "home": {
+    "mascot": "Skyhawks",
+    "name": "Deer Valley",
+    "program": "3675",
+    "team": "227832"
+   },
+   "id": "2480638",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Deer Valley High School",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Skyhawks",
+    "name": "Deer Valley",
+    "program": "3676",
+    "team": "227834"
+   },
+   "date": "2027-01-06",
+   "gender": "girls",
+   "home": {
+    "mascot": "Rockets",
+    "name": "Moon Valley",
+    "program": "2768",
+    "team": "224384"
+   },
+   "id": "2480639",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Moon Valley High School",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Skyhawks",
+    "name": "Deer Valley",
+    "program": "3676",
+    "team": "227836"
+   },
+   "date": "2027-01-06",
+   "gender": "girls",
+   "home": {
+    "mascot": "Rockets",
+    "name": "Moon Valley",
+    "program": "2768",
+    "team": "224386"
+   },
+   "id": "2480640",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Moon Valley High School",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Bulldogs",
     "name": "Sierra Linda",
     "program": "3421",
@@ -45398,6 +45618,34 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Roadrunners",
+    "name": "San Tan Charter",
+    "program": "12593",
+    "team": "217700"
+   },
+   "date": "2027-01-07",
+   "gender": "girls",
+   "home": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "id": "2447469",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Lincoln Preparatory Academy",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -49120,6 +49368,32 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Black Hawks",
+    "name": "Williams Field",
+    "program": "3138",
+    "team": "223430"
+   },
+   "date": "2027-01-08",
+   "gender": "girls",
+   "home": {
+    "mascot": "Aztecs",
+    "name": "Corona del Sol",
+    "program": "1792",
+    "team": "222156"
+   },
+   "id": "2464674",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Corona del Sol High School",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -53443,6 +53717,34 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11422",
+    "team": "219739"
+   },
+   "date": "2027-01-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "id": "2447493",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Lincoln Preparatory Academy",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -59031,6 +59333,34 @@
   },
   {
    "away": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "date": "2027-01-13",
+   "gender": "girls",
+   "home": {
+    "mascot": "Tigers",
+    "name": "Globe",
+    "program": "1597",
+    "team": "221286"
+   },
+   "id": "2447517",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Harbison Field",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Patriots",
     "name": "Mohave Accelerated",
     "program": "4364",
@@ -60863,6 +61193,32 @@
     "team": "213444"
    },
    "id": "2465178",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Red Mountain High School",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Aztecs",
+    "name": "Corona del Sol",
+    "program": "1792",
+    "team": "222156"
+   },
+   "date": "2027-01-13",
+   "gender": "girls",
+   "home": {
+    "mascot": "Mountain Lions",
+    "name": "Red Mountain",
+    "program": "2586",
+    "team": "213446"
+   },
+   "id": "2465179",
    "level": "JV",
    "listed_in": [
     "6A"
@@ -66486,6 +66842,34 @@
   },
   {
    "away": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "date": "2027-01-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Mavericks",
+    "name": "ALA - Mesa North",
+    "program": "14350",
+    "team": "225786"
+   },
+   "id": "2447423",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "American Leadership Academy - Mesa North",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Champions",
     "name": "Cactus Canyon",
     "program": "3036",
@@ -70867,6 +71251,32 @@
   },
   {
    "away": {
+    "mascot": "Trojans",
+    "name": "Paradise Valley",
+    "program": "1229",
+    "team": "226720"
+   },
+   "date": "2027-01-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Wildcats",
+    "name": "Willow Canyon",
+    "program": "1527",
+    "team": "215798"
+   },
+   "id": "2572645",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Willow Canyon High School",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Pumas",
     "name": "Perry",
     "program": "2164",
@@ -71775,6 +72185,34 @@
    ],
    "time": "19:00",
    "time_raw": "7:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "date": "2027-01-19",
+   "gender": "girls",
+   "home": {
+    "mascot": "Chargers",
+    "name": "Arete Prep",
+    "program": "4003",
+    "team": "214300"
+   },
+   "id": "2447533",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Arete Preparatory Academy",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -77841,6 +78279,32 @@
   },
   {
    "away": {
+    "mascot": "Aztecs",
+    "name": "Corona del Sol",
+    "program": "1792",
+    "team": "222156"
+   },
+   "date": "2027-01-20",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Apollo",
+    "program": "1351",
+    "team": "224542"
+   },
+   "id": "2465441",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Apollo High School",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Broncos",
     "name": "Brophy Prep",
     "program": "3839",
@@ -80659,6 +81123,34 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Spartans",
+    "name": "Scottsdale Prep",
+    "program": "3727",
+    "team": "213372"
+   },
+   "date": "2027-01-21",
+   "gender": "girls",
+   "home": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "id": "2447557",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Lincoln Preparatory Academy",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -88249,6 +88741,34 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "date": "2027-01-25",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Scottsdale Christian",
+    "program": "2341",
+    "team": "227526"
+   },
+   "id": "2447581",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Scottsdale Christian Academy",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -97226,6 +97746,34 @@
   },
   {
    "away": {
+    "mascot": "Mustangs",
+    "name": "Rancho Solano Prep",
+    "program": "10287",
+    "team": "213330"
+   },
+   "date": "2027-01-27",
+   "gender": "girls",
+   "home": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "id": "2447601",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Lincoln Preparatory Academy",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Eagles",
     "name": "Scottsdale Christian",
     "program": "2340",
@@ -100329,6 +100877,32 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Aztecs",
+    "name": "Corona del Sol",
+    "program": "1792",
+    "team": "222156"
+   },
+   "date": "2027-01-28",
+   "gender": "girls",
+   "home": {
+    "mascot": "Vikings",
+    "name": "Sunnyslope",
+    "program": "3158",
+    "team": "217980"
+   },
+   "id": "2465719",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Sunnyslope High School",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -109553,6 +110127,32 @@
   },
   {
    "away": {
+    "mascot": "Aztecs",
+    "name": "Corona del Sol",
+    "program": "1792",
+    "team": "222156"
+   },
+   "date": "2027-02-01",
+   "gender": "girls",
+   "home": {
+    "mascot": "Gators",
+    "name": "Xavier Prep",
+    "program": "3850",
+    "team": "214220"
+   },
+   "id": "2465992",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Xavier College Preparatory",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Huskies",
     "name": "Hamilton",
     "program": "2057",
@@ -112290,6 +112890,34 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Spartans",
+    "name": "Gilbert Classical",
+    "program": "3713",
+    "team": "226282"
+   },
+   "date": "2027-02-02",
+   "gender": "girls",
+   "home": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12279",
+    "team": "222232"
+   },
+   "id": "2447633",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Lincoln Preparatory Academy",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -115643,33 +116271,6 @@
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Kings",
-    "name": "Kofa",
-    "program": "3221",
-    "team": "229466"
-   },
-   "date": "2027-02-02",
-   "gender": "boys",
-   "home": {
-    "mascot": "Criminals",
-    "name": "Yuma",
-    "program": "3017",
-    "team": "213896"
-   },
-   "id": "2571816",
-   "level": "JV",
-   "listed_in": [
-    "3A",
-    "4A"
-   ],
-   "location": "Yuma High School",
-   "result": null,
-   "tags": [],
-   "time": "17:00",
-   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -123753,10 +124354,14 @@
    "gender": "boys",
    "id": "2571877",
    "level": "Varsity",
-   "location": "Maryvale High School",
+   "location": "Cesar Chavez Park",
    "name": "PXU Copa",
    "tags": [
-    "Invitational"
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
    ]
   },
   {
@@ -123764,10 +124369,14 @@
    "gender": "girls",
    "id": "2571888",
    "level": "Varsity",
-   "location": "Maryvale High School",
+   "location": "Cesar Chavez Park",
    "name": "PXU Copa",
    "tags": [
-    "Invitational"
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
    ]
   },
   {
@@ -123859,5 +124468,5 @@
    ]
   }
  ],
- "updated": "2026-11-02T19:52:54+00:00"
+ "updated": "2026-11-03T02:26:10+00:00"
 }
