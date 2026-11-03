@@ -348,7 +348,7 @@
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
-   "key": "anthem",
+   "key": "anthem prep",
    "lat": null,
    "lon": null,
    "mascot": "Eagles",
@@ -456,7 +456,7 @@
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
-   "key": "arete",
+   "key": "arete prep",
    "lat": 33.3782576,
    "lon": -111.7362973,
    "mascot": "Chargers",
@@ -503,7 +503,7 @@
    "class": "6A",
    "class_boys": "6A",
    "class_girls": "6A",
-   "key": "az college",
+   "key": "az college prep",
    "lat": 33.3104008,
    "lon": -111.8613148,
    "mascot": "Knights",
@@ -724,7 +724,7 @@
    "class": "6A",
    "class_boys": "6A",
    "class_girls": "",
-   "key": "brophy",
+   "key": "brophy prep",
    "lat": null,
    "lon": null,
    "mascot": "Broncos",
@@ -1181,19 +1181,47 @@
   },
   {
    "area_suggested": "East",
-   "class": "2A",
-   "class_boys": "2A",
-   "class_girls": "2A",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
    "key": "chandler",
    "lat": 33.3088342,
    "lon": -111.8437568,
    "mascot": "Wolves",
+   "program_boys": "377",
+   "program_girls": "422",
+   "region": "Premier",
+   "region_boys": "Premier",
+   "region_girls": "Premier",
+   "school": "Chandler",
+   "teams": {
+    "boys": {
+     "frso": "214848",
+     "jv": "214846",
+     "varsity": "214844"
+    },
+    "girls": {
+     "jv": "214852",
+     "varsity": "214850"
+    }
+   },
+   "venue": "Chandler High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "chandler prep",
+   "lat": 33.3342347,
+   "lon": -111.8577053,
+   "mascot": "Titans",
    "program_boys": "3650",
    "program_girls": "3651",
    "region": "East",
    "region_boys": "East",
    "region_girls": "East",
-   "school": "Chandler",
+   "school": "Chandler Prep",
    "teams": {
     "boys": {
      "jv": "219123",
@@ -1204,7 +1232,7 @@
      "varsity": "219125"
     }
    },
-   "venue": "Chandler High School"
+   "venue": "Chandler Preparatory Academy"
   },
   {
    "area_suggested": "Central",
@@ -1294,7 +1322,7 @@
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
-   "key": "cicero",
+   "key": "cicero prep",
    "lat": 33.6343413,
    "lon": -111.8817948,
    "mascot": "Centurions",
@@ -2179,19 +2207,46 @@
   },
   {
    "area_suggested": "West",
-   "class": "2A",
-   "class_boys": "2A",
-   "class_girls": "2A",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
    "key": "glendale",
    "lat": 33.5403638,
    "lon": -112.1947035,
    "mascot": "Cardinals",
+   "program_boys": "2245",
+   "program_girls": "2246",
+   "region": "Black Canyon",
+   "region_boys": "Black Canyon",
+   "region_girls": "Black Canyon",
+   "school": "Glendale",
+   "teams": {
+    "boys": {
+     "jv": "219805",
+     "varsity": "219803"
+    },
+    "girls": {
+     "jv": "219809",
+     "varsity": "219807"
+    }
+   },
+   "venue": "Glendale High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "glendale prep",
+   "lat": 33.6951399,
+   "lon": -112.2386651,
+   "mascot": "Griffins",
    "program_boys": "4289",
    "program_girls": "4290",
    "region": "West",
    "region_boys": "West",
    "region_girls": "West",
-   "school": "Glendale",
+   "school": "Glendale Prep",
    "teams": {
     "boys": {
      "varsity": "230038"
@@ -2201,7 +2256,7 @@
      "varsity": "230040"
     }
    },
-   "venue": "Glendale High School"
+   "venue": "Glendale Preparatory Academy"
   },
   {
    "area_suggested": "Outlying",
@@ -2318,7 +2373,7 @@
    "class": "3A",
    "class_boys": "3A",
    "class_girls": "3A",
-   "key": "heritage gateway",
+   "key": "heritage academy gateway",
    "lat": 33.2773521,
    "lon": -111.6591681,
    "mascot": "Heroes",
@@ -2343,7 +2398,7 @@
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
-   "key": "heritage laveen",
+   "key": "heritage academy laveen",
    "lat": 33.3765814,
    "lon": -112.1500454,
    "mascot": "Heroes",
@@ -2370,7 +2425,7 @@
    "class": "3A",
    "class_boys": "3A",
    "class_girls": "3A",
-   "key": "heritage maricopa",
+   "key": "heritage academy maricopa",
    "lat": 33.0413041,
    "lon": -112.043562,
    "mascot": "Heroes",
@@ -2397,7 +2452,7 @@
    "class": "2A",
    "class_boys": "",
    "class_girls": "2A",
-   "key": "heritage mesa",
+   "key": "heritage academy mesa",
    "lat": null,
    "lon": null,
    "mascot": "Heroes",
@@ -2416,25 +2471,29 @@
   },
   {
    "area_suggested": "East",
-   "class": "3A",
-   "class_boys": "3A",
-   "class_girls": "3A",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
    "key": "highland",
    "lat": 33.361238,
    "lon": -111.6982663,
    "mascot": "Hawks",
-   "program_boys": "12801",
-   "program_girls": "12802",
-   "region": "West",
-   "region_boys": "West",
-   "region_girls": "West",
+   "program_boys": "1307",
+   "program_girls": "1308",
+   "region": "Fiesta",
+   "region_boys": "Fiesta",
+   "region_girls": "Fiesta",
    "school": "Highland",
    "teams": {
     "boys": {
-     "varsity": "224944"
+     "jv": "227964",
+     "jv-2": "227966",
+     "varsity": "227962"
     },
     "girls": {
-     "varsity": "224946"
+     "jv": "227970",
+     "jv-2": "227972",
+     "varsity": "227968"
     }
    },
    "venue": "Highland High School"
@@ -2444,7 +2503,32 @@
    "class": "3A",
    "class_boys": "3A",
    "class_girls": "3A",
-   "key": "highland west",
+   "key": "highland prep",
+   "lat": 33.4487148,
+   "lon": -112.3222501,
+   "mascot": "Honey Badgers",
+   "program_boys": "12801",
+   "program_girls": "12802",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Highland Prep",
+   "teams": {
+    "boys": {
+     "varsity": "224944"
+    },
+    "girls": {
+     "varsity": "224946"
+    }
+   },
+   "venue": "Highland Prep"
+  },
+  {
+   "area_suggested": "West",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
+   "key": "highland prep west",
    "lat": 33.4487148,
    "lon": -112.3222501,
    "mascot": "Hornets",
@@ -2632,19 +2716,44 @@
   },
   {
    "area_suggested": "Outlying",
-   "class": "2A",
-   "class_boys": "2A",
-   "class_girls": "2A",
+   "class": "3A",
+   "class_boys": "3A",
+   "class_girls": "3A",
    "key": "kingman",
    "lat": 35.2235942,
    "lon": -114.0280521,
    "mascot": "Bulldogs",
+   "program_boys": "393",
+   "program_girls": "438",
+   "region": "West",
+   "region_boys": "West",
+   "region_girls": "West",
+   "school": "Kingman",
+   "teams": {
+    "boys": {
+     "varsity": "225217"
+    },
+    "girls": {
+     "varsity": "225219"
+    }
+   },
+   "venue": "Kingman High School"
+  },
+  {
+   "area_suggested": "",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "kingman academy",
+   "lat": null,
+   "lon": null,
+   "mascot": "Tigers",
    "program_boys": "9175",
    "program_girls": "9176",
    "region": "West",
    "region_boys": "West",
    "region_girls": "West",
-   "school": "Kingman",
+   "school": "Kingman Academy",
    "teams": {
     "boys": {
      "varsity": "211844"
@@ -2653,7 +2762,7 @@
      "varsity": "211846"
     }
    },
-   "venue": "Kingman High School"
+   "venue": "Kingman Academy High School"
   },
   {
    "area_suggested": "Outlying",
@@ -2797,7 +2906,7 @@
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "",
-   "key": "lincoln",
+   "key": "lincoln prep",
    "lat": null,
    "lon": null,
    "mascot": "Lightning",
@@ -2923,19 +3032,48 @@
   },
   {
    "area_suggested": "West",
-   "class": "2A",
-   "class_boys": "2A",
-   "class_girls": "2A",
+   "class": "6A",
+   "class_boys": "6A",
+   "class_girls": "6A",
    "key": "maryvale",
    "lat": 33.4894088,
    "lon": -112.1830276,
    "mascot": "Panthers",
+   "program_boys": "382",
+   "program_girls": "427",
+   "region": "Metro",
+   "region_boys": "Metro",
+   "region_girls": "Metro",
+   "school": "Maryvale",
+   "teams": {
+    "boys": {
+     "frso": "218510",
+     "jv": "218508",
+     "varsity": "218506"
+    },
+    "girls": {
+     "frso": "218516",
+     "jv": "218514",
+     "varsity": "218512"
+    }
+   },
+   "venue": "Maryvale High School"
+  },
+  {
+   "area_suggested": "West",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "maryvale prep",
+   "lat": 33.4665137,
+   "lon": -112.1568625,
+   "mascot": "Matadors",
    "program_boys": "13757",
    "program_girls": "13758",
    "region": "West",
    "region_boys": "West",
    "region_girls": "West",
-   "school": "Maryvale",
+   "school": "Maryvale Prep",
    "teams": {
     "boys": {
      "varsity": "220968"
@@ -2944,7 +3082,7 @@
      "varsity": "220970"
     }
    },
-   "venue": "Maryvale High School"
+   "venue": "Maryvale Prep Academy"
   },
   {
    "area_suggested": "East",
@@ -3488,7 +3626,7 @@
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
-   "key": "north phoenix",
+   "key": "north phoenix prep",
    "lat": null,
    "lon": null,
    "mascot": "Gladiators",
@@ -3541,7 +3679,7 @@
    "class": "5A",
    "class_boys": "5A",
    "class_girls": "5A",
-   "key": "notre dame",
+   "key": "notre dame prep",
    "lat": null,
    "lon": null,
    "mascot": "Saints",
@@ -3969,7 +4107,7 @@
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
-   "key": "rancho solano",
+   "key": "rancho solano prep",
    "lat": 33.6272271,
    "lon": -111.959196,
    "mascot": "Mustangs",
@@ -4502,7 +4640,7 @@
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
-   "key": "scottsdale",
+   "key": "scottsdale prep",
    "lat": 33.6343413,
    "lon": -111.8817948,
    "mascot": "Spartans",
@@ -4552,7 +4690,7 @@
    "class": "3A",
    "class_boys": "3A",
    "class_girls": "3A",
-   "key": "seton catholic",
+   "key": "seton catholic prep",
    "lat": 33.3237573,
    "lon": -111.8774795,
    "mascot": "Sentinels",
@@ -4928,19 +5066,46 @@
   },
   {
    "area_suggested": "Central",
-   "class": "2A",
-   "class_boys": "2A",
-   "class_girls": "2A",
+   "class": "4A",
+   "class_boys": "4A",
+   "class_girls": "4A",
    "key": "tempe",
    "lat": 33.4089173,
    "lon": -111.9417254,
    "mascot": "Buffaloes",
+   "program_boys": "2498",
+   "program_girls": "2499",
+   "region": "Black Canyon",
+   "region_boys": "Black Canyon",
+   "region_girls": "Black Canyon",
+   "school": "Tempe",
+   "teams": {
+    "boys": {
+     "jv": "215500",
+     "varsity": "215498"
+    },
+    "girls": {
+     "jv": "215504",
+     "varsity": "215502"
+    }
+   },
+   "venue": "Tempe High School"
+  },
+  {
+   "area_suggested": "East",
+   "class": "2A",
+   "class_boys": "2A",
+   "class_girls": "2A",
+   "key": "tempe prep",
+   "lat": 33.3393545,
+   "lon": -111.9518129,
+   "mascot": "Knights",
    "program_boys": "1465",
    "program_girls": "1466",
    "region": "Valley",
    "region_boys": "Valley",
    "region_girls": "Valley",
-   "school": "Tempe",
+   "school": "Tempe Prep",
    "teams": {
     "boys": {
      "varsity": "217742"
@@ -4949,7 +5114,7 @@
      "varsity": "217744"
     }
    },
-   "venue": "Tempe High School"
+   "venue": "Tempe Sports Complex"
   },
   {
    "area_suggested": "Outlying",
@@ -5136,7 +5301,7 @@
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
-   "key": "trivium",
+   "key": "trivium prep",
    "lat": null,
    "lon": null,
    "mascot": "Crimson Knights",
@@ -5242,7 +5407,7 @@
    "class": "2A",
    "class_boys": "2A",
    "class_girls": "2A",
-   "key": "veritas",
+   "key": "veritas prep",
    "lat": 33.4843756,
    "lon": -111.9630908,
    "mascot": "Falcons",
@@ -5539,7 +5704,7 @@
    "class": "6A",
    "class_boys": "",
    "class_girls": "6A",
-   "key": "xavier",
+   "key": "xavier prep",
    "lat": 33.5053133,
    "lon": -112.0668847,
    "mascot": "Gators",
@@ -5642,5 +5807,5 @@
    "venue": "Yuma Catholic"
   }
  ],
- "updated": "2026-11-03T02:26:10+00:00"
+ "updated": "2026-11-03T03:11:54+00:00"
 }

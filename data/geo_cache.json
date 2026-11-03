@@ -161,6 +161,10 @@
   "lat": 33.3088342,
   "lon": -111.8437568
  },
+ "Chandler Preparatory Academy": {
+  "lat": 33.3342347,
+  "lon": -111.8577053
+ },
  "Chaparral High School": {
   "lat": 33.5767338,
   "lon": -111.9325672
@@ -313,6 +317,10 @@
   "lat": 33.5403638,
   "lon": -112.1947035
  },
+ "Glendale Preparatory Academy": {
+  "lat": 33.6951399,
+  "lon": -112.2386651
+ },
  "Goodyear High School": {
   "lat": 33.4535612,
   "lon": -112.4306862
@@ -341,6 +349,10 @@
  "Highland High School": {
   "lat": 33.361238,
   "lon": -111.6982663
+ },
+ "Highland Prep": {
+  "lat": 33.4487148,
+  "lon": -112.3222501
  },
  "Highland Prep West": {
   "lat": 33.4487148,
@@ -412,6 +424,10 @@
  "Maryvale High School": {
   "lat": 33.4894088,
   "lon": -112.1830276
+ },
+ "Maryvale Prep Academy": {
+  "lat": 33.4665137,
+  "lon": -112.1568625
  },
  "McClintock High School": {
   "lat": 33.3982295,
@@ -688,6 +704,10 @@
  "Tempe High School": {
   "lat": 33.4089173,
   "lon": -111.9417254
+ },
+ "Tempe Sports Complex": {
+  "lat": 33.3393545,
+  "lon": -111.9518129
  },
  "The Gregory School": {
   "lat": 32.2659209,

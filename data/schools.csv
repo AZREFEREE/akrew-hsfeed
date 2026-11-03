@@ -43,7 +43,8 @@ Catalina,Catalina Magnet High School,2A,South,2A,South,Tucson,Trojans,32.2452736
 Catalina Foothills,Catalina Foothills High School,5A,Sonoran,5A,Sonoran,Tucson,Falcons,32.3052863,-110.900171
 Centennial,Centennial High School,5A,Northwest Valley,5A,Northwest Valley,West,Coyotes,33.6156427,-112.2310272
 Central,Central High School,5A,Desert West,5A,Desert West,Central,Bobcats,33.5015794,-112.0661199
-Chandler,Chandler High School,2A,East,2A,East,East,Wolves,33.3088342,-111.8437568
+Chandler,Chandler High School,6A,Premier,6A,Premier,East,Wolves,33.3088342,-111.8437568
+Chandler Prep,Chandler Preparatory Academy,2A,East,2A,East,East,Titans,33.3342347,-111.8577053
 Chaparral,Chaparral High School,5A,East Sky,5A,East Sky,Central,Firebirds,33.5767338,-111.9325672
 Cholla,Cholla High Magnet School,5A,Sonoran,5A,Sonoran,Tucson,Chargers,32.2043036,-111.0096506
 Cibola,Cibola High School,6A,Desert Southwest,6A,Desert Southwest,Outlying,Raiders,32.6931406,-114.6699902
@@ -80,7 +81,8 @@ Gila Ridge,Gila Ridge High School,6A,Desert Southwest,6A,Desert Southwest,Outlyi
 Gilbert,Gilbert High School,6A,Fiesta,6A,Fiesta,East,Tigers,33.3478422,-111.7663993
 Gilbert Christian,Gilbert Christian High School,3A,Metro,3A,Metro,East,Knights,33.3269472,-111.7115586
 Gilbert Classical,Gilbert Classical Academy,2A,East,2A,East,East,Spartans,33.3694168,-111.7837934
-Glendale,Glendale High School,2A,West,2A,West,West,Cardinals,33.5403638,-112.1947035
+Glendale,Glendale High School,4A,Black Canyon,4A,Black Canyon,West,Cardinals,33.5403638,-112.1947035
+Glendale Prep,Glendale Preparatory Academy,2A,West,2A,West,West,Griffins,33.6951399,-112.2386651
 Globe,Harbison Field,2A,East,2A,East,Outlying,Tigers,33.3938076,-110.7813203
 Goodyear,Goodyear High School,4A,West Valley,4A,West Valley,West,Mavericks,33.4535612,-112.4306862
 Greenway,Greenway High School,4A,Skyline,4A,Skyline,Central,Demons,33.6275255,-112.1445573
@@ -89,7 +91,8 @@ Heritage Acad Gateway,Heritage Academy Gateway,3A,East,3A,East,East,Heroes,33.27
 Heritage Acad Laveen,Heritage Academy Laveen,2A,Valley,2A,Valley,Central,Heroes,33.3765814,-112.1500454
 Heritage Acad Maricopa,Copper Sky Recreation Complex,3A,East,3A,East,East,Heroes,33.0413041,-112.043562
 Heritage Acad Mesa,Lehi Sports Complex,2A,West,2A,West,,Heroes,,
-Highland,Highland High School,3A,West,3A,West,East,Hawks,33.361238,-111.6982663
+Highland,Highland High School,6A,Fiesta,6A,Fiesta,East,Hawks,33.361238,-111.6982663
+Highland Prep,Highland Prep,3A,West,3A,West,West,Honey Badgers,33.4487148,-112.3222501
 Highland Prep West,Highland Prep West,3A,West,3A,West,West,Hornets,33.4487148,-112.3222501
 Higley,Higley High School,6A,Fiesta,6A,Fiesta,East,Knights,33.2953484,-111.7008863
 Horizon,Horizon High School,5A,East Sky,5A,East Sky,Central,Huskies,33.6248092,-111.956994
@@ -97,7 +100,8 @@ Horizon Honors,Pecos Park,2A,Valley,2A,Valley,East,Eagles,33.2922226,-111.979979
 Independence,Independence High School,5A,Central Valley,5A,Central Valley,West,Patriots,33.531846,-112.2227175
 Ironwood,Ironwood High School,5A,Northwest Valley,5A,Northwest Valley,West,Eagles,33.601648,-112.1881423
 Ironwood Ridge,Ironwood Ridge High School,4A,Kino,4A,Kino,Tucson,Nighthawks,32.4080642,-111.0227451
-Kingman,Kingman High School,2A,West,2A,West,Outlying,Bulldogs,35.2235942,-114.0280521
+Kingman,Kingman High School,3A,West,3A,West,Outlying,Bulldogs,35.2235942,-114.0280521
+Kingman Academy,Kingman Academy High School,2A,West,2A,West,,Tigers,,
 Kofa,Kofa High School,4A,West Valley,4A,West Valley,Outlying,Kings,32.6731379,-114.6366967
 La Joya Community,La Joya Community High School,6A,Metro,6A,Metro,West,Lobos,33.4260435,-112.3095852
 Lake Havasu,Lake Havasu High School,5A,Central Valley,5A,Central Valley,Outlying,Knights,34.4934617,-114.3189515
@@ -108,7 +112,8 @@ Madison Highland,Madison Highland Prep,3A,Metro,3A,Metro,,Heat,,
 Marana,Marana High School,6A,Metro,6A,Metro,Outlying,Tigers,32.3694427,-111.221615
 Marcos de Niza,Marcos de Niza High School,4A,Black Canyon,4A,Black Canyon,East,Padres,33.3654377,-111.9221382
 Maricopa,Maricopa High School,5A,Metro,5A,Metro,East,Rams,33.0553267,-112.0524039
-Maryvale,Maryvale High School,2A,West,2A,West,West,Panthers,33.4894088,-112.1830276
+Maryvale,Maryvale High School,6A,Metro,6A,Metro,West,Panthers,33.4894088,-112.1830276
+Maryvale Prep,Maryvale Prep Academy,2A,West,2A,West,West,Matadors,33.4665137,-112.1568625
 McClintock,McClintock High School,5A,Metro,5A,Metro,East,Chargers,33.3982295,-111.9066165
 Mesa,Mesa High School,6A,East Valley,6A,East Valley,East,Jackrabbits,33.3971274,-111.7947047
 Mesquite,Mesquite High School,4A,Desert Sky,4A,Desert Sky,East,Wildcats,33.3417185,-111.8276049
@@ -183,7 +188,8 @@ Sunnyside,Sunnyside High School,6A,Fiesta,6A,Fiesta,Tucson,Blue Devils,32.143406
 Sunnyslope,Sunnyslope High School,6A,Central,6A,Central,Central,Vikings,33.5657279,-112.0761824
 Sunrise Mountain,Sunrise Mountain High School,5A,Northwest Valley,5A,Northwest Valley,West,Mustangs,33.6760935,-112.2403262
 Tanque Verde,Tanque Verde High School,3A,South,3A,South,Tucson,Hawks,32.285016,-110.7573025
-Tempe,Tempe High School,2A,Valley,2A,Valley,Central,Buffaloes,33.4089173,-111.9417254
+Tempe,Tempe High School,4A,Black Canyon,4A,Black Canyon,Central,Buffaloes,33.4089173,-111.9417254
+Tempe Prep,Tempe Sports Complex,2A,Valley,2A,Valley,East,Knights,33.3393545,-111.9518129
 Thatcher,EAC Mickelson Field,3A,South,3A,South,Outlying,Eagles,32.8411288,-109.7536145
 The Gregory School,The Gregory School,2A,South,,,Tucson,Hawks,32.2659209,-110.877483
 Thunderbird,Thunderbird High School,4A,Skyline,4A,Skyline,Central,Titans,33.6129668,-112.0970122
