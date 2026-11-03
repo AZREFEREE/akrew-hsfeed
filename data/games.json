@@ -51602,6 +51602,36 @@
   },
   {
    "away": {
+    "mascot": "Roadrunners",
+    "name": "San Tan Charter",
+    "program": "12592",
+    "squad": "jv",
+    "team": "234783"
+   },
+   "date": "2027-01-07",
+   "gender": "boys",
+   "home": {
+    "mascot": "Chargers",
+    "name": "Benjamin Franklin",
+    "program": "4354",
+    "squad": "jv",
+    "team": "213694"
+   },
+   "id": "2573140",
+   "level": "JV",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "Benjamin Franklin High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Knights",
     "name": "Tempe Prep",
     "program": "1465",
@@ -65437,6 +65467,64 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "",
+    "name": "Palo Verde Valley (CA) (Blythe CA)",
+    "program": "4622",
+    "squad": "jv",
+    "team": "234794"
+   },
+   "date": "2027-01-12",
+   "gender": "boys",
+   "home": {
+    "mascot": "Criminals",
+    "name": "Yuma",
+    "program": "3017",
+    "squad": "jv",
+    "team": "213896"
+   },
+   "id": "2573102",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Yuma High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "",
+    "name": "Palo Verde Valley (CA) (Blythe CA)",
+    "program": "4834",
+    "squad": "jv",
+    "team": "234795"
+   },
+   "date": "2027-01-12",
+   "gender": "girls",
+   "home": {
+    "mascot": "Criminals",
+    "name": "Yuma",
+    "program": "3018",
+    "squad": "jv",
+    "team": "213900"
+   },
+   "id": "2573103",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Yuma High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -137925,7 +138013,17 @@
    "location": "Salpointe Catholic High School",
    "name": "Brandon Bean Soccer Tournament",
    "tags": [
-    "Invitational"
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
    ]
   },
   {
@@ -137936,7 +138034,17 @@
    "location": "Salpointe Catholic High School",
    "name": "Kelly Pierce Women's Soccer Tournament",
    "tags": [
-    "Invitational"
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
    ]
   },
   {
@@ -137985,6 +138093,9 @@
    "name": "ALA Gold Cup",
    "tags": [
     "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
     "Freedom",
     "Freedom",
     "Freedom",
@@ -138142,5 +138253,5 @@
    ]
   }
  ],
- "updated": "2026-11-03T16:08:01+00:00"
+ "updated": "2026-11-03T21:49:51+00:00"
 }
