@@ -40,6 +40,22 @@ class Parsers(unittest.TestCase):
         self.assertEqual(events[0]["location"], "Maryvale High School")
         self.assertEqual(events[0]["date"], "2026-12-03")
 
+    def test_squad_level(self):
+        # second JV / frosh-soph games are listed on the JV page; the team links say which they are
+        jv = {"squad": "jv"}
+        jv2 = {"squad": "jv-2"}
+        frso = {"squad": "frso"}
+        var = {"squad": "varsity"}
+        self.assertEqual(H.game_level("JV", jv, jv), "JV")
+        self.assertEqual(H.game_level("JV", jv2, frso), "Freshman/Sophomore")
+        self.assertEqual(H.game_level("JV", jv, frso), "Freshman/Sophomore")
+        self.assertEqual(H.game_level("Varsity", var, var), "Varsity")
+        self.assertEqual(H.game_level("JV", {"squad": None}, jv2), "JV")  # missing link: page level
+        self.assertEqual(H.game_level("JV", var, var), "JV")  # never above its page
+        g = H._team(H.parse_html('<span class="away"><a href="http://azpreps365.com/teams/soccer-winter-girls/1308-highland/227972-jv-2">Highland <em class="mascot">Hawks</em></a></span>').find(cls="away"))
+        self.assertEqual(g["squad"], "jv-2")
+        self.assertEqual(g["name"], "Highland")
+
     def test_tba_time(self):
         games, _, _ = H.parse_schedule_page(fx("schedules_soccer_winter_boys_6a_varsity_page_2.html"), 2026)
         self.assertIsNone(games[0]["time"])
