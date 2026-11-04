@@ -1,33 +1,377 @@
 {
  "changes": [
   {
-   "game": {
-    "away": "Mountain Pointe",
-    "date": "2027-01-14",
-    "gender": "boys",
-    "home": "McClintock",
-    "level": "JV",
-    "location": "McClintock High School",
-    "tags": [],
-    "time": "16:00"
+   "fields": {
+    "date": [
+     "2027-01-12",
+     "2027-01-11"
+    ]
    },
-   "id": "2573169",
-   "kind": "added"
+   "game": {
+    "away": "Basha",
+    "date": "2027-01-11",
+    "gender": "boys",
+    "home": "Mountain Ridge",
+    "level": "Freshman/Sophomore",
+    "location": "Mountain Ridge High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2569396",
+   "kind": "changed"
   },
   {
    "game": {
-    "away": "Mountain Pointe",
-    "date": "2027-02-02",
+    "away": "Willow Canyon",
+    "date": "2027-01-29",
     "gender": "boys",
-    "home": "Horizon",
-    "level": "JV",
-    "location": "Horizon High School",
+    "home": "Paradise Valley",
+    "level": "Freshman/Sophomore",
+    "location": "Paradise Valley High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2573171",
+   "id": "2573517",
    "kind": "added"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-18",
+     "2027-01-07"
+    ]
+   },
+   "game": {
+    "away": "Sahuarita",
+    "date": "2027-01-07",
+    "gender": "boys",
+    "home": "Tanque Verde",
+    "level": "Varsity",
+    "location": "Tanque Verde High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2514769",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-09",
+     "2027-01-08"
+    ]
+   },
+   "game": {
+    "away": "Mesquite",
+    "date": "2027-01-08",
+    "gender": "boys",
+    "home": "Marcos de Niza",
+    "level": "Varsity",
+    "location": "Marcos de Niza High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2485264",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-18",
+     "2027-01-07"
+    ]
+   },
+   "game": {
+    "away": "Sahuarita",
+    "date": "2027-01-07",
+    "gender": "boys",
+    "home": "Tanque Verde",
+    "level": "JV",
+    "location": "Tanque Verde High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2514770",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-09",
+     "2027-01-08"
+    ]
+   },
+   "game": {
+    "away": "Mesquite",
+    "date": "2027-01-08",
+    "gender": "boys",
+    "home": "Marcos de Niza",
+    "level": "JV",
+    "location": "Marcos de Niza High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2485265",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-04",
+     "2027-01-11"
+    ]
+   },
+   "game": {
+    "away": "Seton Catholic Prep",
+    "date": "2027-01-11",
+    "gender": "boys",
+    "home": "Yuma",
+    "level": "Varsity",
+    "location": "Yuma High School",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2522856",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-11-30",
+     "2027-01-06"
+    ]
+   },
+   "game": {
+    "away": "Chaparral",
+    "date": "2027-01-06",
+    "gender": "girls",
+    "home": "Desert Vista",
+    "level": "Varsity",
+    "location": "Desert Vista High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2463868",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "away": [
+     "Xavier Prep",
+     "Desert Vista"
+    ],
+    "home": [
+     "Desert Vista",
+     "Xavier Prep"
+    ],
+    "location": [
+     "Desert Vista High School",
+     "Xavier College Preparatory"
+    ]
+   },
+   "game": {
+    "away": "Desert Vista",
+    "date": "2027-01-28",
+    "gender": "girls",
+    "home": "Xavier Prep",
+    "level": "Varsity",
+    "location": "Xavier College Preparatory",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2465740",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-11-30",
+     "2027-01-06"
+    ]
+   },
+   "game": {
+    "away": "Chaparral",
+    "date": "2027-01-06",
+    "gender": "girls",
+    "home": "Desert Vista",
+    "level": "JV",
+    "location": "Desert Vista High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2463869",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2027-01-12",
+     "2027-01-11"
+    ]
+   },
+   "game": {
+    "away": "Mountain Ridge",
+    "date": "2027-01-11",
+    "gender": "girls",
+    "home": "Basha",
+    "level": "Freshman/Sophomore",
+    "location": "Basha High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2569397",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "away": [
+     "Xavier Prep",
+     "Desert Vista"
+    ],
+    "home": [
+     "Desert Vista",
+     "Xavier Prep"
+    ],
+    "location": [
+     "Desert Vista High School",
+     "Xavier College Preparatory"
+    ]
+   },
+   "game": {
+    "away": "Desert Vista",
+    "date": "2027-01-28",
+    "gender": "girls",
+    "home": "Xavier Prep",
+    "level": "JV",
+    "location": "Xavier College Preparatory",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2465741",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "time": [
+     "18:00",
+     "17:00"
+    ]
+   },
+   "game": {
+    "away": "Dysart",
+    "date": "2026-12-11",
+    "gender": "girls",
+    "home": "Barry Goldwater",
+    "level": "Varsity",
+    "location": "Barry Goldwater High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "17:00"
+   },
+   "id": "2485258",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-18",
+     "2027-01-08"
+    ]
+   },
+   "game": {
+    "away": "Tanque Verde",
+    "date": "2027-01-08",
+    "gender": "girls",
+    "home": "Sahuarita",
+    "level": "Varsity",
+    "location": "Sahuarita High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2514771",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-18",
+     "2027-01-08"
+    ]
+   },
+   "game": {
+    "away": "Tanque Verde",
+    "date": "2027-01-08",
+    "gender": "girls",
+    "home": "Sahuarita",
+    "level": "JV",
+    "location": "Sahuarita High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2514772",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-04",
+     "2027-01-11"
+    ]
+   },
+   "game": {
+    "away": "Seton Catholic Prep",
+    "date": "2027-01-11",
+    "gender": "girls",
+    "home": "Yuma",
+    "level": "Varsity",
+    "location": "Yuma High School",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:00"
+   },
+   "id": "2522857",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-03",
+     "2027-02-02"
+    ],
+    "time": [
+     "18:00",
+     "17:30"
+    ]
+   },
+   "game": {
+    "away": "Horizon Honors",
+    "date": "2027-02-02",
+    "gender": "girls",
+    "home": "Anthem Prep",
+    "level": "Varsity",
+    "location": "Anthem Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "17:30"
+   },
+   "id": "2440462",
+   "kind": "changed"
   }
  ],
- "run_at": "2026-11-04T16:22:52+00:00"
+ "run_at": "2026-11-04T21:59:22+00:00"
 }

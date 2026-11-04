@@ -2099,68 +2099,6 @@
   },
   {
    "away": {
-    "mascot": "Firebirds",
-    "name": "Chaparral",
-    "program": "1049",
-    "squad": "varsity",
-    "team": "223952"
-   },
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "mascot": "Thunder",
-    "name": "Desert Vista",
-    "program": "2036",
-    "squad": "varsity",
-    "team": "221666"
-   },
-   "id": "2463868",
-   "level": "Varsity",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Desert Vista High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Firebirds",
-    "name": "Chaparral",
-    "program": "1049",
-    "squad": "jv",
-    "team": "223954"
-   },
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "mascot": "Thunder",
-    "name": "Desert Vista",
-    "program": "2036",
-    "squad": "jv",
-    "team": "221668"
-   },
-   "id": "2463869",
-   "level": "JV",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Desert Vista High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Bobcats",
     "name": "Central",
     "program": "3634",
@@ -7035,37 +6973,6 @@
   },
   {
    "away": {
-    "mascot": "Eagles",
-    "name": "Horizon Honors",
-    "program": "1114",
-    "squad": "varsity",
-    "team": "227590"
-   },
-   "date": "2026-12-03",
-   "gender": "girls",
-   "home": {
-    "mascot": "Eagles",
-    "name": "Anthem Prep",
-    "program": "7378",
-    "squad": "varsity",
-    "team": "215444"
-   },
-   "id": "2440462",
-   "level": "Varsity",
-   "listed_in": [
-    "2A"
-   ],
-   "location": "Anthem Preparatory Academy",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Tigers",
     "name": "Globe",
     "program": "1596",
@@ -9283,68 +9190,6 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Sentinels",
-    "name": "Seton Catholic Prep",
-    "program": "2958",
-    "squad": "varsity",
-    "team": "217540"
-   },
-   "date": "2026-12-04",
-   "gender": "boys",
-   "home": {
-    "mascot": "Criminals",
-    "name": "Yuma",
-    "program": "3017",
-    "squad": "varsity",
-    "team": "213894"
-   },
-   "id": "2522856",
-   "level": "Varsity",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Yuma High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Sentinels",
-    "name": "Seton Catholic Prep",
-    "program": "2959",
-    "squad": "varsity",
-    "team": "217542"
-   },
-   "date": "2026-12-04",
-   "gender": "girls",
-   "home": {
-    "mascot": "Criminals",
-    "name": "Yuma",
-    "program": "3018",
-    "squad": "varsity",
-    "team": "213898"
-   },
-   "id": "2522857",
-   "level": "Varsity",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Yuma High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
    "time": "16:00",
    "time_raw": "4:00 pm"
   },
@@ -22108,66 +21953,6 @@
   },
   {
    "away": {
-    "mascot": "Wildcats",
-    "name": "Mesquite",
-    "program": "384",
-    "squad": "varsity",
-    "team": "216636"
-   },
-   "date": "2026-12-09",
-   "gender": "boys",
-   "home": {
-    "mascot": "Padres",
-    "name": "Marcos de Niza",
-    "program": "1732",
-    "squad": "varsity",
-    "team": "227340"
-   },
-   "id": "2485264",
-   "level": "Varsity",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Marcos de Niza High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Wildcats",
-    "name": "Mesquite",
-    "program": "384",
-    "squad": "jv",
-    "team": "216638"
-   },
-   "date": "2026-12-09",
-   "gender": "boys",
-   "home": {
-    "mascot": "Padres",
-    "name": "Marcos de Niza",
-    "program": "1732",
-    "squad": "jv",
-    "team": "227342"
-   },
-   "id": "2485265",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Marcos de Niza High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Padres",
     "name": "Marcos de Niza",
     "program": "1733",
@@ -29292,8 +29077,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -41927,130 +41712,6 @@
   },
   {
    "away": {
-    "mascot": "Mustangs",
-    "name": "Sahuarita",
-    "program": "409",
-    "squad": "varsity",
-    "team": "213022"
-   },
-   "date": "2026-12-18",
-   "gender": "boys",
-   "home": {
-    "mascot": "Hawks",
-    "name": "Tanque Verde",
-    "program": "418",
-    "squad": "varsity",
-    "team": "228394"
-   },
-   "id": "2514769",
-   "level": "Varsity",
-   "listed_in": [
-    "3A",
-    "4A"
-   ],
-   "location": "Tanque Verde High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Mustangs",
-    "name": "Sahuarita",
-    "program": "409",
-    "squad": "jv",
-    "team": "213024"
-   },
-   "date": "2026-12-18",
-   "gender": "boys",
-   "home": {
-    "mascot": "Hawks",
-    "name": "Tanque Verde",
-    "program": "418",
-    "squad": "jv",
-    "team": "228396"
-   },
-   "id": "2514770",
-   "level": "JV",
-   "listed_in": [
-    "3A",
-    "4A"
-   ],
-   "location": "Tanque Verde High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Hawks",
-    "name": "Tanque Verde",
-    "program": "461",
-    "squad": "varsity",
-    "team": "228398"
-   },
-   "date": "2026-12-18",
-   "gender": "girls",
-   "home": {
-    "mascot": "Mustangs",
-    "name": "Sahuarita",
-    "program": "454",
-    "squad": "varsity",
-    "team": "213026"
-   },
-   "id": "2514771",
-   "level": "Varsity",
-   "listed_in": [
-    "3A",
-    "4A"
-   ],
-   "location": "Sahuarita High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Hawks",
-    "name": "Tanque Verde",
-    "program": "461",
-    "squad": "jv",
-    "team": "228400"
-   },
-   "date": "2026-12-18",
-   "gender": "girls",
-   "home": {
-    "mascot": "Mustangs",
-    "name": "Sahuarita",
-    "program": "454",
-    "squad": "jv",
-    "team": "213028"
-   },
-   "id": "2514772",
-   "level": "JV",
-   "listed_in": [
-    "3A",
-    "4A"
-   ],
-   "location": "Sahuarita High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Knights",
     "name": "Gilbert Christian",
     "program": "3803",
@@ -45733,6 +45394,68 @@
     "6A"
    ],
    "location": "Corona del Sol High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Firebirds",
+    "name": "Chaparral",
+    "program": "1049",
+    "squad": "varsity",
+    "team": "223952"
+   },
+   "date": "2027-01-06",
+   "gender": "girls",
+   "home": {
+    "mascot": "Thunder",
+    "name": "Desert Vista",
+    "program": "2036",
+    "squad": "varsity",
+    "team": "221666"
+   },
+   "id": "2463868",
+   "level": "Varsity",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Desert Vista High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Firebirds",
+    "name": "Chaparral",
+    "program": "1049",
+    "squad": "jv",
+    "team": "223954"
+   },
+   "date": "2027-01-06",
+   "gender": "girls",
+   "home": {
+    "mascot": "Thunder",
+    "name": "Desert Vista",
+    "program": "2036",
+    "squad": "jv",
+    "team": "221668"
+   },
+   "id": "2463869",
+   "level": "JV",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Desert Vista High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -51043,6 +50766,68 @@
     "4A"
    ],
    "location": "Catalina Magnet High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "409",
+    "squad": "varsity",
+    "team": "213022"
+   },
+   "date": "2027-01-07",
+   "gender": "boys",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Tanque Verde",
+    "program": "418",
+    "squad": "varsity",
+    "team": "228394"
+   },
+   "id": "2514769",
+   "level": "Varsity",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Tanque Verde High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "409",
+    "squad": "jv",
+    "team": "213024"
+   },
+   "date": "2027-01-07",
+   "gender": "boys",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Tanque Verde",
+    "program": "418",
+    "squad": "jv",
+    "team": "228396"
+   },
+   "id": "2514770",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Tanque Verde High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -56822,6 +56607,66 @@
   },
   {
    "away": {
+    "mascot": "Wildcats",
+    "name": "Mesquite",
+    "program": "384",
+    "squad": "varsity",
+    "team": "216636"
+   },
+   "date": "2027-01-08",
+   "gender": "boys",
+   "home": {
+    "mascot": "Padres",
+    "name": "Marcos de Niza",
+    "program": "1732",
+    "squad": "varsity",
+    "team": "227340"
+   },
+   "id": "2485264",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Marcos de Niza High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Wildcats",
+    "name": "Mesquite",
+    "program": "384",
+    "squad": "jv",
+    "team": "216638"
+   },
+   "date": "2027-01-08",
+   "gender": "boys",
+   "home": {
+    "mascot": "Padres",
+    "name": "Marcos de Niza",
+    "program": "1732",
+    "squad": "jv",
+    "team": "227342"
+   },
+   "id": "2485265",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Marcos de Niza High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Rattlers",
     "name": "Crismon",
     "program": "13340",
@@ -58498,6 +58343,68 @@
     "4A"
    ],
    "location": "Sahuaro High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Hawks",
+    "name": "Tanque Verde",
+    "program": "461",
+    "squad": "varsity",
+    "team": "228398"
+   },
+   "date": "2027-01-08",
+   "gender": "girls",
+   "home": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "454",
+    "squad": "varsity",
+    "team": "213026"
+   },
+   "id": "2514771",
+   "level": "Varsity",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Sahuarita High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Hawks",
+    "name": "Tanque Verde",
+    "program": "461",
+    "squad": "jv",
+    "team": "228400"
+   },
+   "date": "2027-01-08",
+   "gender": "girls",
+   "home": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "454",
+    "squad": "jv",
+    "team": "213028"
+   },
+   "id": "2514772",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Sahuarita High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -63327,6 +63234,68 @@
   },
   {
    "away": {
+    "mascot": "Sentinels",
+    "name": "Seton Catholic Prep",
+    "program": "2958",
+    "squad": "varsity",
+    "team": "217540"
+   },
+   "date": "2027-01-11",
+   "gender": "boys",
+   "home": {
+    "mascot": "Criminals",
+    "name": "Yuma",
+    "program": "3017",
+    "squad": "varsity",
+    "team": "213894"
+   },
+   "id": "2522856",
+   "level": "Varsity",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Yuma High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Sentinels",
+    "name": "Seton Catholic Prep",
+    "program": "2959",
+    "squad": "varsity",
+    "team": "217542"
+   },
+   "date": "2027-01-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Criminals",
+    "name": "Yuma",
+    "program": "3018",
+    "squad": "varsity",
+    "team": "213898"
+   },
+   "id": "2522857",
+   "level": "Varsity",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Yuma High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Mavericks",
     "name": "Andrada Polytechnic",
     "program": "12846",
@@ -63813,6 +63782,64 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bears",
+    "name": "Basha",
+    "program": "2796",
+    "squad": "frso",
+    "team": "225065"
+   },
+   "date": "2027-01-11",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mountain Lions",
+    "name": "Mountain Ridge",
+    "program": "3443",
+    "squad": "jv-2",
+    "team": "219211"
+   },
+   "id": "2569396",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Mountain Ridge High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mountain Lions",
+    "name": "Mountain Ridge",
+    "program": "3444",
+    "squad": "jv-2",
+    "team": "219217"
+   },
+   "date": "2027-01-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Bears",
+    "name": "Basha",
+    "program": "2797",
+    "squad": "jv-2",
+    "team": "225071"
+   },
+   "id": "2569397",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Basha High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -65379,64 +65406,6 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Bears",
-    "name": "Basha",
-    "program": "2796",
-    "squad": "frso",
-    "team": "225065"
-   },
-   "date": "2027-01-12",
-   "gender": "boys",
-   "home": {
-    "mascot": "Mountain Lions",
-    "name": "Mountain Ridge",
-    "program": "3443",
-    "squad": "jv-2",
-    "team": "219211"
-   },
-   "id": "2569396",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Mountain Ridge High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Mountain Lions",
-    "name": "Mountain Ridge",
-    "program": "3444",
-    "squad": "jv-2",
-    "team": "219217"
-   },
-   "date": "2027-01-12",
-   "gender": "girls",
-   "home": {
-    "mascot": "Bears",
-    "name": "Basha",
-    "program": "2797",
-    "squad": "jv-2",
-    "team": "225071"
-   },
-   "id": "2569397",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Basha High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -112392,27 +112361,27 @@
   },
   {
    "away": {
-    "mascot": "Gators",
-    "name": "Xavier Prep",
-    "program": "3850",
-    "squad": "varsity",
-    "team": "214216"
-   },
-   "date": "2027-01-28",
-   "gender": "girls",
-   "home": {
     "mascot": "Thunder",
     "name": "Desert Vista",
     "program": "2036",
     "squad": "varsity",
     "team": "221666"
    },
+   "date": "2027-01-28",
+   "gender": "girls",
+   "home": {
+    "mascot": "Gators",
+    "name": "Xavier Prep",
+    "program": "3850",
+    "squad": "varsity",
+    "team": "214216"
+   },
    "id": "2465740",
    "level": "Varsity",
    "listed_in": [
     "6A"
    ],
-   "location": "Desert Vista High School",
+   "location": "Xavier College Preparatory",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -112423,27 +112392,27 @@
   },
   {
    "away": {
-    "mascot": "Gators",
-    "name": "Xavier Prep",
-    "program": "3850",
-    "squad": "jv",
-    "team": "214218"
-   },
-   "date": "2027-01-28",
-   "gender": "girls",
-   "home": {
     "mascot": "Thunder",
     "name": "Desert Vista",
     "program": "2036",
     "squad": "jv",
     "team": "221668"
    },
+   "date": "2027-01-28",
+   "gender": "girls",
+   "home": {
+    "mascot": "Gators",
+    "name": "Xavier Prep",
+    "program": "3850",
+    "squad": "jv",
+    "team": "214218"
+   },
    "id": "2465741",
    "level": "JV",
    "listed_in": [
     "6A"
    ],
-   "location": "Desert Vista High School",
+   "location": "Xavier College Preparatory",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -119460,6 +119429,35 @@
   },
   {
    "away": {
+    "mascot": "Wildcats",
+    "name": "Willow Canyon",
+    "program": "1527",
+    "squad": "frso",
+    "team": "215798"
+   },
+   "date": "2027-01-29",
+   "gender": "boys",
+   "home": {
+    "mascot": "Trojans",
+    "name": "Paradise Valley",
+    "program": "1229",
+    "squad": "frso",
+    "team": "226720"
+   },
+   "id": "2573517",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Paradise Valley High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Falcons",
     "name": "Veritas Prep",
     "program": "2749",
@@ -125217,6 +125215,37 @@
    ],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
+    "name": "Horizon Honors",
+    "program": "1114",
+    "squad": "varsity",
+    "team": "227590"
+   },
+   "date": "2027-02-02",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Anthem Prep",
+    "program": "7378",
+    "squad": "varsity",
+    "team": "215444"
+   },
+   "id": "2440462",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Anthem Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "17:30",
+   "time_raw": "5:30 pm"
   },
   {
    "away": {
@@ -138188,6 +138217,13 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -138382,5 +138418,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T16:22:52+00:00"
+ "updated": "2026-11-04T21:59:22+00:00"
 }

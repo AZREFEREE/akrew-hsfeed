@@ -25,7 +25,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2463877,Nov 30,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Sunnyslope,Central,Central High School,5A/6A,2026-11-30
 2463867,Nov 30,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Desert Vista,Chaparral,Chaparral High School,5A/6A,2026-11-30
 2530155,Nov 30,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Yuma Catholic,Coolidge,Coolidge High School,3A,2026-11-30
-2463869,Nov 30,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Chaparral,Desert Vista,Desert Vista High School,5A/6A,2026-11-30
 2534591,Nov 30,4:00pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Ironwood Ridge,Flowing Wells,Flowing Wells High School,4A/5A,2026-11-30
 2463779,Nov 30,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Skyline,Gilbert,Gilbert High School,5A/6A,2026-11-30
 2535349,Nov 30,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,San Tan Foothills,Gilbert Christian,Gilbert Christian High School,3A,2026-11-30
@@ -70,7 +69,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2463866,Nov 30,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Desert Vista,Chaparral,Chaparral High School,5A/6A,2026-11-30
 2530154,Nov 30,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Yuma Catholic,Coolidge,Coolidge High School,3A,2026-11-30
 2463686,Nov 30,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Mountain Pointe,Desert Ridge,Desert Ridge High School,5A/6A,2026-11-30
-2463868,Nov 30,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Chaparral,Desert Vista,Desert Vista High School,5A/6A,2026-11-30
 2463778,Nov 30,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Skyline,Gilbert,Gilbert High School,5A/6A,2026-11-30
 2535348,Nov 30,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,San Tan Foothills,Gilbert Christian,Gilbert Christian High School,3A,2026-11-30
 2463794,Nov 30,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Hamilton,Higley,Higley High School,6A,2026-11-30
@@ -253,7 +251,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2448975,Dec 3,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Maryvale Prep,Wickenburg,Wickenburg High School,2A,2026-12-03
 2539331,Dec 3,4:00pm,Girls Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Gila Ridge,Yuma,Yuma High School,3A/6A,2026-12-03
 2493806,Dec 3,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Coconino,ALA - QC,American Leadership Academy - QC,4A,2026-12-03
-2440462,Dec 3,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Horizon Honors,Anthem Prep,Anthem Preparatory Academy,2A,2026-12-03
 2440166,Dec 3,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Arizona Lutheran,Bourgade Catholic,Bourgade Catholic High School,2A,2026-12-03
 2497799,Dec 3,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Lee Williams,Cactus,Cactus High School,4A,2026-12-03
 2495136,Dec 3,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Flagstaff,Cactus Shadows,Cactus Shadows High School,4A,2026-12-03
@@ -297,7 +294,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2540618,Dec 4,4:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Highland Prep,San Tan Foothills,San Tan Foothills High School,3A,2026-12-04
 2464075,Dec 4,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Gila Ridge,Somerton,Somerton High School,4A/6A,2026-12-04
 2514993,Dec 4,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Sahuaro,Thatcher,EAC Mickelson Field,3A/4A,2026-12-04
-2522857,Dec 4,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Seton Catholic Prep,Yuma,Yuma High School,3A,2026-12-04
 2466199,Dec 4,5:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,San Luis,AZ College Prep,Arizona College Prep,6A,2026-12-04
 2572420,Dec 4,5:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,St. Augustine,Sahuaro,Sahuaro High School,2A/4A,2026-12-04
 2535391,Dec 4,5:30pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Gila Ridge,"Central (El Centro, CA)",Central (CA) (El Centro CA),6A,2026-12-04
@@ -316,7 +312,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2540619,Dec 4,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Highland Prep,San Tan Foothills,San Tan Foothills High School,3A,2026-12-04
 2464074,Dec 4,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Gila Ridge,Somerton,Somerton High School,4A/6A,2026-12-04
 2514992,Dec 4,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Sahuaro,Thatcher,EAC Mickelson Field,3A/4A,2026-12-04
-2522856,Dec 4,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Seton Catholic Prep,Yuma,Yuma High School,3A,2026-12-04
 2466198,Dec 4,7:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,San Luis,AZ College Prep,Arizona College Prep,6A,2026-12-04
 2534745,Dec 5,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Globe,San Tan Foothills,San Tan Foothills High School,2A/3A,2026-12-05
 2497368,Dec 7,1:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,ALA - QC,Flagstaff,Flagstaff High School,4A,2026-12-07
@@ -620,7 +615,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2464241,Dec 9,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Mountain View (Mesa),La Joya Community,La Joya Community High School,6A,2026-12-09
 2497822,Dec 9,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Peoria,Lee Williams,Lee Williams High School,4A,2026-12-09
 2447415,Dec 9,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Chandler Prep,Lincoln Prep,Lincoln Preparatory Academy,2A,2026-12-09
-2485265,Dec 9,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Mesquite,Marcos de Niza,Marcos de Niza High School,4A,2026-12-09
 2474297,Dec 9,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Skyline,Maricopa,Maricopa High School,5A,2026-12-09
 2474287,Dec 9,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Camelback,McClintock,McClintock High School,5A,2026-12-09
 2464261,Dec 9,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Desert Ridge,Mesa,Mesa High School,6A,2026-12-09
@@ -736,7 +730,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2464240,Dec 9,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Mountain View (Mesa),La Joya Community,La Joya Community High School,6A,2026-12-09
 2497821,Dec 9,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Peoria,Lee Williams,Lee Williams High School,4A,2026-12-09
 2447414,Dec 9,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Chandler Prep,Lincoln Prep,Lincoln Preparatory Academy,2A,2026-12-09
-2485264,Dec 9,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Mesquite,Marcos de Niza,Marcos de Niza High School,4A,2026-12-09
 2474295,Dec 9,6:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Skyline,Maricopa,Maricopa High School,5A,2026-12-09
 2474286,Dec 9,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Camelback,McClintock,McClintock High School,5A,2026-12-09
 2464260,Dec 9,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Desert Ridge,Mesa,Mesa High School,6A,2026-12-09
@@ -965,6 +958,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2515007,Dec 11,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Cienega,Walden Grove,Walden Grove High School,4A/5A,2026-12-11
 2477201,Dec 11,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Cortez,Washington,Washington High School,4A,2026-12-11
 2458678,Dec 11,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Lake Havasu,Willow Canyon,Willow Canyon High School,5A,2026-12-11
+2485258,Dec 11,5:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Dysart,Barry Goldwater,Barry Goldwater High School,4A,2026-12-11
 2530538,Dec 11,5:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Parker,Northwest Christian,Northwest Christian High,2A/3A,2026-12-11
 2488721,Dec 11,5:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Independence,Paradise Valley,Paradise Valley High School,5A,2026-12-11
 2517635,Dec 11,5:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Maryvale Prep,San Tan Charter,San Tan Charter High School,2A,2026-12-11
@@ -974,7 +968,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2485286,Dec 11,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Moon Valley,Agua Fria,Agua Fria High School,4A,2026-12-11
 2532732,Dec 11,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Globe,Apache Junction,Apache Junction High School,2A/3A,2026-12-11
 2476940,Dec 11,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Paradise Honors,Arcadia,Arcadia High School,4A,2026-12-11
-2485258,Dec 11,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Dysart,Barry Goldwater,Barry Goldwater High School,4A,2026-12-11
 2477010,Dec 11,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Shadow Mountain,Cactus,Cactus High School,4A,2026-12-11
 2497487,Dec 11,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Desert Sunrise,Cactus Shadows,Cactus Shadows High School,4A,2026-12-11
 2462805,Dec 11,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,ALA - Sierra Vista,Catalina,Catalina Magnet High School,2A,2026-12-11
@@ -1371,9 +1364,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2568995,Dec 18,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Tempe Prep,Maryvale Prep,Maryvale Prep Academy,2A,2026-12-18
 2493677,Dec 18,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Marcos de Niza,Mingus Union,Mingus Union High School,4A,2026-12-18
 2506111,Dec 18,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Catalina Foothills,Mountain View (Marana),Mountain View (Marana) High School,5A,2026-12-18
-2514772,Dec 18,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Tanque Verde,Sahuarita,Sahuarita High School,3A/4A,2026-12-18
 2512807,Dec 18,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Sabino,St. Augustine,St. Augustine Catholic High School,2A/3A,2026-12-18
-2514770,Dec 18,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Sahuarita,Tanque Verde,Tanque Verde High School,3A/4A,2026-12-18
 2474339,Dec 18,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Skyline,Verrado,Verrado High School,5A,2026-12-18
 2497297,Dec 18,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,St. Mary's,ALA - Gilbert North,American Leadership Academy - Gilbert,4A,2026-12-18
 2522360,Dec 18,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Gilbert Christian,Benjamin Franklin,Benjamin Franklin High School,3A,2026-12-18
@@ -1387,8 +1378,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2493676,Dec 18,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Marcos de Niza,Mingus Union,Mingus Union High School,4A,2026-12-18
 2506110,Dec 18,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Catalina Foothills,Mountain View (Marana),Mountain View (Marana) High School,5A,2026-12-18
 2512806,Dec 18,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,St. Augustine,Sabino,Sabino High School,2A/3A,2026-12-18
-2514771,Dec 18,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Tanque Verde,Sahuarita,Sahuarita High School,3A/4A,2026-12-18
-2514769,Dec 18,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Sahuarita,Tanque Verde,Tanque Verde High School,3A/4A,2026-12-18
 2474338,Dec 18,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Skyline,Verrado,Verrado High School,5A,2026-12-18
 2493627,Jan 4,3:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Dysart,Prescott,Prescott High School,4A,2027-01-04
 2491769,Jan 4,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Desert Edge,Centennial,Centennial High School,5A,2027-01-04
@@ -1509,6 +1498,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2480638,Jan 6,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Moon Valley,Deer Valley,Deer Valley High School,4A,2027-01-06
 2458243,Jan 6,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Sunrise Mountain,Desert Mountain,Desert Mountain High School,5A,2027-01-06
 2467696,Jan 6,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Cholla,Desert View,Desert View High School,5A,2027-01-06
+2463869,Jan 6,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Chaparral,Desert Vista,Desert Vista High School,5A/6A,2027-01-06
 2493655,Jan 6,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,ALA - QC,Dysart,Dysart High School,4A,2027-01-06
 2497542,Jan 6,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Mesquite,Eastmark,Eastmark High School,4A,2027-01-06
 2483611,Jan 6,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Sierra Linda,Estrella Foothills,Estrella Foothills High School,4A/5A,2027-01-06
@@ -1589,6 +1579,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2480637,Jan 6,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Moon Valley,Deer Valley,Deer Valley High School,4A,2027-01-06
 2458242,Jan 6,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Sunrise Mountain,Desert Mountain,Desert Mountain High School,5A,2027-01-06
 2467695,Jan 6,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Cholla,Desert View,Desert View High School,5A,2027-01-06
+2463868,Jan 6,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Chaparral,Desert Vista,Desert Vista High School,5A/6A,2027-01-06
 2493654,Jan 6,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,ALA - QC,Dysart,Dysart High School,4A,2027-01-06
 2497541,Jan 6,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Mesquite,Eastmark,Eastmark High School,4A,2027-01-06
 2483610,Jan 6,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Sierra Linda,Estrella Foothills,Estrella Foothills High School,4A/5A,2027-01-06
@@ -1666,6 +1657,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2534742,Jan 7,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,ALA - Radiance,San Tan Foothills,San Tan Foothills High School,3A,2027-01-07
 2447453,Jan 7,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Rancho Solano Prep,Scottsdale Prep,Scottsdale Preparatory Academy,2A,2027-01-07
 2537918,Jan 7,4:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,San Tan Foothills,Seton Catholic Prep,Seton Catholic High School,3A,2027-01-07
+2514770,Jan 7,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Sahuarita,Tanque Verde,Tanque Verde High School,3A/4A,2027-01-07
 2453173,Jan 7,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,San Pasqual,Trivium Prep,Trivium Preparatory Academy,2A,2027-01-07
 2448983,Jan 7,4:30pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Mountainside,Maryvale Prep,Maryvale Prep Academy,2A,2027-01-07
 2440329,Jan 7,4:30pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Anthem Prep,NFL Yet,NFL YET College Preparatory,2A,2027-01-07
@@ -1695,6 +1687,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2447452,Jan 7,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Rancho Solano Prep,Scottsdale Prep,Scottsdale Preparatory Academy,2A,2027-01-07
 2440320,Jan 7,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Tempe Prep,Sedona Red Rock,Sedona Red Rock,2A,2027-01-07
 2537919,Jan 7,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,San Tan Foothills,Seton Catholic Prep,Seton Catholic High School,3A,2027-01-07
+2514769,Jan 7,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Sahuarita,Tanque Verde,Tanque Verde High School,3A/4A,2027-01-07
 2440321,Jan 7,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Sedona Red Rock,Tempe Prep,Tempe Sports Complex,2A,2027-01-07
 2448982,Jan 7,6:30pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Mountainside,Maryvale Prep,Maryvale Prep Academy,2A,2027-01-07
 2447456,Jan 7,7:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Fountain Hills,Arete Prep,Arete Preparatory Academy,2A,2027-01-07
@@ -1765,6 +1758,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2464599,Jan 8,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Liberty,La Joya Community,La Joya Community High School,6A,2027-01-08
 2477568,Jan 8,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Alhambra,Lake Havasu,Lake Havasu High School,5A,2027-01-08
 2464601,Jan 8,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,La Joya Community,Liberty,Liberty High School,6A,2027-01-08
+2485265,Jan 8,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Mesquite,Marcos de Niza,Marcos de Niza High School,4A,2027-01-08
 2464610,Jan 8,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Apollo,Maryvale,Maryvale High School,6A,2027-01-08
 2474331,Jan 8,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,North,McClintock,McClintock High School,5A,2027-01-08
 2464627,Jan 8,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Canyon View,Mesa,Mesa High School,6A,2027-01-08
@@ -1782,6 +1776,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2458172,Jan 8,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,South Mountain,Raymond S. Kellis,Raymond S. Kellis High School,5A,2027-01-08
 2506191,Jan 8,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Canyon Del Oro,Rincon/University,Rincon High School,5A,2027-01-08
 2495151,Jan 8,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Flagstaff,Saguaro,Saguaro High School,4A,2027-01-08
+2514772,Jan 8,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Tanque Verde,Sahuarita,Sahuarita High School,3A/4A,2027-01-08
 2514672,Jan 8,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Walden Grove,Sahuaro,Sahuaro High School,4A,2027-01-08
 2506011,Jan 8,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Mountain View (Marana),Salpointe Catholic,Salpointe Catholic High School,5A,2027-01-08
 2464663,Jan 8,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Gilbert,Sandra Day O'Connor,Sandra Day O'Connor High School,6A,2027-01-08
@@ -1882,6 +1877,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2464598,Jan 8,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Liberty,La Joya Community,La Joya Community High School,6A,2027-01-08
 2477567,Jan 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Alhambra,Lake Havasu,Lake Havasu High School,5A,2027-01-08
 2464600,Jan 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,La Joya Community,Liberty,Liberty High School,6A,2027-01-08
+2485264,Jan 8,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Mesquite,Marcos de Niza,Marcos de Niza High School,4A,2027-01-08
 2474325,Jan 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Mountain Pointe,Maricopa,Maricopa High School,5A,2027-01-08
 2464609,Jan 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Apollo,Maryvale,Maryvale High School,6A,2027-01-08
 2474330,Jan 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,North,McClintock,McClintock High School,5A,2027-01-08
@@ -1900,6 +1896,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2458171,Jan 8,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,South Mountain,Raymond S. Kellis,Raymond S. Kellis High School,5A,2027-01-08
 2506190,Jan 8,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Canyon Del Oro,Rincon/University,Rincon High School,5A,2027-01-08
 2495150,Jan 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Flagstaff,Saguaro,Saguaro High School,4A,2027-01-08
+2514771,Jan 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Tanque Verde,Sahuarita,Sahuarita High School,3A/4A,2027-01-08
 2514671,Jan 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Walden Grove,Sahuaro,Sahuaro High School,4A,2027-01-08
 2506010,Jan 8,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Mountain View (Marana),Salpointe Catholic,Salpointe Catholic High School,5A,2027-01-08
 2460702,Jan 8,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Tombstone,San Miguel,Kino Sports Complex South,2A,2027-01-08
@@ -1945,8 +1942,10 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2468402,Jan 9,9:00am,Boys Winter Soccer,Varsity,,Regular Season,Region,Campo Verde,Notre Dame Prep,Notre Dame Preparatory,5A,2027-01-09
 2468403,Jan 9,11:00am,Boys Winter Soccer,JV,,Regular Season,Regular,Campo Verde,Notre Dame Prep,Notre Dame Preparatory,5A,2027-01-09
 2531676,Jan 11,2:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Heritage Acad Maricopa,Horizon Honors,Pecos Park,2A/3A,2027-01-11
+2569397,Jan 11,3:00pm,Girls Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Mountain Ridge,Basha,Basha High School,6A,2027-01-11
 2464314,Jan 11,3:00pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Corona del Sol,Highland,Highland High School,6A,2027-01-11
 2477607,Jan 11,3:00pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Betty H. Fairfax,Independence,Independence High School,5A,2027-01-11
+2569396,Jan 11,3:00pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Basha,Mountain Ridge,Mountain Ridge High School,6A,2027-01-11
 2464464,Jan 11,3:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Casteel,San Luis,San Luis High School,6A,2027-01-11
 2463903,Jan 11,3:30pm,Girls Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,San Luis,Kofa,Kofa High School,4A/6A,2027-01-11
 2531677,Jan 11,3:45pm,Boys Winter Soccer,JV,,Regular Season,Regular,Heritage Acad Maricopa,Horizon Honors,Pecos Park,2A/3A,2027-01-11
@@ -2020,6 +2019,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2504110,Jan 11,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Willow Canyon,Westview,Westview High School,5A,2027-01-11
 2449015,Jan 11,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Mohave Accelerated,Wickenburg,Wickenburg High School,2A,2027-01-11
 2504112,Jan 11,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Westview,Willow Canyon,Willow Canyon High School,5A,2027-01-11
+2522857,Jan 11,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Seton Catholic Prep,Yuma,Yuma High School,3A,2027-01-11
 2522845,Jan 11,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Gilbert Christian,Yuma Catholic,Yuma Catholic,3A,2027-01-11
 2464007,Jan 11,5:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Casteel,Canyon View,Canyon View High School,6A,2027-01-11
 2464313,Jan 11,5:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Corona del Sol,Highland,Highland High School,6A,2027-01-11
@@ -2099,13 +2099,12 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2504109,Jan 11,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Willow Canyon,Westview,Westview High School,5A,2027-01-11
 2449014,Jan 11,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Mohave Accelerated,Wickenburg,Wickenburg High School,2A,2027-01-11
 2504111,Jan 11,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Westview,Willow Canyon,Willow Canyon High School,5A,2027-01-11
+2522856,Jan 11,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Seton Catholic Prep,Yuma,Yuma High School,3A,2027-01-11
 2522844,Jan 11,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Gilbert Christian,Yuma Catholic,Yuma Catholic,3A,2027-01-11
 2464006,Jan 11,7:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Casteel,Canyon View,Canyon View High School,6A,2027-01-11
 2464312,Jan 11,7:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Corona del Sol,Highland,Highland High School,6A,2027-01-11
 2477605,Jan 11,7:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Betty H. Fairfax,Independence,Independence High School,5A,2027-01-11
 2514711,Jan 12,2:00pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Douglas,Ironwood Ridge,Ironwood Ridge High School,4A,2027-01-12
-2569397,Jan 12,3:00pm,Girls Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Mountain Ridge,Basha,Basha High School,6A,2027-01-12
-2569396,Jan 12,3:00pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Basha,Mountain Ridge,Mountain Ridge High School,6A,2027-01-12
 2573103,Jan 12,3:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Palo Verde Valley (CA) (Blythe CA),Yuma,Yuma High School,3A,2027-01-12
 2497279,Jan 12,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,ALA - West Foothills,ALA - Gilbert North,American Leadership Academy - Gilbert,4A,2027-01-12
 2481044,Jan 12,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Peoria,Arcadia,Arcadia High School,4A,2027-01-12
@@ -3698,7 +3697,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2465665,Jan 28,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Trevor G. Browne,Desert Ridge,Desert Ridge High School,6A,2027-01-28
 2497510,Jan 28,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Eastmark,Desert Sunrise,Desert Sunrise High School,4A,2027-01-28
 2467930,Jan 28,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Copper Canyon,Desert View,Desert View High School,5A,2027-01-28
-2465741,Jan 28,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Xavier Prep,Desert Vista,Desert Vista High School,6A,2027-01-28
 2465684,Jan 28,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Mountain View (Mesa),Dobson,Dobson High School,6A,2027-01-28
 2514508,Jan 28,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Walden Grove,Douglas,Douglas High School,4A,2027-01-28
 2485963,Jan 28,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Coronado,Dysart,Dysart High School,4A,2027-01-28
@@ -3766,6 +3764,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2465829,Jan 28,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Tucson,Westwood,Westwood High School,6A,2027-01-28
 2465781,Jan 28,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Sunnyside,Williams Field,Williams Field High School,6A,2027-01-28
 2468457,Jan 28,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Notre Dame Prep,Willow Canyon,Willow Canyon High School,5A,2027-01-28
+2465741,Jan 28,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Desert Vista,Xavier Prep,Xavier College Preparatory,6A,2027-01-28
 2459790,Jan 28,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Valley Vista,Youngker,Youngker High School,6A,2027-01-28
 2465767,Jan 28,5:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Casteel,AZ College Prep,Arizona College Prep,6A,2027-01-28
 2465758,Jan 28,5:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Hamilton,Basha,Basha High School,6A,2027-01-28
@@ -3813,7 +3812,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2465664,Jan 28,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Trevor G. Browne,Desert Ridge,Desert Ridge High School,6A,2027-01-28
 2497509,Jan 28,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Eastmark,Desert Sunrise,Desert Sunrise High School,4A,2027-01-28
 2467929,Jan 28,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Copper Canyon,Desert View,Desert View High School,5A,2027-01-28
-2465740,Jan 28,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Xavier Prep,Desert Vista,Desert Vista High School,6A,2027-01-28
 2465683,Jan 28,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Mountain View (Mesa),Dobson,Dobson High School,6A,2027-01-28
 2514507,Jan 28,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Walden Grove,Douglas,Douglas High School,4A,2027-01-28
 2485962,Jan 28,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Coronado,Dysart,Dysart High School,4A,2027-01-28
@@ -3890,6 +3888,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2465828,Jan 28,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Tucson,Westwood,Westwood High School,6A,2027-01-28
 2465780,Jan 28,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Sunnyside,Williams Field,Williams Field High School,6A,2027-01-28
 2468456,Jan 28,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Notre Dame Prep,Willow Canyon,Willow Canyon High School,5A,2027-01-28
+2465740,Jan 28,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Desert Vista,Xavier Prep,Xavier College Preparatory,6A,2027-01-28
 2459789,Jan 28,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Valley Vista,Youngker,Youngker High School,6A,2027-01-28
 2465766,Jan 28,7:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Casteel,AZ College Prep,Arizona College Prep,6A,2027-01-28
 2465757,Jan 28,7:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Hamilton,Basha,Basha High School,6A,2027-01-28
@@ -3919,6 +3918,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2514518,Jan 29,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Sahuarita,Mica Mountain,Mica Mountain High School,4A,2027-01-29
 2543237,Jan 29,4:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Veritas Prep,North Phoenix Preparatory,North Phoenix Preparatory,2A,2027-01-29
 2523878,Jan 29,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Trivium Prep,Northwest Christian,Northwest Christian High,2A/3A,2027-01-29
+2573517,Jan 29,4:00pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Willow Canyon,Paradise Valley,Paradise Valley High School,5A,2027-01-29
 2514516,Jan 29,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Mica Mountain,Sahuarita,Sahuarita High School,4A,2027-01-29
 2465805,Jan 29,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Canyon View,Sandra Day O'Connor,Sandra Day O'Connor High School,6A,2027-01-29
 2529117,Jan 29,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Phoenix Country Day,Scottsdale Christian,Scottsdale Christian Academy,2A,2027-01-29
@@ -4207,6 +4207,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2522841,Feb 2,5:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Seton Catholic Prep,Benjamin Franklin,Benjamin Franklin High School,3A,2027-02-02
 2505745,Feb 2,5:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Canyon Del Oro,Cholla,Cholla High Magnet School,5A,2027-02-02
 2474567,Feb 2,5:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Camelback,North,North High School,5A,2027-02-02
+2440462,Feb 2,5:30pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Horizon Honors,Anthem Prep,Anthem Preparatory Academy,2A,2027-02-02
 2447616,Feb 2,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Scottsdale Prep,ALA - Mesa North,American Leadership Academy - Mesa North,2A,2027-02-02
 2534743,Feb 2,6:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,San Tan Foothills,ALA - Radiance,American Leadership Academy - Radiance,3A,2027-02-02
 2522786,Feb 2,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Tonopah Valley,ALA - Vistancia,American Leadership Academy - Vistancia,3A,2027-02-02
