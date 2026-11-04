@@ -38843,8 +38843,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "13:00",
+   "time_raw": "1:00 pm"
   },
   {
    "away": {
@@ -38872,8 +38872,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -89696,6 +89696,66 @@
   },
   {
    "away": {
+    "mascot": "Chargers",
+    "name": "Benjamin Franklin",
+    "program": "4354",
+    "squad": "jv",
+    "team": "213694"
+   },
+   "date": "2027-01-20",
+   "gender": "boys",
+   "home": {
+    "mascot": "Badgers",
+    "name": "Prescott",
+    "program": "1645",
+    "squad": "jv",
+    "team": "215898"
+   },
+   "id": "2573160",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Prescott High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Chargers",
+    "name": "Benjamin Franklin",
+    "program": "4355",
+    "squad": "jv",
+    "team": "213702"
+   },
+   "date": "2027-01-20",
+   "gender": "girls",
+   "home": {
+    "mascot": "Badgers",
+    "name": "Prescott",
+    "program": "1646",
+    "squad": "jv",
+    "team": "215902"
+   },
+   "id": "2573161",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Prescott High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Coyotes",
     "name": "Arizona Lutheran",
     "program": "1146",
@@ -138233,6 +138293,17 @@
   {
    "date": "2026-12-28",
    "gender": "boys",
+   "id": "2559305",
+   "level": "Varsity",
+   "location": "Mountain View (Marana) High School",
+   "name": "2026 Mountain Lion Winter Cup",
+   "tags": [
+    "Invitational"
+   ]
+  },
+  {
+   "date": "2026-12-28",
+   "gender": "boys",
    "id": "2563890",
    "level": "Varsity",
    "location": "Independence High School",
@@ -138253,5 +138324,5 @@
    ]
   }
  ],
- "updated": "2026-11-03T21:49:51+00:00"
+ "updated": "2026-11-04T06:37:06+00:00"
 }

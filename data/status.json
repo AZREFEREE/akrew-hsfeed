@@ -1,16 +1,16 @@
 {
- "changes": 3,
+ "changes": 4,
  "errors": [],
- "games": 4561,
- "minutes": 28.8,
+ "games": 4563,
+ "minutes": 28.7,
  "quick": false,
  "rankings": 0,
  "rankings_last_season": 466,
  "requests": 167,
- "run_at": "2026-11-03T21:49:51+00:00",
+ "run_at": "2026-11-04T06:37:06+00:00",
  "schools": 217,
  "season": "2026-2027",
  "source": "https://azpreps365.com",
  "standings": 422,
- "tournament_days": 19
+ "tournament_days": 20
 }
