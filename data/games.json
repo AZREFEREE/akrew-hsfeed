@@ -74054,6 +74054,35 @@
   },
   {
    "away": {
+    "mascot": "Pride",
+    "name": "Mountain Pointe",
+    "program": "1837",
+    "squad": "jv",
+    "team": "235007"
+   },
+   "date": "2027-01-14",
+   "gender": "boys",
+   "home": {
+    "mascot": "Chargers",
+    "name": "McClintock",
+    "program": "2818",
+    "squad": "jv",
+    "team": "223772"
+   },
+   "id": "2573169",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "McClintock High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Knights",
     "name": "Tempe Prep",
     "program": "1465",
@@ -129253,6 +129282,35 @@
   },
   {
    "away": {
+    "mascot": "Pride",
+    "name": "Mountain Pointe",
+    "program": "1837",
+    "squad": "jv",
+    "team": "235007"
+   },
+   "date": "2027-02-02",
+   "gender": "boys",
+   "home": {
+    "mascot": "Huskies",
+    "name": "Horizon",
+    "program": "391",
+    "squad": "jv",
+    "team": "227120"
+   },
+   "id": "2573171",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Horizon High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Eagles",
     "name": "Phoenix Country Day",
     "program": "10250",
@@ -138324,5 +138382,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T06:37:06+00:00"
+ "updated": "2026-11-04T16:22:52+00:00"
 }

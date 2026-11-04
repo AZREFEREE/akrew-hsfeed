@@ -1,75 +1,33 @@
 {
  "changes": [
   {
-   "fields": {
-    "time": [
-     "18:00",
-     "13:00"
-    ]
-   },
    "game": {
-    "away": "Deer Valley",
-    "date": "2026-12-16",
+    "away": "Mountain Pointe",
+    "date": "2027-01-14",
     "gender": "boys",
-    "home": "Barry Goldwater",
-    "level": "Varsity",
-    "location": "Barry Goldwater High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "13:00"
-   },
-   "id": "2476808",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "16:00",
-     "15:00"
-    ]
-   },
-   "game": {
-    "away": "Deer Valley",
-    "date": "2026-12-16",
-    "gender": "boys",
-    "home": "Barry Goldwater",
+    "home": "McClintock",
     "level": "JV",
-    "location": "Barry Goldwater High School",
+    "location": "McClintock High School",
     "tags": [],
-    "time": "15:00"
+    "time": "16:00"
    },
-   "id": "2476809",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Benjamin Franklin",
-    "date": "2027-01-20",
-    "gender": "boys",
-    "home": "Prescott",
-    "level": "JV",
-    "location": "Prescott High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2573160",
+   "id": "2573169",
    "kind": "added"
   },
   {
    "game": {
-    "away": "Benjamin Franklin",
-    "date": "2027-01-20",
-    "gender": "girls",
-    "home": "Prescott",
+    "away": "Mountain Pointe",
+    "date": "2027-02-02",
+    "gender": "boys",
+    "home": "Horizon",
     "level": "JV",
-    "location": "Prescott High School",
+    "location": "Horizon High School",
     "tags": [],
-    "time": "15:00"
+    "time": "16:00"
    },
-   "id": "2573161",
+   "id": "2573171",
    "kind": "added"
   }
  ],
- "run_at": "2026-11-04T06:37:06+00:00"
+ "run_at": "2026-11-04T16:22:52+00:00"
 }
