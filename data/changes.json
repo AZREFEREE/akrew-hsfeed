@@ -1,4 +1,277 @@
 {
- "changes": [],
- "run_at": "2026-11-05T06:57:21+00:00"
+ "changes": [
+  {
+   "fields": {
+    "away": [
+     "Kofa",
+     "Cibola"
+    ],
+    "home": [
+     "Cibola",
+     "Kofa"
+    ],
+    "location": [
+     "Cibola High School",
+     "Kofa High School"
+    ]
+   },
+   "game": {
+    "away": "Cibola",
+    "date": "2026-12-14",
+    "gender": "boys",
+    "home": "Kofa",
+    "level": "Freshman/Sophomore",
+    "location": "Kofa High School",
+    "tags": [],
+    "time": "17:00"
+   },
+   "id": "2464532",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2027-01-26",
+     "2027-01-25"
+    ]
+   },
+   "game": {
+    "away": "Lake Havasu",
+    "date": "2027-01-25",
+    "gender": "boys",
+    "home": "Independence",
+    "level": "Varsity",
+    "location": "Independence High School",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2483429",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "away": [
+     "Maricopa",
+     "Canyon Del Oro"
+    ],
+    "date": [
+     "2027-01-28",
+     "2027-01-29"
+    ],
+    "home": [
+     "Canyon Del Oro",
+     "Maricopa"
+    ],
+    "location": [
+     "Canyon Del Oro High School",
+     "Maricopa High School"
+    ]
+   },
+   "game": {
+    "away": "Canyon Del Oro",
+    "date": "2027-01-29",
+    "gender": "boys",
+    "home": "Maricopa",
+    "level": "Varsity",
+    "location": "Maricopa High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2530844",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2027-01-26",
+     "2027-01-25"
+    ]
+   },
+   "game": {
+    "away": "Lake Havasu",
+    "date": "2027-01-25",
+    "gender": "boys",
+    "home": "Independence",
+    "level": "JV",
+    "location": "Independence High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2483430",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2027-01-28",
+     "2027-01-29"
+    ],
+    "time": [
+     "16:00",
+     "18:00"
+    ]
+   },
+   "game": {
+    "away": "Maricopa",
+    "date": "2027-01-29",
+    "gender": "boys",
+    "home": "Canyon Del Oro",
+    "level": "JV",
+    "location": "Canyon Del Oro High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2530845",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Andrada Polytechnic",
+    "date": "2026-12-02",
+    "gender": "boys",
+    "home": "The Gregory School",
+    "level": "Varsity",
+    "location": "The Gregory School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "16:00"
+   },
+   "id": "2573651",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Heritage Acad Maricopa",
+    "date": "2026-12-11",
+    "gender": "boys",
+    "home": "San Tan Charter",
+    "level": "JV",
+    "location": "San Tan Charter High School",
+    "tags": [],
+    "time": "14:00"
+   },
+   "id": "2573654",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "date": [
+     "2027-01-26",
+     "2027-01-25"
+    ]
+   },
+   "game": {
+    "away": "Independence",
+    "date": "2027-01-25",
+    "gender": "girls",
+    "home": "Lake Havasu",
+    "level": "Varsity",
+    "location": "Lake Havasu High School",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2483431",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2027-01-28",
+     "2027-01-29"
+    ],
+    "time": [
+     "18:00",
+     "16:00"
+    ]
+   },
+   "game": {
+    "away": "Canyon Del Oro",
+    "date": "2027-01-29",
+    "gender": "girls",
+    "home": "Maricopa",
+    "level": "Varsity",
+    "location": "Maricopa High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "16:00"
+   },
+   "id": "2530846",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Shadow Mountain",
+    "date": "2026-11-30",
+    "gender": "girls",
+    "home": "Sierra Linda",
+    "level": "Freshman/Sophomore",
+    "location": "Sierra Linda High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2573607",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "date": [
+     "2027-01-26",
+     "2027-01-25"
+    ]
+   },
+   "game": {
+    "away": "Independence",
+    "date": "2027-01-25",
+    "gender": "girls",
+    "home": "Lake Havasu",
+    "level": "JV",
+    "location": "Lake Havasu High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2483432",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "away": [
+     "Canyon Del Oro",
+     "Maricopa"
+    ],
+    "date": [
+     "2027-01-28",
+     "2027-01-29"
+    ],
+    "home": [
+     "Maricopa",
+     "Canyon Del Oro"
+    ],
+    "location": [
+     "Maricopa High School",
+     "Canyon Del Oro High School"
+    ]
+   },
+   "game": {
+    "away": "Maricopa",
+    "date": "2027-01-29",
+    "gender": "girls",
+    "home": "Canyon Del Oro",
+    "level": "JV",
+    "location": "Canyon Del Oro High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2530847",
+   "kind": "changed"
+  }
+ ],
+ "run_at": "2026-11-05T16:31:46+00:00"
 }

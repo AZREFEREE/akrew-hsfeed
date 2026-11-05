@@ -2990,6 +2990,36 @@
   },
   {
    "away": {
+    "mascot": "Matadors",
+    "name": "Shadow Mountain",
+    "program": "446",
+    "squad": "jv",
+    "team": "223340"
+   },
+   "date": "2026-11-30",
+   "gender": "girls",
+   "home": {
+    "mascot": "Bulldogs",
+    "name": "Sierra Linda",
+    "program": "3422",
+    "squad": "frso",
+    "team": "215982"
+   },
+   "id": "2573607",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Sierra Linda High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Spartans",
     "name": "Scottsdale Prep",
     "program": "3726",
@@ -6906,6 +6936,38 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12846",
+    "squad": "varsity",
+    "team": "226960"
+   },
+   "date": "2026-12-02",
+   "gender": "boys",
+   "home": {
+    "mascot": "Hawks",
+    "name": "The Gregory School",
+    "program": "7786",
+    "squad": "varsity",
+    "team": "229370"
+   },
+   "id": "2573651",
+   "level": "Varsity",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "The Gregory School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
    "time": "16:00",
    "time_raw": "4:00 pm"
   },
@@ -30954,6 +31016,36 @@
   },
   {
    "away": {
+    "mascot": "Heroes",
+    "name": "Heritage Acad Maricopa",
+    "program": "15161",
+    "squad": "jv",
+    "team": "232507"
+   },
+   "date": "2026-12-11",
+   "gender": "boys",
+   "home": {
+    "mascot": "Roadrunners",
+    "name": "San Tan Charter",
+    "program": "12592",
+    "squad": "jv",
+    "team": "234783"
+   },
+   "id": "2573654",
+   "level": "JV",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "San Tan Charter High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Pumas",
     "name": "Perry",
     "program": "2164",
@@ -32196,20 +32288,20 @@
   },
   {
    "away": {
-    "mascot": "Kings",
-    "name": "Kofa",
-    "program": "3221",
-    "squad": "frso",
-    "team": "229466"
-   },
-   "date": "2026-12-14",
-   "gender": "boys",
-   "home": {
     "mascot": "Raiders",
     "name": "Cibola",
     "program": "383",
     "squad": "frso",
     "team": "217246"
+   },
+   "date": "2026-12-14",
+   "gender": "boys",
+   "home": {
+    "mascot": "Kings",
+    "name": "Kofa",
+    "program": "3221",
+    "squad": "frso",
+    "team": "229466"
    },
    "id": "2464532",
    "level": "Freshman/Sophomore",
@@ -32217,7 +32309,7 @@
     "4A",
     "6A"
    ],
-   "location": "Cibola High School",
+   "location": "Kofa High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
@@ -99004,6 +99096,126 @@
   },
   {
    "away": {
+    "mascot": "Knights",
+    "name": "Lake Havasu",
+    "program": "395",
+    "squad": "varsity",
+    "team": "217108"
+   },
+   "date": "2027-01-25",
+   "gender": "boys",
+   "home": {
+    "mascot": "Patriots",
+    "name": "Independence",
+    "program": "2899",
+    "squad": "varsity",
+    "team": "224738"
+   },
+   "id": "2483429",
+   "level": "Varsity",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Independence High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Knights",
+    "name": "Lake Havasu",
+    "program": "395",
+    "squad": "jv",
+    "team": "217110"
+   },
+   "date": "2027-01-25",
+   "gender": "boys",
+   "home": {
+    "mascot": "Patriots",
+    "name": "Independence",
+    "program": "2899",
+    "squad": "jv",
+    "team": "224740"
+   },
+   "id": "2483430",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Independence High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Patriots",
+    "name": "Independence",
+    "program": "2900",
+    "squad": "varsity",
+    "team": "224744"
+   },
+   "date": "2027-01-25",
+   "gender": "girls",
+   "home": {
+    "mascot": "Knights",
+    "name": "Lake Havasu",
+    "program": "440",
+    "squad": "varsity",
+    "team": "217112"
+   },
+   "id": "2483431",
+   "level": "Varsity",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Lake Havasu High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Patriots",
+    "name": "Independence",
+    "program": "2900",
+    "squad": "jv",
+    "team": "224746"
+   },
+   "date": "2027-01-25",
+   "gender": "girls",
+   "home": {
+    "mascot": "Knights",
+    "name": "Lake Havasu",
+    "program": "440",
+    "squad": "jv",
+    "team": "217114"
+   },
+   "id": "2483432",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Lake Havasu High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Bears",
     "name": "Bradshaw Mountain",
     "program": "2184",
@@ -105380,126 +105592,6 @@
     "5A"
    ],
    "location": "Alhambra High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Knights",
-    "name": "Lake Havasu",
-    "program": "395",
-    "squad": "varsity",
-    "team": "217108"
-   },
-   "date": "2027-01-26",
-   "gender": "boys",
-   "home": {
-    "mascot": "Patriots",
-    "name": "Independence",
-    "program": "2899",
-    "squad": "varsity",
-    "team": "224738"
-   },
-   "id": "2483429",
-   "level": "Varsity",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Independence High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Knights",
-    "name": "Lake Havasu",
-    "program": "395",
-    "squad": "jv",
-    "team": "217110"
-   },
-   "date": "2027-01-26",
-   "gender": "boys",
-   "home": {
-    "mascot": "Patriots",
-    "name": "Independence",
-    "program": "2899",
-    "squad": "jv",
-    "team": "224740"
-   },
-   "id": "2483430",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Independence High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Patriots",
-    "name": "Independence",
-    "program": "2900",
-    "squad": "varsity",
-    "team": "224744"
-   },
-   "date": "2027-01-26",
-   "gender": "girls",
-   "home": {
-    "mascot": "Knights",
-    "name": "Lake Havasu",
-    "program": "440",
-    "squad": "varsity",
-    "team": "217112"
-   },
-   "id": "2483431",
-   "level": "Varsity",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Lake Havasu High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Patriots",
-    "name": "Independence",
-    "program": "2900",
-    "squad": "jv",
-    "team": "224746"
-   },
-   "date": "2027-01-26",
-   "gender": "girls",
-   "home": {
-    "mascot": "Knights",
-    "name": "Lake Havasu",
-    "program": "440",
-    "squad": "jv",
-    "team": "217114"
-   },
-   "id": "2483432",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Lake Havasu High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -117877,126 +117969,6 @@
   },
   {
    "away": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1662",
-    "squad": "varsity",
-    "team": "228168"
-   },
-   "date": "2027-01-28",
-   "gender": "boys",
-   "home": {
-    "mascot": "Dorado",
-    "name": "Canyon Del Oro",
-    "program": "402",
-    "squad": "varsity",
-    "team": "229210"
-   },
-   "id": "2530844",
-   "level": "Varsity",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Canyon Del Oro High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1662",
-    "squad": "jv",
-    "team": "228170"
-   },
-   "date": "2027-01-28",
-   "gender": "boys",
-   "home": {
-    "mascot": "Dorado",
-    "name": "Canyon Del Oro",
-    "program": "402",
-    "squad": "jv",
-    "team": "229212"
-   },
-   "id": "2530845",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Canyon Del Oro High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Dorado",
-    "name": "Canyon Del Oro",
-    "program": "447",
-    "squad": "varsity",
-    "team": "229214"
-   },
-   "date": "2027-01-28",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1663",
-    "squad": "varsity",
-    "team": "228172"
-   },
-   "id": "2530846",
-   "level": "Varsity",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Maricopa High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Dorado",
-    "name": "Canyon Del Oro",
-    "program": "447",
-    "squad": "jv",
-    "team": "229216"
-   },
-   "date": "2027-01-28",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1663",
-    "squad": "jv",
-    "team": "228174"
-   },
-   "id": "2530847",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Maricopa High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Cougars",
     "name": "Phoenix Christian",
     "program": "1627",
@@ -119152,6 +119124,126 @@
    ],
    "time": "15:45",
    "time_raw": "3:45 pm"
+  },
+  {
+   "away": {
+    "mascot": "Dorado",
+    "name": "Canyon Del Oro",
+    "program": "402",
+    "squad": "varsity",
+    "team": "229210"
+   },
+   "date": "2027-01-29",
+   "gender": "boys",
+   "home": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1662",
+    "squad": "varsity",
+    "team": "228168"
+   },
+   "id": "2530844",
+   "level": "Varsity",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Maricopa High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1662",
+    "squad": "jv",
+    "team": "228170"
+   },
+   "date": "2027-01-29",
+   "gender": "boys",
+   "home": {
+    "mascot": "Dorado",
+    "name": "Canyon Del Oro",
+    "program": "402",
+    "squad": "jv",
+    "team": "229212"
+   },
+   "id": "2530845",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Canyon Del Oro High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Dorado",
+    "name": "Canyon Del Oro",
+    "program": "447",
+    "squad": "varsity",
+    "team": "229214"
+   },
+   "date": "2027-01-29",
+   "gender": "girls",
+   "home": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1663",
+    "squad": "varsity",
+    "team": "228172"
+   },
+   "id": "2530846",
+   "level": "Varsity",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Maricopa High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1663",
+    "squad": "jv",
+    "team": "228174"
+   },
+   "date": "2027-01-29",
+   "gender": "girls",
+   "home": {
+    "mascot": "Dorado",
+    "name": "Canyon Del Oro",
+    "program": "447",
+    "squad": "jv",
+    "team": "229216"
+   },
+   "id": "2530847",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Canyon Del Oro High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -138228,6 +138320,39 @@
    ]
   },
   {
+   "date": "2026-11-30",
+   "gender": "girls",
+   "id": "2573591",
+   "level": "Varsity",
+   "location": "3 venues",
+   "name": "Best of the West",
+   "tags": [
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
+   ]
+  },
+  {
    "date": "2026-12-01",
    "gender": "boys",
    "id": "2570500",
@@ -138418,5 +138543,5 @@
    ]
   }
  ],
- "updated": "2026-11-05T06:57:21+00:00"
+ "updated": "2026-11-05T16:31:46+00:00"
 }
