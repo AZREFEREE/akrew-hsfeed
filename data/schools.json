@@ -1843,7 +1843,6 @@
    "teams": {
     "boys": {
      "jv": "212552",
-     "jv-2": "212554",
      "varsity": "212550"
     },
     "girls": {
@@ -2174,7 +2173,6 @@
      "varsity": "220007"
     },
     "girls": {
-     "jv": "220013",
      "varsity": "220011"
     }
    },
@@ -2540,11 +2538,9 @@
    "school": "Highland Prep West",
    "teams": {
     "boys": {
-     "jv": "220453",
      "varsity": "220451"
     },
     "girls": {
-     "jv": "220457",
      "varsity": "220455"
     }
    },
@@ -5809,5 +5805,5 @@
    "venue": "Yuma Catholic"
   }
  ],
- "updated": "2026-11-06T12:11:30+00:00"
+ "updated": "2026-11-06T19:29:07+00:00"
 }

@@ -6998,6 +6998,36 @@
   },
   {
    "away": {
+    "mascot": "Bulldogs",
+    "name": "Douglas",
+    "program": "989",
+    "squad": "jv",
+    "team": "214418"
+   },
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "mascot": "Ravens",
+    "name": "Empire",
+    "program": "459",
+    "squad": "jv",
+    "team": "235002"
+   },
+   "id": "2574063",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Empire High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Coyotes",
     "name": "Arizona Lutheran",
     "program": "1146",
@@ -8333,6 +8363,68 @@
   {
    "away": {
     "mascot": "Eagles",
+    "name": "Anthem Prep",
+    "program": "7377",
+    "squad": "varsity",
+    "team": "215442"
+   },
+   "date": "2026-12-03",
+   "gender": "boys",
+   "home": {
+    "mascot": "Golden Eagles",
+    "name": "Bourgade Catholic",
+    "program": "1612",
+    "squad": "varsity",
+    "team": "219431"
+   },
+   "id": "2574045",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Bourgade Catholic High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
+    "name": "Anthem Prep",
+    "program": "7378",
+    "squad": "varsity",
+    "team": "215444"
+   },
+   "date": "2026-12-03",
+   "gender": "girls",
+   "home": {
+    "mascot": "Golden Eagles",
+    "name": "Bourgade Catholic",
+    "program": "7467",
+    "squad": "varsity",
+    "team": "219435"
+   },
+   "id": "2574046",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Bourgade Catholic High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:30",
+   "time_raw": "4:30 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
     "name": "Horizon Honors",
     "program": "1113",
     "squad": "varsity",
@@ -9249,35 +9341,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Lions",
-    "name": "St. John Paul II",
-    "program": "12296",
-    "squad": "jv",
-    "team": "212236"
-   },
-   "date": "2026-12-04",
-   "gender": "girls",
-   "home": {
-    "mascot": "Knights",
-    "name": "Gilbert Christian",
-    "program": "7394",
-    "squad": "jv",
-    "team": "220013"
-   },
-   "id": "2530246",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Gilbert Christian High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -16174,35 +16237,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Knights",
-    "name": "Gilbert Christian",
-    "program": "7394",
-    "squad": "jv",
-    "team": "220013"
-   },
-   "date": "2026-12-07",
-   "gender": "girls",
-   "home": {
-    "mascot": "Defenders",
-    "name": "ALA - Vistancia",
-    "program": "14711",
-    "squad": "jv",
-    "team": "222304"
-   },
-   "id": "2534586",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "American Leadership Academy - Vistancia",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -24291,6 +24325,35 @@
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mountain Lions",
+    "name": "Red Mountain",
+    "program": "2586",
+    "squad": "jv-2",
+    "team": "213446"
+   },
+   "date": "2026-12-09",
+   "gender": "girls",
+   "home": {
+    "mascot": "Colts",
+    "name": "Casteel",
+    "program": "7733",
+    "squad": "frso",
+    "team": "221792"
+   },
+   "id": "2574068",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Casteel High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
   },
   {
    "away": {
@@ -37435,35 +37498,6 @@
   },
   {
    "away": {
-    "mascot": "Knights",
-    "name": "Gilbert Christian",
-    "program": "7394",
-    "squad": "jv",
-    "team": "220013"
-   },
-   "date": "2026-12-15",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rangers",
-    "name": "ALA - Radiance",
-    "program": "15108",
-    "squad": "jv",
-    "team": "232286"
-   },
-   "id": "2533946",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "American Leadership Academy - Radiance",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Warriors",
     "name": "ALA - Ironwood",
     "program": "11388",
@@ -39983,8 +40017,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -40012,8 +40046,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -41310,6 +41344,65 @@
   },
   {
    "away": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "454",
+    "squad": "jv",
+    "team": "213028"
+   },
+   "date": "2026-12-17",
+   "gender": "girls",
+   "home": {
+    "mascot": "Ravens",
+    "name": "Empire",
+    "program": "459",
+    "squad": "jv",
+    "team": "235002"
+   },
+   "id": "2574069",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Empire High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Kings",
+    "name": "Kofa",
+    "program": "3222",
+    "squad": "frso",
+    "team": "229472"
+   },
+   "date": "2026-12-17",
+   "gender": "girls",
+   "home": {
+    "mascot": "Rams",
+    "name": "Washington",
+    "program": "1752",
+    "squad": "frso",
+    "team": "235039"
+   },
+   "id": "2574072",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Washington High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Rams",
     "name": "Maricopa",
     "program": "1663",
@@ -42037,35 +42130,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Chargers",
-    "name": "Benjamin Franklin",
-    "program": "4355",
-    "squad": "jv",
-    "team": "213702"
-   },
-   "date": "2026-12-18",
-   "gender": "girls",
-   "home": {
-    "mascot": "Knights",
-    "name": "Gilbert Christian",
-    "program": "7394",
-    "squad": "jv",
-    "team": "220013"
-   },
-   "id": "2522363",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Gilbert Christian High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -44150,35 +44214,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Hornets",
-    "name": "Highland Prep West",
-    "program": "14934",
-    "squad": "jv",
-    "team": "220453"
-   },
-   "date": "2027-01-05",
-   "gender": "boys",
-   "home": {
-    "mascot": "Minotaurs",
-    "name": "Odyssey Institute",
-    "program": "6937",
-    "squad": "jv",
-    "team": "223868"
-   },
-   "id": "2522421",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "The Odyssey for Advanced and International Studies",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "14:00",
-   "time_raw": "2:00 pm"
   },
   {
    "away": {
@@ -49288,38 +49323,6 @@
   },
   {
    "away": {
-    "mascot": "Trojans",
-    "name": "Catalina",
-    "program": "455",
-    "squad": "varsity",
-    "team": "228046"
-   },
-   "date": "2027-01-06",
-   "gender": "girls",
-   "home": {
-    "mascot": "Hawks",
-    "name": "Rio Rico",
-    "program": "457",
-    "squad": "varsity",
-    "team": "212428"
-   },
-   "id": "2514765",
-   "level": "Varsity",
-   "listed_in": [
-    "2A",
-    "4A"
-   ],
-   "location": "Rio Rico High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Eagles",
     "name": "Ironwood",
     "program": "2413",
@@ -49533,36 +49536,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Knights",
-    "name": "Gilbert Christian",
-    "program": "7394",
-    "squad": "jv",
-    "team": "220013"
-   },
-   "date": "2027-01-06",
-   "gender": "girls",
-   "home": {
-    "mascot": "Lancers",
-    "name": "Salpointe Catholic",
-    "program": "3697",
-    "squad": "jv",
-    "team": "212077"
-   },
-   "id": "2533537",
-   "level": "JV",
-   "listed_in": [
-    "3A",
-    "5A"
-   ],
-   "location": "Salpointe Catholic High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -51008,6 +50981,38 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Trojans",
+    "name": "Catalina",
+    "program": "455",
+    "squad": "varsity",
+    "team": "228046"
+   },
+   "date": "2027-01-07",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Rio Rico",
+    "program": "457",
+    "squad": "varsity",
+    "team": "212428"
+   },
+   "id": "2514765",
+   "level": "Varsity",
+   "listed_in": [
+    "2A",
+    "4A"
+   ],
+   "location": "Rio Rico High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -63439,35 +63444,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Shamrocks",
-    "name": "Yuma Catholic",
-    "program": "1407",
-    "squad": "jv",
-    "team": "215026"
-   },
-   "date": "2027-01-11",
-   "gender": "girls",
-   "home": {
-    "mascot": "Knights",
-    "name": "Gilbert Christian",
-    "program": "7394",
-    "squad": "jv",
-    "team": "220013"
-   },
-   "id": "2522847",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Gilbert Christian High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -78371,35 +78347,6 @@
   },
   {
    "away": {
-    "mascot": "Thunderbirds",
-    "name": "Mohave",
-    "program": "1676",
-    "squad": "jv",
-    "team": "218720"
-   },
-   "date": "2027-01-15",
-   "gender": "boys",
-   "home": {
-    "mascot": "Hornets",
-    "name": "Highland Prep West",
-    "program": "14934",
-    "squad": "jv",
-    "team": "220453"
-   },
-   "id": "2522493",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Highland Prep West",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Hornets",
     "name": "Highland Prep West",
     "program": "13318",
@@ -78428,35 +78375,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Hornets",
-    "name": "Highland Prep West",
-    "program": "13318",
-    "squad": "jv",
-    "team": "220457"
-   },
-   "date": "2027-01-15",
-   "gender": "girls",
-   "home": {
-    "mascot": "Thunderbirds",
-    "name": "Mohave",
-    "program": "1677",
-    "squad": "jv",
-    "team": "218724"
-   },
-   "id": "2522495",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Anderson Auto Group Fieldhouse",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -84077,35 +83995,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Crusaders",
-    "name": "Northwest Christian",
-    "program": "2531",
-    "squad": "jv",
-    "team": "223258"
-   },
-   "date": "2027-01-19",
-   "gender": "girls",
-   "home": {
-    "mascot": "Knights",
-    "name": "Gilbert Christian",
-    "program": "7394",
-    "squad": "jv",
-    "team": "220013"
-   },
-   "id": "2522881",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Gilbert Christian High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -90237,27 +90126,27 @@
   },
   {
    "away": {
-    "mascot": "Eagles",
-    "name": "Anthem Prep",
-    "program": "7377",
-    "squad": "varsity",
-    "team": "215442"
-   },
-   "date": "2027-01-21",
-   "gender": "boys",
-   "home": {
     "mascot": "Golden Eagles",
     "name": "Bourgade Catholic",
     "program": "1612",
     "squad": "varsity",
     "team": "219431"
    },
+   "date": "2027-01-21",
+   "gender": "boys",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Anthem Prep",
+    "program": "7377",
+    "squad": "varsity",
+    "team": "215442"
+   },
    "id": "2440393",
    "level": "Varsity",
    "listed_in": [
     "2A"
    ],
-   "location": "Bourgade Catholic High School",
+   "location": "Anthem Preparatory Academy",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -90268,27 +90157,27 @@
   },
   {
    "away": {
-    "mascot": "Eagles",
-    "name": "Anthem Prep",
-    "program": "7378",
-    "squad": "varsity",
-    "team": "215444"
-   },
-   "date": "2027-01-21",
-   "gender": "girls",
-   "home": {
     "mascot": "Golden Eagles",
     "name": "Bourgade Catholic",
     "program": "7467",
     "squad": "varsity",
     "team": "219435"
    },
+   "date": "2027-01-21",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Anthem Prep",
+    "program": "7378",
+    "squad": "varsity",
+    "team": "215444"
+   },
    "id": "2440394",
    "level": "Varsity",
    "listed_in": [
     "2A"
    ],
-   "location": "Bourgade Catholic High School",
+   "location": "Anthem Preparatory Academy",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -93716,35 +93605,6 @@
   },
   {
    "away": {
-    "mascot": "Hornets",
-    "name": "Highland Prep West",
-    "program": "14934",
-    "squad": "jv",
-    "team": "220453"
-   },
-   "date": "2027-01-21",
-   "gender": "boys",
-   "home": {
-    "mascot": "Defenders",
-    "name": "ALA - Vistancia",
-    "program": "14710",
-    "squad": "jv",
-    "team": "222300"
-   },
-   "id": "2522601",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "American Leadership Academy - Vistancia",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Defenders",
     "name": "ALA - Vistancia",
     "program": "14711",
@@ -93773,35 +93633,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Defenders",
-    "name": "ALA - Vistancia",
-    "program": "14711",
-    "squad": "jv",
-    "team": "222304"
-   },
-   "date": "2027-01-21",
-   "gender": "girls",
-   "home": {
-    "mascot": "Hornets",
-    "name": "Highland Prep West",
-    "program": "13318",
-    "squad": "jv",
-    "team": "220457"
-   },
-   "id": "2522603",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Highland Prep West",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -110835,35 +110666,6 @@
   },
   {
    "away": {
-    "mascot": "Crusaders",
-    "name": "Northwest Christian",
-    "program": "2530",
-    "squad": "jv",
-    "team": "223254"
-   },
-   "date": "2027-01-27",
-   "gender": "boys",
-   "home": {
-    "mascot": "Hornets",
-    "name": "Highland Prep West",
-    "program": "14934",
-    "squad": "jv",
-    "team": "220453"
-   },
-   "id": "2522743",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Highland Prep West",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Hornets",
     "name": "Highland Prep West",
     "program": "13318",
@@ -110892,35 +110694,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Hornets",
-    "name": "Highland Prep West",
-    "program": "13318",
-    "squad": "jv",
-    "team": "220457"
-   },
-   "date": "2027-01-27",
-   "gender": "girls",
-   "home": {
-    "mascot": "Crusaders",
-    "name": "Northwest Christian",
-    "program": "2531",
-    "squad": "jv",
-    "team": "223258"
-   },
-   "id": "2522745",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Northwest Christian High",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -119203,35 +118976,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Knights",
-    "name": "Gilbert Christian",
-    "program": "7394",
-    "squad": "jv",
-    "team": "220013"
-   },
-   "date": "2027-01-29",
-   "gender": "girls",
-   "home": {
-    "mascot": "Criminals",
-    "name": "Yuma",
-    "program": "3018",
-    "squad": "jv",
-    "team": "213900"
-   },
-   "id": "2522929",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Yuma High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -137845,35 +137589,6 @@
   },
   {
    "away": {
-    "mascot": "Hornets",
-    "name": "Highland Prep West",
-    "program": "14934",
-    "squad": "jv",
-    "team": "220453"
-   },
-   "date": "2027-02-04",
-   "gender": "boys",
-   "home": {
-    "mascot": "Lions",
-    "name": "St. John Paul II",
-    "program": "12295",
-    "squad": "jv",
-    "team": "212232"
-   },
-   "id": "2522809",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "St. John Paul II Catholic High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "13:30",
-   "time_raw": "1:30 pm"
-  },
-  {
-   "away": {
     "mascot": "Lions",
     "name": "St. John Paul II",
     "program": "12296",
@@ -137902,35 +137617,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Lions",
-    "name": "St. John Paul II",
-    "program": "12296",
-    "squad": "jv",
-    "team": "212236"
-   },
-   "date": "2027-02-04",
-   "gender": "girls",
-   "home": {
-    "mascot": "Hornets",
-    "name": "Highland Prep West",
-    "program": "13318",
-    "squad": "jv",
-    "team": "220457"
-   },
-   "id": "2522811",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Highland Prep West",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -138878,5 +138564,5 @@
    ]
   }
  ],
- "updated": "2026-11-06T12:11:30+00:00"
+ "updated": "2026-11-06T19:29:07+00:00"
 }

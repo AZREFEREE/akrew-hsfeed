@@ -1,4 +1,455 @@
 {
- "changes": [],
- "run_at": "2026-11-06T12:11:30+00:00"
+ "changes": [
+  {
+   "game": {
+    "away": "Anthem Prep",
+    "date": "2026-12-03",
+    "gender": "boys",
+    "home": "Bourgade Catholic",
+    "level": "Varsity",
+    "location": "Bourgade Catholic High School",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2574045",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "away": [
+     "Anthem Prep",
+     "Bourgade Catholic"
+    ],
+    "home": [
+     "Bourgade Catholic",
+     "Anthem Prep"
+    ],
+    "location": [
+     "Bourgade Catholic High School",
+     "Anthem Preparatory Academy"
+    ]
+   },
+   "game": {
+    "away": "Bourgade Catholic",
+    "date": "2027-01-21",
+    "gender": "boys",
+    "home": "Anthem Prep",
+    "level": "Varsity",
+    "location": "Anthem Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2440393",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Red Mountain",
+    "date": "2026-12-09",
+    "gender": "girls",
+    "home": "Casteel",
+    "level": "Freshman/Sophomore",
+    "location": "Casteel High School",
+    "tags": [],
+    "time": "14:00"
+   },
+   "id": "2574068",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "time": [
+     "18:00",
+     "19:00"
+    ]
+   },
+   "game": {
+    "away": "Kofa",
+    "date": "2026-12-17",
+    "gender": "girls",
+    "home": "Washington",
+    "level": "Varsity",
+    "location": "Washington High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "19:00"
+   },
+   "id": "2484001",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2027-01-06",
+     "2027-01-07"
+    ]
+   },
+   "game": {
+    "away": "Catalina",
+    "date": "2027-01-07",
+    "gender": "girls",
+    "home": "Rio Rico",
+    "level": "Varsity",
+    "location": "Rio Rico High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2514765",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Douglas",
+    "date": "2026-12-02",
+    "gender": "girls",
+    "home": "Empire",
+    "level": "JV",
+    "location": "Empire High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2574063",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Sahuarita",
+    "date": "2026-12-17",
+    "gender": "girls",
+    "home": "Empire",
+    "level": "JV",
+    "location": "Empire High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2574069",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "time": [
+     "16:00",
+     "17:00"
+    ]
+   },
+   "game": {
+    "away": "Kofa",
+    "date": "2026-12-17",
+    "gender": "girls",
+    "home": "Washington",
+    "level": "JV",
+    "location": "Washington High School",
+    "tags": [],
+    "time": "17:00"
+   },
+   "id": "2484002",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Kofa",
+    "date": "2026-12-17",
+    "gender": "girls",
+    "home": "Washington",
+    "level": "Freshman/Sophomore",
+    "location": "Washington High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2574072",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Anthem Prep",
+    "date": "2026-12-03",
+    "gender": "girls",
+    "home": "Bourgade Catholic",
+    "level": "Varsity",
+    "location": "Bourgade Catholic High School",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:30"
+   },
+   "id": "2574046",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "away": [
+     "Anthem Prep",
+     "Bourgade Catholic"
+    ],
+    "home": [
+     "Bourgade Catholic",
+     "Anthem Prep"
+    ],
+    "location": [
+     "Bourgade Catholic High School",
+     "Anthem Preparatory Academy"
+    ]
+   },
+   "game": {
+    "away": "Bourgade Catholic",
+    "date": "2027-01-21",
+    "gender": "girls",
+    "home": "Anthem Prep",
+    "level": "Varsity",
+    "location": "Anthem Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "16:30"
+   },
+   "id": "2440394",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "St. John Paul II",
+    "date": "2026-12-04",
+    "gender": "girls",
+    "home": "Gilbert Christian",
+    "level": "JV",
+    "location": "Gilbert Christian High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2530246",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Gilbert Christian",
+    "date": "2026-12-07",
+    "gender": "girls",
+    "home": "ALA - Vistancia",
+    "level": "JV",
+    "location": "American Leadership Academy - Vistancia",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2534586",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Gilbert Christian",
+    "date": "2026-12-15",
+    "gender": "girls",
+    "home": "ALA - Radiance",
+    "level": "JV",
+    "location": "American Leadership Academy - Radiance",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2533946",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Benjamin Franklin",
+    "date": "2026-12-18",
+    "gender": "girls",
+    "home": "Gilbert Christian",
+    "level": "JV",
+    "location": "Gilbert Christian High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522363",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Highland Prep West",
+    "date": "2027-01-05",
+    "gender": "boys",
+    "home": "Odyssey Institute",
+    "level": "JV",
+    "location": "The Odyssey for Advanced and International Studies",
+    "tags": [],
+    "time": "14:00"
+   },
+   "id": "2522421",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Gilbert Christian",
+    "date": "2027-01-06",
+    "gender": "girls",
+    "home": "Salpointe Catholic",
+    "level": "JV",
+    "location": "Salpointe Catholic High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2533537",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Yuma Catholic",
+    "date": "2027-01-11",
+    "gender": "girls",
+    "home": "Gilbert Christian",
+    "level": "JV",
+    "location": "Gilbert Christian High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522847",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Mohave",
+    "date": "2027-01-15",
+    "gender": "boys",
+    "home": "Highland Prep West",
+    "level": "JV",
+    "location": "Highland Prep West",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522493",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Highland Prep West",
+    "date": "2027-01-15",
+    "gender": "girls",
+    "home": "Mohave",
+    "level": "JV",
+    "location": "Anderson Auto Group Fieldhouse",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522495",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Northwest Christian",
+    "date": "2027-01-19",
+    "gender": "girls",
+    "home": "Gilbert Christian",
+    "level": "JV",
+    "location": "Gilbert Christian High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522881",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Highland Prep West",
+    "date": "2027-01-21",
+    "gender": "boys",
+    "home": "ALA - Vistancia",
+    "level": "JV",
+    "location": "American Leadership Academy - Vistancia",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522601",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "ALA - Vistancia",
+    "date": "2027-01-21",
+    "gender": "girls",
+    "home": "Highland Prep West",
+    "level": "JV",
+    "location": "Highland Prep West",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522603",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Northwest Christian",
+    "date": "2027-01-27",
+    "gender": "boys",
+    "home": "Highland Prep West",
+    "level": "JV",
+    "location": "Highland Prep West",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522743",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Highland Prep West",
+    "date": "2027-01-27",
+    "gender": "girls",
+    "home": "Northwest Christian",
+    "level": "JV",
+    "location": "Northwest Christian High",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522745",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Gilbert Christian",
+    "date": "2027-01-29",
+    "gender": "girls",
+    "home": "Yuma",
+    "level": "JV",
+    "location": "Yuma High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522929",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Highland Prep West",
+    "date": "2027-02-04",
+    "gender": "boys",
+    "home": "St. John Paul II",
+    "level": "JV",
+    "location": "St. John Paul II Catholic High School",
+    "tags": [],
+    "time": "13:30"
+   },
+   "id": "2522809",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "St. John Paul II",
+    "date": "2027-02-04",
+    "gender": "girls",
+    "home": "Highland Prep West",
+    "level": "JV",
+    "location": "Highland Prep West",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522811",
+   "kind": "removed"
+  }
+ ],
+ "run_at": "2026-11-06T19:29:07+00:00"
 }
