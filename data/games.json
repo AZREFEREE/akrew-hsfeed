@@ -2099,68 +2099,6 @@
   },
   {
    "away": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "varsity",
-    "team": "218608"
-   },
-   "date": "2026-11-30",
-   "gender": "boys",
-   "home": {
-    "mascot": "Vikings",
-    "name": "Sunnyslope",
-    "program": "3157",
-    "squad": "varsity",
-    "team": "217970"
-   },
-   "id": "2463874",
-   "level": "Varsity",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Sunnyslope High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "date": "2026-11-30",
-   "gender": "boys",
-   "home": {
-    "mascot": "Vikings",
-    "name": "Sunnyslope",
-    "program": "3157",
-    "squad": "jv",
-    "team": "217972"
-   },
-   "id": "2463875",
-   "level": "JV",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Sunnyslope High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Vikings",
     "name": "Sunnyslope",
     "program": "3158",
@@ -3020,6 +2958,36 @@
   },
   {
    "away": {
+    "mascot": "Pride",
+    "name": "Mountain Pointe",
+    "program": "1837",
+    "squad": "jv",
+    "team": "235007"
+   },
+   "date": "2026-11-30",
+   "gender": "boys",
+   "home": {
+    "mascot": "Jaguars",
+    "name": "Desert Ridge",
+    "program": "1877",
+    "squad": "jv",
+    "team": "216148"
+   },
+   "id": "2573777",
+   "level": "JV",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Desert Ridge High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Spartans",
     "name": "Scottsdale Prep",
     "program": "3726",
@@ -3750,37 +3718,6 @@
     "4A"
    ],
    "location": "Monterey Park",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Cobras",
-    "name": "Cactus",
-    "program": "1564",
-    "squad": "varsity",
-    "team": "229888"
-   },
-   "date": "2026-12-01",
-   "gender": "girls",
-   "home": {
-    "mascot": "Colts",
-    "name": "Cortez",
-    "program": "1583",
-    "squad": "varsity",
-    "team": "217020"
-   },
-   "id": "2480608",
-   "level": "Varsity",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Cortez High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -5816,6 +5753,64 @@
   },
   {
    "away": {
+    "mascot": "Raiders",
+    "name": "Cibola",
+    "program": "383",
+    "squad": "frso",
+    "team": "217246"
+   },
+   "date": "2026-12-02",
+   "gender": "boys",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3539",
+    "squad": "frso",
+    "team": "225570"
+   },
+   "id": "2466170",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Gila Ridge High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Raiders",
+    "name": "Cibola",
+    "program": "428",
+    "squad": "frso",
+    "team": "217256"
+   },
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3540",
+    "squad": "frso",
+    "team": "225578"
+   },
+   "id": "2466173",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Gila Ridge High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Chargers",
     "name": "McClintock",
     "program": "2818",
@@ -6911,6 +6906,36 @@
   },
   {
    "away": {
+    "mascot": "Mountain Lions",
+    "name": "Mountain Ridge",
+    "program": "3444",
+    "squad": "jv-2",
+    "team": "219217"
+   },
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "mascot": "Crusaders",
+    "name": "Northwest Christian",
+    "program": "2531",
+    "squad": "jv-2",
+    "team": "234822"
+   },
+   "id": "2569205",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "3A",
+    "6A"
+   ],
+   "location": "Northwest Christian High",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Padres",
     "name": "Marcos de Niza",
     "program": "1732",
@@ -7001,37 +7026,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Eagles",
-    "name": "Phoenix Country Day",
-    "program": "10250",
-    "squad": "varsity",
-    "team": "218839"
-   },
-   "date": "2026-12-03",
-   "gender": "boys",
-   "home": {
-    "mascot": "Eagles",
-    "name": "Anthem Prep",
-    "program": "7377",
-    "squad": "varsity",
-    "team": "215442"
-   },
-   "id": "2440413",
-   "level": "Varsity",
-   "listed_in": [
-    "2A"
-   ],
-   "location": "Anthem Preparatory Academy",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "15:45",
-   "time_raw": "3:45 pm"
   },
   {
    "away": {
@@ -8335,36 +8329,6 @@
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Mountain Lions",
-    "name": "Mountain Ridge",
-    "program": "3444",
-    "squad": "jv-2",
-    "team": "219217"
-   },
-   "date": "2026-12-03",
-   "gender": "girls",
-   "home": {
-    "mascot": "Crusaders",
-    "name": "Northwest Christian",
-    "program": "2531",
-    "squad": "jv-2",
-    "team": "234822"
-   },
-   "id": "2569205",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "3A",
-    "6A"
-   ],
-   "location": "Northwest Christian High",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -11024,6 +10988,36 @@
   },
   {
    "away": {
+    "mascot": "Mustangs",
+    "name": "North",
+    "program": "385",
+    "squad": "frso",
+    "team": "230440"
+   },
+   "date": "2026-12-07",
+   "gender": "boys",
+   "home": {
+    "mascot": "Wolves",
+    "name": "Chandler",
+    "program": "377",
+    "squad": "frso",
+    "team": "214848"
+   },
+   "id": "2463838",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Chandler High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Wolves",
     "name": "Chandler",
     "program": "422",
@@ -11745,95 +11739,6 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Jackrabbits",
-    "name": "Mesa",
-    "program": "2079",
-    "squad": "varsity",
-    "team": "215602"
-   },
-   "date": "2026-12-07",
-   "gender": "boys",
-   "home": {
-    "mascot": "Huskies",
-    "name": "Hamilton",
-    "program": "2057",
-    "squad": "varsity",
-    "team": "228588"
-   },
-   "id": "2464126",
-   "level": "Varsity",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Hamilton High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "19:00",
-   "time_raw": "7:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Jackrabbits",
-    "name": "Mesa",
-    "program": "2079",
-    "squad": "jv",
-    "team": "215604"
-   },
-   "date": "2026-12-07",
-   "gender": "boys",
-   "home": {
-    "mascot": "Huskies",
-    "name": "Hamilton",
-    "program": "2057",
-    "squad": "jv",
-    "team": "228590"
-   },
-   "id": "2464127",
-   "level": "JV",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Hamilton High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "17:00",
-   "time_raw": "5:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Jackrabbits",
-    "name": "Mesa",
-    "program": "2079",
-    "squad": "frso",
-    "team": "215606"
-   },
-   "date": "2026-12-07",
-   "gender": "boys",
-   "home": {
-    "mascot": "Huskies",
-    "name": "Hamilton",
-    "program": "2057",
-    "squad": "frso",
-    "team": "228592"
-   },
-   "id": "2464128",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Hamilton High School",
-   "page_level": "Freshman/Sophomore",
-   "result": null,
-   "tags": [],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -21167,8 +21072,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -21197,8 +21102,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -24359,6 +24264,36 @@
   },
   {
    "away": {
+    "mascot": "Patriots",
+    "name": "Independence",
+    "program": "2900",
+    "squad": "frso",
+    "team": "224748"
+   },
+   "date": "2026-12-09",
+   "gender": "girls",
+   "home": {
+    "mascot": "Rams",
+    "name": "Washington",
+    "program": "1752",
+    "squad": "frso",
+    "team": "235039"
+   },
+   "id": "2573780",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Washington High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Coyotes",
     "name": "Centennial",
     "program": "2434",
@@ -25250,6 +25185,95 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Jackrabbits",
+    "name": "Mesa",
+    "program": "2079",
+    "squad": "varsity",
+    "team": "215602"
+   },
+   "date": "2026-12-10",
+   "gender": "boys",
+   "home": {
+    "mascot": "Huskies",
+    "name": "Hamilton",
+    "program": "2057",
+    "squad": "varsity",
+    "team": "228588"
+   },
+   "id": "2464126",
+   "level": "Varsity",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Hamilton High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "19:00",
+   "time_raw": "7:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Jackrabbits",
+    "name": "Mesa",
+    "program": "2079",
+    "squad": "jv",
+    "team": "215604"
+   },
+   "date": "2026-12-10",
+   "gender": "boys",
+   "home": {
+    "mascot": "Huskies",
+    "name": "Hamilton",
+    "program": "2057",
+    "squad": "jv",
+    "team": "228590"
+   },
+   "id": "2464127",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Hamilton High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Jackrabbits",
+    "name": "Mesa",
+    "program": "2079",
+    "squad": "frso",
+    "team": "215606"
+   },
+   "date": "2026-12-10",
+   "gender": "boys",
+   "home": {
+    "mascot": "Huskies",
+    "name": "Hamilton",
+    "program": "2057",
+    "squad": "frso",
+    "team": "228592"
+   },
+   "id": "2464128",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Hamilton High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -32528,6 +32552,37 @@
   },
   {
    "away": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1564",
+    "squad": "varsity",
+    "team": "229888"
+   },
+   "date": "2026-12-14",
+   "gender": "girls",
+   "home": {
+    "mascot": "Colts",
+    "name": "Cortez",
+    "program": "1583",
+    "squad": "varsity",
+    "team": "217020"
+   },
+   "id": "2480608",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Cortez High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Patriots",
     "name": "ALA - QC",
     "program": "6879",
@@ -35273,6 +35328,35 @@
   },
   {
    "away": {
+    "mascot": "Mustangs",
+    "name": "North",
+    "program": "385",
+    "squad": "frso",
+    "team": "230440"
+   },
+   "date": "2026-12-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Knights",
+    "name": "Metro Tech",
+    "program": "8230",
+    "squad": "frso",
+    "team": "230372"
+   },
+   "id": "2480773",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Metro Tech High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Knights",
     "name": "Metro Tech",
     "program": "8231",
@@ -37191,8 +37275,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "15:30",
-   "time_raw": "3:30 pm"
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -37683,8 +37767,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -37747,6 +37831,36 @@
    "tags": [
     "Freedom"
    ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Heroes",
+    "name": "Heritage Acad Laveen",
+    "program": "11503",
+    "squad": "jv",
+    "team": "214164"
+   },
+   "date": "2026-12-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Heroes",
+    "name": "Heritage Acad Maricopa",
+    "program": "15161",
+    "squad": "jv",
+    "team": "232507"
+   },
+   "id": "2573816",
+   "level": "JV",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "Heritage Academy - Maricopa",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
   },
@@ -39084,6 +39198,37 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
+    "name": "Phoenix Country Day",
+    "program": "10250",
+    "squad": "varsity",
+    "team": "218839"
+   },
+   "date": "2026-12-17",
+   "gender": "boys",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Anthem Prep",
+    "program": "7377",
+    "squad": "varsity",
+    "team": "215442"
+   },
+   "id": "2440413",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Anthem Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "15:30",
+   "time_raw": "3:30 pm"
   },
   {
    "away": {
@@ -60611,8 +60756,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -80938,6 +81083,68 @@
   },
   {
    "away": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "varsity",
+    "team": "218608"
+   },
+   "date": "2027-01-19",
+   "gender": "boys",
+   "home": {
+    "mascot": "Vikings",
+    "name": "Sunnyslope",
+    "program": "3157",
+    "squad": "varsity",
+    "team": "217970"
+   },
+   "id": "2463874",
+   "level": "Varsity",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Sunnyslope High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "19:00",
+   "time_raw": "7:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "date": "2027-01-19",
+   "gender": "boys",
+   "home": {
+    "mascot": "Vikings",
+    "name": "Sunnyslope",
+    "program": "3157",
+    "squad": "jv",
+    "team": "217972"
+   },
+   "id": "2463875",
+   "level": "JV",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Sunnyslope High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Sidewinders",
     "name": "San Luis",
     "program": "381",
@@ -81928,6 +82135,35 @@
    "tags": [],
    "time": "17:00",
    "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Trojans",
+    "name": "Paradise Valley",
+    "program": "1229",
+    "squad": "frso",
+    "team": "226720"
+   },
+   "date": "2027-01-19",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mustangs",
+    "name": "North",
+    "program": "385",
+    "squad": "frso",
+    "team": "230440"
+   },
+   "id": "2474450",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "North High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -84237,8 +84473,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -94438,7 +94674,7 @@
     "4A",
     "5A"
    ],
-   "location": "Camelback High School",
+   "location": "Washington High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
@@ -114996,6 +115232,35 @@
   },
   {
    "away": {
+    "mascot": "Knights",
+    "name": "Metro Tech",
+    "program": "8230",
+    "squad": "frso",
+    "team": "230372"
+   },
+   "date": "2027-01-28",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mustangs",
+    "name": "North",
+    "program": "385",
+    "squad": "frso",
+    "team": "230440"
+   },
+   "id": "2474536",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "North High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Mustangs",
     "name": "North",
     "program": "430",
@@ -117966,6 +118231,35 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Hawks",
+    "name": "Highland",
+    "program": "1307",
+    "squad": "jv-2",
+    "team": "227966"
+   },
+   "date": "2027-01-28",
+   "gender": "boys",
+   "home": {
+    "mascot": "Knights",
+    "name": "Higley",
+    "program": "2477",
+    "squad": "frso",
+    "team": "235041"
+   },
+   "id": "2573862",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Higley High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -127442,6 +127736,35 @@
   },
   {
    "away": {
+    "mascot": "Spartans",
+    "name": "Camelback",
+    "program": "2548",
+    "squad": "frso",
+    "team": "216250"
+   },
+   "date": "2027-02-02",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mustangs",
+    "name": "North",
+    "program": "385",
+    "squad": "frso",
+    "team": "230440"
+   },
+   "id": "2474568",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "North High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Mustangs",
     "name": "North",
     "program": "430",
@@ -129370,6 +129693,36 @@
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Kings",
+    "name": "Kofa",
+    "program": "3221",
+    "squad": "frso",
+    "team": "229466"
+   },
+   "date": "2027-02-02",
+   "gender": "boys",
+   "home": {
+    "mascot": "Criminals",
+    "name": "Yuma",
+    "program": "3017",
+    "squad": "jv",
+    "team": "213896"
+   },
+   "id": "2571816",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Yuma High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -132358,35 +132711,6 @@
   },
   {
    "away": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3539",
-    "squad": "frso",
-    "team": "225570"
-   },
-   "date": "2027-02-03",
-   "gender": "boys",
-   "home": {
-    "mascot": "Raiders",
-    "name": "Cibola",
-    "program": "383",
-    "squad": "frso",
-    "team": "217246"
-   },
-   "id": "2466170",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Cibola High School",
-   "page_level": "Freshman/Sophomore",
-   "result": null,
-   "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Raiders",
     "name": "Cibola",
     "program": "428",
@@ -132444,35 +132768,6 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Raiders",
-    "name": "Cibola",
-    "program": "428",
-    "squad": "frso",
-    "team": "217256"
-   },
-   "date": "2027-02-03",
-   "gender": "girls",
-   "home": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3540",
-    "squad": "frso",
-    "team": "225578"
-   },
-   "id": "2466173",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Gila Ridge High School",
-   "page_level": "Freshman/Sophomore",
-   "result": null,
-   "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -136400,6 +136695,35 @@
   },
   {
    "away": {
+    "mascot": "Mustangs",
+    "name": "North",
+    "program": "385",
+    "squad": "frso",
+    "team": "230440"
+   },
+   "date": "2027-02-04",
+   "gender": "boys",
+   "home": {
+    "mascot": "Aztecs",
+    "name": "Copper Canyon",
+    "program": "3385",
+    "squad": "frso",
+    "team": "214948"
+   },
+   "id": "2483700",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Copper Canyon High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Aztecs",
     "name": "Copper Canyon",
     "program": "3386",
@@ -138543,5 +138867,5 @@
    ]
   }
  ],
- "updated": "2026-11-05T16:31:46+00:00"
+ "updated": "2026-11-06T00:58:24+00:00"
 }
