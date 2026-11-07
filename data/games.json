@@ -2867,6 +2867,37 @@
   },
   {
    "away": {
+    "mascot": "Coyotes",
+    "name": "Arizona Lutheran",
+    "program": "1146",
+    "squad": "varsity",
+    "team": "226090"
+   },
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "mascot": "Golden Eagles",
+    "name": "Bourgade Catholic",
+    "program": "1612",
+    "squad": "varsity",
+    "team": "219431"
+   },
+   "id": "2440166",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Bourgade Catholic High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Spartans",
     "name": "Scottsdale Prep",
     "program": "3726",
@@ -6817,37 +6848,6 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Coyotes",
-    "name": "Arizona Lutheran",
-    "program": "1146",
-    "squad": "varsity",
-    "team": "226090"
-   },
-   "date": "2026-12-03",
-   "gender": "boys",
-   "home": {
-    "mascot": "Golden Eagles",
-    "name": "Bourgade Catholic",
-    "program": "1612",
-    "squad": "varsity",
-    "team": "219431"
-   },
-   "id": "2440166",
-   "level": "Varsity",
-   "listed_in": [
-    "2A"
-   ],
-   "location": "Bourgade Catholic High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -138047,5 +138047,5 @@
    ]
   }
  ],
- "updated": "2026-11-07T14:55:57+00:00"
+ "updated": "2026-11-07T20:16:47+00:00"
 }

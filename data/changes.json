@@ -1,4 +1,27 @@
 {
- "changes": [],
- "run_at": "2026-11-07T14:55:57+00:00"
+ "changes": [
+  {
+   "fields": {
+    "date": [
+     "2026-12-03",
+     "2026-12-01"
+    ]
+   },
+   "game": {
+    "away": "Arizona Lutheran",
+    "date": "2026-12-01",
+    "gender": "boys",
+    "home": "Bourgade Catholic",
+    "level": "Varsity",
+    "location": "Bourgade Catholic High School",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2440166",
+   "kind": "changed"
+  }
+ ],
+ "run_at": "2026-11-07T20:16:47+00:00"
 }
