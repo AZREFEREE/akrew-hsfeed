@@ -296,48 +296,6 @@
   },
   {
    "away": {
-    "name": "Sabino",
-    "program": "2644"
-   },
-   "away_score": null,
-   "date": "2026-11-24",
-   "gender": "boys",
-   "home": {
-    "name": "Walden Grove",
-    "program": "3919"
-   },
-   "home_score": null,
-   "id": "2515237",
-   "level": "Varsity",
-   "location": "Walden Grove High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Walden Grove",
-    "program": "3920"
-   },
-   "away_score": null,
-   "date": "2026-11-24",
-   "gender": "girls",
-   "home": {
-    "name": "Sabino",
-    "program": "2645"
-   },
-   "home_score": null,
-   "id": "2515239",
-   "level": "Varsity",
-   "location": "Sabino High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
     "name": "Coolidge",
     "program": "3867"
    },
@@ -1010,27 +968,6 @@
   },
   {
    "away": {
-    "name": "Millennium",
-    "program": "390"
-   },
-   "away_score": null,
-   "date": "2026-11-30",
-   "gender": "boys",
-   "home": {
-    "name": "Willow Canyon",
-    "program": "1527"
-   },
-   "home_score": null,
-   "id": "2458669",
-   "level": "Varsity",
-   "location": "Willow Canyon High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
     "name": "Verrado",
     "program": "3614"
    },
@@ -1507,48 +1444,6 @@
    "id": "2463866",
    "level": "Varsity",
    "location": "Chaparral High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Chaparral",
-    "program": "1049"
-   },
-   "away_score": null,
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "name": "Desert Vista",
-    "program": "2036"
-   },
-   "home_score": null,
-   "id": "2463868",
-   "level": "Varsity",
-   "location": "Desert Vista High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Central",
-    "program": "3634"
-   },
-   "away_score": null,
-   "date": "2026-11-30",
-   "gender": "boys",
-   "home": {
-    "name": "Sunnyslope",
-    "program": "3157"
-   },
-   "home_score": null,
-   "id": "2463874",
-   "level": "Varsity",
-   "location": "Sunnyslope High School",
    "tags": [
     "Freedom"
    ],
@@ -2186,6 +2081,258 @@
   },
   {
    "away": {
+    "name": "Copper Canyon",
+    "program": "3385"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "boys",
+   "home": {
+    "name": "Sunnyslope",
+    "program": "3157"
+   },
+   "home_score": null,
+   "id": "2569971",
+   "level": "Varsity",
+   "location": "Sunnyslope High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "17:30"
+  },
+  {
+   "away": {
+    "name": "Willow Canyon",
+    "program": "1527"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "boys",
+   "home": {
+    "name": "Marcos de Niza",
+    "program": "1732"
+   },
+   "home_score": null,
+   "id": "2569972",
+   "level": "Varsity",
+   "location": "Sunnyslope High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "19:30"
+  },
+  {
+   "away": {
+    "name": "Rio Rico",
+    "program": "412"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "boys",
+   "home": {
+    "name": "Salpointe Catholic",
+    "program": "3696"
+   },
+   "home_score": null,
+   "id": "2573104",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "12:00"
+  },
+  {
+   "away": {
+    "name": "Canyon Del Oro",
+    "program": "402"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "boys",
+   "home": {
+    "name": "Sunnyside",
+    "program": "387"
+   },
+   "home_score": null,
+   "id": "2573108",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "13:30"
+  },
+  {
+   "away": {
+    "name": "Rio Rico",
+    "program": "457"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "girls",
+   "home": {
+    "name": "Salpointe Catholic",
+    "program": "3697"
+   },
+   "home_score": null,
+   "id": "2573129",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "12:00"
+  },
+  {
+   "away": {
+    "name": "Canyon Del Oro",
+    "program": "447"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "girls",
+   "home": {
+    "name": "Sunnyside",
+    "program": "432"
+   },
+   "home_score": null,
+   "id": "2573130",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "13:30"
+  },
+  {
+   "away": {
+    "name": "Sierra Linda",
+    "program": "3422"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "girls",
+   "home": {
+    "name": "Buckeye Union",
+    "program": "458"
+   },
+   "home_score": null,
+   "id": "2573592",
+   "level": "Varsity",
+   "location": "Peoria High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Thunderbird",
+    "program": "3514"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "girls",
+   "home": {
+    "name": "Youngker",
+    "program": "1771"
+   },
+   "home_score": null,
+   "id": "2573593",
+   "level": "Varsity",
+   "location": "Cactus High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Valley Vista",
+    "program": "1509"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "girls",
+   "home": {
+    "name": "Estrella Foothills",
+    "program": "3082"
+   },
+   "home_score": null,
+   "id": "2573594",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Willow Canyon",
+    "program": "1528"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "girls",
+   "home": {
+    "name": "Deer Valley",
+    "program": "3676"
+   },
+   "home_score": null,
+   "id": "2573596",
+   "level": "Varsity",
+   "location": "Peoria High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Empire",
+    "program": "414"
+   },
+   "away_score": null,
+   "date": "2026-11-30",
+   "gender": "boys",
+   "home": {
+    "name": "The Gregory School",
+    "program": "7786"
+   },
+   "home_score": null,
+   "id": "2574614",
+   "level": "Varsity",
+   "location": "The Gregory School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00"
+  },
+  {
+   "away": {
+    "name": "Arizona Lutheran",
+    "program": "1146"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "name": "Bourgade Catholic",
+    "program": "1612"
+   },
+   "home_score": null,
+   "id": "2440166",
+   "level": "Varsity",
+   "location": "Bourgade Catholic High School",
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
     "name": "Scottsdale Prep",
     "program": "3726"
    },
@@ -2536,27 +2683,6 @@
    "id": "2476999",
    "level": "Varsity",
    "location": "Monterey Park",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Cactus",
-    "program": "1564"
-   },
-   "away_score": null,
-   "date": "2026-12-01",
-   "gender": "girls",
-   "home": {
-    "name": "Cortez",
-    "program": "1583"
-   },
-   "home_score": null,
-   "id": "2480608",
-   "level": "Varsity",
-   "location": "Cortez High School",
    "tags": [
     "Freedom"
    ],
@@ -3110,6 +3236,552 @@
   },
   {
    "away": {
+    "name": "Marcos de Niza",
+    "program": "1732"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "name": "Copper Canyon",
+    "program": "3385"
+   },
+   "home_score": null,
+   "id": "2569957",
+   "level": "Varsity",
+   "location": "Sunnyslope High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "19:30"
+  },
+  {
+   "away": {
+    "name": "Moon Valley",
+    "program": "2767"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "name": "Apollo",
+    "program": "1350"
+   },
+   "home_score": null,
+   "id": "2569973",
+   "level": "Varsity",
+   "location": "Thunderbird High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "17:30"
+  },
+  {
+   "away": {
+    "name": "Cortez",
+    "program": "1582"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "name": "Corona del Sol",
+    "program": "1791"
+   },
+   "home_score": null,
+   "id": "2569974",
+   "level": "Varsity",
+   "location": "Independence High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "17:30"
+  },
+  {
+   "away": {
+    "name": "Mohave",
+    "program": "1676"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "name": "North Phoenix Preparatory",
+    "program": "7743"
+   },
+   "home_score": null,
+   "id": "2572905",
+   "level": "Varsity",
+   "location": "North Phoenix Preparatory",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00"
+  },
+  {
+   "away": {
+    "name": "Mohave",
+    "program": "1677"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "North Phoenix Preparatory",
+    "program": "7744"
+   },
+   "home_score": null,
+   "id": "2572906",
+   "level": "Varsity",
+   "location": "North Phoenix Preparatory",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Sunnyside",
+    "program": "387"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "name": "Ironwood Ridge",
+    "program": "396"
+   },
+   "home_score": null,
+   "id": "2573112",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "12:00"
+  },
+  {
+   "away": {
+    "name": "Tucson",
+    "program": "378"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "name": "Rincon/University",
+    "program": "392"
+   },
+   "home_score": null,
+   "id": "2573113",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "13:30"
+  },
+  {
+   "away": {
+    "name": "Walden Grove",
+    "program": "3919"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "name": "Buena",
+    "program": "389"
+   },
+   "home_score": null,
+   "id": "2573114",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "15:00"
+  },
+  {
+   "away": {
+    "name": "Salpointe Catholic",
+    "program": "3696"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "name": "Flowing Wells",
+    "program": "399"
+   },
+   "home_score": null,
+   "id": "2573115",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Sunnyside",
+    "program": "432"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Ironwood Ridge",
+    "program": "441"
+   },
+   "home_score": null,
+   "id": "2573133",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "12:00"
+  },
+  {
+   "away": {
+    "name": "Tucson",
+    "program": "423"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Marana",
+    "program": "2880"
+   },
+   "home_score": null,
+   "id": "2573134",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "13:30"
+  },
+  {
+   "away": {
+    "name": "Walden Grove",
+    "program": "3920"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Buena",
+    "program": "434"
+   },
+   "home_score": null,
+   "id": "2573135",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "15:00"
+  },
+  {
+   "away": {
+    "name": "Salpointe Catholic",
+    "program": "3697"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Desert Christian",
+    "program": "10172"
+   },
+   "home_score": null,
+   "id": "2573136",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Raymond S. Kellis",
+    "program": "443"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Youngker",
+    "program": "1771"
+   },
+   "home_score": null,
+   "id": "2573597",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "13:30"
+  },
+  {
+   "away": {
+    "name": "Tolleson Union",
+    "program": "3348"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Thunderbird",
+    "program": "3514"
+   },
+   "home_score": null,
+   "id": "2573622",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "15:00"
+  },
+  {
+   "away": {
+    "name": "Deer Valley",
+    "program": "3676"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Estrella Foothills",
+    "program": "3082"
+   },
+   "home_score": null,
+   "id": "2573624",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Willow Canyon",
+    "program": "1528"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Deer Valley",
+    "program": "3676"
+   },
+   "home_score": null,
+   "id": "2573625",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Sunnyslope",
+    "program": "3158"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Liberty",
+    "program": "3746"
+   },
+   "home_score": null,
+   "id": "2573641",
+   "level": "Varsity",
+   "location": "Peoria High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Sandra Day O'Connor",
+    "program": "2689"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Sunrise Mountain",
+    "program": "1328"
+   },
+   "home_score": null,
+   "id": "2573642",
+   "level": "Varsity",
+   "location": "Peoria High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Boulder Creek",
+    "program": "2733"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Centennial",
+    "program": "2435"
+   },
+   "home_score": null,
+   "id": "2573643",
+   "level": "Varsity",
+   "location": "Peoria High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "15:00"
+  },
+  {
+   "away": {
+    "name": "Westview",
+    "program": "3368"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Glendale",
+    "program": "2246"
+   },
+   "home_score": null,
+   "id": "2573644",
+   "level": "Varsity",
+   "location": "Cactus High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Dysart",
+    "program": "451"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "North Canyon",
+    "program": "431"
+   },
+   "home_score": null,
+   "id": "2573645",
+   "level": "Varsity",
+   "location": "Cactus High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "15:00"
+  },
+  {
+   "away": {
+    "name": "La Joya Community",
+    "program": "3404"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Peoria",
+    "program": "450"
+   },
+   "home_score": null,
+   "id": "2573646",
+   "level": "Varsity",
+   "location": "Cactus High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "13:30"
+  },
+  {
+   "away": {
+    "name": "Ironwood",
+    "program": "2414"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Independence",
+    "program": "2900"
+   },
+   "home_score": null,
+   "id": "2573762",
+   "level": "Varsity",
+   "location": "Peoria High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "13:30"
+  },
+  {
+   "away": {
+    "name": "Anthem Prep",
+    "program": "7377"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "name": "Bourgade Catholic",
+    "program": "1612"
+   },
+   "home_score": null,
+   "id": "2574043",
+   "level": "Varsity",
+   "location": "Bourgade Catholic High School",
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Anthem Prep",
+    "program": "7378"
+   },
+   "away_score": null,
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "name": "Bourgade Catholic",
+    "program": "7467"
+   },
+   "home_score": null,
+   "id": "2574044",
+   "level": "Varsity",
+   "location": "Bourgade Catholic High School",
+   "tags": [
+    "Region"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
     "name": "Parker",
     "program": "416"
    },
@@ -3313,27 +3985,6 @@
    "id": "2463964",
    "level": "Varsity",
    "location": "Higley High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Corona del Sol",
-    "program": "1792"
-   },
-   "away_score": null,
-   "date": "2026-12-02",
-   "gender": "girls",
-   "home": {
-    "name": "Queen Creek",
-    "program": "4047"
-   },
-   "home_score": null,
-   "id": "2464016",
-   "level": "Varsity",
-   "location": "Queen Creek High School",
    "tags": [
     "Freedom"
    ],
@@ -4055,6 +4706,27 @@
   },
   {
    "away": {
+    "name": "Buckeye Union",
+    "program": "413"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "boys",
+   "home": {
+    "name": "Cortez",
+    "program": "1582"
+   },
+   "home_score": null,
+   "id": "2569714",
+   "level": "Varsity",
+   "location": "Independence High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "17:30"
+  },
+  {
+   "away": {
     "name": "Apollo",
     "program": "1350"
    },
@@ -4073,6 +4745,27 @@
     "Invitational"
    ],
    "time": "19:30"
+  },
+  {
+   "away": {
+    "name": "Marcos de Niza",
+    "program": "1732"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "boys",
+   "home": {
+    "name": "Sunnyslope",
+    "program": "3157"
+   },
+   "home_score": null,
+   "id": "2569976",
+   "level": "Varsity",
+   "location": "Sunnyslope High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "17:30"
   },
   {
    "away": {
@@ -4118,66 +4811,276 @@
   },
   {
    "away": {
-    "name": "Arizona Lutheran",
-    "program": "1146"
+    "name": "Flowing Wells",
+    "program": "399"
    },
    "away_score": null,
-   "date": "2026-12-03",
+   "date": "2026-12-02",
    "gender": "boys",
    "home": {
-    "name": "Bourgade Catholic",
-    "program": "1612"
+    "name": "Rio Rico",
+    "program": "412"
    },
    "home_score": null,
-   "id": "2440166",
+   "id": "2573116",
    "level": "Varsity",
-   "location": "Bourgade Catholic High School",
+   "location": "Salpointe Catholic High School",
    "tags": [
-    "Region"
+    "Invitational"
    ],
-   "time": "18:00"
+   "time": "12:00"
   },
   {
    "away": {
-    "name": "Phoenix Country Day",
-    "program": "10250"
+    "name": "Ironwood Ridge",
+    "program": "396"
    },
    "away_score": null,
-   "date": "2026-12-03",
+   "date": "2026-12-02",
    "gender": "boys",
    "home": {
-    "name": "Anthem Prep",
-    "program": "7377"
+    "name": "Canyon Del Oro",
+    "program": "402"
    },
    "home_score": null,
-   "id": "2440413",
+   "id": "2573117",
    "level": "Varsity",
-   "location": "Anthem Preparatory Academy",
+   "location": "Salpointe Catholic High School",
    "tags": [
-    "Region"
+    "Invitational"
    ],
-   "time": "15:45"
+   "time": "13:30"
   },
   {
    "away": {
-    "name": "Horizon Honors",
-    "program": "1114"
+    "name": "Catalina Foothills",
+    "program": "1008"
    },
    "away_score": null,
-   "date": "2026-12-03",
+   "date": "2026-12-02",
+   "gender": "boys",
+   "home": {
+    "name": "Walden Grove",
+    "program": "3919"
+   },
+   "home_score": null,
+   "id": "2573118",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "15:00"
+  },
+  {
+   "away": {
+    "name": "Pusch Ridge",
+    "program": "1545"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "boys",
+   "home": {
+    "name": "Rincon/University",
+    "program": "392"
+   },
+   "home_score": null,
+   "id": "2573119",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Desert Christian",
+    "program": "10172"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
    "gender": "girls",
    "home": {
-    "name": "Anthem Prep",
-    "program": "7378"
+    "name": "Rio Rico",
+    "program": "457"
    },
    "home_score": null,
-   "id": "2440462",
+   "id": "2573137",
    "level": "Varsity",
-   "location": "Anthem Preparatory Academy",
+   "location": "Salpointe Catholic High School",
    "tags": [
-    "Region"
+    "Invitational"
+   ],
+   "time": "12:00"
+  },
+  {
+   "away": {
+    "name": "Ironwood Ridge",
+    "program": "441"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "name": "Canyon Del Oro",
+    "program": "447"
+   },
+   "home_score": null,
+   "id": "2573138",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "13:30"
+  },
+  {
+   "away": {
+    "name": "Catalina Foothills",
+    "program": "1009"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "name": "Walden Grove",
+    "program": "3920"
+   },
+   "home_score": null,
+   "id": "2573139",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "15:00"
+  },
+  {
+   "away": {
+    "name": "Pusch Ridge",
+    "program": "1546"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "name": "Marana",
+    "program": "2880"
+   },
+   "home_score": null,
+   "id": "2573141",
+   "level": "Varsity",
+   "location": "Salpointe Catholic High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Tolleson Union",
+    "program": "3348"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "name": "Buckeye Union",
+    "program": "458"
+   },
+   "home_score": null,
+   "id": "2573627",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "13:30"
+  },
+  {
+   "away": {
+    "name": "Raymond S. Kellis",
+    "program": "443"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "name": "Sierra Linda",
+    "program": "3422"
+   },
+   "home_score": null,
+   "id": "2573629",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "15:00"
+  },
+  {
+   "away": {
+    "name": "Willow Canyon",
+    "program": "1528"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "name": "Estrella Foothills",
+    "program": "3082"
+   },
+   "home_score": null,
+   "id": "2573630",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Deer Valley",
+    "program": "3676"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "name": "Valley Vista",
+    "program": "1509"
+   },
+   "home_score": null,
+   "id": "2573632",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
    ],
    "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Andrada Polytechnic",
+    "program": "12846"
+   },
+   "away_score": null,
+   "date": "2026-12-02",
+   "gender": "boys",
+   "home": {
+    "name": "The Gregory School",
+    "program": "7786"
+   },
+   "home_score": null,
+   "id": "2573651",
+   "level": "Varsity",
+   "location": "The Gregory School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00"
   },
   {
    "away": {
@@ -4786,7 +5689,7 @@
    "tags": [
     "Invitational"
    ],
-   "time": "11:30"
+   "time": "12:30"
   },
   {
    "away": {
@@ -4807,28 +5710,7 @@
    "tags": [
     "Invitational"
    ],
-   "time": "12:30"
-  },
-  {
-   "away": {
-    "name": "Barry Goldwater",
-    "program": "2711"
-   },
-   "away_score": null,
-   "date": "2026-12-03",
-   "gender": "girls",
-   "home": {
-    "name": "La Joya Community",
-    "program": "3404"
-   },
-   "home_score": null,
-   "id": "2570580",
-   "level": "Varsity",
-   "location": "American Leadership Academy - West Foothills",
-   "tags": [
-    "Invitational"
-   ],
-   "time": "15:00"
+   "time": "11:45"
   },
   {
    "away": {
@@ -4841,6 +5723,27 @@
    "home": {
     "name": "Kingman Academy",
     "program": "9176"
+   },
+   "home_score": null,
+   "id": "2570580",
+   "level": "Varsity",
+   "location": "American Leadership Academy - West Foothills",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "15:00"
+  },
+  {
+   "away": {
+    "name": "ALA - Anthem South",
+    "program": "13349"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "girls",
+   "home": {
+    "name": "Agua Fria",
+    "program": "3475"
    },
    "home_score": null,
    "id": "2570581",
@@ -4923,8 +5826,8 @@
    "date": "2026-12-03",
    "gender": "girls",
    "home": {
-    "name": "ALA - Anthem South",
-    "program": "13349"
+    "name": "La Joya Community",
+    "program": "3404"
    },
    "home_score": null,
    "id": "2572594",
@@ -4944,8 +5847,8 @@
    "date": "2026-12-03",
    "gender": "girls",
    "home": {
-    "name": "Agua Fria",
-    "program": "3475"
+    "name": "Barry Goldwater",
+    "program": "2711"
    },
    "home_score": null,
    "id": "2572595",
@@ -4955,6 +5858,132 @@
     "Invitational"
    ],
    "time": "14:00"
+  },
+  {
+   "away": {
+    "name": "Central",
+    "program": "3634"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "boys",
+   "home": {
+    "name": "Camelback",
+    "program": "2548"
+   },
+   "home_score": null,
+   "id": "2572652",
+   "level": "Varsity",
+   "location": "Cesar Chavez Park",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "08:00"
+  },
+  {
+   "away": {
+    "name": "Metro Tech",
+    "program": "8230"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "boys",
+   "home": {
+    "name": "South Mountain",
+    "program": "2142"
+   },
+   "home_score": null,
+   "id": "2572654",
+   "level": "Varsity",
+   "location": "Cesar Chavez Park",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "08:00"
+  },
+  {
+   "away": {
+    "name": "Maryvale",
+    "program": "382"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "boys",
+   "home": {
+    "name": "North",
+    "program": "385"
+   },
+   "home_score": null,
+   "id": "2572655",
+   "level": "Varsity",
+   "location": "Cesar Chavez Park",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "09:30"
+  },
+  {
+   "away": {
+    "name": "TBD",
+    "program": null
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "boys",
+   "home": {
+    "name": "Betty H. Fairfax",
+    "program": "2997"
+   },
+   "home_score": null,
+   "id": "2572656",
+   "level": "Varsity",
+   "location": "Cesar Chavez Park",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "11:00"
+  },
+  {
+   "away": {
+    "name": "TBD",
+    "program": null
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "boys",
+   "home": {
+    "name": "Cactus Canyon",
+    "program": "3036"
+   },
+   "home_score": null,
+   "id": "2572657",
+   "level": "Varsity",
+   "location": "Cesar Chavez Park",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "11:00"
+  },
+  {
+   "away": {
+    "name": "Carl Hayden",
+    "program": "388"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "boys",
+   "home": {
+    "name": "Alhambra",
+    "program": "1489"
+   },
+   "home_score": null,
+   "id": "2572658",
+   "level": "Varsity",
+   "location": "Cesar Chavez Park",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "12:30"
   },
   {
    "away": {
@@ -5021,6 +6050,48 @@
   },
   {
    "away": {
+    "name": "TBD",
+    "program": null
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "girls",
+   "home": {
+    "name": "Trevor G. Browne",
+    "program": "424"
+   },
+   "home_score": null,
+   "id": "2572664",
+   "level": "Varsity",
+   "location": "Cesar Chavez Park",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "11:00"
+  },
+  {
+   "away": {
+    "name": "TBD",
+    "program": null
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "girls",
+   "home": {
+    "name": "Maryvale",
+    "program": "427"
+   },
+   "home_score": null,
+   "id": "2572665",
+   "level": "Varsity",
+   "location": "Cesar Chavez Park",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "12:30"
+  },
+  {
+   "away": {
     "name": "South Mountain",
     "program": "2143"
    },
@@ -5039,6 +6110,132 @@
     "Invitational"
    ],
    "time": "12:30"
+  },
+  {
+   "away": {
+    "name": "Cactus Canyon",
+    "program": "3037"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "girls",
+   "home": {
+    "name": "TBD",
+    "program": null
+   },
+   "home_score": null,
+   "id": "2572667",
+   "level": "Varsity",
+   "location": "Cesar Chavez Park",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "14:00"
+  },
+  {
+   "away": {
+    "name": "Thunderbird",
+    "program": "3514"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "girls",
+   "home": {
+    "name": "Buckeye Union",
+    "program": "458"
+   },
+   "home_score": null,
+   "id": "2573634",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "15:00"
+  },
+  {
+   "away": {
+    "name": "Youngker",
+    "program": "1771"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "girls",
+   "home": {
+    "name": "Sierra Linda",
+    "program": "3422"
+   },
+   "home_score": null,
+   "id": "2573636",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "16:30"
+  },
+  {
+   "away": {
+    "name": "Tolleson Union",
+    "program": "3348"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "girls",
+   "home": {
+    "name": "Raymond S. Kellis",
+    "program": "443"
+   },
+   "home_score": null,
+   "id": "2573640",
+   "level": "Varsity",
+   "location": "Raymond S. Kellis High School",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Anthem Prep",
+    "program": "7377"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "boys",
+   "home": {
+    "name": "Bourgade Catholic",
+    "program": "1612"
+   },
+   "home_score": null,
+   "id": "2574045",
+   "level": "Varsity",
+   "location": "Bourgade Catholic High School",
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Anthem Prep",
+    "program": "7378"
+   },
+   "away_score": null,
+   "date": "2026-12-03",
+   "gender": "girls",
+   "home": {
+    "name": "Bourgade Catholic",
+    "program": "7467"
+   },
+   "home_score": null,
+   "id": "2574046",
+   "level": "Varsity",
+   "location": "Bourgade Catholic High School",
+   "tags": [
+    "Region"
+   ],
+   "time": "16:30"
   },
   {
    "away": {
@@ -5333,48 +6530,6 @@
     "Freedom"
    ],
    "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Seton Catholic Prep",
-    "program": "2958"
-   },
-   "away_score": null,
-   "date": "2026-12-04",
-   "gender": "boys",
-   "home": {
-    "name": "Yuma",
-    "program": "3017"
-   },
-   "home_score": null,
-   "id": "2522856",
-   "level": "Varsity",
-   "location": "Yuma High School",
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Seton Catholic Prep",
-    "program": "2959"
-   },
-   "away_score": null,
-   "date": "2026-12-04",
-   "gender": "girls",
-   "home": {
-    "name": "Yuma",
-    "program": "3018"
-   },
-   "home_score": null,
-   "id": "2522857",
-   "level": "Varsity",
-   "location": "Yuma High School",
-   "tags": [
-    "Region"
-   ],
-   "time": "16:00"
   },
   {
    "away": {
@@ -5903,6 +7058,27 @@
   },
   {
    "away": {
+    "name": "Parker",
+    "program": "7767"
+   },
+   "away_score": null,
+   "date": "2026-12-04",
+   "gender": "girls",
+   "home": {
+    "name": "ALA - West Foothills",
+    "program": "12773"
+   },
+   "home_score": null,
+   "id": "2573075",
+   "level": "Varsity",
+   "location": "American Leadership Academy - West Foothills",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "20:15"
+  },
+  {
+   "away": {
     "name": "Globe",
     "program": "1597"
    },
@@ -5924,15 +7100,15 @@
   },
   {
    "away": {
-    "name": "Goodyear",
-    "program": "14686"
+    "name": "Parker",
+    "program": "7767"
    },
    "away_score": null,
    "date": "2026-12-05",
    "gender": "girls",
    "home": {
-    "name": "Agua Fria",
-    "program": "3475"
+    "name": "Barry Goldwater",
+    "program": "2711"
    },
    "home_score": null,
    "id": "2570594",
@@ -5945,15 +7121,15 @@
   },
   {
    "away": {
-    "name": "La Joya Community",
-    "program": "3404"
+    "name": "Goodyear",
+    "program": "14686"
    },
    "away_score": null,
    "date": "2026-12-05",
    "gender": "girls",
    "home": {
-    "name": "Odyssey Institute",
-    "program": "6938"
+    "name": "Agua Fria",
+    "program": "3475"
    },
    "home_score": null,
    "id": "2570595",
@@ -5966,15 +7142,15 @@
   },
   {
    "away": {
-    "name": "Goodyear",
-    "program": "14686"
+    "name": "Barry Goldwater",
+    "program": "2711"
    },
    "away_score": null,
    "date": "2026-12-05",
    "gender": "girls",
    "home": {
-    "name": "La Joya Community",
-    "program": "3404"
+    "name": "Agua Fria",
+    "program": "3475"
    },
    "home_score": null,
    "id": "2570596",
@@ -5994,8 +7170,8 @@
    "date": "2026-12-05",
    "gender": "girls",
    "home": {
-    "name": "Odyssey Institute",
-    "program": "6938"
+    "name": "Parker",
+    "program": "7767"
    },
    "home_score": null,
    "id": "2570597",
@@ -6008,15 +7184,15 @@
   },
   {
    "away": {
-    "name": "Agua Fria",
-    "program": "3475"
+    "name": "La Joya Community",
+    "program": "3404"
    },
    "away_score": null,
    "date": "2026-12-05",
    "gender": "girls",
    "home": {
-    "name": "Barry Goldwater",
-    "program": "2711"
+    "name": "Odyssey Institute",
+    "program": "6938"
    },
    "home_score": null,
    "id": "2570598",
@@ -6026,6 +7202,48 @@
     "Invitational"
    ],
    "time": "11:15"
+  },
+  {
+   "away": {
+    "name": "Goodyear",
+    "program": "14686"
+   },
+   "away_score": null,
+   "date": "2026-12-05",
+   "gender": "girls",
+   "home": {
+    "name": "La Joya Community",
+    "program": "3404"
+   },
+   "home_score": null,
+   "id": "2573076",
+   "level": "Varsity",
+   "location": "American Leadership Academy - West Foothills",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "08:00"
+  },
+  {
+   "away": {
+    "name": "ALA - Anthem South",
+    "program": "13349"
+   },
+   "away_score": null,
+   "date": "2026-12-05",
+   "gender": "girls",
+   "home": {
+    "name": "Odyssey Institute",
+    "program": "6938"
+   },
+   "home_score": null,
+   "id": "2573077",
+   "level": "Varsity",
+   "location": "American Leadership Academy - West Foothills",
+   "tags": [
+    "Invitational"
+   ],
+   "time": "14:30"
   },
   {
    "away": {
@@ -6845,27 +8063,6 @@
     "Freedom"
    ],
    "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Mesa",
-    "program": "2079"
-   },
-   "away_score": null,
-   "date": "2026-12-07",
-   "gender": "boys",
-   "home": {
-    "name": "Hamilton",
-    "program": "2057"
-   },
-   "home_score": null,
-   "id": "2464126",
-   "level": "Varsity",
-   "location": "Hamilton High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "19:00"
   },
   {
    "away": {
@@ -10397,27 +11594,6 @@
   },
   {
    "away": {
-    "name": "North Canyon",
-    "program": "431"
-   },
-   "away_score": null,
-   "date": "2026-12-09",
-   "gender": "girls",
-   "home": {
-    "name": "Moon Valley",
-    "program": "2768"
-   },
-   "home_score": null,
-   "id": "2476868",
-   "level": "Varsity",
-   "location": "Moon Valley High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
     "name": "Copper Canyon",
     "program": "3386"
    },
@@ -10477,7 +11653,7 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00"
+   "time": "19:00"
   },
   {
    "away": {
@@ -10789,27 +11965,6 @@
    "id": "2485256",
    "level": "Varsity",
    "location": "Dysart High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Mesquite",
-    "program": "384"
-   },
-   "away_score": null,
-   "date": "2026-12-09",
-   "gender": "boys",
-   "home": {
-    "name": "Marcos de Niza",
-    "program": "1732"
-   },
-   "home_score": null,
-   "id": "2485264",
-   "level": "Varsity",
-   "location": "Marcos de Niza High School",
    "tags": [
     "Freedom"
    ],
@@ -12011,6 +13166,27 @@
     "Freedom"
    ],
    "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Mesa",
+    "program": "2079"
+   },
+   "away_score": null,
+   "date": "2026-12-10",
+   "gender": "boys",
+   "home": {
+    "name": "Hamilton",
+    "program": "2057"
+   },
+   "home_score": null,
+   "id": "2464126",
+   "level": "Varsity",
+   "location": "Hamilton High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "19:00"
   },
   {
    "away": {
@@ -13417,7 +14593,7 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00"
+   "time": "17:00"
   },
   {
    "away": {
@@ -13435,27 +14611,6 @@
    "id": "2485284",
    "level": "Varsity",
    "location": "Moon Valley High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Moon Valley",
-    "program": "2768"
-   },
-   "away_score": null,
-   "date": "2026-12-11",
-   "gender": "girls",
-   "home": {
-    "name": "Agua Fria",
-    "program": "3475"
-   },
-   "home_score": null,
-   "id": "2485286",
-   "level": "Varsity",
-   "location": "Agua Fria High School",
    "tags": [
     "Freedom"
    ],
@@ -14702,6 +15857,27 @@
   },
   {
    "away": {
+    "name": "Cactus",
+    "program": "1564"
+   },
+   "away_score": null,
+   "date": "2026-12-14",
+   "gender": "girls",
+   "home": {
+    "name": "Cortez",
+    "program": "1583"
+   },
+   "home_score": null,
+   "id": "2480608",
+   "level": "Varsity",
+   "location": "Cortez High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
     "name": "ALA - QC",
     "program": "6879"
    },
@@ -15731,6 +16907,27 @@
   },
   {
    "away": {
+    "name": "Moon Valley",
+    "program": "2768"
+   },
+   "away_score": null,
+   "date": "2026-12-15",
+   "gender": "girls",
+   "home": {
+    "name": "Agua Fria",
+    "program": "3475"
+   },
+   "home_score": null,
+   "id": "2485286",
+   "level": "Varsity",
+   "location": "Agua Fria High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
     "name": "North Canyon",
     "program": "386"
    },
@@ -16336,7 +17533,7 @@
    "tags": [
     "Freedom"
    ],
-   "time": "15:30"
+   "time": "18:00"
   },
   {
    "away": {
@@ -16966,7 +18163,7 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00"
+   "time": "13:00"
   },
   {
    "away": {
@@ -17093,6 +18290,27 @@
     "Freedom"
    ],
    "time": "16:00"
+  },
+  {
+   "away": {
+    "name": "Phoenix Country Day",
+    "program": "10250"
+   },
+   "away_score": null,
+   "date": "2026-12-17",
+   "gender": "boys",
+   "home": {
+    "name": "Anthem Prep",
+    "program": "7377"
+   },
+   "home_score": null,
+   "id": "2440413",
+   "level": "Varsity",
+   "location": "Anthem Preparatory Academy",
+   "tags": [
+    "Region"
+   ],
+   "time": "15:30"
   },
   {
    "away": {
@@ -17344,7 +18562,7 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00"
+   "time": "19:00"
   },
   {
    "away": {
@@ -18101,48 +19319,6 @@
     "Freedom"
    ],
    "time": "16:00"
-  },
-  {
-   "away": {
-    "name": "Sahuarita",
-    "program": "409"
-   },
-   "away_score": null,
-   "date": "2026-12-18",
-   "gender": "boys",
-   "home": {
-    "name": "Tanque Verde",
-    "program": "418"
-   },
-   "home_score": null,
-   "id": "2514769",
-   "level": "Varsity",
-   "location": "Tanque Verde High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Tanque Verde",
-    "program": "461"
-   },
-   "away_score": null,
-   "date": "2026-12-18",
-   "gender": "girls",
-   "home": {
-    "name": "Sahuarita",
-    "program": "454"
-   },
-   "home_score": null,
-   "id": "2514771",
-   "level": "Varsity",
-   "location": "Sahuarita High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
   },
   {
    "away": {
@@ -19595,6 +20771,27 @@
   },
   {
    "away": {
+    "name": "Millennium",
+    "program": "390"
+   },
+   "away_score": null,
+   "date": "2027-01-06",
+   "gender": "boys",
+   "home": {
+    "name": "Willow Canyon",
+    "program": "1527"
+   },
+   "home_score": null,
+   "id": "2458669",
+   "level": "Varsity",
+   "location": "Willow Canyon High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
     "name": "Willow Canyon",
     "program": "1528"
    },
@@ -19756,6 +20953,27 @@
    "id": "2463772",
    "level": "Varsity",
    "location": "Corona del Sol High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Chaparral",
+    "program": "1049"
+   },
+   "away_score": null,
+   "date": "2027-01-06",
+   "gender": "girls",
+   "home": {
+    "name": "Desert Vista",
+    "program": "2036"
+   },
+   "home_score": null,
+   "id": "2463868",
+   "level": "Varsity",
+   "location": "Desert Vista High School",
    "tags": [
     "Freedom"
    ],
@@ -20939,27 +22157,6 @@
   },
   {
    "away": {
-    "name": "Catalina",
-    "program": "455"
-   },
-   "away_score": null,
-   "date": "2027-01-06",
-   "gender": "girls",
-   "home": {
-    "name": "Rio Rico",
-    "program": "457"
-   },
-   "home_score": null,
-   "id": "2514765",
-   "level": "Varsity",
-   "location": "Rio Rico High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
     "name": "Ironwood",
     "program": "2413"
    },
@@ -21793,6 +22990,48 @@
    "id": "2514763",
    "level": "Varsity",
    "location": "Catalina Magnet High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Catalina",
+    "program": "455"
+   },
+   "away_score": null,
+   "date": "2027-01-07",
+   "gender": "girls",
+   "home": {
+    "name": "Rio Rico",
+    "program": "457"
+   },
+   "home_score": null,
+   "id": "2514765",
+   "level": "Varsity",
+   "location": "Rio Rico High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Sahuarita",
+    "program": "409"
+   },
+   "away_score": null,
+   "date": "2027-01-07",
+   "gender": "boys",
+   "home": {
+    "name": "Tanque Verde",
+    "program": "418"
+   },
+   "home_score": null,
+   "id": "2514769",
+   "level": "Varsity",
+   "location": "Tanque Verde High School",
    "tags": [
     "Freedom"
    ],
@@ -23606,6 +24845,27 @@
   },
   {
    "away": {
+    "name": "North Canyon",
+    "program": "431"
+   },
+   "away_score": null,
+   "date": "2027-01-08",
+   "gender": "girls",
+   "home": {
+    "name": "Moon Valley",
+    "program": "2768"
+   },
+   "home_score": null,
+   "id": "2476868",
+   "level": "Varsity",
+   "location": "Moon Valley High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
     "name": "Arcadia",
     "program": "3821"
    },
@@ -23813,6 +25073,27 @@
     "Freedom"
    ],
    "time": "16:00"
+  },
+  {
+   "away": {
+    "name": "Mesquite",
+    "program": "384"
+   },
+   "away_score": null,
+   "date": "2027-01-08",
+   "gender": "boys",
+   "home": {
+    "name": "Marcos de Niza",
+    "program": "1732"
+   },
+   "home_score": null,
+   "id": "2485264",
+   "level": "Varsity",
+   "location": "Marcos de Niza High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
   },
   {
    "away": {
@@ -24399,6 +25680,27 @@
    "location": "Sahuaro High School",
    "tags": [
     "Region"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Tanque Verde",
+    "program": "461"
+   },
+   "away_score": null,
+   "date": "2027-01-08",
+   "gender": "girls",
+   "home": {
+    "name": "Sahuarita",
+    "program": "454"
+   },
+   "home_score": null,
+   "id": "2514771",
+   "level": "Varsity",
+   "location": "Sahuarita High School",
+   "tags": [
+    "Freedom"
    ],
    "time": "18:00"
   },
@@ -25475,6 +26777,27 @@
   },
   {
    "away": {
+    "name": "Corona del Sol",
+    "program": "1792"
+   },
+   "away_score": null,
+   "date": "2027-01-11",
+   "gender": "girls",
+   "home": {
+    "name": "Queen Creek",
+    "program": "4047"
+   },
+   "home_score": null,
+   "id": "2464016",
+   "level": "Varsity",
+   "location": "Queen Creek High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
     "name": "Pinnacle",
     "program": "3561"
    },
@@ -26252,6 +27575,48 @@
   },
   {
    "away": {
+    "name": "Sabino",
+    "program": "2644"
+   },
+   "away_score": null,
+   "date": "2027-01-11",
+   "gender": "boys",
+   "home": {
+    "name": "Walden Grove",
+    "program": "3919"
+   },
+   "home_score": null,
+   "id": "2515237",
+   "level": "Varsity",
+   "location": "Walden Grove High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Walden Grove",
+    "program": "3920"
+   },
+   "away_score": null,
+   "date": "2027-01-11",
+   "gender": "girls",
+   "home": {
+    "name": "Sabino",
+    "program": "2645"
+   },
+   "home_score": null,
+   "id": "2515239",
+   "level": "Varsity",
+   "location": "Sabino High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
     "name": "Sunrise Mountain",
     "program": "1327"
    },
@@ -26333,6 +27698,48 @@
     "Region"
    ],
    "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Seton Catholic Prep",
+    "program": "2958"
+   },
+   "away_score": null,
+   "date": "2027-01-11",
+   "gender": "boys",
+   "home": {
+    "name": "Yuma",
+    "program": "3017"
+   },
+   "home_score": null,
+   "id": "2522856",
+   "level": "Varsity",
+   "location": "Yuma High School",
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Seton Catholic Prep",
+    "program": "2959"
+   },
+   "away_score": null,
+   "date": "2027-01-11",
+   "gender": "girls",
+   "home": {
+    "name": "Yuma",
+    "program": "3018"
+   },
+   "home_score": null,
+   "id": "2522857",
+   "level": "Varsity",
+   "location": "Yuma High School",
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00"
   },
   {
    "away": {
@@ -33140,6 +34547,27 @@
   },
   {
    "away": {
+    "name": "Central",
+    "program": "3634"
+   },
+   "away_score": null,
+   "date": "2027-01-19",
+   "gender": "boys",
+   "home": {
+    "name": "Sunnyslope",
+    "program": "3157"
+   },
+   "home_score": null,
+   "id": "2463874",
+   "level": "Varsity",
+   "location": "Sunnyslope High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "19:00"
+  },
+  {
+   "away": {
     "name": "San Luis",
     "program": "381"
    },
@@ -36542,20 +37970,20 @@
   },
   {
    "away": {
-    "name": "Anthem Prep",
-    "program": "7377"
+    "name": "Bourgade Catholic",
+    "program": "1612"
    },
    "away_score": null,
    "date": "2027-01-21",
    "gender": "boys",
    "home": {
-    "name": "Bourgade Catholic",
-    "program": "1612"
+    "name": "Anthem Prep",
+    "program": "7377"
    },
    "home_score": null,
    "id": "2440393",
    "level": "Varsity",
-   "location": "Bourgade Catholic High School",
+   "location": "Anthem Preparatory Academy",
    "tags": [
     "Region"
    ],
@@ -36563,20 +37991,20 @@
   },
   {
    "away": {
-    "name": "Anthem Prep",
-    "program": "7378"
+    "name": "Bourgade Catholic",
+    "program": "7467"
    },
    "away_score": null,
    "date": "2027-01-21",
    "gender": "girls",
    "home": {
-    "name": "Bourgade Catholic",
-    "program": "7467"
+    "name": "Anthem Prep",
+    "program": "7378"
    },
    "home_score": null,
    "id": "2440394",
    "level": "Varsity",
-   "location": "Bourgade Catholic High School",
+   "location": "Anthem Preparatory Academy",
    "tags": [
     "Region"
    ],
@@ -40238,6 +41666,48 @@
   },
   {
    "away": {
+    "name": "Lake Havasu",
+    "program": "395"
+   },
+   "away_score": null,
+   "date": "2027-01-25",
+   "gender": "boys",
+   "home": {
+    "name": "Independence",
+    "program": "2899"
+   },
+   "home_score": null,
+   "id": "2483429",
+   "level": "Varsity",
+   "location": "Independence High School",
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Independence",
+    "program": "2900"
+   },
+   "away_score": null,
+   "date": "2027-01-25",
+   "gender": "girls",
+   "home": {
+    "name": "Lake Havasu",
+    "program": "440"
+   },
+   "home_score": null,
+   "id": "2483431",
+   "level": "Varsity",
+   "location": "Lake Havasu High School",
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
     "name": "Bradshaw Mountain",
     "program": "2184"
    },
@@ -42667,48 +44137,6 @@
    "id": "2483302",
    "level": "Varsity",
    "location": "Alhambra High School",
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Lake Havasu",
-    "program": "395"
-   },
-   "away_score": null,
-   "date": "2027-01-26",
-   "gender": "boys",
-   "home": {
-    "name": "Independence",
-    "program": "2899"
-   },
-   "home_score": null,
-   "id": "2483429",
-   "level": "Varsity",
-   "location": "Independence High School",
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Independence",
-    "program": "2900"
-   },
-   "away_score": null,
-   "date": "2027-01-26",
-   "gender": "girls",
-   "home": {
-    "name": "Lake Havasu",
-    "program": "440"
-   },
-   "home_score": null,
-   "id": "2483431",
-   "level": "Varsity",
-   "location": "Lake Havasu High School",
    "tags": [
     "Region"
    ],
@@ -45467,20 +46895,20 @@
   },
   {
    "away": {
-    "name": "Xavier Prep",
-    "program": "3850"
+    "name": "Desert Vista",
+    "program": "2036"
    },
    "away_score": null,
    "date": "2027-01-28",
    "gender": "girls",
    "home": {
-    "name": "Desert Vista",
-    "program": "2036"
+    "name": "Xavier Prep",
+    "program": "3850"
    },
    "home_score": null,
    "id": "2465740",
    "level": "Varsity",
-   "location": "Desert Vista High School",
+   "location": "Xavier College Preparatory",
    "tags": [
     "Region"
    ],
@@ -46895,27 +48323,6 @@
   },
   {
    "away": {
-    "name": "Moon Valley",
-    "program": "2767"
-   },
-   "away_score": null,
-   "date": "2027-01-28",
-   "gender": "boys",
-   "home": {
-    "name": "Marcos de Niza",
-    "program": "1732"
-   },
-   "home_score": null,
-   "id": "2485984",
-   "level": "Varsity",
-   "location": "Marcos de Niza High School",
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
     "name": "Marcos de Niza",
     "program": "1733"
    },
@@ -47357,48 +48764,6 @@
   },
   {
    "away": {
-    "name": "Maricopa",
-    "program": "1662"
-   },
-   "away_score": null,
-   "date": "2027-01-28",
-   "gender": "boys",
-   "home": {
-    "name": "Canyon Del Oro",
-    "program": "402"
-   },
-   "home_score": null,
-   "id": "2530844",
-   "level": "Varsity",
-   "location": "Canyon Del Oro High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
-    "name": "Canyon Del Oro",
-    "program": "447"
-   },
-   "away_score": null,
-   "date": "2027-01-28",
-   "gender": "girls",
-   "home": {
-    "name": "Maricopa",
-    "program": "1663"
-   },
-   "home_score": null,
-   "id": "2530846",
-   "level": "Varsity",
-   "location": "Maricopa High School",
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00"
-  },
-  {
-   "away": {
     "name": "Phoenix Christian",
     "program": "1627"
    },
@@ -47665,6 +49030,27 @@
    "id": "2465804",
    "level": "Varsity",
    "location": "Sandra Day O'Connor High School",
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Moon Valley",
+    "program": "2767"
+   },
+   "away_score": null,
+   "date": "2027-01-29",
+   "gender": "boys",
+   "home": {
+    "name": "Marcos de Niza",
+    "program": "1732"
+   },
+   "home_score": null,
+   "id": "2485984",
+   "level": "Varsity",
+   "location": "Marcos de Niza High School",
    "tags": [
     "Region"
    ],
@@ -47942,6 +49328,48 @@
     "Freedom"
    ],
    "time": "15:45"
+  },
+  {
+   "away": {
+    "name": "Canyon Del Oro",
+    "program": "402"
+   },
+   "away_score": null,
+   "date": "2027-01-29",
+   "gender": "boys",
+   "home": {
+    "name": "Maricopa",
+    "program": "1662"
+   },
+   "home_score": null,
+   "id": "2530844",
+   "level": "Varsity",
+   "location": "Maricopa High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00"
+  },
+  {
+   "away": {
+    "name": "Canyon Del Oro",
+    "program": "447"
+   },
+   "away_score": null,
+   "date": "2027-01-29",
+   "gender": "girls",
+   "home": {
+    "name": "Maricopa",
+    "program": "1663"
+   },
+   "home_score": null,
+   "id": "2530846",
+   "level": "Varsity",
+   "location": "Maricopa High School",
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00"
   },
   {
    "away": {
@@ -50021,6 +51449,27 @@
     "Freedom"
    ],
    "time": "16:00"
+  },
+  {
+   "away": {
+    "name": "Horizon Honors",
+    "program": "1114"
+   },
+   "away_score": null,
+   "date": "2027-02-02",
+   "gender": "girls",
+   "home": {
+    "name": "Anthem Prep",
+    "program": "7378"
+   },
+   "home_score": null,
+   "id": "2440462",
+   "level": "Varsity",
+   "location": "Anthem Preparatory Academy",
+   "tags": [
+    "Region"
+   ],
+   "time": "17:30"
   },
   {
    "away": {
@@ -55043,5 +56492,5 @@
   }
  ],
  "season": "2026-2027",
- "updated": "2026-11-02T20:22:27+00:00"
+ "updated": "2026-11-08T16:20:03+00:00"
 }

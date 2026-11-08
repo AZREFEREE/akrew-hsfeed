@@ -1,10 +1,9 @@
 {
  "errors": [],
- "history_2025": 0,
- "history_2026": 2621,
+ "history_2026": 2690,
  "quick": false,
- "requests": 442,
- "run_at": "2026-11-02T20:22:27+00:00",
+ "requests": 432,
+ "run_at": "2026-11-08T16:20:03+00:00",
  "season": "2026-2027",
  "source": "https://azpreps365.com"
 }
