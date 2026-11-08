@@ -1,4 +1,47 @@
 {
- "changes": [],
- "run_at": "2026-11-08T15:19:44+00:00"
+ "changes": [
+  {
+   "fields": {
+    "date": [
+     "2027-01-22",
+     "2027-01-20"
+    ]
+   },
+   "game": {
+    "away": "Mingus Union",
+    "date": "2027-01-20",
+    "gender": "boys",
+    "home": "Flagstaff",
+    "level": "Varsity",
+    "location": "Flagstaff High School",
+    "tags": [
+     "Region"
+    ],
+    "time": "15:00"
+   },
+   "id": "2497747",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2027-01-22",
+     "2027-01-20"
+    ]
+   },
+   "game": {
+    "away": "Mingus Union",
+    "date": "2027-01-20",
+    "gender": "boys",
+    "home": "Flagstaff",
+    "level": "JV",
+    "location": "Flagstaff High School",
+    "tags": [],
+    "time": "13:00"
+   },
+   "id": "2497748",
+   "kind": "changed"
+  }
+ ],
+ "run_at": "2026-11-08T20:32:41+00:00"
 }

@@ -88974,6 +88974,66 @@
   },
   {
    "away": {
+    "mascot": "Marauders",
+    "name": "Mingus Union",
+    "program": "411",
+    "squad": "varsity",
+    "team": "224296"
+   },
+   "date": "2027-01-20",
+   "gender": "boys",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Flagstaff",
+    "program": "407",
+    "squad": "varsity",
+    "team": "217422"
+   },
+   "id": "2497747",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Flagstaff High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Marauders",
+    "name": "Mingus Union",
+    "program": "411",
+    "squad": "jv",
+    "team": "224298"
+   },
+   "date": "2027-01-20",
+   "gender": "boys",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Flagstaff",
+    "program": "407",
+    "squad": "jv",
+    "team": "217424"
+   },
+   "id": "2497748",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Flagstaff High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "13:00",
+   "time_raw": "1:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Mustangs",
     "name": "Sahuarita",
     "program": "409",
@@ -97211,66 +97271,6 @@
    ],
    "time": "16:00",
    "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Marauders",
-    "name": "Mingus Union",
-    "program": "411",
-    "squad": "varsity",
-    "team": "224296"
-   },
-   "date": "2027-01-22",
-   "gender": "boys",
-   "home": {
-    "mascot": "Eagles",
-    "name": "Flagstaff",
-    "program": "407",
-    "squad": "varsity",
-    "team": "217422"
-   },
-   "id": "2497747",
-   "level": "Varsity",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Flagstaff High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Marauders",
-    "name": "Mingus Union",
-    "program": "411",
-    "squad": "jv",
-    "team": "224298"
-   },
-   "date": "2027-01-22",
-   "gender": "boys",
-   "home": {
-    "mascot": "Eagles",
-    "name": "Flagstaff",
-    "program": "407",
-    "squad": "jv",
-    "team": "217424"
-   },
-   "id": "2497748",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Flagstaff High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "13:00",
-   "time_raw": "1:00 pm"
   },
   {
    "away": {
@@ -138047,5 +138047,5 @@
    ]
   }
  ],
- "updated": "2026-11-08T15:19:44+00:00"
+ "updated": "2026-11-08T20:32:41+00:00"
 }
