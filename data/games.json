@@ -2867,6 +2867,36 @@
   },
   {
    "away": {
+    "mascot": "Rangers",
+    "name": "Rincon/University",
+    "program": "437",
+    "squad": "jv",
+    "team": "229984"
+   },
+   "date": "2026-11-30",
+   "gender": "girls",
+   "home": {
+    "mascot": "Ravens",
+    "name": "Empire",
+    "program": "459",
+    "squad": "jv",
+    "team": "235002"
+   },
+   "id": "2574673",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "5A"
+   ],
+   "location": "Empire High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Coyotes",
     "name": "Arizona Lutheran",
     "program": "1146",
@@ -4793,6 +4823,68 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
+    "name": "Anthem Prep",
+    "program": "7377",
+    "squad": "varsity",
+    "team": "215442"
+   },
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "mascot": "Golden Eagles",
+    "name": "Bourgade Catholic",
+    "program": "1612",
+    "squad": "varsity",
+    "team": "219431"
+   },
+   "id": "2574043",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Bourgade Catholic High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
+    "name": "Anthem Prep",
+    "program": "7378",
+    "squad": "varsity",
+    "team": "215444"
+   },
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "mascot": "Golden Eagles",
+    "name": "Bourgade Catholic",
+    "program": "7467",
+    "squad": "varsity",
+    "team": "219435"
+   },
+   "id": "2574044",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Bourgade Catholic High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:30",
+   "time_raw": "4:30 pm"
   },
   {
    "away": {
@@ -24271,35 +24363,6 @@
   },
   {
    "away": {
-    "mascot": "Stallions",
-    "name": "Shadow Ridge",
-    "program": "1809",
-    "squad": "frso",
-    "team": "219585"
-   },
-   "date": "2026-12-10",
-   "gender": "boys",
-   "home": {
-    "mascot": "Vikings",
-    "name": "Sunnyslope",
-    "program": "3157",
-    "squad": "frso",
-    "team": "217974"
-   },
-   "id": "2458929",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Sunnyslope High School",
-   "page_level": "Freshman/Sophomore",
-   "result": null,
-   "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Vikings",
     "name": "Sunnyslope",
     "program": "3158",
@@ -26394,6 +26457,35 @@
   },
   {
    "away": {
+    "mascot": "Firebirds",
+    "name": "Chaparral",
+    "program": "1049",
+    "squad": "frso",
+    "team": "223956"
+   },
+   "date": "2026-12-10",
+   "gender": "girls",
+   "home": {
+    "mascot": "Bulldogs",
+    "name": "Sierra Linda",
+    "program": "3422",
+    "squad": "frso",
+    "team": "215982"
+   },
+   "id": "2468944",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Sierra Linda High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Knights",
     "name": "Westview",
     "program": "3367",
@@ -27851,35 +27943,6 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Firebirds",
-    "name": "Chaparral",
-    "program": "1049",
-    "squad": "frso",
-    "team": "223956"
-   },
-   "date": "2026-12-11",
-   "gender": "girls",
-   "home": {
-    "mascot": "Bulldogs",
-    "name": "Sierra Linda",
-    "program": "3422",
-    "squad": "frso",
-    "team": "215982"
-   },
-   "id": "2468944",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Sierra Linda High School",
-   "page_level": "Freshman/Sophomore",
-   "result": null,
-   "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -43777,6 +43840,35 @@
    "away": {
     "mascot": "Hornets",
     "name": "Highland Prep West",
+    "program": "14934",
+    "squad": "jv",
+    "team": "220453"
+   },
+   "date": "2027-01-05",
+   "gender": "boys",
+   "home": {
+    "mascot": "Minotaurs",
+    "name": "Odyssey Institute",
+    "program": "6937",
+    "squad": "jv",
+    "team": "223868"
+   },
+   "id": "2522421",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "The Odyssey for Advanced and International Studies",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Hornets",
+    "name": "Highland Prep West",
     "program": "13318",
     "squad": "varsity",
     "team": "220455"
@@ -45443,27 +45535,27 @@
   },
   {
    "away": {
-    "mascot": "Bulldogs",
-    "name": "Queen Creek",
-    "program": "4046",
-    "squad": "varsity",
-    "team": "220726"
-   },
-   "date": "2027-01-06",
-   "gender": "boys",
-   "home": {
     "mascot": "Aztecs",
     "name": "Corona del Sol",
     "program": "1791",
     "squad": "varsity",
     "team": "222146"
    },
+   "date": "2027-01-06",
+   "gender": "boys",
+   "home": {
+    "mascot": "Bulldogs",
+    "name": "Queen Creek",
+    "program": "4046",
+    "squad": "varsity",
+    "team": "220726"
+   },
    "id": "2464014",
    "level": "Varsity",
    "listed_in": [
     "6A"
    ],
-   "location": "Corona del Sol High School",
+   "location": "Queen Creek High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -45474,27 +45566,27 @@
   },
   {
    "away": {
-    "mascot": "Bulldogs",
-    "name": "Queen Creek",
-    "program": "4046",
-    "squad": "jv",
-    "team": "220728"
-   },
-   "date": "2027-01-06",
-   "gender": "boys",
-   "home": {
     "mascot": "Aztecs",
     "name": "Corona del Sol",
     "program": "1791",
     "squad": "jv",
     "team": "222148"
    },
+   "date": "2027-01-06",
+   "gender": "boys",
+   "home": {
+    "mascot": "Bulldogs",
+    "name": "Queen Creek",
+    "program": "4046",
+    "squad": "jv",
+    "team": "220728"
+   },
    "id": "2464015",
    "level": "JV",
    "listed_in": [
     "6A"
    ],
-   "location": "Corona del Sol High School",
+   "location": "Queen Creek High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -49065,6 +49157,36 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Knights",
+    "name": "Gilbert Christian",
+    "program": "7394",
+    "squad": "jv",
+    "team": "220013"
+   },
+   "date": "2027-01-06",
+   "gender": "girls",
+   "home": {
+    "mascot": "Lancers",
+    "name": "Salpointe Catholic",
+    "program": "3697",
+    "squad": "jv",
+    "team": "212077"
+   },
+   "id": "2533537",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "5A"
+   ],
+   "location": "Salpointe Catholic High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -73772,6 +73894,68 @@
   },
   {
    "away": {
+    "mascot": "Cougars",
+    "name": "Sahuaro",
+    "program": "400",
+    "squad": "varsity",
+    "team": "216056"
+   },
+   "date": "2027-01-14",
+   "gender": "boys",
+   "home": {
+    "mascot": "Titans",
+    "name": "Palo Verde Magnet",
+    "program": "2623",
+    "squad": "varsity",
+    "team": "217894"
+   },
+   "id": "2514777",
+   "level": "Varsity",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Palo Verde High Magnet School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Cougars",
+    "name": "Sahuaro",
+    "program": "400",
+    "squad": "jv",
+    "team": "216058"
+   },
+   "date": "2027-01-14",
+   "gender": "boys",
+   "home": {
+    "mascot": "Titans",
+    "name": "Palo Verde Magnet",
+    "program": "2623",
+    "squad": "jv",
+    "team": "217896"
+   },
+   "id": "2514778",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Palo Verde High Magnet School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Knights",
     "name": "Tempe Prep",
     "program": "1465",
@@ -77299,68 +77483,6 @@
   },
   {
    "away": {
-    "mascot": "Cougars",
-    "name": "Sahuaro",
-    "program": "400",
-    "squad": "varsity",
-    "team": "216056"
-   },
-   "date": "2027-01-15",
-   "gender": "boys",
-   "home": {
-    "mascot": "Titans",
-    "name": "Palo Verde Magnet",
-    "program": "2623",
-    "squad": "varsity",
-    "team": "217894"
-   },
-   "id": "2514777",
-   "level": "Varsity",
-   "listed_in": [
-    "3A",
-    "4A"
-   ],
-   "location": "Palo Verde High Magnet School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Cougars",
-    "name": "Sahuaro",
-    "program": "400",
-    "squad": "jv",
-    "team": "216058"
-   },
-   "date": "2027-01-15",
-   "gender": "boys",
-   "home": {
-    "mascot": "Titans",
-    "name": "Palo Verde Magnet",
-    "program": "2623",
-    "squad": "jv",
-    "team": "217896"
-   },
-   "id": "2514778",
-   "level": "JV",
-   "listed_in": [
-    "3A",
-    "4A"
-   ],
-   "location": "Palo Verde High Magnet School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Titans",
     "name": "Palo Verde Magnet",
     "program": "2624",
@@ -77974,6 +78096,35 @@
   },
   {
    "away": {
+    "mascot": "Thunderbirds",
+    "name": "Mohave",
+    "program": "1676",
+    "squad": "jv",
+    "team": "218720"
+   },
+   "date": "2027-01-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Hornets",
+    "name": "Highland Prep West",
+    "program": "14934",
+    "squad": "jv",
+    "team": "220453"
+   },
+   "id": "2522493",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Highland Prep West",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Hornets",
     "name": "Highland Prep West",
     "program": "13318",
@@ -78002,6 +78153,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Hornets",
+    "name": "Highland Prep West",
+    "program": "13318",
+    "squad": "jv",
+    "team": "220457"
+   },
+   "date": "2027-01-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Thunderbirds",
+    "name": "Mohave",
+    "program": "1677",
+    "squad": "jv",
+    "team": "218724"
+   },
+   "id": "2522495",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Anderson Auto Group Fieldhouse",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -86836,8 +87016,8 @@
    "tags": [
     "Region"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -86865,8 +87045,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -86894,32 +87074,32 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
-    "mascot": "Gators",
-    "name": "Xavier Prep",
-    "program": "3850",
-    "squad": "varsity",
-    "team": "214216"
-   },
-   "date": "2027-01-20",
-   "gender": "girls",
-   "home": {
     "mascot": "Vikings",
     "name": "Sunnyslope",
     "program": "3158",
     "squad": "varsity",
     "team": "217976"
    },
+   "date": "2027-01-20",
+   "gender": "girls",
+   "home": {
+    "mascot": "Gators",
+    "name": "Xavier Prep",
+    "program": "3850",
+    "squad": "varsity",
+    "team": "214216"
+   },
    "id": "2465454",
    "level": "Varsity",
    "listed_in": [
     "6A"
    ],
-   "location": "Sunnyslope High School",
+   "location": "Xavier College Preparatory",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -86930,27 +87110,27 @@
   },
   {
    "away": {
-    "mascot": "Gators",
-    "name": "Xavier Prep",
-    "program": "3850",
-    "squad": "jv",
-    "team": "214218"
-   },
-   "date": "2027-01-20",
-   "gender": "girls",
-   "home": {
     "mascot": "Vikings",
     "name": "Sunnyslope",
     "program": "3158",
     "squad": "jv",
     "team": "217978"
    },
+   "date": "2027-01-20",
+   "gender": "girls",
+   "home": {
+    "mascot": "Gators",
+    "name": "Xavier Prep",
+    "program": "3850",
+    "squad": "jv",
+    "team": "214218"
+   },
    "id": "2465455",
    "level": "JV",
    "listed_in": [
     "6A"
    ],
-   "location": "Sunnyslope High School",
+   "location": "Xavier College Preparatory",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -86959,27 +87139,27 @@
   },
   {
    "away": {
-    "mascot": "Gators",
-    "name": "Xavier Prep",
-    "program": "3850",
-    "squad": "frso",
-    "team": "214220"
-   },
-   "date": "2027-01-20",
-   "gender": "girls",
-   "home": {
     "mascot": "Vikings",
     "name": "Sunnyslope",
     "program": "3158",
     "squad": "frso",
     "team": "217980"
    },
+   "date": "2027-01-20",
+   "gender": "girls",
+   "home": {
+    "mascot": "Gators",
+    "name": "Xavier Prep",
+    "program": "3850",
+    "squad": "frso",
+    "team": "214220"
+   },
    "id": "2465456",
    "level": "Freshman/Sophomore",
    "listed_in": [
     "6A"
    ],
-   "location": "Sunnyslope High School",
+   "location": "Xavier College Preparatory",
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
@@ -93263,6 +93443,35 @@
   },
   {
    "away": {
+    "mascot": "Hornets",
+    "name": "Highland Prep West",
+    "program": "14934",
+    "squad": "jv",
+    "team": "220453"
+   },
+   "date": "2027-01-21",
+   "gender": "boys",
+   "home": {
+    "mascot": "Defenders",
+    "name": "ALA - Vistancia",
+    "program": "14710",
+    "squad": "jv",
+    "team": "222300"
+   },
+   "id": "2522601",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "American Leadership Academy - Vistancia",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Defenders",
     "name": "ALA - Vistancia",
     "program": "14711",
@@ -93291,6 +93500,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Defenders",
+    "name": "ALA - Vistancia",
+    "program": "14711",
+    "squad": "jv",
+    "team": "222304"
+   },
+   "date": "2027-01-21",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hornets",
+    "name": "Highland Prep West",
+    "program": "13318",
+    "squad": "jv",
+    "team": "220457"
+   },
+   "id": "2522603",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Highland Prep West",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -110177,6 +110415,35 @@
   },
   {
    "away": {
+    "mascot": "Crusaders",
+    "name": "Northwest Christian",
+    "program": "2530",
+    "squad": "jv",
+    "team": "223254"
+   },
+   "date": "2027-01-27",
+   "gender": "boys",
+   "home": {
+    "mascot": "Hornets",
+    "name": "Highland Prep West",
+    "program": "14934",
+    "squad": "jv",
+    "team": "220453"
+   },
+   "id": "2522743",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Highland Prep West",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Hornets",
     "name": "Highland Prep West",
     "program": "13318",
@@ -110205,6 +110472,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Hornets",
+    "name": "Highland Prep West",
+    "program": "13318",
+    "squad": "jv",
+    "team": "220457"
+   },
+   "date": "2027-01-27",
+   "gender": "girls",
+   "home": {
+    "mascot": "Crusaders",
+    "name": "Northwest Christian",
+    "program": "2531",
+    "squad": "jv",
+    "team": "223258"
+   },
+   "id": "2522745",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Northwest Christian High",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -117400,6 +117696,126 @@
   },
   {
    "away": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1662",
+    "squad": "varsity",
+    "team": "228168"
+   },
+   "date": "2027-01-28",
+   "gender": "boys",
+   "home": {
+    "mascot": "Dorado",
+    "name": "Canyon Del Oro",
+    "program": "402",
+    "squad": "varsity",
+    "team": "229210"
+   },
+   "id": "2530844",
+   "level": "Varsity",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Canyon Del Oro High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1662",
+    "squad": "jv",
+    "team": "228170"
+   },
+   "date": "2027-01-28",
+   "gender": "boys",
+   "home": {
+    "mascot": "Dorado",
+    "name": "Canyon Del Oro",
+    "program": "402",
+    "squad": "jv",
+    "team": "229212"
+   },
+   "id": "2530845",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Canyon Del Oro High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Dorado",
+    "name": "Canyon Del Oro",
+    "program": "447",
+    "squad": "varsity",
+    "team": "229214"
+   },
+   "date": "2027-01-28",
+   "gender": "girls",
+   "home": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1663",
+    "squad": "varsity",
+    "team": "228172"
+   },
+   "id": "2530846",
+   "level": "Varsity",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Maricopa High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Dorado",
+    "name": "Canyon Del Oro",
+    "program": "447",
+    "squad": "jv",
+    "team": "229216"
+   },
+   "date": "2027-01-28",
+   "gender": "girls",
+   "home": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1663",
+    "squad": "jv",
+    "team": "228174"
+   },
+   "id": "2530847",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Maricopa High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Hawks",
     "name": "Highland",
     "program": "1307",
@@ -118644,126 +119060,6 @@
    ],
    "time": "15:45",
    "time_raw": "3:45 pm"
-  },
-  {
-   "away": {
-    "mascot": "Dorado",
-    "name": "Canyon Del Oro",
-    "program": "402",
-    "squad": "varsity",
-    "team": "229210"
-   },
-   "date": "2027-01-29",
-   "gender": "boys",
-   "home": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1662",
-    "squad": "varsity",
-    "team": "228168"
-   },
-   "id": "2530844",
-   "level": "Varsity",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Maricopa High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1662",
-    "squad": "jv",
-    "team": "228170"
-   },
-   "date": "2027-01-29",
-   "gender": "boys",
-   "home": {
-    "mascot": "Dorado",
-    "name": "Canyon Del Oro",
-    "program": "402",
-    "squad": "jv",
-    "team": "229212"
-   },
-   "id": "2530845",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Canyon Del Oro High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Dorado",
-    "name": "Canyon Del Oro",
-    "program": "447",
-    "squad": "varsity",
-    "team": "229214"
-   },
-   "date": "2027-01-29",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1663",
-    "squad": "varsity",
-    "team": "228172"
-   },
-   "id": "2530846",
-   "level": "Varsity",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Maricopa High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1663",
-    "squad": "jv",
-    "team": "228174"
-   },
-   "date": "2027-01-29",
-   "gender": "girls",
-   "home": {
-    "mascot": "Dorado",
-    "name": "Canyon Del Oro",
-    "program": "447",
-    "squad": "jv",
-    "team": "229216"
-   },
-   "id": "2530847",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Canyon Del Oro High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -137072,6 +137368,35 @@
   },
   {
    "away": {
+    "mascot": "Hornets",
+    "name": "Highland Prep West",
+    "program": "14934",
+    "squad": "jv",
+    "team": "220453"
+   },
+   "date": "2027-02-04",
+   "gender": "boys",
+   "home": {
+    "mascot": "Lions",
+    "name": "St. John Paul II",
+    "program": "12295",
+    "squad": "jv",
+    "team": "212232"
+   },
+   "id": "2522809",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "St. John Paul II Catholic High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "13:30",
+   "time_raw": "1:30 pm"
+  },
+  {
+   "away": {
     "mascot": "Lions",
     "name": "St. John Paul II",
     "program": "12296",
@@ -137100,6 +137425,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Lions",
+    "name": "St. John Paul II",
+    "program": "12296",
+    "squad": "jv",
+    "team": "212236"
+   },
+   "date": "2027-02-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hornets",
+    "name": "Highland Prep West",
+    "program": "13318",
+    "squad": "jv",
+    "team": "220457"
+   },
+   "id": "2522811",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Highland Prep West",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -137734,6 +138088,11 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -138047,5 +138406,5 @@
    ]
   }
  ],
- "updated": "2026-11-09T06:46:40+00:00"
+ "updated": "2026-11-09T18:53:34+00:00"
 }
