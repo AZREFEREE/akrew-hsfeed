@@ -2,32 +2,24 @@
  "changes": [
   {
    "fields": {
-    "away": [
-     "Queen Creek",
-     "Corona del Sol"
-    ],
-    "home": [
-     "Corona del Sol",
-     "Queen Creek"
-    ],
-    "location": [
-     "Corona del Sol High School",
-     "Queen Creek High School"
+    "time": [
+     "18:00",
+     "19:00"
     ]
    },
    "game": {
-    "away": "Corona del Sol",
-    "date": "2027-01-06",
+    "away": "Desert Vista",
+    "date": "2027-01-26",
     "gender": "boys",
-    "home": "Queen Creek",
+    "home": "Sunnyslope",
     "level": "Varsity",
-    "location": "Queen Creek High School",
+    "location": "Sunnyslope High School",
     "tags": [
-     "Freedom"
+     "Region"
     ],
-    "time": "18:00"
+    "time": "19:00"
    },
-   "id": "2464014",
+   "id": "2465584",
    "kind": "changed"
   },
   {
@@ -38,47 +30,89 @@
     ]
    },
    "game": {
-    "away": "Brophy Prep",
-    "date": "2027-01-20",
+    "away": "Highland",
+    "date": "2027-01-28",
     "gender": "boys",
-    "home": "Sunnyslope",
+    "home": "Higley",
     "level": "Varsity",
-    "location": "Sunnyslope High School",
+    "location": "Higley High School",
     "tags": [
      "Region"
     ],
     "time": "19:00"
    },
-   "id": "2465448",
+   "id": "2465794",
    "kind": "changed"
   },
   {
-   "fields": {
-    "away": [
-     "Queen Creek",
-     "Corona del Sol"
-    ],
-    "home": [
-     "Corona del Sol",
-     "Queen Creek"
-    ],
-    "location": [
-     "Corona del Sol High School",
-     "Queen Creek High School"
-    ]
-   },
    "game": {
-    "away": "Corona del Sol",
-    "date": "2027-01-06",
+    "away": "Dobson",
+    "date": "2026-12-07",
     "gender": "boys",
-    "home": "Queen Creek",
-    "level": "JV",
-    "location": "Queen Creek High School",
+    "home": "Carl Hayden",
+    "level": "Freshman/Sophomore",
+    "location": "Carl Hayden Community High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2464084",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Trevor G. Browne",
+    "date": "2026-12-09",
+    "gender": "boys",
+    "home": "Dobson",
+    "level": "Freshman/Sophomore",
+    "location": "Dobson High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2464015",
-   "kind": "changed"
+   "id": "2464232",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "West Point",
+    "date": "2027-01-08",
+    "gender": "boys",
+    "home": "Dobson",
+    "level": "Freshman/Sophomore",
+    "location": "Dobson High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2459904",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Dobson",
+    "date": "2027-01-13",
+    "gender": "boys",
+    "home": "Cactus Canyon",
+    "level": "Freshman/Sophomore",
+    "location": "Cactus Canyon High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2458795",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Red Mountain",
+    "date": "2027-01-20",
+    "gender": "boys",
+    "home": "Dobson",
+    "level": "Freshman/Sophomore",
+    "location": "Dobson High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2465326",
+   "kind": "added"
   },
   {
    "fields": {
@@ -88,8 +122,8 @@
     ]
    },
    "game": {
-    "away": "Brophy Prep",
-    "date": "2027-01-20",
+    "away": "Desert Vista",
+    "date": "2027-01-26",
     "gender": "boys",
     "home": "Sunnyslope",
     "level": "JV",
@@ -97,7 +131,75 @@
     "tags": [],
     "time": "17:00"
    },
-   "id": "2465449",
+   "id": "2465585",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Mesa",
+    "date": "2027-01-26",
+    "gender": "boys",
+    "home": "Dobson",
+    "level": "Freshman/Sophomore",
+    "location": "Dobson High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2465508",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "time": [
+     "16:00",
+     "17:00"
+    ]
+   },
+   "game": {
+    "away": "Highland",
+    "date": "2027-01-28",
+    "gender": "boys",
+    "home": "Higley",
+    "level": "JV",
+    "location": "Higley High School",
+    "tags": [],
+    "time": "17:00"
+   },
+   "id": "2465795",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Dobson",
+    "date": "2027-01-28",
+    "gender": "boys",
+    "home": "Mountain View (Mesa)",
+    "level": "Freshman/Sophomore",
+    "location": "Mountain View (Mesa) High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2465682",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "time": [
+     "18:00",
+     "16:00"
+    ]
+   },
+   "game": {
+    "away": "Basha",
+    "date": "2026-12-02",
+    "gender": "boys",
+    "home": "San Luis",
+    "level": "Freshman/Sophomore",
+    "location": "San Luis High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2464046",
    "kind": "changed"
   },
   {
@@ -108,8 +210,8 @@
     ]
    },
    "game": {
-    "away": "Brophy Prep",
-    "date": "2027-01-20",
+    "away": "Desert Vista",
+    "date": "2027-01-26",
     "gender": "boys",
     "home": "Sunnyslope",
     "level": "Freshman/Sophomore",
@@ -117,141 +219,29 @@
     "tags": [],
     "time": "15:00"
    },
-   "id": "2465450",
+   "id": "2465586",
    "kind": "changed"
   },
   {
-   "fields": {
-    "away": [
-     "Canyon Del Oro",
-     "Maricopa"
-    ],
-    "date": [
-     "2027-01-29",
-     "2027-01-28"
-    ],
-    "home": [
-     "Maricopa",
-     "Canyon Del Oro"
-    ],
-    "location": [
-     "Maricopa High School",
-     "Canyon Del Oro High School"
-    ]
-   },
    "game": {
-    "away": "Maricopa",
-    "date": "2027-01-28",
+    "away": "Kingman Academy",
+    "date": "2026-12-15",
     "gender": "boys",
-    "home": "Canyon Del Oro",
+    "home": "River Valley",
     "level": "Varsity",
-    "location": "Canyon Del Oro High School",
+    "location": "Anderson Auto Group Fieldhouse",
     "tags": [
      "Freedom"
     ],
     "time": "18:00"
    },
-   "id": "2530844",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2027-01-29",
-     "2027-01-28"
-    ],
-    "time": [
-     "18:00",
-     "16:00"
-    ]
-   },
-   "game": {
-    "away": "Maricopa",
-    "date": "2027-01-28",
-    "gender": "boys",
-    "home": "Canyon Del Oro",
-    "level": "JV",
-    "location": "Canyon Del Oro High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2530845",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2027-01-15",
-     "2027-01-14"
-    ]
-   },
-   "game": {
-    "away": "Sahuaro",
-    "date": "2027-01-14",
-    "gender": "boys",
-    "home": "Palo Verde Magnet",
-    "level": "Varsity",
-    "location": "Palo Verde High Magnet School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2514777",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2027-01-15",
-     "2027-01-14"
-    ]
-   },
-   "game": {
-    "away": "Sahuaro",
-    "date": "2027-01-14",
-    "gender": "boys",
-    "home": "Palo Verde Magnet",
-    "level": "JV",
-    "location": "Palo Verde High Magnet School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2514778",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Highland Prep West",
-    "date": "2027-01-05",
-    "gender": "boys",
-    "home": "Odyssey Institute",
-    "level": "JV",
-    "location": "The Odyssey for Advanced and International Studies",
-    "tags": [],
-    "time": "14:00"
-   },
-   "id": "2522421",
+   "id": "2575039",
    "kind": "added"
   },
   {
    "game": {
-    "away": "Mohave",
-    "date": "2027-01-15",
-    "gender": "boys",
-    "home": "Highland Prep West",
-    "level": "JV",
-    "location": "Highland Prep West",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2522493",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Highland Prep West",
-    "date": "2027-01-21",
+    "away": "ALA - Ironwood",
+    "date": "2026-12-01",
     "gender": "boys",
     "home": "ALA - Vistancia",
     "level": "JV",
@@ -259,27 +249,69 @@
     "tags": [],
     "time": "16:00"
    },
-   "id": "2522601",
+   "id": "2532881",
    "kind": "added"
   },
   {
    "game": {
-    "away": "Northwest Christian",
-    "date": "2027-01-27",
+    "away": "ALA - Radiance",
+    "date": "2026-12-02",
     "gender": "boys",
-    "home": "Highland Prep West",
+    "home": "ALA - Vistancia",
     "level": "JV",
-    "location": "Highland Prep West",
+    "location": "American Leadership Academy - Vistancia",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2532888",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "St. John Paul II",
+    "date": "2026-12-04",
+    "gender": "boys",
+    "home": "Heritage Acad Laveen",
+    "level": "JV",
+    "location": "Heritage Academy Laveen",
+    "tags": [],
+    "time": "13:30"
+   },
+   "id": "2575083",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "ALA - Vistancia",
+    "date": "2026-12-07",
+    "gender": "boys",
+    "home": "Gilbert Christian",
+    "level": "JV",
+    "location": "Gilbert Christian High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2522743",
+   "id": "2534584",
    "kind": "added"
   },
   {
    "game": {
-    "away": "Highland Prep West",
-    "date": "2027-02-04",
+    "away": "Valley Christian",
+    "date": "2026-12-17",
+    "gender": "boys",
+    "home": "ALA - Vistancia",
+    "level": "JV",
+    "location": "American Leadership Academy - Vistancia",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2532875",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "ALA - Vistancia",
+    "date": "2027-01-05",
     "gender": "boys",
     "home": "St. John Paul II",
     "level": "JV",
@@ -287,225 +319,281 @@
     "tags": [],
     "time": "13:30"
    },
-   "id": "2522809",
+   "id": "2522389",
    "kind": "added"
   },
   {
    "game": {
-    "away": "Anthem Prep",
-    "date": "2026-12-01",
+    "away": "ALA - Vistancia",
+    "date": "2027-01-13",
     "gender": "boys",
-    "home": "Bourgade Catholic",
-    "level": "Varsity",
-    "location": "Bourgade Catholic High School",
-    "tags": [
-     "Region"
-    ],
-    "time": "18:00"
+    "home": "Odyssey Institute",
+    "level": "JV",
+    "location": "The Odyssey for Advanced and International Studies",
+    "tags": [],
+    "time": "14:00"
    },
-   "id": "2574043",
+   "id": "2522451",
    "kind": "added"
   },
   {
-   "fields": {
-    "away": [
-     "Xavier Prep",
-     "Sunnyslope"
-    ],
-    "home": [
-     "Sunnyslope",
-     "Xavier Prep"
-    ],
-    "location": [
-     "Sunnyslope High School",
-     "Xavier College Preparatory"
-    ]
-   },
    "game": {
-    "away": "Sunnyslope",
-    "date": "2027-01-20",
-    "gender": "girls",
-    "home": "Xavier Prep",
-    "level": "Varsity",
-    "location": "Xavier College Preparatory",
-    "tags": [
-     "Region"
-    ],
-    "time": "18:00"
-   },
-   "id": "2465454",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "away": [
-     "Xavier Prep",
-     "Sunnyslope"
-    ],
-    "home": [
-     "Sunnyslope",
-     "Xavier Prep"
-    ],
-    "location": [
-     "Sunnyslope High School",
-     "Xavier College Preparatory"
-    ]
-   },
-   "game": {
-    "away": "Sunnyslope",
-    "date": "2027-01-20",
-    "gender": "girls",
-    "home": "Xavier Prep",
+    "away": "Mohave",
+    "date": "2027-01-27",
+    "gender": "boys",
+    "home": "ALA - Vistancia",
     "level": "JV",
-    "location": "Xavier College Preparatory",
+    "location": "American Leadership Academy - Vistancia",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2465455",
-   "kind": "changed"
+   "id": "2522711",
+   "kind": "added"
   },
   {
-   "fields": {
-    "away": [
-     "Xavier Prep",
-     "Sunnyslope"
-    ],
-    "home": [
-     "Sunnyslope",
-     "Xavier Prep"
-    ],
-    "location": [
-     "Sunnyslope High School",
-     "Xavier College Preparatory"
-    ]
-   },
    "game": {
-    "away": "Sunnyslope",
-    "date": "2027-01-20",
+    "away": "Mesa",
+    "date": "2027-01-06",
     "gender": "girls",
-    "home": "Xavier Prep",
+    "home": "Perry",
     "level": "Freshman/Sophomore",
-    "location": "Xavier College Preparatory",
+    "location": "Perry High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2465159",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Red Mountain",
+    "date": "2027-01-28",
+    "gender": "girls",
+    "home": "Mesa",
+    "level": "Freshman/Sophomore",
+    "location": "Mesa High School",
     "tags": [],
     "time": "18:00"
    },
-   "id": "2465456",
-   "kind": "changed"
+   "id": "2465695",
+   "kind": "added"
   },
   {
-   "fields": {
-    "date": [
-     "2027-01-29",
-     "2027-01-28"
-    ],
-    "time": [
-     "16:00",
-     "18:00"
-    ]
-   },
    "game": {
-    "away": "Canyon Del Oro",
-    "date": "2027-01-28",
+    "away": "Hamilton",
+    "date": "2026-12-07",
     "gender": "girls",
-    "home": "Maricopa",
+    "home": "Mesa",
+    "level": "Freshman/Sophomore",
+    "location": "Mesa High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2464131",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "San Luis",
+    "date": "2027-01-15",
+    "gender": "girls",
+    "home": "Mesa",
+    "level": "Freshman/Sophomore",
+    "location": "Mesa High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2465271",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Mesa",
+    "date": "2027-02-03",
+    "gender": "girls",
+    "home": "Mountain View (Mesa)",
+    "level": "Freshman/Sophomore",
+    "location": "Mountain View (Mesa) High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2466047",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Apache Junction",
+    "date": "2026-12-03",
+    "gender": "girls",
+    "home": "Poston Butte",
+    "level": "JV",
+    "location": "Poston Butte High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2575005",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "ALA - QC",
+    "date": "2026-12-15",
+    "gender": "girls",
+    "home": "Apache Junction",
+    "level": "JV",
+    "location": "Apache Junction High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2575006",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Kingman Academy",
+    "date": "2026-12-15",
+    "gender": "girls",
+    "home": "River Valley",
     "level": "Varsity",
-    "location": "Maricopa High School",
+    "location": "Anderson Auto Group Fieldhouse",
     "tags": [
      "Freedom"
     ],
-    "time": "18:00"
+    "time": "16:00"
    },
-   "id": "2530846",
-   "kind": "changed"
+   "id": "2575040",
+   "kind": "added"
   },
   {
    "game": {
-    "away": "Rincon/University",
+    "away": "ALA - Vistancia",
     "date": "2026-11-30",
     "gender": "girls",
-    "home": "Empire",
+    "home": "ALA - Ironwood",
     "level": "JV",
-    "location": "Empire High School",
+    "location": "American Leadership Academy – Ironwood",
     "tags": [],
-    "time": "17:00"
+    "time": "16:00"
    },
-   "id": "2574673",
+   "id": "2532883",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "ALA - Radiance",
+    "date": "2026-12-02",
+    "gender": "girls",
+    "home": "ALA - Vistancia",
+    "level": "JV",
+    "location": "American Leadership Academy - Vistancia",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2532889",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "St. John Paul II",
+    "date": "2026-12-04",
+    "gender": "girls",
+    "home": "Gilbert Christian",
+    "level": "JV",
+    "location": "Gilbert Christian High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2530246",
    "kind": "added"
   },
   {
    "game": {
     "away": "Gilbert Christian",
-    "date": "2027-01-06",
+    "date": "2026-12-07",
     "gender": "girls",
-    "home": "Salpointe Catholic",
+    "home": "ALA - Vistancia",
     "level": "JV",
-    "location": "Salpointe Catholic High School",
+    "location": "American Leadership Academy - Vistancia",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2533537",
+   "id": "2534586",
    "kind": "added"
   },
   {
-   "fields": {
-    "away": [
-     "Maricopa",
-     "Canyon Del Oro"
-    ],
-    "date": [
-     "2027-01-29",
-     "2027-01-28"
-    ],
-    "home": [
-     "Canyon Del Oro",
-     "Maricopa"
-    ],
-    "location": [
-     "Canyon Del Oro High School",
-     "Maricopa High School"
-    ]
-   },
    "game": {
-    "away": "Canyon Del Oro",
-    "date": "2027-01-28",
+    "away": "Gilbert Christian",
+    "date": "2026-12-15",
     "gender": "girls",
-    "home": "Maricopa",
+    "home": "ALA - Radiance",
     "level": "JV",
-    "location": "Maricopa High School",
+    "location": "American Leadership Academy - Radiance",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2530847",
-   "kind": "changed"
+   "id": "2533946",
+   "kind": "added"
   },
   {
-   "fields": {
-    "date": [
-     "2026-12-11",
-     "2026-12-10"
-    ],
-    "time": [
-     "18:00",
-     "16:00"
-    ]
-   },
    "game": {
-    "away": "Chaparral",
-    "date": "2026-12-10",
+    "away": "Benjamin Franklin",
+    "date": "2026-12-18",
     "gender": "girls",
-    "home": "Sierra Linda",
-    "level": "Freshman/Sophomore",
-    "location": "Sierra Linda High School",
+    "home": "Gilbert Christian",
+    "level": "JV",
+    "location": "Gilbert Christian High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2468944",
-   "kind": "changed"
+   "id": "2522363",
+   "kind": "added"
   },
   {
    "game": {
-    "away": "Highland Prep West",
-    "date": "2027-01-15",
+    "away": "St. John Paul II",
+    "date": "2027-01-05",
+    "gender": "girls",
+    "home": "ALA - Vistancia",
+    "level": "JV",
+    "location": "American Leadership Academy - Vistancia",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522391",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Yuma Catholic",
+    "date": "2027-01-11",
+    "gender": "girls",
+    "home": "Gilbert Christian",
+    "level": "JV",
+    "location": "Gilbert Christian High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522847",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Northwest Christian",
+    "date": "2027-01-19",
+    "gender": "girls",
+    "home": "Gilbert Christian",
+    "level": "JV",
+    "location": "Gilbert Christian High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522881",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "ALA - Vistancia",
+    "date": "2027-01-27",
     "gender": "girls",
     "home": "Mohave",
     "level": "JV",
@@ -513,81 +601,93 @@
     "tags": [],
     "time": "16:00"
    },
-   "id": "2522495",
+   "id": "2522713",
    "kind": "added"
   },
   {
    "game": {
-    "away": "ALA - Vistancia",
+    "away": "Gilbert Christian",
+    "date": "2027-01-29",
+    "gender": "girls",
+    "home": "Yuma",
+    "level": "JV",
+    "location": "Yuma High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522929",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Heritage Acad Maricopa",
+    "date": "2027-01-13",
+    "gender": "girls",
+    "home": "Apache Junction",
+    "level": "JV",
+    "location": "Apache Junction High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522316",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Heritage Acad Maricopa",
+    "date": "2027-01-19",
+    "gender": "girls",
+    "home": "ALA - Ironwood",
+    "level": "JV",
+    "location": "American Leadership Academy – Ironwood",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522231",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Heritage Acad Maricopa",
+    "date": "2027-01-20",
+    "gender": "girls",
+    "home": "ALA - Radiance",
+    "level": "JV",
+    "location": "American Leadership Academy - Radiance",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2534359",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "San Tan Foothills",
     "date": "2027-01-21",
     "gender": "girls",
-    "home": "Highland Prep West",
+    "home": "Heritage Acad Maricopa",
     "level": "JV",
-    "location": "Highland Prep West",
+    "location": "Copper Sky Recreation Complex",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2522603",
-   "kind": "added"
+   "id": "2522251",
+   "kind": "removed"
   },
   {
    "game": {
-    "away": "Highland Prep West",
-    "date": "2027-01-27",
+    "away": "Heritage Acad Maricopa",
+    "date": "2027-02-03",
     "gender": "girls",
-    "home": "Northwest Christian",
+    "home": "Benjamin Franklin",
     "level": "JV",
-    "location": "Northwest Christian High",
+    "location": "Benjamin Franklin High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2522745",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "St. John Paul II",
-    "date": "2027-02-04",
-    "gender": "girls",
-    "home": "Highland Prep West",
-    "level": "JV",
-    "location": "Highland Prep West",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2522811",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Anthem Prep",
-    "date": "2026-12-01",
-    "gender": "girls",
-    "home": "Bourgade Catholic",
-    "level": "Varsity",
-    "location": "Bourgade Catholic High School",
-    "tags": [
-     "Region"
-    ],
-    "time": "16:30"
-   },
-   "id": "2574044",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Shadow Ridge",
-    "date": "2026-12-10",
-    "gender": "boys",
-    "home": "Sunnyslope",
-    "level": "Freshman/Sophomore",
-    "location": "Sunnyslope High School",
-    "tags": [],
-    "time": "18:00"
-   },
-   "id": "2458929",
+   "id": "2522327",
    "kind": "removed"
   }
  ],
- "run_at": "2026-11-09T18:53:34+00:00"
+ "run_at": "2026-11-10T02:46:36+00:00"
 }
