@@ -68973,8 +68973,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -69002,8 +69002,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -71418,6 +71418,35 @@
     "6A"
    ],
    "location": "Casteel High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Thunder",
+    "name": "Desert Vista",
+    "program": "2036",
+    "squad": "frso",
+    "team": "235056"
+   },
+   "date": "2027-01-13",
+   "gender": "girls",
+   "home": {
+    "mascot": "Mountain Lions",
+    "name": "Mountain Ridge",
+    "program": "3444",
+    "squad": "jv-2",
+    "team": "219217"
+   },
+   "id": "2575469",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Mountain Ridge High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -135560,6 +135589,35 @@
   },
   {
    "away": {
+    "mascot": "Chargers",
+    "name": "Benjamin Franklin",
+    "program": "4355",
+    "squad": "jv",
+    "team": "213702"
+   },
+   "date": "2027-02-03",
+   "gender": "girls",
+   "home": {
+    "mascot": "Lions",
+    "name": "St. John Paul II",
+    "program": "12296",
+    "squad": "jv",
+    "team": "212236"
+   },
+   "id": "2575468",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "St. John Paul II Catholic High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Falcons",
     "name": "Veritas Prep",
     "program": "2749",
@@ -139582,5 +139640,5 @@
    ]
   }
  ],
- "updated": "2026-11-11T16:16:32+00:00"
+ "updated": "2026-11-11T22:45:03+00:00"
 }
