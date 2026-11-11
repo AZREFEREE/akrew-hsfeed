@@ -2864,38 +2864,6 @@
   },
   {
    "away": {
-    "mascot": "Ravens",
-    "name": "Empire",
-    "program": "414",
-    "squad": "varsity",
-    "team": "222838"
-   },
-   "date": "2026-11-30",
-   "gender": "boys",
-   "home": {
-    "mascot": "Hawks",
-    "name": "The Gregory School",
-    "program": "7786",
-    "squad": "varsity",
-    "team": "229370"
-   },
-   "id": "2574614",
-   "level": "Varsity",
-   "listed_in": [
-    "2A",
-    "3A"
-   ],
-   "location": "The Gregory School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Rangers",
     "name": "Rincon/University",
     "program": "437",
@@ -139614,5 +139582,5 @@
    ]
   }
  ],
- "updated": "2026-11-11T06:38:22+00:00"
+ "updated": "2026-11-11T16:16:32+00:00"
 }
