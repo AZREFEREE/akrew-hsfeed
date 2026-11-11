@@ -9781,68 +9781,6 @@
   },
   {
    "away": {
-    "mascot": "Roadrunners",
-    "name": "San Tan Charter",
-    "program": "12592",
-    "squad": "varsity",
-    "team": "217698"
-   },
-   "date": "2026-12-07",
-   "gender": "boys",
-   "home": {
-    "mascot": "Titans",
-    "name": "Chandler Prep",
-    "program": "3650",
-    "squad": "varsity",
-    "team": "219121"
-   },
-   "id": "2447378",
-   "level": "Varsity",
-   "listed_in": [
-    "2A"
-   ],
-   "location": "Chandler Preparatory Academy",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Roadrunners",
-    "name": "San Tan Charter",
-    "program": "12593",
-    "squad": "varsity",
-    "team": "217700"
-   },
-   "date": "2026-12-07",
-   "gender": "girls",
-   "home": {
-    "mascot": "Titans",
-    "name": "Chandler Prep",
-    "program": "3651",
-    "squad": "varsity",
-    "team": "219125"
-   },
-   "id": "2447379",
-   "level": "Varsity",
-   "listed_in": [
-    "2A"
-   ],
-   "location": "Chandler Preparatory Academy",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Lightning",
     "name": "Lincoln Prep",
     "program": "12278",
@@ -16337,35 +16275,6 @@
    ],
    "time": "16:00",
    "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Roadrunners",
-    "name": "San Tan Charter",
-    "program": "12592",
-    "squad": "jv",
-    "team": "234783"
-   },
-   "date": "2026-12-07",
-   "gender": "boys",
-   "home": {
-    "mascot": "Titans",
-    "name": "Chandler Prep",
-    "program": "3650",
-    "squad": "jv",
-    "team": "219123"
-   },
-   "id": "2563804",
-   "level": "JV",
-   "listed_in": [
-    "2A"
-   ],
-   "location": "Chandler Preparatory Academy",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "14:00",
-   "time_raw": "2:00 pm"
   },
   {
    "away": {
@@ -24827,8 +24736,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -24856,8 +24765,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -24885,8 +24794,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -37931,6 +37840,38 @@
   },
   {
    "away": {
+    "mascot": "Patriots",
+    "name": "Mohave Accelerated",
+    "program": "4364",
+    "squad": "varsity",
+    "team": "215140"
+   },
+   "date": "2026-12-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Thunderbirds",
+    "name": "Mohave",
+    "program": "1676",
+    "squad": "varsity",
+    "team": "218718"
+   },
+   "id": "2575431",
+   "level": "Varsity",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "Anderson Auto Group Fieldhouse",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Falcons",
     "name": "Fountain Hills",
     "program": "1692",
@@ -40629,68 +40570,6 @@
     "4A"
    ],
    "location": "Pusch Ridge Christian Academy",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Ravens",
-    "name": "Empire",
-    "program": "414",
-    "squad": "varsity",
-    "team": "222838"
-   },
-   "date": "2026-12-17",
-   "gender": "boys",
-   "home": {
-    "mascot": "Mustangs",
-    "name": "Sahuarita",
-    "program": "409",
-    "squad": "varsity",
-    "team": "213022"
-   },
-   "id": "2514809",
-   "level": "Varsity",
-   "listed_in": [
-    "3A",
-    "4A"
-   ],
-   "location": "Sahuarita High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Ravens",
-    "name": "Empire",
-    "program": "414",
-    "squad": "jv",
-    "team": "222840"
-   },
-   "date": "2026-12-17",
-   "gender": "boys",
-   "home": {
-    "mascot": "Mustangs",
-    "name": "Sahuarita",
-    "program": "409",
-    "squad": "jv",
-    "team": "213024"
-   },
-   "id": "2514810",
-   "level": "JV",
-   "listed_in": [
-    "3A",
-    "4A"
-   ],
-   "location": "Sahuarita High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -58868,6 +58747,68 @@
   },
   {
    "away": {
+    "mascot": "Ravens",
+    "name": "Empire",
+    "program": "414",
+    "squad": "varsity",
+    "team": "222838"
+   },
+   "date": "2027-01-08",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "409",
+    "squad": "varsity",
+    "team": "213022"
+   },
+   "id": "2514809",
+   "level": "Varsity",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Sahuarita High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Ravens",
+    "name": "Empire",
+    "program": "414",
+    "squad": "jv",
+    "team": "222840"
+   },
+   "date": "2027-01-08",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "409",
+    "squad": "jv",
+    "team": "213024"
+   },
+   "id": "2514810",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Sahuarita High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Panthers",
     "name": "Amphitheater",
     "program": "2205",
@@ -75000,6 +74941,68 @@
   },
   {
    "away": {
+    "mascot": "Roadrunners",
+    "name": "San Tan Charter",
+    "program": "12592",
+    "squad": "varsity",
+    "team": "217698"
+   },
+   "date": "2027-01-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Titans",
+    "name": "Chandler Prep",
+    "program": "3650",
+    "squad": "varsity",
+    "team": "219121"
+   },
+   "id": "2447378",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Chandler Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Roadrunners",
+    "name": "San Tan Charter",
+    "program": "12593",
+    "squad": "varsity",
+    "team": "217700"
+   },
+   "date": "2027-01-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Titans",
+    "name": "Chandler Prep",
+    "program": "3651",
+    "squad": "varsity",
+    "team": "219125"
+   },
+   "id": "2447379",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Chandler Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Tigers",
     "name": "Globe",
     "program": "1596",
@@ -79835,6 +79838,35 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Roadrunners",
+    "name": "San Tan Charter",
+    "program": "12592",
+    "squad": "jv",
+    "team": "234783"
+   },
+   "date": "2027-01-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Titans",
+    "name": "Chandler Prep",
+    "program": "3650",
+    "squad": "jv",
+    "team": "219123"
+   },
+   "id": "2563804",
+   "level": "JV",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Chandler Preparatory Academy",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
   },
   {
    "away": {
@@ -139333,7 +139365,21 @@
    "location": "4 venues",
    "name": "Bulldog Invitational Soccer Tournament",
    "tags": [
-    "Invitational"
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
    ]
   },
   {
@@ -139344,7 +139390,17 @@
    "location": "Maricopa High School",
    "name": "Pinal County Champion Cup",
    "tags": [
-    "Invitational"
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
    ]
   },
   {
@@ -139355,7 +139411,15 @@
    "location": "Maricopa High School",
    "name": "Pinal County Champion Cup",
    "tags": [
-    "Invitational"
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
    ]
   },
   {
@@ -139550,5 +139614,5 @@
    ]
   }
  ],
- "updated": "2026-11-10T21:50:20+00:00"
+ "updated": "2026-11-11T06:38:22+00:00"
 }

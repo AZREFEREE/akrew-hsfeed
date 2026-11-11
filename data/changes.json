@@ -8,508 +8,18 @@
     ]
    },
    "game": {
-    "away": "Sunnyslope",
-    "date": "2027-01-08",
+    "away": "West Point",
+    "date": "2026-12-10",
     "gender": "boys",
-    "home": "Cactus Canyon",
-    "level": "Varsity",
-    "location": "Cactus Canyon High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "19:00"
-   },
-   "id": "2458783",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "18:00",
-     "19:00"
-    ]
-   },
-   "game": {
-    "away": "Apollo",
-    "date": "2027-01-20",
-    "gender": "boys",
-    "home": "Corona del Sol",
-    "level": "Varsity",
-    "location": "Corona del Sol High School",
-    "tags": [
-     "Region"
-    ],
-    "time": "19:00"
-   },
-   "id": "2465436",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "away": [
-     "Yuma",
-     "San Luis"
-    ],
-    "home": [
-     "San Luis",
-     "Yuma"
-    ],
-    "location": [
-     "San Luis High School",
-     "Yuma High School"
-    ]
-   },
-   "game": {
-    "away": "San Luis",
-    "date": "2026-12-09",
-    "gender": "boys",
-    "home": "Yuma",
-    "level": "Freshman/Sophomore",
-    "location": "Yuma High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2542204",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "16:00",
-     "17:00"
-    ]
-   },
-   "game": {
-    "away": "Sunnyslope",
-    "date": "2027-01-08",
-    "gender": "boys",
-    "home": "Cactus Canyon",
-    "level": "JV",
-    "location": "Cactus Canyon High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2458784",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "16:00",
-     "17:00"
-    ]
-   },
-   "game": {
-    "away": "Apollo",
-    "date": "2027-01-20",
-    "gender": "boys",
-    "home": "Corona del Sol",
-    "level": "JV",
-    "location": "Corona del Sol High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2465437",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-04",
-     "2026-12-08"
-    ]
-   },
-   "game": {
-    "away": "Gila Ridge",
-    "date": "2026-12-08",
-    "gender": "boys",
-    "home": "Central (El Centro, CA)",
-    "level": "Freshman/Sophomore",
-    "location": "Central (CA) (El Centro CA)",
-    "tags": [],
-    "time": "17:30"
-   },
-   "id": "2535391",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "18:00",
-     "15:00"
-    ]
-   },
-   "game": {
-    "away": "Sunnyslope",
-    "date": "2027-01-08",
-    "gender": "boys",
-    "home": "Cactus Canyon",
-    "level": "Freshman/Sophomore",
-    "location": "Cactus Canyon High School",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2458785",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Crismon",
-    "date": "2027-01-14",
-    "gender": "boys",
-    "home": "Desert Vista",
-    "level": "Freshman/Sophomore",
-    "location": "Desert Vista High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2575274",
-   "kind": "added"
-  },
-  {
-   "fields": {
-    "time": [
-     "18:00",
-     "15:00"
-    ]
-   },
-   "game": {
-    "away": "Apollo",
-    "date": "2027-01-20",
-    "gender": "boys",
-    "home": "Corona del Sol",
-    "level": "Freshman/Sophomore",
-    "location": "Corona del Sol High School",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2465438",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-09",
-     "2026-12-07"
-    ]
-   },
-   "game": {
-    "away": "Washington",
-    "date": "2026-12-07",
-    "gender": "boys",
-    "home": "Independence",
-    "level": "Varsity",
-    "location": "Independence High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "19:00"
-   },
-   "id": "2477515",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "18:00",
-     "19:00"
-    ]
-   },
-   "game": {
-    "away": "Metro Tech",
-    "date": "2027-01-08",
-    "gender": "boys",
-    "home": "Independence",
-    "level": "Varsity",
-    "location": "Independence High School",
-    "tags": [
-     "Region"
-    ],
-    "time": "19:00"
-   },
-   "id": "2477591",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-09",
-     "2026-12-07"
-    ]
-   },
-   "game": {
-    "away": "Washington",
-    "date": "2026-12-07",
-    "gender": "boys",
-    "home": "Independence",
-    "level": "JV",
-    "location": "Independence High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2477516",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "16:00",
-     "17:00"
-    ]
-   },
-   "game": {
-    "away": "Metro Tech",
-    "date": "2027-01-08",
-    "gender": "boys",
-    "home": "Independence",
-    "level": "JV",
-    "location": "Independence High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2477592",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Mountain Pointe",
-    "date": "2027-01-28",
-    "gender": "boys",
-    "home": "Raymond S. Kellis",
-    "level": "JV",
-    "location": "Raymond S. Kellis High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2575380",
-   "kind": "added"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-09",
-     "2026-12-07"
-    ]
-   },
-   "game": {
-    "away": "Washington",
-    "date": "2026-12-07",
-    "gender": "boys",
-    "home": "Independence",
-    "level": "Freshman/Sophomore",
-    "location": "Independence High School",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2477517",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "18:00",
-     "15:00"
-    ]
-   },
-   "game": {
-    "away": "Metro Tech",
-    "date": "2027-01-08",
-    "gender": "boys",
-    "home": "Independence",
-    "level": "Freshman/Sophomore",
-    "location": "Independence High School",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2477593",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-01",
-     "2026-12-15"
-    ]
-   },
-   "game": {
-    "away": "Desert Sunrise",
-    "date": "2026-12-15",
-    "gender": "boys",
-    "home": "Goodyear",
-    "level": "Varsity",
-    "location": "Goodyear High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2483750",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Phoenix Country Day",
-    "date": "2027-01-11",
-    "gender": "boys",
-    "home": "Coronado",
-    "level": "Varsity",
-    "location": "Coronado High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2575311",
-   "kind": "added"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-02",
-     "2027-01-12"
-    ]
-   },
-   "game": {
-    "away": "Paradise Honors",
-    "date": "2027-01-12",
-    "gender": "boys",
-    "home": "Moon Valley",
-    "level": "Varsity",
-    "location": "Moon Valley High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2500225",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-03",
-     "2027-01-12"
-    ]
-   },
-   "game": {
-    "away": "Poston Butte",
-    "date": "2027-01-12",
-    "gender": "boys",
-    "home": "St. Mary's",
-    "level": "Varsity",
-    "location": "Monterey Park",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2480737",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-01",
-     "2026-12-15"
-    ]
-   },
-   "game": {
-    "away": "Desert Sunrise",
-    "date": "2026-12-15",
-    "gender": "boys",
-    "home": "Goodyear",
-    "level": "JV",
-    "location": "Goodyear High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2483751",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-02",
-     "2027-01-12"
-    ]
-   },
-   "game": {
-    "away": "Paradise Honors",
-    "date": "2027-01-12",
-    "gender": "boys",
-    "home": "Moon Valley",
-    "level": "JV",
-    "location": "Moon Valley High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2500226",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "16:00",
-     "15:15"
-    ]
-   },
-   "game": {
-    "away": "Veritas Prep",
-    "date": "2027-01-25",
-    "gender": "boys",
-    "home": "Tempe Prep",
-    "level": "Varsity",
-    "location": "Tempe Sports Complex",
-    "tags": [
-     "Region"
-    ],
-    "time": "15:15"
-   },
-   "id": "2440398",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "18:00",
-     "19:00"
-    ]
-   },
-   "game": {
-    "away": "Casteel",
-    "date": "2026-12-07",
-    "gender": "girls",
-    "home": "Desert Vista",
-    "level": "Varsity",
-    "location": "Desert Vista High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "19:00"
-   },
-   "id": "2464197",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-04",
-     "2027-01-19"
-    ]
-   },
-   "game": {
-    "away": "Somerton",
-    "date": "2027-01-19",
-    "gender": "girls",
     "home": "Gila Ridge",
     "level": "Varsity",
     "location": "Gila Ridge High School",
     "tags": [
      "Freedom"
     ],
-    "time": "18:00"
+    "time": "19:00"
    },
-   "id": "2464076",
+   "id": "2459876",
    "kind": "changed"
   },
   {
@@ -520,390 +30,160 @@
     ]
    },
    "game": {
-    "away": "Casteel",
-    "date": "2026-12-07",
-    "gender": "girls",
-    "home": "Desert Vista",
+    "away": "West Point",
+    "date": "2026-12-10",
+    "gender": "boys",
+    "home": "Gila Ridge",
     "level": "JV",
-    "location": "Desert Vista High School",
+    "location": "Gila Ridge High School",
     "tags": [],
     "time": "17:00"
    },
-   "id": "2464198",
+   "id": "2459877",
    "kind": "changed"
   },
   {
    "fields": {
-    "away": [
-     "Yuma",
-     "San Luis"
-    ],
-    "home": [
-     "San Luis",
-     "Yuma"
-    ],
-    "location": [
-     "San Luis High School",
-     "Yuma High School"
+    "time": [
+     "18:00",
+     "15:00"
     ]
    },
    "game": {
-    "away": "San Luis",
-    "date": "2026-12-09",
-    "gender": "girls",
-    "home": "Yuma",
+    "away": "West Point",
+    "date": "2026-12-10",
+    "gender": "boys",
+    "home": "Gila Ridge",
     "level": "Freshman/Sophomore",
-    "location": "Yuma High School",
+    "location": "Gila Ridge High School",
     "tags": [],
+    "time": "15:00"
+   },
+   "id": "2459878",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-17",
+     "2027-01-08"
+    ]
+   },
+   "game": {
+    "away": "Empire",
+    "date": "2027-01-08",
+    "gender": "boys",
+    "home": "Sahuarita",
+    "level": "Varsity",
+    "location": "Sahuarita High School",
+    "tags": [
+     "Freedom"
+    ],
     "time": "18:00"
    },
-   "id": "2542205",
+   "id": "2514809",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-17",
+     "2027-01-08"
+    ]
+   },
+   "game": {
+    "away": "Empire",
+    "date": "2027-01-08",
+    "gender": "boys",
+    "home": "Sahuarita",
+    "level": "JV",
+    "location": "Sahuarita High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2514810",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Mohave Accelerated",
+    "date": "2026-12-15",
+    "gender": "boys",
+    "home": "Mohave",
+    "level": "Varsity",
+    "location": "Anderson Auto Group Fieldhouse",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "17:00"
+   },
+   "id": "2575431",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-07",
+     "2027-01-15"
+    ]
+   },
+   "game": {
+    "away": "San Tan Charter",
+    "date": "2027-01-15",
+    "gender": "boys",
+    "home": "Chandler Prep",
+    "level": "Varsity",
+    "location": "Chandler Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2447378",
    "kind": "changed"
   },
   {
    "fields": {
     "date": [
      "2026-12-07",
-     "2027-01-05"
-    ],
-    "location": [
-     "Benjamin Franklin High School",
-     "Casteel High School"
-    ],
-    "time": [
-     "16:00",
-     "15:00"
+     "2027-01-15"
     ]
    },
    "game": {
-    "away": "Casteel",
-    "date": "2027-01-05",
-    "gender": "girls",
-    "home": "Benjamin Franklin",
-    "level": "Freshman/Sophomore",
-    "location": "Casteel High School",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2575180",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "AZ College Prep",
-    "date": "2027-01-18",
-    "gender": "girls",
-    "home": "Chaparral",
-    "level": "Freshman/Sophomore",
-    "location": "Chaparral High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2575310",
-   "kind": "added"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-04",
-     "2027-01-19"
-    ]
-   },
-   "game": {
-    "away": "Somerton",
-    "date": "2027-01-19",
-    "gender": "girls",
-    "home": "Gila Ridge",
+    "away": "San Tan Charter",
+    "date": "2027-01-15",
+    "gender": "boys",
+    "home": "Chandler Prep",
     "level": "JV",
-    "location": "Gila Ridge High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2464077",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Casteel",
-    "date": "2026-12-07",
-    "gender": "girls",
-    "home": "Desert Vista",
-    "level": "Freshman/Sophomore",
-    "location": "Desert Vista High School",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2575391",
-   "kind": "added"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-04",
-     "2026-12-08"
-    ]
-   },
-   "game": {
-    "away": "Gila Ridge",
-    "date": "2026-12-08",
-    "gender": "girls",
-    "home": "Central (El Centro, CA)",
-    "level": "Freshman/Sophomore",
-    "location": "Central (CA) (El Centro CA)",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2535392",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Xavier Prep",
-    "date": "2026-12-08",
-    "gender": "girls",
-    "home": "Chaparral",
-    "level": "Freshman/Sophomore",
-    "location": "Chaparral High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2575313",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Mountain View (Mesa)",
-    "date": "2027-01-06",
-    "gender": "girls",
-    "home": "Chaparral",
-    "level": "Freshman/Sophomore",
-    "location": "Chaparral High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2575312",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Hamilton",
-    "date": "2027-01-08",
-    "gender": "girls",
-    "home": "Mountain View (Mesa)",
-    "level": "Freshman/Sophomore",
-    "location": "Mountain View (Mesa) High School",
+    "location": "Chandler Preparatory Academy",
     "tags": [],
     "time": "14:00"
    },
-   "id": "2575332",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "West Point",
-    "date": "2027-01-20",
-    "gender": "girls",
-    "home": "Sierra Linda",
-    "level": "Freshman/Sophomore",
-    "location": "Sierra Linda High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2575331",
-   "kind": "added"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-09",
-     "2026-12-07"
-    ]
-   },
-   "game": {
-    "away": "Independence",
-    "date": "2026-12-07",
-    "gender": "girls",
-    "home": "Washington",
-    "level": "Varsity",
-    "location": "Washington High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "19:00"
-   },
-   "id": "2477518",
+   "id": "2563804",
    "kind": "changed"
   },
   {
    "fields": {
     "date": [
-     "2026-12-09",
-     "2026-12-07"
+     "2026-12-07",
+     "2027-01-15"
     ]
    },
    "game": {
-    "away": "Independence",
-    "date": "2026-12-07",
+    "away": "San Tan Charter",
+    "date": "2027-01-15",
     "gender": "girls",
-    "home": "Washington",
-    "level": "JV",
-    "location": "Washington High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2477519",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-09",
-     "2026-12-07"
-    ]
-   },
-   "game": {
-    "away": "Independence",
-    "date": "2026-12-07",
-    "gender": "girls",
-    "home": "Washington",
-    "level": "Freshman/Sophomore",
-    "location": "Washington High School",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2573780",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Mohave",
-    "date": "2026-12-09",
-    "gender": "girls",
-    "home": "Northwest Christian",
+    "home": "Chandler Prep",
     "level": "Varsity",
-    "location": "Northwest Christian High",
+    "location": "Chandler Preparatory Academy",
     "tags": [
-     "Freedom"
+     "Region"
     ],
-    "time": "18:00"
-   },
-   "id": "2575289",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Heritage Acad Maricopa",
-    "date": "2026-12-16",
-    "gender": "girls",
-    "home": "Catalina",
-    "level": "Varsity",
-    "location": "Catalina Magnet High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2575369",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Maryvale",
-    "date": "2026-12-07",
-    "gender": "girls",
-    "home": "Williams Field",
-    "level": "Freshman/Sophomore",
-    "location": "Williams Field High School",
-    "tags": [],
-    "time": "18:00"
-   },
-   "id": "2464104",
-   "kind": "removed"
-  },
-  {
-   "game": {
-    "away": "Williams Field",
-    "date": "2026-12-09",
-    "gender": "girls",
-    "home": "Hamilton",
-    "level": "Freshman/Sophomore",
-    "location": "Hamilton High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2464346",
-   "kind": "removed"
-  },
-  {
-   "game": {
-    "away": "Trevor G. Browne",
-    "date": "2026-12-10",
-    "gender": "girls",
-    "home": "Williams Field",
-    "level": "Freshman/Sophomore",
-    "location": "Williams Field High School",
-    "tags": [],
-    "time": "18:00"
-   },
-   "id": "2464374",
-   "kind": "removed"
-  },
-  {
-   "game": {
-    "away": "Mountain Ridge",
-    "date": "2026-12-16",
-    "gender": "girls",
-    "home": "Williams Field",
-    "level": "Freshman/Sophomore",
-    "location": "Williams Field High School",
-    "tags": [],
     "time": "16:00"
    },
-   "id": "2463756",
-   "kind": "removed"
-  },
-  {
-   "game": {
-    "away": "Williams Field",
-    "date": "2027-01-06",
-    "gender": "girls",
-    "home": "Youngker",
-    "level": "Freshman/Sophomore",
-    "location": "Youngker High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2459968",
-   "kind": "removed"
-  },
-  {
-   "game": {
-    "away": "Shadow Ridge",
-    "date": "2027-01-26",
-    "gender": "boys",
-    "home": "Youngker",
-    "level": "Freshman/Sophomore",
-    "location": "Youngker High School",
-    "tags": [],
-    "time": "18:00"
-   },
-   "id": "2458981",
-   "kind": "removed"
-  },
-  {
-   "game": {
-    "away": "Highland",
-    "date": "2027-02-01",
-    "gender": "girls",
-    "home": "Williams Field",
-    "level": "Freshman/Sophomore",
-    "location": "Williams Field High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2465928",
-   "kind": "removed"
+   "id": "2447379",
+   "kind": "changed"
   }
  ],
- "run_at": "2026-11-10T21:50:20+00:00"
+ "run_at": "2026-11-11T06:38:22+00:00"
 }
