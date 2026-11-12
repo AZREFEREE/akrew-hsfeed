@@ -5391,8 +5391,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -5420,8 +5420,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -6904,6 +6904,35 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Knights",
+    "name": "Higley",
+    "program": "2477",
+    "squad": "frso",
+    "team": "235041"
+   },
+   "date": "2026-12-02",
+   "gender": "boys",
+   "home": {
+    "mascot": "Toros",
+    "name": "Mountain View (Mesa)",
+    "program": "1069",
+    "squad": "frso",
+    "team": "216532"
+   },
+   "id": "2575480",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Mountain View (Mesa) High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -16246,35 +16275,6 @@
   },
   {
    "away": {
-    "mascot": "Toros",
-    "name": "Mountain View (Mesa)",
-    "program": "1070",
-    "squad": "frso",
-    "team": "216538"
-   },
-   "date": "2026-12-07",
-   "gender": "girls",
-   "home": {
-    "mascot": "Mountain Lions",
-    "name": "Mountain Ridge",
-    "program": "3444",
-    "squad": "jv-2",
-    "team": "219217"
-   },
-   "id": "2563930",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Mountain Ridge High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Rattlers",
     "name": "North Canyon",
     "program": "431",
@@ -16926,6 +16926,35 @@
    ],
    "location": "Chaparral High School",
    "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Prospectors",
+    "name": "Apache Junction",
+    "program": "1857",
+    "squad": "jv",
+    "team": "226916"
+   },
+   "date": "2026-12-08",
+   "gender": "girls",
+   "home": {
+    "mascot": "Rangers",
+    "name": "ALA - Radiance",
+    "program": "15108",
+    "squad": "jv",
+    "team": "232286"
+   },
+   "id": "2575533",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "American Leadership Academy - Radiance",
+   "page_level": "JV",
    "result": null,
    "tags": [],
    "time": "16:00",
@@ -25178,8 +25207,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "14:00",
+   "time_raw": "2:00 pm"
   },
   {
    "away": {
@@ -30396,70 +30425,6 @@
   },
   {
    "away": {
-    "mascot": "Broncs",
-    "name": "Parker",
-    "program": "416",
-    "squad": "varsity",
-    "team": "224894"
-   },
-   "date": "2026-12-11",
-   "gender": "boys",
-   "home": {
-    "mascot": "Crusaders",
-    "name": "Northwest Christian",
-    "program": "2530",
-    "squad": "varsity",
-    "team": "223252"
-   },
-   "id": "2530537",
-   "level": "Varsity",
-   "listed_in": [
-    "2A",
-    "3A"
-   ],
-   "location": "Northwest Christian High",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Broncs",
-    "name": "Parker",
-    "program": "7767",
-    "squad": "varsity",
-    "team": "224898"
-   },
-   "date": "2026-12-11",
-   "gender": "girls",
-   "home": {
-    "mascot": "Crusaders",
-    "name": "Northwest Christian",
-    "program": "2531",
-    "squad": "varsity",
-    "team": "223256"
-   },
-   "id": "2530538",
-   "level": "Varsity",
-   "listed_in": [
-    "2A",
-    "3A"
-   ],
-   "location": "Northwest Christian High",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "17:00",
-   "time_raw": "5:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Griffins",
     "name": "Glendale Prep",
     "program": "4289",
@@ -31977,66 +31942,6 @@
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Falcons",
-    "name": "Carl Hayden",
-    "program": "433",
-    "squad": "varsity",
-    "team": "223602"
-   },
-   "date": "2026-12-14",
-   "gender": "girls",
-   "home": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3540",
-    "squad": "varsity",
-    "team": "225572"
-   },
-   "id": "2464483",
-   "level": "Varsity",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Gila Ridge High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Falcons",
-    "name": "Carl Hayden",
-    "program": "433",
-    "squad": "jv",
-    "team": "223604"
-   },
-   "date": "2026-12-14",
-   "gender": "girls",
-   "home": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3540",
-    "squad": "jv",
-    "team": "225574"
-   },
-   "id": "2464484",
-   "level": "JV",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Gila Ridge High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -38421,6 +38326,66 @@
   {
    "away": {
     "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3540",
+    "squad": "varsity",
+    "team": "225572"
+   },
+   "date": "2026-12-16",
+   "gender": "girls",
+   "home": {
+    "mascot": "Falcons",
+    "name": "Carl Hayden",
+    "program": "433",
+    "squad": "varsity",
+    "team": "223602"
+   },
+   "id": "2464483",
+   "level": "Varsity",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Carl Hayden Community High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3540",
+    "squad": "jv",
+    "team": "225574"
+   },
+   "date": "2026-12-16",
+   "gender": "girls",
+   "home": {
+    "mascot": "Falcons",
+    "name": "Carl Hayden",
+    "program": "433",
+    "squad": "jv",
+    "team": "223604"
+   },
+   "id": "2464484",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Carl Hayden Community High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Hawks",
     "name": "Apollo",
     "program": "1350",
     "squad": "varsity",
@@ -41007,6 +40972,70 @@
    ],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Broncs",
+    "name": "Parker",
+    "program": "416",
+    "squad": "varsity",
+    "team": "224894"
+   },
+   "date": "2026-12-17",
+   "gender": "boys",
+   "home": {
+    "mascot": "Crusaders",
+    "name": "Northwest Christian",
+    "program": "2530",
+    "squad": "varsity",
+    "team": "223252"
+   },
+   "id": "2530537",
+   "level": "Varsity",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "Northwest Christian High",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Broncs",
+    "name": "Parker",
+    "program": "7767",
+    "squad": "varsity",
+    "team": "224898"
+   },
+   "date": "2026-12-17",
+   "gender": "girls",
+   "home": {
+    "mascot": "Crusaders",
+    "name": "Northwest Christian",
+    "program": "2531",
+    "squad": "varsity",
+    "team": "223256"
+   },
+   "id": "2530538",
+   "level": "Varsity",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "Northwest Christian High",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -90760,6 +90789,35 @@
   },
   {
    "away": {
+    "mascot": "Warriors",
+    "name": "Westwood",
+    "program": "2123",
+    "squad": "frso",
+    "team": "235067"
+   },
+   "date": "2027-01-20",
+   "gender": "boys",
+   "home": {
+    "mascot": "Toros",
+    "name": "Mountain View (Mesa)",
+    "program": "1069",
+    "squad": "frso",
+    "team": "216532"
+   },
+   "id": "2575535",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Mountain View (Mesa) High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Coyotes",
     "name": "Arizona Lutheran",
     "program": "1146",
@@ -139640,5 +139698,5 @@
    ]
   }
  ],
- "updated": "2026-11-12T07:20:28+00:00"
+ "updated": "2026-11-12T16:51:47+00:00"
 }

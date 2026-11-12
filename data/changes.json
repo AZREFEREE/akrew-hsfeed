@@ -1,4 +1,233 @@
 {
- "changes": [],
- "run_at": "2026-11-12T07:20:28+00:00"
+ "changes": [
+  {
+   "fields": {
+    "time": [
+     "18:00",
+     "19:00"
+    ]
+   },
+   "game": {
+    "away": "Higley",
+    "date": "2026-12-02",
+    "gender": "boys",
+    "home": "Mountain View (Mesa)",
+    "level": "Varsity",
+    "location": "Mountain View (Mesa) High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "19:00"
+   },
+   "id": "2463962",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "time": [
+     "16:00",
+     "17:00"
+    ]
+   },
+   "game": {
+    "away": "Higley",
+    "date": "2026-12-02",
+    "gender": "boys",
+    "home": "Mountain View (Mesa)",
+    "level": "JV",
+    "location": "Mountain View (Mesa) High School",
+    "tags": [],
+    "time": "17:00"
+   },
+   "id": "2463963",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Higley",
+    "date": "2026-12-02",
+    "gender": "boys",
+    "home": "Mountain View (Mesa)",
+    "level": "Freshman/Sophomore",
+    "location": "Mountain View (Mesa) High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2575480",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "time": [
+     "18:00",
+     "14:00"
+    ]
+   },
+   "game": {
+    "away": "Mountain View (Mesa)",
+    "date": "2026-12-10",
+    "gender": "boys",
+    "home": "Carl Hayden",
+    "level": "Freshman/Sophomore",
+    "location": "Carl Hayden Community High School",
+    "tags": [],
+    "time": "14:00"
+   },
+   "id": "2464362",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Westwood",
+    "date": "2027-01-20",
+    "gender": "boys",
+    "home": "Mountain View (Mesa)",
+    "level": "Freshman/Sophomore",
+    "location": "Mountain View (Mesa) High School",
+    "tags": [],
+    "time": "14:00"
+   },
+   "id": "2575535",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-11",
+     "2026-12-17"
+    ]
+   },
+   "game": {
+    "away": "Parker",
+    "date": "2026-12-17",
+    "gender": "boys",
+    "home": "Northwest Christian",
+    "level": "Varsity",
+    "location": "Northwest Christian High",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "15:00"
+   },
+   "id": "2530537",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "away": [
+     "Carl Hayden",
+     "Gila Ridge"
+    ],
+    "date": [
+     "2026-12-14",
+     "2026-12-16"
+    ],
+    "home": [
+     "Gila Ridge",
+     "Carl Hayden"
+    ],
+    "location": [
+     "Gila Ridge High School",
+     "Carl Hayden Community High School"
+    ]
+   },
+   "game": {
+    "away": "Gila Ridge",
+    "date": "2026-12-16",
+    "gender": "girls",
+    "home": "Carl Hayden",
+    "level": "Varsity",
+    "location": "Carl Hayden Community High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2464483",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "away": [
+     "Carl Hayden",
+     "Gila Ridge"
+    ],
+    "date": [
+     "2026-12-14",
+     "2026-12-16"
+    ],
+    "home": [
+     "Gila Ridge",
+     "Carl Hayden"
+    ],
+    "location": [
+     "Gila Ridge High School",
+     "Carl Hayden Community High School"
+    ]
+   },
+   "game": {
+    "away": "Gila Ridge",
+    "date": "2026-12-16",
+    "gender": "girls",
+    "home": "Carl Hayden",
+    "level": "JV",
+    "location": "Carl Hayden Community High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2464484",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-11",
+     "2026-12-17"
+    ]
+   },
+   "game": {
+    "away": "Parker",
+    "date": "2026-12-17",
+    "gender": "girls",
+    "home": "Northwest Christian",
+    "level": "Varsity",
+    "location": "Northwest Christian High",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "17:00"
+   },
+   "id": "2530538",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Apache Junction",
+    "date": "2026-12-08",
+    "gender": "girls",
+    "home": "ALA - Radiance",
+    "level": "JV",
+    "location": "American Leadership Academy - Radiance",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2575533",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Mountain View (Mesa)",
+    "date": "2026-12-07",
+    "gender": "girls",
+    "home": "Mountain Ridge",
+    "level": "Freshman/Sophomore",
+    "location": "Mountain Ridge High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2563930",
+   "kind": "removed"
+  }
+ ],
+ "run_at": "2026-11-12T16:51:47+00:00"
 }
