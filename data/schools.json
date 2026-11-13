@@ -466,6 +466,7 @@
    "school": "Arete Prep",
    "teams": {
     "boys": {
+     "jv": "235082",
      "varsity": "214298"
     },
     "girls": {
@@ -3850,7 +3851,6 @@
      "varsity": "219365"
     },
     "girls": {
-     "jv": "219371",
      "varsity": "219369"
     }
    },
@@ -5804,5 +5804,5 @@
    "venue": "Yuma Catholic"
   }
  ],
- "updated": "2026-11-12T16:51:47+00:00"
+ "updated": "2026-11-13T01:10:17+00:00"
 }
