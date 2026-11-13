@@ -38087,27 +38087,27 @@
   },
   {
    "away": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3540",
-    "squad": "varsity",
-    "team": "225572"
-   },
-   "date": "2026-12-16",
-   "gender": "girls",
-   "home": {
     "mascot": "Falcons",
     "name": "Carl Hayden",
     "program": "433",
     "squad": "varsity",
     "team": "223602"
    },
+   "date": "2026-12-16",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3540",
+    "squad": "varsity",
+    "team": "225572"
+   },
    "id": "2464483",
    "level": "Varsity",
    "listed_in": [
     "6A"
    ],
-   "location": "Carl Hayden Community High School",
+   "location": "Gila Ridge High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -38118,27 +38118,27 @@
   },
   {
    "away": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3540",
-    "squad": "jv",
-    "team": "225574"
-   },
-   "date": "2026-12-16",
-   "gender": "girls",
-   "home": {
     "mascot": "Falcons",
     "name": "Carl Hayden",
     "program": "433",
     "squad": "jv",
     "team": "223604"
    },
+   "date": "2026-12-16",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3540",
+    "squad": "jv",
+    "team": "225574"
+   },
    "id": "2464484",
    "level": "JV",
    "listed_in": [
     "6A"
    ],
-   "location": "Carl Hayden Community High School",
+   "location": "Gila Ridge High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -139818,5 +139818,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T01:10:17+00:00"
+ "updated": "2026-11-13T12:19:03+00:00"
 }
