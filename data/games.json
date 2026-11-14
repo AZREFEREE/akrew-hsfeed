@@ -2742,6 +2742,38 @@
   },
   {
    "away": {
+    "mascot": "Ravens",
+    "name": "Empire",
+    "program": "414",
+    "squad": "varsity",
+    "team": "222838"
+   },
+   "date": "2026-11-30",
+   "gender": "boys",
+   "home": {
+    "mascot": "Hawks",
+    "name": "The Gregory School",
+    "program": "7786",
+    "squad": "varsity",
+    "team": "229370"
+   },
+   "id": "2574614",
+   "level": "Varsity",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "The Gregory School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Rangers",
     "name": "Rincon/University",
     "program": "437",
@@ -8790,6 +8822,100 @@
   },
   {
    "away": {
+    "mascot": "Apaches",
+    "name": "Nogales",
+    "program": "404",
+    "squad": "varsity",
+    "team": "227020"
+   },
+   "date": "2026-12-04",
+   "gender": "boys",
+   "home": {
+    "mascot": "Bulldogs",
+    "name": "Douglas",
+    "program": "988",
+    "squad": "varsity",
+    "team": "214410"
+   },
+   "id": "2515127",
+   "level": "Varsity",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Douglas High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bulldogs",
+    "name": "Douglas",
+    "program": "989",
+    "squad": "varsity",
+    "team": "214416"
+   },
+   "date": "2026-12-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Apaches",
+    "name": "Nogales",
+    "program": "449",
+    "squad": "varsity",
+    "team": "227026"
+   },
+   "id": "2515128",
+   "level": "Varsity",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Nogales High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bulldogs",
+    "name": "Douglas",
+    "program": "989",
+    "squad": "jv",
+    "team": "214418"
+   },
+   "date": "2026-12-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Apaches",
+    "name": "Nogales",
+    "program": "449",
+    "squad": "jv",
+    "team": "227028"
+   },
+   "id": "2515129",
+   "level": "JV",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Nogales High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Lions",
     "name": "St. John Paul II",
     "program": "12296",
@@ -14809,100 +14935,6 @@
     "5A"
    ],
    "location": "Canyon Del Oro High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Apaches",
-    "name": "Nogales",
-    "program": "404",
-    "squad": "varsity",
-    "team": "227020"
-   },
-   "date": "2026-12-07",
-   "gender": "boys",
-   "home": {
-    "mascot": "Bulldogs",
-    "name": "Douglas",
-    "program": "988",
-    "squad": "varsity",
-    "team": "214410"
-   },
-   "id": "2515127",
-   "level": "Varsity",
-   "listed_in": [
-    "4A",
-    "5A"
-   ],
-   "location": "Douglas High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Bulldogs",
-    "name": "Douglas",
-    "program": "989",
-    "squad": "varsity",
-    "team": "214416"
-   },
-   "date": "2026-12-07",
-   "gender": "girls",
-   "home": {
-    "mascot": "Apaches",
-    "name": "Nogales",
-    "program": "449",
-    "squad": "varsity",
-    "team": "227026"
-   },
-   "id": "2515128",
-   "level": "Varsity",
-   "listed_in": [
-    "4A",
-    "5A"
-   ],
-   "location": "Nogales High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Bulldogs",
-    "name": "Douglas",
-    "program": "989",
-    "squad": "jv",
-    "team": "214418"
-   },
-   "date": "2026-12-07",
-   "gender": "girls",
-   "home": {
-    "mascot": "Apaches",
-    "name": "Nogales",
-    "program": "449",
-    "squad": "jv",
-    "team": "227028"
-   },
-   "id": "2515129",
-   "level": "JV",
-   "listed_in": [
-    "4A",
-    "5A"
-   ],
-   "location": "Nogales High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -121374,8 +121406,8 @@
    "tags": [
     "Region"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "15:45",
+   "time_raw": "3:45 pm"
   },
   {
    "away": {
@@ -140370,5 +140402,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T11:34:41+00:00"
+ "updated": "2026-11-14T18:13:42+00:00"
 }
