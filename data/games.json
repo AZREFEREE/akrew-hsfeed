@@ -9161,6 +9161,36 @@
   },
   {
    "away": {
+    "mascot": "Coyotes",
+    "name": "Campo Verde",
+    "program": "2457",
+    "squad": "jv",
+    "team": "220129"
+   },
+   "date": "2026-12-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Jaguars",
+    "name": "Desert Ridge",
+    "program": "1878",
+    "squad": "jv",
+    "team": "216152"
+   },
+   "id": "2576574",
+   "level": "JV",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Desert Ridge High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Tigers",
     "name": "Globe",
     "program": "1597",
@@ -95848,8 +95878,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -102685,6 +102715,35 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Stallions",
+    "name": "Shadow Ridge",
+    "program": "1809",
+    "squad": "frso",
+    "team": "219585"
+   },
+   "date": "2027-01-26",
+   "gender": "boys",
+   "home": {
+    "mascot": "Roughriders",
+    "name": "Youngker",
+    "program": "1770",
+    "squad": "frso",
+    "team": "218913"
+   },
+   "id": "2458981",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Youngker High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -134207,6 +134266,64 @@
   },
   {
    "away": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1662",
+    "squad": "jv",
+    "team": "228170"
+   },
+   "date": "2027-02-03",
+   "gender": "boys",
+   "home": {
+    "mascot": "Cougars",
+    "name": "Casa Grande",
+    "program": "3250",
+    "squad": "jv",
+    "team": "223526"
+   },
+   "id": "2474601",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Casa Grande Union High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1663",
+    "squad": "jv",
+    "team": "228174"
+   },
+   "date": "2027-02-03",
+   "gender": "girls",
+   "home": {
+    "mascot": "Cougars",
+    "name": "Casa Grande",
+    "program": "3251",
+    "squad": "jv",
+    "team": "223530"
+   },
+   "id": "2474603",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Casa Grande Union High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Rattlers",
     "name": "North Canyon",
     "program": "386",
@@ -137497,97 +137614,39 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
-    "mascot": "Cougars",
-    "name": "Casa Grande",
-    "program": "3250",
-    "squad": "jv",
-    "team": "223526"
-   },
-   "date": "2027-02-04",
-   "gender": "boys",
-   "home": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1662",
-    "squad": "jv",
-    "team": "228170"
-   },
-   "id": "2474601",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Maricopa High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1663",
-    "squad": "varsity",
-    "team": "228172"
-   },
-   "date": "2027-02-04",
-   "gender": "girls",
-   "home": {
     "mascot": "Cougars",
     "name": "Casa Grande",
     "program": "3251",
     "squad": "varsity",
     "team": "223528"
    },
+   "date": "2027-02-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1663",
+    "squad": "varsity",
+    "team": "228172"
+   },
    "id": "2474602",
    "level": "Varsity",
    "listed_in": [
     "5A"
    ],
-   "location": "Casa Grande Union High School",
+   "location": "Maricopa High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1663",
-    "squad": "jv",
-    "team": "228174"
-   },
-   "date": "2027-02-04",
-   "gender": "girls",
-   "home": {
-    "mascot": "Cougars",
-    "name": "Casa Grande",
-    "program": "3251",
-    "squad": "jv",
-    "team": "223530"
-   },
-   "id": "2474603",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Casa Grande Union High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -137799,8 +137858,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -137828,8 +137887,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -137857,8 +137916,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -139939,6 +139998,9 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -140308,5 +140370,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T19:50:58+00:00"
+ "updated": "2026-11-14T00:54:44+00:00"
 }
