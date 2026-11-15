@@ -15969,6 +15969,35 @@
   },
   {
    "away": {
+    "mascot": "Toros",
+    "name": "Mountain View (Mesa)",
+    "program": "1070",
+    "squad": "frso",
+    "team": "216538"
+   },
+   "date": "2026-12-07",
+   "gender": "girls",
+   "home": {
+    "mascot": "Mountain Lions",
+    "name": "Mountain Ridge",
+    "program": "3444",
+    "squad": "jv-2",
+    "team": "219217"
+   },
+   "id": "2563930",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Mountain Ridge High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Rattlers",
     "name": "North Canyon",
     "program": "431",
@@ -140402,5 +140431,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T06:43:49+00:00"
+ "updated": "2026-11-15T15:41:46+00:00"
 }
