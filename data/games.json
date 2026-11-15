@@ -22665,6 +22665,35 @@
   },
   {
    "away": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "date": "2026-12-09",
+   "gender": "girls",
+   "home": {
+    "mascot": "Volunteers",
+    "name": "Lee Williams",
+    "program": "5835",
+    "squad": "jv",
+    "team": "229600"
+   },
+   "id": "2497822",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Lee Williams High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Guardians",
     "name": "ALA - Sierra Vista",
     "program": "15146",
@@ -28643,6 +28672,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "date": "2026-12-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Cardinals",
+    "name": "Glendale",
+    "program": "2246",
+    "squad": "jv",
+    "team": "219809"
+   },
+   "id": "2484478",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Glendale High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -35186,6 +35244,35 @@
    "tags": [
     "Freedom"
    ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "date": "2026-12-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Colts",
+    "name": "Cortez",
+    "program": "1583",
+    "squad": "jv",
+    "team": "217022"
+   },
+   "id": "2484496",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Cortez High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
   },
@@ -47290,6 +47377,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Rattlers",
+    "name": "North Canyon",
+    "program": "431",
+    "squad": "jv",
+    "team": "228808"
+   },
+   "date": "2027-01-06",
+   "gender": "girls",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "id": "2476877",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Peoria High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -65405,6 +65521,35 @@
   },
   {
    "away": {
+    "mascot": "Titans",
+    "name": "Arcadia",
+    "program": "3822",
+    "squad": "jv",
+    "team": "228720"
+   },
+   "date": "2027-01-12",
+   "gender": "girls",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "id": "2481046",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Peoria High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Golden Hawks",
     "name": "Desert Sunrise",
     "program": "13364",
@@ -77574,6 +77719,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Guardians",
+    "name": "ALA - West Foothills",
+    "program": "12773",
+    "squad": "jv",
+    "team": "230266"
+   },
+   "date": "2027-01-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "id": "2482820",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Peoria High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -89847,6 +90021,35 @@
   },
   {
    "away": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "date": "2027-01-20",
+   "gender": "girls",
+   "home": {
+    "mascot": "Toros",
+    "name": "Somerton",
+    "program": "13780",
+    "squad": "jv",
+    "team": "221456"
+   },
+   "id": "2484551",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Somerton High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Padres",
     "name": "Marcos de Niza",
     "program": "1732",
@@ -98141,6 +98344,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "date": "2027-01-22",
+   "gender": "girls",
+   "home": {
+    "mascot": "Wolves",
+    "name": "Estrella Foothills",
+    "program": "3082",
+    "squad": "jv",
+    "team": "213548"
+   },
+   "id": "2484594",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Estrella Foothills High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -107483,6 +107715,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Owls",
+    "name": "Agua Fria",
+    "program": "3475",
+    "squad": "jv",
+    "team": "222762"
+   },
+   "date": "2027-01-26",
+   "gender": "girls",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "id": "2484625",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Peoria High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -117873,6 +118134,35 @@
   },
   {
    "away": {
+    "mascot": "Kings",
+    "name": "Kofa",
+    "program": "3222",
+    "squad": "jv",
+    "team": "229470"
+   },
+   "date": "2027-01-28",
+   "gender": "girls",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "id": "2484342",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Peoria High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Mavericks",
     "name": "Goodyear",
     "program": "14685",
@@ -125443,6 +125733,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mavericks",
+    "name": "Goodyear",
+    "program": "14686",
+    "squad": "jv",
+    "team": "218288"
+   },
+   "date": "2027-02-01",
+   "gender": "girls",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Peoria",
+    "program": "450",
+    "squad": "jv",
+    "team": "219371"
+   },
+   "id": "2484318",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Peoria High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -140431,5 +140750,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T15:41:46+00:00"
+ "updated": "2026-11-15T21:05:20+00:00"
 }
