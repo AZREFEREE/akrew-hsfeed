@@ -2,158 +2,60 @@
  "changes": [
   {
    "game": {
-    "away": "Peoria",
-    "date": "2026-12-09",
-    "gender": "girls",
-    "home": "Lee Williams",
-    "level": "JV",
-    "location": "Lee Williams High School",
+    "away": "Shadow Ridge",
+    "date": "2027-02-03",
+    "gender": "boys",
+    "home": "Cactus Canyon",
+    "level": "Freshman/Sophomore",
+    "location": "Cactus Canyon High School",
     "tags": [],
-    "time": "16:00"
+    "time": "18:00"
    },
-   "id": "2497822",
+   "id": "2458843",
    "kind": "added"
   },
   {
-   "game": {
-    "away": "Peoria",
-    "date": "2026-12-11",
-    "gender": "girls",
-    "home": "Glendale",
-    "level": "JV",
-    "location": "Glendale High School",
-    "tags": [],
-    "time": "16:00"
+   "fields": {
+    "date": [
+     "2026-12-01",
+     "2026-12-15"
+    ]
    },
-   "id": "2484478",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Peoria",
-    "date": "2026-12-15",
-    "gender": "girls",
-    "home": "Cortez",
-    "level": "JV",
-    "location": "Cortez High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2484496",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "North Canyon",
-    "date": "2027-01-06",
-    "gender": "girls",
-    "home": "Peoria",
-    "level": "JV",
-    "location": "Peoria High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2476877",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Arcadia",
-    "date": "2027-01-12",
-    "gender": "girls",
-    "home": "Peoria",
-    "level": "JV",
-    "location": "Peoria High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2481046",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "ALA - West Foothills",
-    "date": "2027-01-15",
-    "gender": "girls",
-    "home": "Peoria",
-    "level": "JV",
-    "location": "Peoria High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2482820",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Peoria",
-    "date": "2027-01-20",
-    "gender": "girls",
-    "home": "Somerton",
-    "level": "JV",
-    "location": "Somerton High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2484551",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Peoria",
-    "date": "2027-01-22",
-    "gender": "girls",
-    "home": "Estrella Foothills",
-    "level": "JV",
-    "location": "Estrella Foothills High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2484594",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Agua Fria",
-    "date": "2027-01-26",
-    "gender": "girls",
-    "home": "Peoria",
-    "level": "JV",
-    "location": "Peoria High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2484625",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Kofa",
-    "date": "2027-01-28",
-    "gender": "girls",
-    "home": "Peoria",
-    "level": "JV",
-    "location": "Peoria High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2484342",
-   "kind": "added"
-  },
-  {
    "game": {
     "away": "Goodyear",
-    "date": "2027-02-01",
+    "date": "2026-12-15",
     "gender": "girls",
-    "home": "Peoria",
+    "home": "Desert Sunrise",
+    "level": "Varsity",
+    "location": "Desert Sunrise High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2483752",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-01",
+     "2026-12-15"
+    ]
+   },
+   "game": {
+    "away": "Goodyear",
+    "date": "2026-12-15",
+    "gender": "girls",
+    "home": "Desert Sunrise",
     "level": "JV",
-    "location": "Peoria High School",
+    "location": "Desert Sunrise High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2484318",
-   "kind": "added"
+   "id": "2483753",
+   "kind": "changed"
   }
  ],
- "run_at": "2026-11-15T21:05:20+00:00"
+ "run_at": "2026-11-16T06:42:52+00:00"
 }

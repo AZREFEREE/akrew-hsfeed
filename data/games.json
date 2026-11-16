@@ -3726,66 +3726,6 @@
   },
   {
    "away": {
-    "mascot": "Mavericks",
-    "name": "Goodyear",
-    "program": "14686",
-    "squad": "varsity",
-    "team": "218286"
-   },
-   "date": "2026-12-01",
-   "gender": "girls",
-   "home": {
-    "mascot": "Golden Hawks",
-    "name": "Desert Sunrise",
-    "program": "13365",
-    "squad": "varsity",
-    "team": "223686"
-   },
-   "id": "2483752",
-   "level": "Varsity",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Desert Sunrise High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Mavericks",
-    "name": "Goodyear",
-    "program": "14686",
-    "squad": "jv",
-    "team": "218288"
-   },
-   "date": "2026-12-01",
-   "gender": "girls",
-   "home": {
-    "mascot": "Golden Hawks",
-    "name": "Desert Sunrise",
-    "program": "13365",
-    "squad": "jv",
-    "team": "223688"
-   },
-   "id": "2483753",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Desert Sunrise High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Wolves",
     "name": "Estrella Foothills",
     "program": "3081",
@@ -35150,6 +35090,66 @@
     "4A"
    ],
    "location": "Goodyear High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mavericks",
+    "name": "Goodyear",
+    "program": "14686",
+    "squad": "varsity",
+    "team": "218286"
+   },
+   "date": "2026-12-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Golden Hawks",
+    "name": "Desert Sunrise",
+    "program": "13365",
+    "squad": "varsity",
+    "team": "223686"
+   },
+   "id": "2483752",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Desert Sunrise High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mavericks",
+    "name": "Goodyear",
+    "program": "14686",
+    "squad": "jv",
+    "team": "218288"
+   },
+   "date": "2026-12-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Golden Hawks",
+    "name": "Desert Sunrise",
+    "program": "13365",
+    "squad": "jv",
+    "team": "223688"
+   },
+   "id": "2483753",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Desert Sunrise High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -131602,6 +131602,35 @@
   },
   {
    "away": {
+    "mascot": "Stallions",
+    "name": "Shadow Ridge",
+    "program": "1809",
+    "squad": "frso",
+    "team": "219585"
+   },
+   "date": "2027-02-03",
+   "gender": "boys",
+   "home": {
+    "mascot": "Champions",
+    "name": "Cactus Canyon",
+    "program": "3036",
+    "squad": "frso",
+    "team": "218380"
+   },
+   "id": "2458843",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Cactus Canyon High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Champions",
     "name": "Cactus Canyon",
     "program": "3037",
@@ -140750,5 +140779,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T21:05:20+00:00"
+ "updated": "2026-11-16T06:42:52+00:00"
 }
