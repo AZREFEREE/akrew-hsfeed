@@ -2382,37 +2382,6 @@
     "mascot": "Defenders",
     "name": "ALA - Vistancia",
     "program": "14711",
-    "squad": "varsity",
-    "team": "222306"
-   },
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "mascot": "Warriors",
-    "name": "ALA - Ironwood",
-    "program": "11388",
-    "squad": "varsity",
-    "team": "212362"
-   },
-   "id": "2532882",
-   "level": "Varsity",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "American Leadership Academy – Ironwood",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Defenders",
-    "name": "ALA - Vistancia",
-    "program": "14711",
     "squad": "jv",
     "team": "222304"
    },
@@ -4267,6 +4236,37 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Warriors",
+    "name": "ALA - Ironwood",
+    "program": "11388",
+    "squad": "varsity",
+    "team": "212362"
+   },
+   "date": "2026-12-01",
+   "gender": "girls",
+   "home": {
+    "mascot": "Defenders",
+    "name": "ALA - Vistancia",
+    "program": "14711",
+    "squad": "varsity",
+    "team": "222306"
+   },
+   "id": "2532882",
+   "level": "Varsity",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "American Leadership Academy - Vistancia",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:30",
+   "time_raw": "6:30 pm"
   },
   {
    "away": {
@@ -24248,66 +24248,6 @@
   },
   {
    "away": {
-    "mascot": "Wolverines",
-    "name": "Tolleson Union",
-    "program": "3348",
-    "squad": "varsity",
-    "team": "213194"
-   },
-   "date": "2026-12-10",
-   "gender": "girls",
-   "home": {
-    "mascot": "Raiders",
-    "name": "Cibola",
-    "program": "428",
-    "squad": "varsity",
-    "team": "217252"
-   },
-   "id": "2459575",
-   "level": "Varsity",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Cibola High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Wolverines",
-    "name": "Tolleson Union",
-    "program": "3348",
-    "squad": "jv",
-    "team": "213196"
-   },
-   "date": "2026-12-10",
-   "gender": "girls",
-   "home": {
-    "mascot": "Raiders",
-    "name": "Cibola",
-    "program": "428",
-    "squad": "jv",
-    "team": "217254"
-   },
-   "id": "2459576",
-   "level": "JV",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Cibola High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Monsoon",
     "name": "Valley Vista",
     "program": "1508",
@@ -24747,6 +24687,68 @@
     "6A"
    ],
    "location": "Youngker High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Raiders",
+    "name": "Cibola",
+    "program": "383",
+    "squad": "varsity",
+    "team": "217242"
+   },
+   "date": "2026-12-10",
+   "gender": "boys",
+   "home": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1662",
+    "squad": "varsity",
+    "team": "228168"
+   },
+   "id": "2463882",
+   "level": "Varsity",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Maricopa High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Raiders",
+    "name": "Cibola",
+    "program": "383",
+    "squad": "jv",
+    "team": "217244"
+   },
+   "date": "2026-12-10",
+   "gender": "boys",
+   "home": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1662",
+    "squad": "jv",
+    "team": "228170"
+   },
+   "id": "2463883",
+   "level": "JV",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Maricopa High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -26946,6 +26948,35 @@
   },
   {
    "away": {
+    "mascot": "Lions",
+    "name": "St. John Paul II",
+    "program": "12296",
+    "squad": "jv",
+    "team": "212236"
+   },
+   "date": "2026-12-10",
+   "gender": "girls",
+   "home": {
+    "mascot": "Prospectors",
+    "name": "Apache Junction",
+    "program": "1857",
+    "squad": "jv",
+    "team": "226916"
+   },
+   "id": "2578396",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Apache Junction High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Eagles",
     "name": "Anthem Prep",
     "program": "7377",
@@ -27036,37 +27067,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Centurions",
-    "name": "Cicero Prep",
-    "program": "11422",
-    "squad": "varsity",
-    "team": "219739"
-   },
-   "date": "2026-12-11",
-   "gender": "girls",
-   "home": {
-    "mascot": "Spartans",
-    "name": "Scottsdale Prep",
-    "program": "3727",
-    "squad": "varsity",
-    "team": "213372"
-   },
-   "id": "2447399",
-   "level": "Varsity",
-   "listed_in": [
-    "2A"
-   ],
-   "location": "Scottsdale Preparatory Academy",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -27373,68 +27373,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Raiders",
-    "name": "Cibola",
-    "program": "383",
-    "squad": "varsity",
-    "team": "217242"
-   },
-   "date": "2026-12-11",
-   "gender": "boys",
-   "home": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1662",
-    "squad": "varsity",
-    "team": "228168"
-   },
-   "id": "2463882",
-   "level": "Varsity",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Maricopa High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Raiders",
-    "name": "Cibola",
-    "program": "383",
-    "squad": "jv",
-    "team": "217244"
-   },
-   "date": "2026-12-11",
-   "gender": "boys",
-   "home": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1662",
-    "squad": "jv",
-    "team": "228170"
-   },
-   "id": "2463883",
-   "level": "JV",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Maricopa High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -36030,6 +35968,70 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bulldogs",
+    "name": "Kingman",
+    "program": "393",
+    "squad": "varsity",
+    "team": "225217"
+   },
+   "date": "2026-12-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Volunteers",
+    "name": "Lee Williams",
+    "program": "5706",
+    "squad": "varsity",
+    "team": "229594"
+   },
+   "id": "2502454",
+   "level": "Varsity",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Lee Williams High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Volunteers",
+    "name": "Lee Williams",
+    "program": "5835",
+    "squad": "varsity",
+    "team": "229598"
+   },
+   "date": "2026-12-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Bulldogs",
+    "name": "Kingman",
+    "program": "438",
+    "squad": "varsity",
+    "team": "225219"
+   },
+   "id": "2502455",
+   "level": "Varsity",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Kingman High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -45691,6 +45693,66 @@
   },
   {
    "away": {
+    "mascot": "Wolverines",
+    "name": "Tolleson Union",
+    "program": "3348",
+    "squad": "varsity",
+    "team": "213194"
+   },
+   "date": "2027-01-06",
+   "gender": "girls",
+   "home": {
+    "mascot": "Raiders",
+    "name": "Cibola",
+    "program": "428",
+    "squad": "varsity",
+    "team": "217252"
+   },
+   "id": "2459575",
+   "level": "Varsity",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Cibola High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Wolverines",
+    "name": "Tolleson Union",
+    "program": "3348",
+    "squad": "jv",
+    "team": "213196"
+   },
+   "date": "2027-01-06",
+   "gender": "girls",
+   "home": {
+    "mascot": "Raiders",
+    "name": "Cibola",
+    "program": "428",
+    "squad": "jv",
+    "team": "217254"
+   },
+   "id": "2459576",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Cibola High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Mustangs",
     "name": "Dobson",
     "program": "2392",
@@ -52178,6 +52240,36 @@
     "5A"
    ],
    "location": "Nogales High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Patriots",
+    "name": "Independence",
+    "program": "2900",
+    "squad": "frso",
+    "team": "224748"
+   },
+   "date": "2027-01-07",
+   "gender": "girls",
+   "home": {
+    "mascot": "Vikings",
+    "name": "Sunnyslope",
+    "program": "3158",
+    "squad": "frso",
+    "team": "217980"
+   },
+   "id": "2578440",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Sunnyslope High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
@@ -63303,6 +63395,36 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Volunteers",
+    "name": "Lee Williams",
+    "program": "5835",
+    "squad": "jv",
+    "team": "229600"
+   },
+   "date": "2027-01-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Thunderbirds",
+    "name": "Mohave",
+    "program": "1677",
+    "squad": "jv",
+    "team": "218724"
+   },
+   "id": "2502449",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Anderson Auto Group Fieldhouse",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -81813,8 +81935,8 @@
    "tags": [
     "Region"
    ],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "16:30",
+   "time_raw": "4:30 pm"
   },
   {
    "away": {
@@ -95659,6 +95781,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Lions",
+    "name": "St. John Paul II",
+    "program": "12296",
+    "squad": "jv",
+    "team": "212236"
+   },
+   "date": "2027-01-21",
+   "gender": "girls",
+   "home": {
+    "mascot": "Thunderbirds",
+    "name": "Mohave",
+    "program": "1677",
+    "squad": "jv",
+    "team": "218724"
+   },
+   "id": "2522629",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Anderson Auto Group Fieldhouse",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -111350,6 +111501,66 @@
   },
   {
    "away": {
+    "mascot": "Volunteers",
+    "name": "Lee Williams",
+    "program": "5706",
+    "squad": "varsity",
+    "team": "229594"
+   },
+   "date": "2027-01-27",
+   "gender": "boys",
+   "home": {
+    "mascot": "Badgers",
+    "name": "Prescott",
+    "program": "1645",
+    "squad": "varsity",
+    "team": "215896"
+   },
+   "id": "2497871",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Prescott High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Volunteers",
+    "name": "Lee Williams",
+    "program": "5706",
+    "squad": "jv",
+    "team": "229596"
+   },
+   "date": "2027-01-27",
+   "gender": "boys",
+   "home": {
+    "mascot": "Badgers",
+    "name": "Prescott",
+    "program": "1645",
+    "squad": "jv",
+    "team": "215898"
+   },
+   "id": "2497872",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Prescott High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Warriors",
     "name": "ALA - Ironwood",
     "program": "11387",
@@ -119242,66 +119453,6 @@
    "tags": [],
    "time": "13:00",
    "time_raw": "1:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Volunteers",
-    "name": "Lee Williams",
-    "program": "5706",
-    "squad": "varsity",
-    "team": "229594"
-   },
-   "date": "2027-01-28",
-   "gender": "boys",
-   "home": {
-    "mascot": "Badgers",
-    "name": "Prescott",
-    "program": "1645",
-    "squad": "varsity",
-    "team": "215896"
-   },
-   "id": "2497871",
-   "level": "Varsity",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Prescott High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "17:00",
-   "time_raw": "5:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Volunteers",
-    "name": "Lee Williams",
-    "program": "5706",
-    "squad": "jv",
-    "team": "229596"
-   },
-   "date": "2027-01-28",
-   "gender": "boys",
-   "home": {
-    "mascot": "Badgers",
-    "name": "Prescott",
-    "program": "1645",
-    "squad": "jv",
-    "team": "215898"
-   },
-   "id": "2497872",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Prescott High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -136993,8 +137144,8 @@
    "tags": [
     "Region"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "15:45",
+   "time_raw": "3:45 pm"
   },
   {
    "away": {
@@ -137057,6 +137208,37 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11422",
+    "squad": "varsity",
+    "team": "219739"
+   },
+   "date": "2027-02-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Spartans",
+    "name": "Scottsdale Prep",
+    "program": "3727",
+    "squad": "varsity",
+    "team": "213372"
+   },
+   "id": "2447399",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Scottsdale Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -140779,5 +140961,5 @@
    ]
   }
  ],
- "updated": "2026-11-16T06:42:52+00:00"
+ "updated": "2026-11-16T18:38:20+00:00"
 }
