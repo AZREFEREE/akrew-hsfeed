@@ -900,6 +900,7 @@
      "varsity": "216246"
     },
     "girls": {
+     "frso": "235095",
      "jv": "216254",
      "varsity": "216252"
     }
@@ -5388,6 +5389,7 @@
    "school": "Valley Vista",
    "teams": {
     "boys": {
+     "freshman-sophomore": "235099",
      "jv": "224646",
      "varsity": "224644"
     },
@@ -5804,5 +5806,5 @@
    "venue": "Yuma Catholic"
   }
  ],
- "updated": "2026-11-16T18:38:20+00:00"
+ "updated": "2026-11-17T02:58:15+00:00"
 }
