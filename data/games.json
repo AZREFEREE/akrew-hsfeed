@@ -208,6 +208,7 @@
    "id": "2457566",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Betty H. Fairfax High School",
@@ -2151,7 +2152,8 @@
    "id": "2534591",
    "level": "Freshman/Sophomore",
    "listed_in": [
-    "4A"
+    "4A",
+    "5A"
    ],
    "location": "Flowing Wells High School",
    "page_level": "Freshman/Sophomore",
@@ -2331,7 +2333,8 @@
    "id": "2568869",
    "level": "Varsity",
    "listed_in": [
-    "2A"
+    "2A",
+    "4A"
    ],
    "location": "Bourgade Catholic High School",
    "page_level": "Varsity",
@@ -2366,7 +2369,7 @@
     "4A"
    ],
    "location": "Valley Christian High School",
-   "page_level": "Freshman/Sophomore",
+   "page_level": "JV",
    "result": null,
    "tags": [],
    "time": "16:00",
@@ -2793,6 +2796,7 @@
    "id": "2463890",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "Cibola High School",
@@ -2824,6 +2828,7 @@
    "id": "2463891",
    "level": "JV",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "Cibola High School",
@@ -2915,6 +2920,7 @@
    "id": "2463898",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "San Luis High School",
@@ -2946,6 +2952,7 @@
    "id": "2463899",
    "level": "JV",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "San Luis High School",
@@ -3042,7 +3049,6 @@
    "location": "Greenway High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -3074,7 +3080,6 @@
    "location": "Greenway High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -3164,7 +3169,6 @@
    "location": "Shadow Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -3227,7 +3231,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -3259,7 +3262,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -3380,7 +3382,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -3412,7 +3413,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -3442,7 +3442,6 @@
    "location": "Flagstaff High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -3474,7 +3473,6 @@
    "location": "Flagstaff High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "13:00",
    "time_raw": "1:00 pm"
@@ -3564,7 +3562,6 @@
    "location": "Poston Butte High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -3596,7 +3593,6 @@
    "location": "Poston Butte High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -4436,66 +4432,6 @@
     "mascot": "Panthers",
     "name": "Maryvale",
     "program": "382",
-    "squad": "varsity",
-    "team": "218506"
-   },
-   "date": "2026-12-02",
-   "gender": "boys",
-   "home": {
-    "mascot": "Dragons",
-    "name": "West Point",
-    "program": "12221",
-    "squad": "varsity",
-    "team": "217332"
-   },
-   "id": "2459824",
-   "level": "Varsity",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "West Point High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Panthers",
-    "name": "Maryvale",
-    "program": "382",
-    "squad": "jv",
-    "team": "218508"
-   },
-   "date": "2026-12-02",
-   "gender": "boys",
-   "home": {
-    "mascot": "Dragons",
-    "name": "West Point",
-    "program": "12221",
-    "squad": "jv",
-    "team": "217334"
-   },
-   "id": "2459826",
-   "level": "JV",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "West Point High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Panthers",
-    "name": "Maryvale",
-    "program": "382",
     "squad": "frso",
     "team": "218510"
    },
@@ -4519,66 +4455,6 @@
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Dragons",
-    "name": "West Point",
-    "program": "12222",
-    "squad": "varsity",
-    "team": "217338"
-   },
-   "date": "2026-12-02",
-   "gender": "girls",
-   "home": {
-    "mascot": "Panthers",
-    "name": "Maryvale",
-    "program": "427",
-    "squad": "varsity",
-    "team": "218512"
-   },
-   "id": "2459829",
-   "level": "Varsity",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Maryvale High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Dragons",
-    "name": "West Point",
-    "program": "12222",
-    "squad": "jv",
-    "team": "217340"
-   },
-   "date": "2026-12-02",
-   "gender": "girls",
-   "home": {
-    "mascot": "Panthers",
-    "name": "Maryvale",
-    "program": "427",
-    "squad": "jv",
-    "team": "218514"
-   },
-   "id": "2459830",
-   "level": "JV",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Maryvale High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -5120,61 +4996,32 @@
   },
   {
    "away": {
-    "mascot": "Raiders",
-    "name": "Cibola",
-    "program": "383",
-    "squad": "frso",
-    "team": "217246"
-   },
-   "date": "2026-12-02",
-   "gender": "boys",
-   "home": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3539",
-    "squad": "frso",
-    "team": "225570"
-   },
-   "id": "2466170",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Gila Ridge High School",
-   "page_level": "Freshman/Sophomore",
-   "result": null,
-   "tags": [],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Raiders",
-    "name": "Cibola",
-    "program": "428",
-    "squad": "frso",
-    "team": "217256"
-   },
-   "date": "2026-12-02",
-   "gender": "girls",
-   "home": {
     "mascot": "Hawks",
     "name": "Gila Ridge",
     "program": "3540",
     "squad": "frso",
     "team": "225578"
    },
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "mascot": "Raiders",
+    "name": "Cibola",
+    "program": "428",
+    "squad": "frso",
+    "team": "217256"
+   },
    "id": "2466173",
    "level": "Freshman/Sophomore",
    "listed_in": [
     "6A"
    ],
-   "location": "Gila Ridge High School",
+   "location": "Cibola High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "17:00",
-   "time_raw": "5:00 pm"
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -5556,6 +5403,7 @@
    "id": "2505700",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Cholla High Magnet School",
@@ -5587,6 +5435,7 @@
    "id": "2505701",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Cholla High Magnet School",
@@ -5648,7 +5497,8 @@
    "id": "2515183",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Douglas High School",
    "page_level": "Varsity",
@@ -5679,7 +5529,8 @@
    "id": "2515184",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Douglas High School",
    "page_level": "JV",
@@ -5802,7 +5653,7 @@
    "listed_in": [
     "2A"
    ],
-   "location": "Chandler Preparatory Academy",
+   "location": "Seton Catholic High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -5833,7 +5684,7 @@
    "listed_in": [
     "2A"
    ],
-   "location": "Chandler Preparatory Academy",
+   "location": "Seton Catholic High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -6261,7 +6112,7 @@
     "4A"
    ],
    "location": "San Tan Foothills High School",
-   "page_level": "Freshman/Sophomore",
+   "page_level": "JV",
    "result": null,
    "tags": [],
    "time": "16:00",
@@ -6690,7 +6541,6 @@
    "location": "Goodyear High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -6722,7 +6572,6 @@
    "location": "Goodyear High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -6812,7 +6661,6 @@
    "location": "Somerton High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -6844,7 +6692,6 @@
    "location": "Somerton High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -6905,7 +6752,6 @@
    "location": "Coronado High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -6937,7 +6783,6 @@
    "location": "Coronado High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -6998,7 +6843,6 @@
    "location": "Mingus Union High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -7030,7 +6874,6 @@
    "location": "Mingus Union High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -7094,68 +6937,6 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Patriots",
-    "name": "ALA - QC",
-    "program": "6879",
-    "squad": "varsity",
-    "team": "216434"
-   },
-   "date": "2026-12-03",
-   "gender": "boys",
-   "home": {
-    "mascot": "Panthers",
-    "name": "Coconino",
-    "program": "408",
-    "squad": "varsity",
-    "team": "220904"
-   },
-   "id": "2493804",
-   "level": "Varsity",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Coconino High School",
-   "page_level": "Varsity",
-   "result": null,
-   "stale": true,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Patriots",
-    "name": "ALA - QC",
-    "program": "6879",
-    "squad": "jv",
-    "team": "216436"
-   },
-   "date": "2026-12-03",
-   "gender": "boys",
-   "home": {
-    "mascot": "Panthers",
-    "name": "Coconino",
-    "program": "408",
-    "squad": "jv",
-    "team": "220906"
-   },
-   "id": "2493805",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Coconino High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "14:00",
-   "time_raw": "2:00 pm"
   },
   {
    "away": {
@@ -7242,7 +7023,6 @@
    "location": "Flagstaff High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -7274,7 +7054,6 @@
    "location": "Flagstaff High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "13:00",
    "time_raw": "1:00 pm"
@@ -7364,7 +7143,6 @@
    "location": "Lee Williams High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -7454,7 +7232,8 @@
    "id": "2534640",
    "level": "Freshman/Sophomore",
    "listed_in": [
-    "4A"
+    "4A",
+    "5A"
    ],
    "location": "Ironwood Ridge High School",
    "page_level": "Freshman/Sophomore",
@@ -7847,6 +7626,7 @@
    "id": "2464074",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "Somerton High School",
@@ -7878,6 +7658,7 @@
    "id": "2464075",
    "level": "JV",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "Somerton High School",
@@ -8085,6 +7866,7 @@
    "id": "2476682",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Greenway High School",
@@ -8116,6 +7898,7 @@
    "id": "2476683",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Greenway High School",
@@ -8207,6 +7990,7 @@
    "id": "2506238",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Casa Grande Union High School",
@@ -8238,6 +8022,7 @@
    "id": "2506239",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Casa Grande Union High School",
@@ -8299,6 +8084,7 @@
    "id": "2515127",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Douglas High School",
@@ -8701,7 +8487,8 @@
    "id": "2572420",
    "level": "Varsity",
    "listed_in": [
-    "2A"
+    "2A",
+    "4A"
    ],
    "location": "Sahuaro High School",
    "page_level": "Varsity",
@@ -10129,6 +9916,7 @@
    "id": "2463838",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Chandler High School",
@@ -12264,6 +12052,7 @@
    "id": "2468770",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Campo Verde High School",
@@ -12295,6 +12084,7 @@
    "id": "2468771",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Campo Verde High School",
@@ -12483,7 +12273,6 @@
    "location": "Coconino High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -12515,7 +12304,6 @@
    "location": "Coconino High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "14:00",
    "time_raw": "2:00 pm"
@@ -12605,7 +12393,6 @@
    "location": "Paradise Honors High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -12637,7 +12424,6 @@
    "location": "Paradise Honors High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -12667,7 +12453,6 @@
    "location": "Thunderbird High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -12699,7 +12484,6 @@
    "location": "Thunderbird High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -13024,6 +12808,7 @@
    "id": "2477515",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Independence High School",
@@ -13055,6 +12840,7 @@
    "id": "2477516",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Independence High School",
@@ -13084,7 +12870,8 @@
    "id": "2477517",
    "level": "Freshman/Sophomore",
    "listed_in": [
-    "4A"
+    "4A",
+    "5A"
    ],
    "location": "Independence High School",
    "page_level": "Freshman/Sophomore",
@@ -13180,7 +12967,6 @@
    "location": "Monterey Park",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -13298,6 +13084,7 @@
    "id": "2485208",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Glendale High School",
@@ -13329,6 +13116,7 @@
    "id": "2485209",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Glendale High School",
@@ -13485,7 +13273,6 @@
    "location": "Paradise Valley High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -13575,7 +13362,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -13607,7 +13393,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -13697,7 +13482,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -13729,7 +13513,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -13819,7 +13602,6 @@
    "location": "Eastmark High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -13851,7 +13633,6 @@
    "location": "Eastmark High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -14211,6 +13992,7 @@
    "id": "2514974",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Mica Mountain High School",
@@ -14242,6 +14024,7 @@
    "id": "2514975",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Mica Mountain High School",
@@ -14333,7 +14116,8 @@
    "id": "2515233",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Sahuaro High School",
    "page_level": "Varsity",
@@ -15505,6 +15289,7 @@
    "id": "2578529",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Cactus Canyon High School",
@@ -15539,7 +15324,6 @@
    "location": "Nogales High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -15624,7 +15408,8 @@
    "id": "2494975",
    "level": "Freshman/Sophomore",
    "listed_in": [
-    "4A"
+    "4A",
+    "5A"
    ],
    "location": "Desert View High School",
    "page_level": "Freshman/Sophomore",
@@ -16014,6 +15799,7 @@
    "id": "2571815",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Willow Canyon High School",
@@ -19062,6 +18848,7 @@
    "id": "2464352",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "San Luis High School",
@@ -19093,6 +18880,7 @@
    "id": "2464353",
    "level": "JV",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "San Luis High School",
@@ -19913,7 +19701,6 @@
    "location": "Greenway High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -19945,7 +19732,6 @@
    "location": "Greenway High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -20035,7 +19821,6 @@
    "location": "North Canyon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -20067,7 +19852,6 @@
    "location": "North Canyon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -20157,7 +19941,6 @@
    "location": "Arcadia High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -20189,7 +19972,6 @@
    "location": "Arcadia High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -20279,7 +20061,6 @@
    "location": "Cactus High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -20342,7 +20123,6 @@
    "location": "Deer Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -20374,7 +20154,6 @@
    "location": "Deer Valley High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -20464,7 +20243,6 @@
    "location": "Saguaro High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -20496,7 +20274,6 @@
    "location": "Saguaro High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -20586,7 +20363,6 @@
    "location": "Monterey Park",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -20649,7 +20425,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -20681,7 +20456,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -20771,7 +20545,6 @@
    "location": "Cortez High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -20803,7 +20576,6 @@
    "location": "Cortez High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -20893,7 +20665,6 @@
    "location": "Dysart High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -20925,7 +20696,6 @@
    "location": "Dysart High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -21166,7 +20936,6 @@
    "location": "Betty H. Fairfax High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -21256,7 +21025,6 @@
    "location": "Crismon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -21288,7 +21056,6 @@
    "location": "Crismon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -21378,7 +21145,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -21410,7 +21176,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -21471,7 +21236,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -21503,7 +21267,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -21564,7 +21327,6 @@
    "location": "Combs High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -21596,7 +21358,6 @@
    "location": "Combs High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -21657,7 +21418,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -21689,7 +21449,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -21774,6 +21533,7 @@
    "id": "2497533",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Eastmark High School",
@@ -21805,6 +21565,7 @@
    "id": "2497534",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Eastmark High School",
@@ -21901,7 +21662,6 @@
    "location": "Poston Butte High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -21933,7 +21693,6 @@
    "location": "Poston Butte High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -22023,7 +21782,6 @@
    "location": "Peoria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -22055,7 +21813,6 @@
    "location": "Peoria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -22382,6 +22139,7 @@
    "id": "2515097",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Ironwood Ridge High School",
@@ -22413,6 +22171,7 @@
    "id": "2515098",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Ironwood Ridge High School",
@@ -22504,7 +22263,8 @@
    "id": "2515119",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Sabino High School",
    "page_level": "Varsity",
@@ -22535,7 +22295,8 @@
    "id": "2515120",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Sabino High School",
    "page_level": "JV",
@@ -22596,7 +22357,8 @@
    "id": "2515141",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Sahuarita High School",
    "page_level": "Varsity",
@@ -22627,7 +22389,8 @@
    "id": "2515142",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Sahuarita High School",
    "page_level": "JV",
@@ -25827,36 +25590,6 @@
   },
   {
    "away": {
-    "mascot": "Hawks",
-    "name": "Buckeye Union",
-    "program": "413",
-    "squad": "jv",
-    "team": "229682"
-   },
-   "date": "2026-12-10",
-   "gender": "boys",
-   "home": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "id": "2488619",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Central High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Bobcats",
     "name": "Central",
     "program": "3635",
@@ -26055,6 +25788,7 @@
    "id": "2517540",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Sunnyside High School",
@@ -27186,7 +26920,6 @@
    "location": "Deer Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -27218,7 +26951,6 @@
    "location": "Deer Valley High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -27308,7 +27040,6 @@
    "location": "Paradise Honors High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -27340,7 +27071,6 @@
    "location": "Paradise Honors High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -27430,7 +27160,6 @@
    "location": "Shadow Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -27493,7 +27222,6 @@
    "location": "Washington High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -27525,7 +27253,6 @@
    "location": "Washington High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -27615,7 +27342,6 @@
    "location": "Mesquite High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -27647,7 +27373,6 @@
    "location": "Mesquite High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -27708,7 +27433,6 @@
    "location": "Saguaro High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -27740,7 +27464,6 @@
    "location": "Saguaro High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -27830,7 +27553,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -27862,7 +27584,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -27952,7 +27673,6 @@
    "location": "Peoria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -27984,7 +27704,6 @@
    "location": "Peoria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -28134,7 +27853,6 @@
    "location": "Moon Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -28166,7 +27884,6 @@
    "location": "Moon Valley High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -28256,7 +27973,6 @@
    "location": "Paradise Valley High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -28406,7 +28122,6 @@
    "location": "Combs High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -28438,7 +28153,6 @@
    "location": "Combs High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -28554,6 +28268,7 @@
    "id": "2494116",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Flowing Wells High School",
@@ -28585,6 +28300,7 @@
    "id": "2494117",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Flowing Wells High School",
@@ -28676,6 +28392,7 @@
    "id": "2494642",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Vista Grande High School",
@@ -28707,6 +28424,7 @@
    "id": "2494643",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Vista Grande High School",
@@ -28768,6 +28486,7 @@
    "id": "2494973",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Desert View High School",
@@ -28799,6 +28518,7 @@
    "id": "2494974",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Desert View High School",
@@ -28926,7 +28646,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -28958,7 +28677,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -29043,7 +28761,8 @@
    "id": "2514990",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Sahuaro High School",
    "page_level": "Varsity",
@@ -29074,7 +28793,8 @@
    "id": "2514991",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Sahuaro High School",
    "page_level": "JV",
@@ -29103,6 +28823,7 @@
    "id": "2515006",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Walden Grove High School",
@@ -29134,6 +28855,7 @@
    "id": "2515007",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Walden Grove High School",
@@ -29225,7 +28947,8 @@
    "id": "2515079",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Tanque Verde High School",
    "page_level": "Varsity",
@@ -29256,7 +28979,8 @@
    "id": "2515080",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Tanque Verde High School",
    "page_level": "JV",
@@ -30609,6 +30333,7 @@
    "id": "2463856",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Apollo High School",
@@ -31179,7 +30904,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -31211,7 +30935,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -31241,7 +30964,6 @@
    "location": "Thunderbird High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -31273,7 +30995,6 @@
    "location": "Thunderbird High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -31394,7 +31115,6 @@
    "location": "Mesquite High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -31426,7 +31146,6 @@
    "location": "Mesquite High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -31456,7 +31175,6 @@
    "location": "Saguaro High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -31488,7 +31206,6 @@
    "location": "Saguaro High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -31578,7 +31295,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -31610,7 +31326,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -31729,7 +31444,6 @@
    "location": "Somerton High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -31761,7 +31475,6 @@
    "location": "Somerton High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -31851,7 +31564,6 @@
    "location": "Mingus Union High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -31883,7 +31595,6 @@
    "location": "Mingus Union High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -31973,7 +31684,6 @@
    "location": "Coconino High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -32005,7 +31715,6 @@
    "location": "Coconino High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "14:00",
    "time_raw": "2:00 pm"
@@ -32214,7 +31923,8 @@
    "id": "2539263",
    "level": "Freshman/Sophomore",
    "listed_in": [
-    "4A"
+    "4A",
+    "5A"
    ],
    "location": "Ironwood Ridge High School",
    "page_level": "Freshman/Sophomore",
@@ -32425,6 +32135,7 @@
    "id": "2576408",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Tolleson High School",
@@ -32459,7 +32170,6 @@
    "location": "Salpointe Catholic High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -32484,6 +32194,7 @@
    "id": "2576434",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Westwood High School",
@@ -33907,7 +33618,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -33939,7 +33649,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -34029,7 +33738,6 @@
    "location": "Washington High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -34061,7 +33769,6 @@
    "location": "Washington High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -34156,36 +33863,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Lions",
-    "name": "Alhambra",
-    "program": "1489",
-    "squad": "jv",
-    "team": "223040"
-   },
-   "date": "2026-12-15",
-   "gender": "boys",
-   "home": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "id": "2480742",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Central High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -34332,7 +34009,6 @@
    "location": "Metro Tech High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -34422,7 +34098,6 @@
    "location": "Arcadia High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -34454,7 +34129,6 @@
    "location": "Arcadia High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -34544,7 +34218,6 @@
    "location": "Goodyear High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -34576,7 +34249,6 @@
    "location": "Goodyear High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -34666,7 +34338,6 @@
    "location": "Peoria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -34698,7 +34369,6 @@
    "location": "Peoria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -34848,7 +34518,6 @@
    "location": "Coronado High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -34880,7 +34549,6 @@
    "location": "Coronado High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -34941,7 +34609,6 @@
    "location": "Dysart High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -34973,7 +34640,6 @@
    "location": "Dysart High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -35063,7 +34729,6 @@
    "location": "Glendale High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -35095,7 +34760,6 @@
    "location": "Glendale High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -35305,7 +34969,6 @@
    "location": "Crismon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -35337,7 +35000,6 @@
    "location": "Crismon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -35422,6 +35084,7 @@
    "id": "2494548",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Buena High School",
@@ -35453,6 +35116,7 @@
    "id": "2494549",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Buena High School",
@@ -35544,7 +35208,8 @@
    "id": "2502454",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Lee Williams High School",
    "page_level": "Varsity",
@@ -35607,6 +35272,7 @@
    "id": "2506098",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Mountain View (Marana) High School",
@@ -35638,6 +35304,7 @@
    "id": "2506099",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Mountain View (Marana) High School",
@@ -35729,6 +35396,7 @@
    "id": "2514950",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Rio Rico High School",
@@ -35760,6 +35428,7 @@
    "id": "2514951",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Rio Rico High School",
@@ -35851,6 +35520,7 @@
    "id": "2514958",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Sahuaro High School",
@@ -35882,6 +35552,7 @@
    "id": "2514959",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Sahuaro High School",
@@ -35943,6 +35614,7 @@
    "id": "2515107",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Mica Mountain High School",
@@ -35974,6 +35646,7 @@
    "id": "2515108",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Mica Mountain High School",
@@ -36065,6 +35738,7 @@
    "id": "2515175",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Douglas High School",
@@ -36096,6 +35770,7 @@
    "id": "2515176",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Douglas High School",
@@ -37825,27 +37500,27 @@
   },
   {
    "away": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3540",
-    "squad": "varsity",
-    "team": "225572"
-   },
-   "date": "2026-12-16",
-   "gender": "girls",
-   "home": {
     "mascot": "Falcons",
     "name": "Carl Hayden",
     "program": "433",
     "squad": "varsity",
     "team": "223602"
    },
+   "date": "2026-12-16",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3540",
+    "squad": "varsity",
+    "team": "225572"
+   },
    "id": "2464483",
    "level": "Varsity",
    "listed_in": [
     "6A"
    ],
-   "location": "Carl Hayden Community High School",
+   "location": "Gila Ridge High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -37856,27 +37531,27 @@
   },
   {
    "away": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3540",
-    "squad": "jv",
-    "team": "225574"
-   },
-   "date": "2026-12-16",
-   "gender": "girls",
-   "home": {
     "mascot": "Falcons",
     "name": "Carl Hayden",
     "program": "433",
     "squad": "jv",
     "team": "223604"
    },
+   "date": "2026-12-16",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3540",
+    "squad": "jv",
+    "team": "225574"
+   },
    "id": "2464484",
    "level": "JV",
    "listed_in": [
     "6A"
    ],
-   "location": "Carl Hayden Community High School",
+   "location": "Gila Ridge High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -37948,8 +37623,8 @@
     "mascot": "Hawks",
     "name": "Apollo",
     "program": "1350",
-    "squad": "jv-2",
-    "team": "224534"
+    "squad": "frso",
+    "team": "224536"
    },
    "date": "2026-12-16",
    "gender": "boys",
@@ -38112,6 +37787,7 @@
    "id": "2464530",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "Cibola High School",
@@ -38143,6 +37819,7 @@
    "id": "2464531",
    "level": "JV",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "Cibola High School",
@@ -38239,7 +37916,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -38271,7 +37947,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -38361,7 +38036,6 @@
    "location": "Cactus High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -38424,7 +38098,6 @@
    "location": "Mesquite High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -38456,7 +38129,6 @@
    "location": "Mesquite High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -38639,7 +38311,7 @@
     "4A"
    ],
    "location": "Marcos de Niza High School",
-   "page_level": "Freshman/Sophomore",
+   "page_level": "JV",
    "result": null,
    "tags": [],
    "time": "16:00",
@@ -38728,6 +38400,7 @@
    "id": "2458232",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Sunrise Mountain High School",
@@ -38759,6 +38432,7 @@
    "id": "2458233",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Sunrise Mountain High School",
@@ -38912,6 +38586,7 @@
    "id": "2459538",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Alhambra High School",
@@ -39455,7 +39130,6 @@
    "location": "Cactus High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -39487,7 +39161,6 @@
    "location": "Kofa High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -39519,7 +39192,6 @@
    "location": "Kofa High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -39609,7 +39281,6 @@
    "location": "Peoria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -39641,7 +39312,6 @@
    "location": "Peoria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -39671,7 +39341,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -39703,7 +39372,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -39728,7 +39396,8 @@
    "id": "2500205",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Yuma High School",
    "page_level": "Varsity",
@@ -39759,7 +39428,8 @@
    "id": "2500206",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Yuma High School",
    "page_level": "JV",
@@ -39970,6 +39640,7 @@
    "id": "2514793",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Ironwood Ridge High School",
@@ -40001,6 +39672,7 @@
    "id": "2514794",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Ironwood Ridge High School",
@@ -40092,7 +39764,8 @@
    "id": "2514801",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Rio Rico High School",
    "page_level": "Varsity",
@@ -40123,7 +39796,8 @@
    "id": "2514802",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Rio Rico High School",
    "page_level": "JV",
@@ -40246,7 +39920,8 @@
    "id": "2514815",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "EAC Mickelson Field",
    "page_level": "Varsity",
@@ -40277,7 +39952,8 @@
    "id": "2514816",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "EAC Mickelson Field",
    "page_level": "JV",
@@ -41353,7 +41029,6 @@
    "location": "Mingus Union High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -41385,7 +41060,6 @@
    "location": "Mingus Union High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -41415,7 +41089,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -41962,6 +41635,7 @@
    "id": "2464056",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "Kofa High School",
@@ -41993,6 +41667,7 @@
    "id": "2464057",
    "level": "JV",
    "listed_in": [
+    "4A",
     "6A"
    ],
    "location": "Kofa High School",
@@ -42087,7 +41762,6 @@
    "location": "Prescott High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -42119,7 +41793,6 @@
    "location": "Prescott High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -43306,6 +42979,7 @@
    "id": "2485216",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Moon Valley High School",
@@ -43337,6 +43011,7 @@
    "id": "2485217",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Moon Valley High School",
@@ -43490,6 +43165,7 @@
    "id": "2506166",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Rincon High School",
@@ -43521,6 +43197,7 @@
    "id": "2506167",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Rincon High School",
@@ -43612,6 +43289,7 @@
    "id": "2515193",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Mica Mountain High School",
@@ -43643,6 +43321,7 @@
    "id": "2515194",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Mica Mountain High School",
@@ -44437,6 +44116,7 @@
    "id": "2528259",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Nogales High School",
@@ -44653,6 +44333,7 @@
    "id": "2569276",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Camelback High School",
@@ -44771,6 +44452,7 @@
    "id": "2576407",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Copper Canyon High School",
@@ -45646,6 +45328,7 @@
    "id": "2463700",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Camelback High School",
@@ -47037,7 +46720,6 @@
    "location": "North Canyon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -47069,7 +46751,6 @@
    "location": "North Canyon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -47159,7 +46840,6 @@
    "location": "Washington High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -47191,7 +46871,6 @@
    "location": "Washington High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -47521,7 +47200,6 @@
    "location": "Deer Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -47553,7 +47231,6 @@
    "location": "Deer Valley High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -47638,6 +47315,7 @@
    "id": "2483610",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Estrella Foothills High School",
@@ -47669,6 +47347,7 @@
    "id": "2483611",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Estrella Foothills High School",
@@ -47765,7 +47444,6 @@
    "location": "Glendale High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -47797,7 +47475,6 @@
    "location": "Glendale High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -47887,7 +47564,6 @@
    "location": "Tempe High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -47919,7 +47595,6 @@
    "location": "Tempe High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -48009,7 +47684,6 @@
    "location": "Coronado High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -48041,7 +47715,6 @@
    "location": "Coronado High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -48074,36 +47747,6 @@
    "tags": [
     "Freedom"
    ],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "date": "2027-01-06",
-   "gender": "boys",
-   "home": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1662",
-    "squad": "jv",
-    "team": "228170"
-   },
-   "id": "2488627",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Maricopa High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
   },
@@ -48341,7 +47984,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -48373,7 +48015,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -48458,6 +48099,7 @@
    "id": "2494682",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Nogales High School",
@@ -48489,6 +48131,7 @@
    "id": "2494683",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Nogales High School",
@@ -48585,7 +48228,6 @@
    "location": "Shadow Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -48617,7 +48259,6 @@
    "location": "Shadow Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -48707,7 +48348,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -48739,7 +48379,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -48829,7 +48468,6 @@
    "location": "Coconino High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -48861,7 +48499,6 @@
    "location": "Coconino High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "14:00",
    "time_raw": "2:00 pm"
@@ -48951,7 +48588,6 @@
    "location": "Cactus High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -49014,7 +48650,6 @@
    "location": "Combs High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -49046,7 +48681,6 @@
    "location": "Combs High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -49107,7 +48741,6 @@
    "location": "Crismon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -49139,7 +48772,6 @@
    "location": "Crismon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -49229,7 +48861,6 @@
    "location": "Eastmark High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -49261,7 +48892,6 @@
    "location": "Eastmark High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -49377,7 +49007,8 @@
    "id": "2514809",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Sahuarita High School",
    "page_level": "Varsity",
@@ -49408,7 +49039,8 @@
    "id": "2514810",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Sahuarita High School",
    "page_level": "JV",
@@ -49872,7 +49504,6 @@
    "location": "Coronado High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -49904,7 +49535,6 @@
    "location": "Coronado High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -49965,7 +49595,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -49995,7 +49624,7 @@
     "4A"
    ],
    "location": "Marcos de Niza High School",
-   "page_level": "Freshman/Sophomore",
+   "page_level": "JV",
    "result": null,
    "tags": [],
    "time": "16:00",
@@ -51098,7 +50727,8 @@
    "id": "2514763",
    "level": "Varsity",
    "listed_in": [
-    "2A"
+    "2A",
+    "4A"
    ],
    "location": "Catalina Magnet High School",
    "page_level": "Varsity",
@@ -51129,7 +50759,8 @@
    "id": "2514764",
    "level": "JV",
    "listed_in": [
-    "2A"
+    "2A",
+    "4A"
    ],
    "location": "Catalina Magnet High School",
    "page_level": "JV",
@@ -51190,7 +50821,8 @@
    "id": "2514769",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Tanque Verde High School",
    "page_level": "Varsity",
@@ -51221,7 +50853,8 @@
    "id": "2514770",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Tanque Verde High School",
    "page_level": "JV",
@@ -51866,7 +51499,6 @@
    "location": "Nogales High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -53427,6 +53059,7 @@
    "id": "2463812",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Desert View High School",
@@ -56306,7 +55939,6 @@
    "location": "Shadow Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -56338,7 +55970,6 @@
    "location": "Shadow Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -56428,7 +56059,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -56460,7 +56090,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -56550,7 +56179,6 @@
    "location": "Thunderbird High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -56582,7 +56210,6 @@
    "location": "Thunderbird High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -56852,7 +56479,6 @@
    "location": "Sierra Linda High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -57002,7 +56628,6 @@
    "location": "Independence High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -57092,7 +56717,6 @@
    "location": "Estrella Foothills High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -57124,7 +56748,6 @@
    "location": "Estrella Foothills High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -57185,7 +56808,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -57217,7 +56839,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -57336,7 +56957,6 @@
    "location": "Tempe High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -57368,7 +56988,6 @@
    "location": "Tempe High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -57518,7 +57137,6 @@
    "location": "Paradise Valley High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -57736,36 +57354,6 @@
   },
   {
    "away": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "date": "2027-01-08",
-   "gender": "boys",
-   "home": {
-    "mascot": "Knights",
-    "name": "Westview",
-    "program": "3367",
-    "squad": "jv",
-    "team": "215366"
-   },
-   "id": "2492288",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Westview High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Knights",
     "name": "Westview",
     "program": "3368",
@@ -57849,7 +57437,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -57881,7 +57468,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -57971,7 +57557,6 @@
    "location": "Flagstaff High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -58003,7 +57588,6 @@
    "location": "Flagstaff High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "13:00",
    "time_raw": "1:00 pm"
@@ -58093,7 +57677,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -58125,7 +57708,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -58215,7 +57797,6 @@
    "location": "Poston Butte High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -58247,7 +57828,6 @@
    "location": "Poston Butte High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -58363,6 +57943,7 @@
    "id": "2505657",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Catalina Foothills High School",
@@ -58394,6 +57975,7 @@
    "id": "2505658",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Catalina Foothills High School",
@@ -58821,7 +58403,6 @@
    "location": "Walden Grove High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -58853,7 +58434,6 @@
    "location": "Walden Grove High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -58971,7 +58551,8 @@
    "id": "2515189",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Ironwood Ridge High School",
    "page_level": "Varsity",
@@ -60843,6 +60424,126 @@
   },
   {
    "away": {
+    "mascot": "Panthers",
+    "name": "Maryvale",
+    "program": "382",
+    "squad": "varsity",
+    "team": "218506"
+   },
+   "date": "2027-01-11",
+   "gender": "boys",
+   "home": {
+    "mascot": "Dragons",
+    "name": "West Point",
+    "program": "12221",
+    "squad": "varsity",
+    "team": "217332"
+   },
+   "id": "2459824",
+   "level": "Varsity",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "West Point High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Panthers",
+    "name": "Maryvale",
+    "program": "382",
+    "squad": "jv",
+    "team": "218508"
+   },
+   "date": "2027-01-11",
+   "gender": "boys",
+   "home": {
+    "mascot": "Dragons",
+    "name": "West Point",
+    "program": "12221",
+    "squad": "jv",
+    "team": "217334"
+   },
+   "id": "2459826",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "West Point High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Dragons",
+    "name": "West Point",
+    "program": "12222",
+    "squad": "varsity",
+    "team": "217338"
+   },
+   "date": "2027-01-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Maryvale",
+    "program": "427",
+    "squad": "varsity",
+    "team": "218512"
+   },
+   "id": "2459829",
+   "level": "Varsity",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Maryvale High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Dragons",
+    "name": "West Point",
+    "program": "12222",
+    "squad": "jv",
+    "team": "217340"
+   },
+   "date": "2027-01-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Maryvale",
+    "program": "427",
+    "squad": "jv",
+    "team": "218514"
+   },
+   "id": "2459830",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Maryvale High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Vipers",
     "name": "San Miguel",
     "program": "6323",
@@ -62167,7 +61868,6 @@
    "location": "Independence High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -62294,36 +61994,6 @@
   },
   {
    "away": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "date": "2027-01-11",
-   "gender": "boys",
-   "home": {
-    "mascot": "Knights",
-    "name": "Metro Tech",
-    "program": "8230",
-    "squad": "jv",
-    "team": "230370"
-   },
-   "id": "2477618",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Metro Tech High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Knights",
     "name": "Metro Tech",
     "program": "8231",
@@ -62407,7 +62077,6 @@
    "location": "Dysart High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -62439,7 +62108,6 @@
    "location": "Dysart High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -62529,7 +62197,6 @@
    "location": "Buckeye Union High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "14:30",
    "time_raw": "2:30 pm"
@@ -62679,7 +62346,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -62711,7 +62377,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -62801,7 +62466,6 @@
    "location": "Paradise Honors High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -62833,7 +62497,6 @@
    "location": "Paradise Honors High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -62918,7 +62581,8 @@
    "id": "2502446",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Lee Williams High School",
    "page_level": "Varsity",
@@ -62949,7 +62613,8 @@
    "id": "2502447",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Lee Williams High School",
    "page_level": "JV",
@@ -63465,7 +63130,6 @@
    "location": "Rio Rico High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -63497,7 +63161,6 @@
    "location": "Rio Rico High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -63582,7 +63245,8 @@
    "id": "2515237",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Walden Grove High School",
    "page_level": "Varsity",
@@ -63613,7 +63277,8 @@
    "id": "2515238",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Walden Grove High School",
    "page_level": "JV",
@@ -64230,6 +63895,7 @@
    "id": "2532941",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Cactus Shadows High School",
@@ -64319,6 +63985,7 @@
    "id": "2533960",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Cactus Shadows High School",
@@ -64378,7 +64045,8 @@
    "id": "2534642",
    "level": "Freshman/Sophomore",
    "listed_in": [
-    "4A"
+    "4A",
+    "5A"
    ],
    "location": "Salpointe Catholic High School",
    "page_level": "Freshman/Sophomore",
@@ -64437,6 +64105,7 @@
    "id": "2569201",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Tolleson High School",
@@ -64582,6 +64251,7 @@
    "id": "2574116",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Higley High School",
@@ -64611,7 +64281,8 @@
    "id": "2575311",
    "level": "Varsity",
    "listed_in": [
-    "2A"
+    "2A",
+    "4A"
    ],
    "location": "Coronado High School",
    "page_level": "Varsity",
@@ -64825,6 +64496,7 @@
    "id": "2459952",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Buckeye Union High School",
@@ -65071,7 +64743,6 @@
    "location": "Shadow Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -65103,7 +64774,6 @@
    "location": "Shadow Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -65193,7 +64863,6 @@
    "location": "Monterey Park",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -65225,7 +64894,6 @@
    "location": "Arcadia High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -65257,7 +64925,6 @@
    "location": "Arcadia High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -65347,7 +65014,6 @@
    "location": "Saguaro High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -65379,7 +65045,6 @@
    "location": "Saguaro High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -65469,7 +65134,6 @@
    "location": "Goodyear High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -65501,7 +65165,6 @@
    "location": "Goodyear High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -65591,7 +65254,6 @@
    "location": "Cortez High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -65623,7 +65285,6 @@
    "location": "Cortez High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -65750,6 +65411,66 @@
   },
   {
    "away": {
+    "mascot": "Patriots",
+    "name": "ALA - QC",
+    "program": "6879",
+    "squad": "varsity",
+    "team": "216434"
+   },
+   "date": "2027-01-12",
+   "gender": "boys",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Coconino",
+    "program": "408",
+    "squad": "varsity",
+    "team": "220904"
+   },
+   "id": "2493804",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Coconino High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Patriots",
+    "name": "ALA - QC",
+    "program": "6879",
+    "squad": "jv",
+    "team": "216436"
+   },
+   "date": "2027-01-12",
+   "gender": "boys",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Coconino",
+    "program": "408",
+    "squad": "jv",
+    "team": "220906"
+   },
+   "id": "2493805",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Coconino High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Guardians",
     "name": "ALA - West Foothills",
     "program": "12772",
@@ -65773,7 +65494,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -65805,7 +65525,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -65861,7 +65580,8 @@
    "id": "2497607",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Eastmark High School",
    "page_level": "Varsity",
@@ -65892,7 +65612,8 @@
    "id": "2497608",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Eastmark High School",
    "page_level": "JV",
@@ -65988,7 +65709,6 @@
    "location": "Moon Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -66020,7 +65740,6 @@
    "location": "Moon Valley High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -66050,7 +65769,6 @@
    "location": "Ironwood Ridge High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -66082,7 +65800,6 @@
    "location": "Ironwood Ridge High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -66201,7 +65918,6 @@
    "location": "Sahuaro High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -66233,7 +65949,6 @@
    "location": "Sahuaro High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -66376,7 +66091,8 @@
    "id": "2571878",
    "level": "Freshman/Sophomore",
    "listed_in": [
-    "4A"
+    "4A",
+    "5A"
    ],
    "location": "Camelback High School",
    "page_level": "Freshman/Sophomore",
@@ -66442,6 +66158,36 @@
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Rams",
+    "name": "Washington",
+    "program": "1752",
+    "squad": "frso",
+    "team": "235039"
+   },
+   "date": "2027-01-12",
+   "gender": "girls",
+   "home": {
+    "mascot": "Spartans",
+    "name": "Camelback",
+    "program": "2549",
+    "squad": "frso",
+    "team": "235095"
+   },
+   "id": "2578829",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Camelback High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -69875,7 +69621,6 @@
    "location": "Agua Fria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -69907,7 +69652,6 @@
    "location": "Agua Fria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -69968,7 +69712,6 @@
    "location": "Estrella Foothills High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -70000,7 +69743,6 @@
    "location": "Estrella Foothills High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -70085,7 +69827,8 @@
    "id": "2484199",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Kofa High School",
    "page_level": "Varsity",
@@ -70116,7 +69859,8 @@
    "id": "2484200",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Kofa High School",
    "page_level": "JV",
@@ -70212,7 +69956,6 @@
    "location": "Tempe High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -70244,7 +69987,6 @@
    "location": "Tempe High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -70334,7 +70076,6 @@
    "location": "Dysart High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -70366,7 +70107,6 @@
    "location": "Dysart High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -70396,7 +70136,6 @@
    "location": "Prescott High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -70423,6 +70162,7 @@
    "id": "2521206",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Sunnyside High School",
@@ -73171,7 +72911,6 @@
    "location": "Greenway High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -73203,7 +72942,6 @@
    "location": "Greenway High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -73353,7 +73091,6 @@
    "location": "Alhambra High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "14:00",
    "time_raw": "2:00 pm"
@@ -73503,7 +73240,6 @@
    "location": "Metro Tech High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -73841,36 +73577,6 @@
   },
   {
    "away": {
-    "mascot": "Scorpions",
-    "name": "Desert Edge",
-    "program": "2225",
-    "squad": "jv",
-    "team": "211580"
-   },
-   "date": "2027-01-14",
-   "gender": "boys",
-   "home": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "id": "2488635",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Central High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Bobcats",
     "name": "Central",
     "program": "3635",
@@ -74014,7 +73720,6 @@
    "location": "Buckeye Union High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -74164,7 +73869,6 @@
    "location": "Mingus Union High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -74196,7 +73900,6 @@
    "location": "Mingus Union High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -74557,7 +74260,6 @@
    "location": "Douglas High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -74589,7 +74291,6 @@
    "location": "Douglas High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -74679,7 +74380,6 @@
    "location": "Sahuarita High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -74711,7 +74411,6 @@
    "location": "Sahuarita High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -74801,7 +74500,6 @@
    "location": "Walden Grove High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -74833,7 +74531,6 @@
    "location": "Walden Grove High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -74918,7 +74615,8 @@
    "id": "2514777",
    "level": "Varsity",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Palo Verde High Magnet School",
    "page_level": "Varsity",
@@ -74949,7 +74647,8 @@
    "id": "2514778",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Palo Verde High Magnet School",
    "page_level": "JV",
@@ -76857,7 +76556,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -76889,7 +76587,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -76979,7 +76676,6 @@
    "location": "North Canyon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -77011,7 +76707,6 @@
    "location": "North Canyon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -77101,7 +76796,6 @@
    "location": "Arcadia High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -77133,7 +76827,6 @@
    "location": "Arcadia High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -77223,7 +76916,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -77255,7 +76947,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -77345,7 +77036,6 @@
    "location": "Mesquite High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -77408,7 +77098,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -77440,7 +77129,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -77530,7 +77218,6 @@
    "location": "Estrella Foothills High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -77562,7 +77249,6 @@
    "location": "Estrella Foothills High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -77652,7 +77338,6 @@
    "location": "Kofa High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -77684,7 +77369,6 @@
    "location": "Kofa High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -77774,7 +77458,6 @@
    "location": "Coronado High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -77806,7 +77489,6 @@
    "location": "Coronado High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -77927,7 +77609,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -77959,7 +77640,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -78049,7 +77729,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -78081,7 +77760,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -78111,7 +77789,6 @@
    "location": "Prescott High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -78143,7 +77820,6 @@
    "location": "Prescott High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -78233,7 +77909,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -78265,7 +77940,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -78326,7 +78000,6 @@
    "location": "Combs High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -78358,7 +78031,6 @@
    "location": "Combs High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -78419,7 +78091,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -78451,7 +78122,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -80205,8 +79875,8 @@
     "mascot": "Hawks",
     "name": "Apollo",
     "program": "1350",
-    "squad": "jv-2",
-    "team": "224534"
+    "squad": "frso",
+    "team": "224536"
    },
    "id": "2570367",
    "level": "Freshman/Sophomore",
@@ -80275,7 +79945,6 @@
    "location": "Willow Canyon High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -80512,6 +80181,7 @@
    "id": "2459802",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Copper Canyon High School",
@@ -80663,6 +80333,7 @@
    "id": "2474274",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "South Mountain High School",
@@ -80694,6 +80365,7 @@
    "id": "2474275",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "South Mountain High School",
@@ -80728,7 +80400,6 @@
    "location": "Camelback High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -80816,7 +80487,6 @@
    "location": "Prescott High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -80848,7 +80518,6 @@
    "location": "Prescott High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -82054,37 +81723,6 @@
   },
   {
    "away": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "date": "2027-01-19",
-   "gender": "boys",
-   "home": {
-    "mascot": "Vikings",
-    "name": "Sunnyslope",
-    "program": "3157",
-    "squad": "jv",
-    "team": "217972"
-   },
-   "id": "2463875",
-   "level": "JV",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Sunnyslope High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "17:00",
-   "time_raw": "5:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Toros",
     "name": "Somerton",
     "program": "13780",
@@ -83163,7 +82801,6 @@
    "location": "North High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -83910,6 +83547,7 @@
    "id": "2506174",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Rincon High School",
@@ -83941,6 +83579,7 @@
    "id": "2506175",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Rincon High School",
@@ -88647,7 +88286,6 @@
    "location": "Nogales High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -88677,7 +88315,6 @@
    "location": "Paradise Honors High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -88709,7 +88346,6 @@
    "location": "Paradise Honors High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -88799,7 +88435,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -88831,7 +88466,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -88921,7 +88555,6 @@
    "location": "North Canyon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -88953,7 +88586,6 @@
    "location": "North Canyon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -89014,7 +88646,6 @@
    "location": "Thunderbird High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -89046,7 +88677,6 @@
    "location": "Thunderbird High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -89136,7 +88766,6 @@
    "location": "Arcadia High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -89168,7 +88797,6 @@
    "location": "Arcadia High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -89229,7 +88857,6 @@
    "location": "Deer Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -89292,7 +88919,6 @@
    "location": "Saguaro High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -89355,7 +88981,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -89387,7 +89012,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -89477,7 +89101,6 @@
    "location": "Goodyear High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -89509,7 +89132,6 @@
    "location": "Goodyear High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -89599,7 +89221,6 @@
    "location": "Peoria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -89631,7 +89252,6 @@
    "location": "Peoria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -89721,7 +89341,6 @@
    "location": "Coronado High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -89753,7 +89372,6 @@
    "location": "Coronado High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -89814,7 +89432,6 @@
    "location": "Glendale High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -89846,7 +89463,6 @@
    "location": "Glendale High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -89936,7 +89552,6 @@
    "location": "Moon Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -89968,7 +89583,6 @@
    "location": "Moon Valley High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -90118,7 +89732,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -90150,7 +89763,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -90211,7 +89823,6 @@
    "location": "Crismon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -90243,7 +89854,6 @@
    "location": "Crismon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -90333,7 +89943,6 @@
    "location": "Eastmark High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -90365,7 +89974,6 @@
    "location": "Eastmark High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -90455,7 +90063,6 @@
    "location": "Flagstaff High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -90487,7 +90094,6 @@
    "location": "Flagstaff High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "13:00",
    "time_raw": "1:00 pm"
@@ -90517,7 +90123,6 @@
    "location": "Douglas High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -90549,7 +90154,6 @@
    "location": "Douglas High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -90639,7 +90243,6 @@
    "location": "Ironwood Ridge High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -90671,7 +90274,6 @@
    "location": "Ironwood Ridge High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -90761,7 +90363,6 @@
    "location": "Mica Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -90793,7 +90394,6 @@
    "location": "Mica Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -91000,7 +90600,6 @@
    "location": "Independence High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -91025,7 +90624,8 @@
    "id": "2573160",
    "level": "JV",
    "listed_in": [
-    "3A"
+    "3A",
+    "4A"
    ],
    "location": "Prescott High School",
    "page_level": "JV",
@@ -91208,7 +90808,6 @@
    "location": "Flowing Wells High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -93484,7 +93083,6 @@
    "location": "Sierra Linda High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -93608,36 +93206,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Chargers",
-    "name": "McClintock",
-    "program": "2818",
-    "squad": "jv",
-    "team": "223772"
-   },
-   "date": "2027-01-21",
-   "gender": "boys",
-   "home": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "id": "2488643",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Central High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -95746,7 +95314,8 @@
    "id": "2569195",
    "level": "Freshman/Sophomore",
    "listed_in": [
-    "4A"
+    "4A",
+    "5A"
    ],
    "location": "Washington High School",
    "page_level": "Freshman/Sophomore",
@@ -97014,7 +96583,6 @@
    "location": "Paradise Honors High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -97046,7 +96614,6 @@
    "location": "Paradise Honors High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -97136,7 +96703,6 @@
    "location": "Thunderbird High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -97168,7 +96734,6 @@
    "location": "Thunderbird High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -97318,7 +96883,6 @@
    "location": "Alhambra High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "14:00",
    "time_raw": "2:00 pm"
@@ -97502,7 +97066,6 @@
    "location": "Cactus High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -97565,7 +97128,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -97597,7 +97159,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -97687,7 +97248,6 @@
    "location": "Deer Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -97719,7 +97279,6 @@
    "location": "Deer Valley High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -97780,7 +97339,6 @@
    "location": "Agua Fria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -97812,7 +97370,6 @@
    "location": "Agua Fria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -97902,7 +97459,6 @@
    "location": "Goodyear High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -97934,7 +97490,6 @@
    "location": "Goodyear High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -98024,7 +97579,6 @@
    "location": "Peoria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -98056,7 +97610,6 @@
    "location": "Peoria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -98146,7 +97699,6 @@
    "location": "Cortez High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -98178,7 +97730,6 @@
    "location": "Cortez High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -98268,7 +97819,6 @@
    "location": "Glendale High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -98300,7 +97850,6 @@
    "location": "Glendale High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -98390,7 +97939,6 @@
    "location": "Moon Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -98422,7 +97970,6 @@
    "location": "Moon Valley High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -98574,7 +98121,6 @@
    "location": "Lee Williams High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -98606,7 +98152,6 @@
    "location": "Lee Williams High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -98636,7 +98181,6 @@
    "location": "Prescott High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -98668,7 +98212,6 @@
    "location": "Prescott High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -98758,7 +98301,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -98790,7 +98332,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -98880,7 +98421,6 @@
    "location": "Crismon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -98912,7 +98452,6 @@
    "location": "Crismon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -99002,7 +98541,6 @@
    "location": "Eastmark High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -99034,7 +98572,6 @@
    "location": "Eastmark High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -99223,36 +98760,6 @@
   },
   {
    "away": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "date": "2027-01-22",
-   "gender": "boys",
-   "home": {
-    "mascot": "Trojans",
-    "name": "Paradise Valley",
-    "program": "1229",
-    "squad": "jv",
-    "team": "226718"
-   },
-   "id": "2500537",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Paradise Valley High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Bulldogs",
     "name": "Douglas",
     "program": "988",
@@ -99276,7 +98783,6 @@
    "location": "Rio Rico High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -99308,7 +98814,6 @@
    "location": "Rio Rico High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -99398,7 +98903,6 @@
    "location": "Mica Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -99430,7 +98934,6 @@
    "location": "Mica Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -99636,6 +99139,7 @@
    "id": "2571445",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Shadow Ridge High School",
@@ -100705,7 +100209,6 @@
    "location": "Flagstaff High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -100737,7 +100240,6 @@
    "location": "Flagstaff High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "13:00",
    "time_raw": "1:00 pm"
@@ -100767,7 +100269,6 @@
    "location": "Mingus Union High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -100799,7 +100300,6 @@
    "location": "Mingus Union High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -102048,7 +101548,8 @@
    "id": "2535255",
    "level": "Freshman/Sophomore",
    "listed_in": [
-    "4A"
+    "4A",
+    "5A"
    ],
    "location": "Ironwood Ridge High School",
    "page_level": "Freshman/Sophomore",
@@ -102077,6 +101578,7 @@
    "id": "2537488",
    "level": "Freshman/Sophomore",
    "listed_in": [
+    "5A",
     "6A"
    ],
    "location": "Salpointe Catholic High School",
@@ -106396,7 +105898,6 @@
    "location": "Thunderbird High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -106428,7 +105929,6 @@
    "location": "Thunderbird High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -106518,7 +106018,6 @@
    "location": "North Canyon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -106550,7 +106049,6 @@
    "location": "North Canyon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -106640,7 +106138,6 @@
    "location": "Washington High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -106672,7 +106169,6 @@
    "location": "Washington High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -106762,7 +106258,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -106794,7 +106289,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -106855,7 +106349,6 @@
    "location": "Saguaro High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -106918,7 +106411,6 @@
    "location": "Monterey Park",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -107041,7 +106533,6 @@
    "location": "Sierra Linda High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -107191,7 +106682,6 @@
    "location": "Metro Tech High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -107281,7 +106771,6 @@
    "location": "Estrella Foothills High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -107313,7 +106802,6 @@
    "location": "Estrella Foothills High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -107403,7 +106891,6 @@
    "location": "Agua Fria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -107435,7 +106922,6 @@
    "location": "Agua Fria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -107525,7 +107011,6 @@
    "location": "Somerton High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -107557,7 +107042,6 @@
    "location": "Somerton High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -107647,7 +107131,6 @@
    "location": "Dysart High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -107679,7 +107162,6 @@
    "location": "Dysart High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -107769,7 +107251,6 @@
    "location": "Tempe High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -107801,7 +107282,6 @@
    "location": "Tempe High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -107862,7 +107342,6 @@
    "location": "Moon Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -107894,7 +107373,6 @@
    "location": "Moon Valley High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -107989,36 +107467,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "date": "2027-01-26",
-   "gender": "boys",
-   "home": {
-    "mascot": "Vipers",
-    "name": "Verrado",
-    "program": "3613",
-    "squad": "jv",
-    "team": "219043"
-   },
-   "id": "2488603",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Verrado High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -108285,7 +107733,6 @@
    "location": "Buckeye Union High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "14:30",
    "time_raw": "2:30 pm"
@@ -108555,7 +108002,6 @@
    "location": "Coconino High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -108587,7 +108033,6 @@
    "location": "Coconino High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "14:00",
    "time_raw": "2:00 pm"
@@ -108672,6 +108117,7 @@
    "id": "2494488",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Nogales High School",
@@ -108703,6 +108149,7 @@
    "id": "2494489",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Nogales High School",
@@ -108799,7 +108246,6 @@
    "location": "Combs High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -108831,7 +108277,6 @@
    "location": "Combs High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -108892,7 +108337,6 @@
    "location": "Eastmark High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -108924,7 +108368,6 @@
    "location": "Eastmark High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -109014,7 +108457,6 @@
    "location": "Poston Butte High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -109046,7 +108488,6 @@
    "location": "Poston Butte High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -109498,7 +108939,6 @@
    "location": "Sahuaro High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -109530,7 +108970,6 @@
    "location": "Sahuaro High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -109591,7 +109030,6 @@
    "location": "Ironwood Ridge High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -109623,7 +109061,6 @@
    "location": "Ironwood Ridge High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -109713,7 +109150,6 @@
    "location": "Walden Grove High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -109745,7 +109181,6 @@
    "location": "Walden Grove High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -111030,7 +110465,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -111062,7 +110496,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -111092,7 +110525,6 @@
    "location": "Prescott High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -111124,7 +110556,6 @@
    "location": "Prescott High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -115420,7 +114851,6 @@
    "location": "Copper Canyon High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -116530,7 +115960,6 @@
    "location": "North High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -116620,7 +116049,6 @@
    "location": "North Canyon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -116652,7 +116080,6 @@
    "location": "North Canyon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -116742,7 +116169,6 @@
    "location": "Shadow Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -116774,7 +116200,6 @@
    "location": "Shadow Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -116864,7 +116289,6 @@
    "location": "Washington High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -116896,7 +116320,6 @@
    "location": "Washington High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -116986,7 +116409,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -117018,7 +116440,6 @@
    "location": "Cactus Shadows High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -117108,7 +116529,6 @@
    "location": "Mesquite High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -117140,7 +116560,6 @@
    "location": "Mesquite High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -117201,7 +116620,6 @@
    "location": "Monterey Park",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -117392,36 +116810,6 @@
   },
   {
    "away": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "date": "2027-01-28",
-   "gender": "boys",
-   "home": {
-    "mascot": "Knights",
-    "name": "Lake Havasu",
-    "program": "395",
-    "squad": "jv",
-    "team": "217110"
-   },
-   "id": "2482678",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Lake Havasu High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Knights",
     "name": "Lake Havasu",
     "program": "440",
@@ -117565,7 +116953,6 @@
    "location": "Sierra Linda High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -117684,7 +117071,6 @@
    "location": "Estrella Foothills High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -117716,7 +117102,6 @@
    "location": "Estrella Foothills High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -117806,7 +117191,6 @@
    "location": "Kofa High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -117838,7 +117222,6 @@
    "location": "Kofa High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -117928,7 +117311,6 @@
    "location": "Somerton High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -117960,7 +117342,6 @@
    "location": "Somerton High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -118050,7 +117431,6 @@
    "location": "Cortez High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -118082,7 +117462,6 @@
    "location": "Cortez High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -118172,7 +117551,6 @@
    "location": "Dysart High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -118204,7 +117582,6 @@
    "location": "Dysart High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -118325,7 +117702,6 @@
    "location": "Tempe High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -118357,7 +117733,6 @@
    "location": "Tempe High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -118627,7 +118002,6 @@
    "location": "Combs High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -118659,7 +118033,6 @@
    "location": "Combs High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -118720,7 +118093,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -118752,7 +118124,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -118842,7 +118213,6 @@
    "location": "Poston Butte High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -118874,7 +118244,6 @@
    "location": "Poston Butte High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -118964,7 +118333,6 @@
    "location": "Flagstaff High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -118996,7 +118364,6 @@
    "location": "Flagstaff High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "13:00",
    "time_raw": "1:00 pm"
@@ -119206,7 +118573,6 @@
    "location": "Douglas High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -119238,7 +118604,6 @@
    "location": "Douglas High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -119328,7 +118693,6 @@
    "location": "Sahuaro High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -119360,7 +118724,6 @@
    "location": "Sahuaro High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -120118,7 +119481,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -120150,7 +119512,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -120180,7 +119541,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Freedom"
    ],
@@ -120212,7 +119572,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -120362,7 +119721,6 @@
    "location": "Sahuarita High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -120394,7 +119752,6 @@
    "location": "Sahuarita High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -120967,6 +120324,7 @@
    "id": "2539279",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Douglas High School",
@@ -120998,6 +120356,7 @@
    "id": "2539280",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Douglas High School",
@@ -121124,7 +120483,6 @@
    "location": "Paradise Valley High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -124477,7 +123835,6 @@
    "location": "Flowing Wells High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -124565,7 +123922,6 @@
    "location": "Greenway High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -124597,7 +123953,6 @@
    "location": "Greenway High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -124687,7 +124042,6 @@
    "location": "Paradise Honors High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -124719,7 +124073,6 @@
    "location": "Paradise Honors High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -124809,7 +124162,6 @@
    "location": "Washington High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -124841,7 +124193,6 @@
    "location": "Washington High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -124931,7 +124282,6 @@
    "location": "Cactus High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -124994,7 +124344,6 @@
    "location": "Deer Valley High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -125026,7 +124375,6 @@
    "location": "Deer Valley High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -125116,7 +124464,6 @@
    "location": "Monterey Park",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -125179,7 +124526,6 @@
    "location": "Agua Fria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -125211,7 +124557,6 @@
    "location": "Agua Fria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -125301,7 +124646,6 @@
    "location": "Goodyear High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -125333,7 +124677,6 @@
    "location": "Goodyear High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -125423,7 +124766,6 @@
    "location": "Somerton High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -125455,7 +124797,6 @@
    "location": "Somerton High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -125545,7 +124886,6 @@
    "location": "Cortez High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -125577,7 +124917,6 @@
    "location": "Cortez High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -125638,7 +124977,6 @@
    "location": "Glendale High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -125670,7 +125008,6 @@
    "location": "Glendale High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -125760,7 +125097,6 @@
    "location": "Tempe High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -125792,7 +125128,6 @@
    "location": "Tempe High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -125882,7 +125217,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -125914,7 +125248,6 @@
    "location": "Bradshaw Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -125944,7 +125277,6 @@
    "location": "Coconino High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -125976,7 +125308,6 @@
    "location": "Coconino High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "14:00",
    "time_raw": "2:00 pm"
@@ -126006,7 +125337,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -126038,7 +125368,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -126099,7 +125428,6 @@
    "location": "Crismon High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -126131,7 +125459,6 @@
    "location": "Crismon High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -126221,7 +125548,6 @@
    "location": "Poston Butte High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -126253,7 +125579,6 @@
    "location": "Poston Butte High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -126314,7 +125639,6 @@
    "location": "Lee Williams High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -126346,7 +125670,6 @@
    "location": "Lee Williams High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -126436,7 +125759,6 @@
    "location": "Sahuaro High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -126468,7 +125790,6 @@
    "location": "Sahuaro High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -126529,7 +125850,6 @@
    "location": "Mica Mountain High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -126561,7 +125881,6 @@
    "location": "Mica Mountain High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -126651,7 +125970,6 @@
    "location": "Sahuarita High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -126683,7 +126001,6 @@
    "location": "Sahuarita High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -126956,7 +126273,6 @@
    "location": "Salpointe Catholic High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -128127,6 +127443,35 @@
   },
   {
    "away": {
+    "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3539",
+    "squad": "frso",
+    "team": "225570"
+   },
+   "date": "2027-02-02",
+   "gender": "boys",
+   "home": {
+    "mascot": "Raiders",
+    "name": "Cibola",
+    "program": "383",
+    "squad": "frso",
+    "team": "217246"
+   },
+   "id": "2466170",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Cibola High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Apaches",
     "name": "Nogales",
     "program": "404",
@@ -129116,7 +128461,6 @@
    "location": "North High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -129266,7 +128610,6 @@
    "location": "Alhambra High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -129536,7 +128879,6 @@
    "location": "Copper Canyon High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -129631,36 +128973,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Stampede",
-    "name": "Betty H. Fairfax",
-    "program": "2997",
-    "squad": "jv",
-    "team": "228462"
-   },
-   "date": "2027-02-02",
-   "gender": "boys",
-   "home": {
-    "mascot": "Bobcats",
-    "name": "Central",
-    "program": "3634",
-    "squad": "jv",
-    "team": "218610"
-   },
-   "id": "2488651",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Central High School",
-   "page_level": "JV",
-   "result": null,
-   "stale": true,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -131021,7 +130333,7 @@
     "4A"
    ],
    "location": "Yuma High School",
-   "page_level": "Freshman/Sophomore",
+   "page_level": "JV",
    "result": null,
    "tags": [],
    "time": "17:00",
@@ -134362,7 +133674,6 @@
    "location": "Greenway High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -134394,7 +133705,6 @@
    "location": "Greenway High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -134484,7 +133794,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -134516,7 +133825,6 @@
    "location": "Barry Goldwater High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -134606,7 +133914,6 @@
    "location": "Arcadia High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -134638,7 +133945,6 @@
    "location": "Arcadia High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -134728,7 +134034,6 @@
    "location": "Cactus High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -134791,7 +134096,6 @@
    "location": "Mesquite High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -134854,7 +134158,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -134886,7 +134189,6 @@
    "location": "American Leadership Academy - West Foothills",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -134976,7 +134278,6 @@
    "location": "Agua Fria High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -135008,7 +134309,6 @@
    "location": "Agua Fria High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -135098,7 +134398,6 @@
    "location": "Kofa High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -135130,7 +134429,6 @@
    "location": "Kofa High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -135220,7 +134518,6 @@
    "location": "Coronado High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -135252,7 +134549,6 @@
    "location": "Coronado High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -135313,7 +134609,6 @@
    "location": "Cortez High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -135345,7 +134640,6 @@
    "location": "Cortez High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -135435,7 +134729,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -135467,7 +134760,6 @@
    "location": "Marcos de Niza High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -135672,6 +134964,7 @@
    "id": "2494907",
    "level": "Varsity",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Nogales High School",
@@ -135703,6 +134996,7 @@
    "id": "2494908",
    "level": "JV",
    "listed_in": [
+    "4A",
     "5A"
    ],
    "location": "Nogales High School",
@@ -135732,7 +135026,8 @@
    "id": "2494909",
    "level": "Freshman/Sophomore",
    "listed_in": [
-    "4A"
+    "4A",
+    "5A"
    ],
    "location": "Nogales High School",
    "page_level": "Freshman/Sophomore",
@@ -135828,7 +135123,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -135860,7 +135154,6 @@
    "location": "American Leadership Academy - Gilbert",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -135921,7 +135214,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -135953,7 +135245,6 @@
    "location": "American Leadership Academy - QC",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -136014,7 +135305,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "Varsity",
    "result": null,
-   "stale": true,
    "tags": [
     "Region"
    ],
@@ -136046,7 +135336,6 @@
    "location": "Desert Sunrise High School",
    "page_level": "JV",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -136377,7 +135666,6 @@
    "location": "Sierra Linda High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
@@ -136895,7 +136183,6 @@
    "location": "Willow Canyon High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -137957,7 +137244,6 @@
    "location": "Metro Tech High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
@@ -138107,7 +137393,6 @@
    "location": "Copper Canyon High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
-   "stale": true,
    "tags": [],
    "time": "18:00",
    "time_raw": "6:00 pm"
@@ -139815,6 +139100,35 @@
  "tournaments": [
   {
    "date": "2026-11-23",
+   "gender": "boys",
+   "id": "2462092",
+   "level": "Varsity",
+   "location": "Rio Rico High School",
+   "name": "Time to Fly Soccer Classic",
+   "tags": [
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
+   ]
+  },
+  {
+   "date": "2026-11-23",
    "gender": "girls",
    "id": "2462093",
    "level": "Varsity",
@@ -139822,6 +139136,40 @@
    "name": "Time to Fly Soccer Classic",
    "tags": [
     "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
+   ]
+  },
+  {
+   "date": "2026-11-30",
+   "gender": "boys",
+   "id": "2535859",
+   "level": "Varsity",
+   "location": "3 venues",
+   "name": "2026 Agua Fria School District Mens Soccer Tournament",
+   "tags": [
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
     "Freedom",
     "Freedom",
     "Freedom",
@@ -139972,6 +139320,39 @@
   },
   {
    "date": "2026-11-30",
+   "gender": "boys",
+   "id": "2559520",
+   "level": "Varsity",
+   "location": "4 venues",
+   "name": "6th Annual Rams Boys Soccer Tournament",
+   "tags": [
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
+   ]
+  },
+  {
+   "date": "2026-11-30",
    "gender": "girls",
    "id": "2573591",
    "level": "Varsity",
@@ -139988,6 +139369,31 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "gender": "boys",
+   "id": "2570500",
+   "level": "Varsity",
+   "location": "4 venues",
+   "name": "Bulldog Invitational Soccer Tournament",
+   "tags": [
+    "Invitational",
     "Freedom",
     "Freedom",
     "Freedom",
@@ -140103,6 +139509,7 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -140206,7 +139613,19 @@
    "location": "Sabino High School",
    "name": "TUSD Ismael Arce Memorial Cup",
    "tags": [
-    "Invitational"
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
    ]
   },
   {
@@ -140216,6 +139635,27 @@
    "level": "Varsity",
    "location": "Sabino High School",
    "name": "TUSD Ismael Arce Memorial Cup",
+   "tags": [
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom"
+   ]
+  },
+  {
+   "date": "2026-12-18",
+   "gender": "boys",
+   "id": "2578868",
+   "level": "Varsity",
+   "location": "San Luis High School",
+   "name": "Great Southwestern Soccer Shootout (Boys)",
    "tags": [
     "Invitational",
     "Freedom",
@@ -140264,5 +139704,5 @@
    ]
   }
  ],
- "updated": "2026-11-18T07:38:46+00:00"
+ "updated": "2026-11-18T17:19:24+00:00"
 }

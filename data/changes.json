@@ -1,4 +1,479 @@
 {
- "changes": [],
- "run_at": "2026-11-18T07:38:46+00:00"
+ "changes": [
+  {
+   "fields": {
+    "date": [
+     "2026-12-02",
+     "2027-01-11"
+    ]
+   },
+   "game": {
+    "away": "Maryvale",
+    "date": "2027-01-11",
+    "gender": "boys",
+    "home": "West Point",
+    "level": "Varsity",
+    "location": "West Point High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2459824",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-02",
+     "2027-01-11"
+    ]
+   },
+   "game": {
+    "away": "Maryvale",
+    "date": "2027-01-11",
+    "gender": "boys",
+    "home": "West Point",
+    "level": "JV",
+    "location": "West Point High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2459826",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "away": [
+     "Cibola",
+     "Gila Ridge"
+    ],
+    "date": [
+     "2026-12-02",
+     "2027-02-02"
+    ],
+    "home": [
+     "Gila Ridge",
+     "Cibola"
+    ],
+    "location": [
+     "Gila Ridge High School",
+     "Cibola High School"
+    ]
+   },
+   "game": {
+    "away": "Gila Ridge",
+    "date": "2027-02-02",
+    "gender": "boys",
+    "home": "Cibola",
+    "level": "Freshman/Sophomore",
+    "location": "Cibola High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2466170",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-03",
+     "2027-01-12"
+    ]
+   },
+   "game": {
+    "away": "ALA - QC",
+    "date": "2027-01-12",
+    "gender": "boys",
+    "home": "Coconino",
+    "level": "Varsity",
+    "location": "Coconino High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "16:00"
+   },
+   "id": "2493804",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-03",
+     "2027-01-12"
+    ]
+   },
+   "game": {
+    "away": "ALA - QC",
+    "date": "2027-01-12",
+    "gender": "boys",
+    "home": "Coconino",
+    "level": "JV",
+    "location": "Coconino High School",
+    "tags": [],
+    "time": "14:00"
+   },
+   "id": "2493805",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "location": [
+     "Chandler Preparatory Academy",
+     "Seton Catholic High School"
+    ]
+   },
+   "game": {
+    "away": "Santa Cruz Valley",
+    "date": "2026-12-02",
+    "gender": "boys",
+    "home": "Chandler Prep",
+    "level": "Varsity",
+    "location": "Seton Catholic High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2523270",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "away": [
+     "Gila Ridge",
+     "Carl Hayden"
+    ],
+    "home": [
+     "Carl Hayden",
+     "Gila Ridge"
+    ],
+    "location": [
+     "Carl Hayden Community High School",
+     "Gila Ridge High School"
+    ]
+   },
+   "game": {
+    "away": "Carl Hayden",
+    "date": "2026-12-16",
+    "gender": "girls",
+    "home": "Gila Ridge",
+    "level": "Varsity",
+    "location": "Gila Ridge High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2464483",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-02",
+     "2027-01-11"
+    ]
+   },
+   "game": {
+    "away": "West Point",
+    "date": "2027-01-11",
+    "gender": "girls",
+    "home": "Maryvale",
+    "level": "Varsity",
+    "location": "Maryvale High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2459829",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "away": [
+     "Gila Ridge",
+     "Carl Hayden"
+    ],
+    "home": [
+     "Carl Hayden",
+     "Gila Ridge"
+    ],
+    "location": [
+     "Carl Hayden Community High School",
+     "Gila Ridge High School"
+    ]
+   },
+   "game": {
+    "away": "Carl Hayden",
+    "date": "2026-12-16",
+    "gender": "girls",
+    "home": "Gila Ridge",
+    "level": "JV",
+    "location": "Gila Ridge High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2464484",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-02",
+     "2027-01-11"
+    ]
+   },
+   "game": {
+    "away": "West Point",
+    "date": "2027-01-11",
+    "gender": "girls",
+    "home": "Maryvale",
+    "level": "JV",
+    "location": "Maryvale High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2459830",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "away": [
+     "Cibola",
+     "Gila Ridge"
+    ],
+    "home": [
+     "Gila Ridge",
+     "Cibola"
+    ],
+    "location": [
+     "Gila Ridge High School",
+     "Cibola High School"
+    ],
+    "time": [
+     "17:00",
+     "15:00"
+    ]
+   },
+   "game": {
+    "away": "Gila Ridge",
+    "date": "2026-12-02",
+    "gender": "girls",
+    "home": "Cibola",
+    "level": "Freshman/Sophomore",
+    "location": "Cibola High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2466173",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Washington",
+    "date": "2027-01-12",
+    "gender": "girls",
+    "home": "Camelback",
+    "level": "Freshman/Sophomore",
+    "location": "Camelback High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2578829",
+   "kind": "added"
+  },
+  {
+   "fields": {
+    "location": [
+     "Chandler Preparatory Academy",
+     "Seton Catholic High School"
+    ]
+   },
+   "game": {
+    "away": "Santa Cruz Valley",
+    "date": "2026-12-02",
+    "gender": "girls",
+    "home": "Chandler Prep",
+    "level": "Varsity",
+    "location": "Seton Catholic High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "16:00"
+   },
+   "id": "2523271",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Buckeye Union",
+    "date": "2026-12-10",
+    "gender": "boys",
+    "home": "Central",
+    "level": "JV",
+    "location": "Central High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2488619",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Alhambra",
+    "date": "2026-12-15",
+    "gender": "boys",
+    "home": "Central",
+    "level": "JV",
+    "location": "Central High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2480742",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-06",
+    "gender": "boys",
+    "home": "Maricopa",
+    "level": "JV",
+    "location": "Maricopa High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2488627",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-08",
+    "gender": "boys",
+    "home": "Westview",
+    "level": "JV",
+    "location": "Westview High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2492288",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-11",
+    "gender": "boys",
+    "home": "Metro Tech",
+    "level": "JV",
+    "location": "Metro Tech High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2477618",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Desert Edge",
+    "date": "2027-01-14",
+    "gender": "boys",
+    "home": "Central",
+    "level": "JV",
+    "location": "Central High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2488635",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-19",
+    "gender": "boys",
+    "home": "Sunnyslope",
+    "level": "JV",
+    "location": "Sunnyslope High School",
+    "tags": [],
+    "time": "17:00"
+   },
+   "id": "2463875",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "McClintock",
+    "date": "2027-01-21",
+    "gender": "boys",
+    "home": "Central",
+    "level": "JV",
+    "location": "Central High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2488643",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-22",
+    "gender": "boys",
+    "home": "Paradise Valley",
+    "level": "JV",
+    "location": "Paradise Valley High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2500537",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-26",
+    "gender": "boys",
+    "home": "Verrado",
+    "level": "JV",
+    "location": "Verrado High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2488603",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-28",
+    "gender": "boys",
+    "home": "Lake Havasu",
+    "level": "JV",
+    "location": "Lake Havasu High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2482678",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Betty H. Fairfax",
+    "date": "2027-02-02",
+    "gender": "boys",
+    "home": "Central",
+    "level": "JV",
+    "location": "Central High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2488651",
+   "kind": "removed"
+  }
+ ],
+ "run_at": "2026-11-18T17:19:24+00:00"
 }
