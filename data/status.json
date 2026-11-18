@@ -1,16 +1,24 @@
 {
- "changes": 68,
- "errors": [],
- "games": 4611,
- "minutes": 32.1,
+ "changes": 0,
+ "errors": [
+  "<urlopen error timed out> on /schedules/soccer-winter-boys/5a/fr-so",
+  "<urlopen error timed out> on /schedules/soccer-winter-boys/4a/varsity",
+  "<urlopen error timed out> on /schedules/soccer-winter-boys/4a/jv",
+  "<urlopen error timed out> on /standings/soccer-winter-boys/6a",
+  "<urlopen error timed out> on /standings/soccer-winter-boys/5a",
+  "<urlopen error timed out> on /standings/soccer-winter-boys/4a"
+ ],
+ "games": 4066,
+ "kept_from_last_run": 545,
+ "minutes": 48.1,
  "quick": false,
  "rankings": 0,
  "rankings_last_season": 466,
- "requests": 167,
- "run_at": "2026-11-17T23:32:58+00:00",
+ "requests": 148,
+ "run_at": "2026-11-18T07:38:46+00:00",
  "schools": 217,
  "season": "2026-2027",
  "source": "https://azpreps365.com",
- "standings": 421,
- "tournament_days": 25
+ "standings": 284,
+ "tournament_days": 21
 }
