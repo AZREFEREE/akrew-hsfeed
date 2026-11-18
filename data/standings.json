@@ -2600,21 +2600,6 @@
    "conf": "0-0",
    "conf_pct": 0.0,
    "gender": "boys",
-   "name": "Cicero Prep",
-   "overall": "0-0",
-   "overall_pct": 0.0,
-   "program": "11421",
-   "region": "2A East",
-   "region_rec": "0-0",
-   "region_rec_pct": 0.0,
-   "tb": "Has Not Played",
-   "team": "219737"
-  },
-  {
-   "class": "2A",
-   "conf": "0-0",
-   "conf_pct": 0.0,
-   "gender": "boys",
    "name": "Fountain Hills",
    "overall": "0-0",
    "overall_pct": 0.0,
@@ -6331,5 +6316,5 @@
    "team": "213278"
   }
  ],
- "updated": "2026-11-17T13:34:13+00:00"
+ "updated": "2026-11-17T23:32:58+00:00"
 }

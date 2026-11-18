@@ -44,6 +44,7 @@
    "school": "ALA - Anthem South",
    "teams": {
     "boys": {
+     "jv": "235100",
      "varsity": "228104"
     },
     "girls": {
@@ -331,11 +332,9 @@
    "school": "Andrada Polytechnic",
    "teams": {
     "boys": {
-     "jv": "226962",
      "varsity": "226960"
     },
     "girls": {
-     "jv": "226966",
      "varsity": "226964"
     }
    },
@@ -814,7 +813,6 @@
    "school": "Cactus",
    "teams": {
     "boys": {
-     "jv": "229886",
      "varsity": "229884"
     },
     "girls": {
@@ -1320,22 +1318,19 @@
   {
    "area_suggested": "East",
    "class": "2A",
-   "class_boys": "2A",
+   "class_boys": "",
    "class_girls": "2A",
    "key": "cicero prep",
    "lat": 33.6343413,
    "lon": -111.8817948,
    "mascot": "Centurions",
-   "program_boys": "11421",
+   "program_boys": null,
    "program_girls": "11422",
    "region": "East",
-   "region_boys": "East",
+   "region_boys": "",
    "region_girls": "East",
    "school": "Cicero Prep",
    "teams": {
-    "boys": {
-     "varsity": "219737"
-    },
     "girls": {
      "varsity": "219739"
     }
@@ -4115,6 +4110,7 @@
    "school": "Rancho Solano Prep",
    "teams": {
     "boys": {
+     "jv": "235104",
      "varsity": "213328"
     },
     "girls": {
@@ -5806,5 +5802,5 @@
    "venue": "Yuma Catholic"
   }
  ],
- "updated": "2026-11-17T13:34:13+00:00"
+ "updated": "2026-11-17T23:32:58+00:00"
 }
