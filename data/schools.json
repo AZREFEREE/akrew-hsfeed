@@ -4581,23 +4581,20 @@
    "area_suggested": "Tucson",
    "class": "2A",
    "class_boys": "2A",
-   "class_girls": "2A",
+   "class_girls": "",
    "key": "santa rita",
    "lat": 32.1741151,
    "lon": -110.8216483,
    "mascot": "Eagles",
    "program_boys": "2937",
-   "program_girls": "2938",
+   "program_girls": null,
    "region": "South",
    "region_boys": "South",
-   "region_girls": "South",
+   "region_girls": "",
    "school": "Santa Rita",
    "teams": {
     "boys": {
      "varsity": "214544"
-    },
-    "girls": {
-     "varsity": "233609"
     }
    },
    "venue": "Santa Rita High School"
@@ -5803,5 +5800,5 @@
    "venue": "Yuma Catholic"
   }
  ],
- "updated": "2026-11-19T13:23:44+00:00"
+ "updated": "2026-11-19T23:05:23+00:00"
 }

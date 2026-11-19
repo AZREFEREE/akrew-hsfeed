@@ -5990,21 +5990,6 @@
    "conf": "0-0",
    "conf_pct": 0.0,
    "gender": "girls",
-   "name": "Santa Rita",
-   "overall": "0-0",
-   "overall_pct": 0.0,
-   "program": "2938",
-   "region": "2A South",
-   "region_rec": "0-0",
-   "region_rec_pct": 0.0,
-   "tb": "Has Not Played",
-   "team": "233609"
-  },
-  {
-   "class": "2A",
-   "conf": "0-0",
-   "conf_pct": 0.0,
-   "gender": "girls",
    "name": "St. Augustine",
    "overall": "0-0",
    "overall_pct": 0.0,
@@ -6316,5 +6301,5 @@
    "team": "213278"
   }
  ],
- "updated": "2026-11-19T13:23:44+00:00"
+ "updated": "2026-11-19T23:05:23+00:00"
 }
