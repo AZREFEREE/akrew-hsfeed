@@ -3812,6 +3812,37 @@
   },
   {
    "away": {
+    "mascot": "Tigers",
+    "name": "Globe",
+    "program": "1596",
+    "squad": "varsity",
+    "team": "221282"
+   },
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "mascot": "Wildcats",
+    "name": "Morenci",
+    "program": "9553",
+    "squad": "varsity",
+    "team": "226488"
+   },
+   "id": "2532815",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Morenci Jr./Sr. High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Warriors",
     "name": "ALA - Ironwood",
     "program": "11387",
@@ -7453,6 +7484,37 @@
   },
   {
    "away": {
+    "mascot": "Guardians",
+    "name": "ALA - Sierra Vista",
+    "program": "15146",
+    "squad": "varsity",
+    "team": "232468"
+   },
+   "date": "2026-12-03",
+   "gender": "girls",
+   "home": {
+    "mascot": "Dust Devil",
+    "name": "Santa Cruz Valley",
+    "program": "3785",
+    "squad": "varsity",
+    "team": "229530"
+   },
+   "id": "2579378",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Santa Cruz Valley Union High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Eagles",
     "name": "Horizon Honors",
     "program": "1113",
@@ -7843,8 +7905,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "14:00",
+   "time_raw": "2:00 pm"
   },
   {
    "away": {
@@ -8588,8 +8650,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "11:00",
+   "time_raw": "11:00 am"
   },
   {
    "away": {
@@ -14687,37 +14749,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Tigers",
-    "name": "Globe",
-    "program": "1596",
-    "squad": "varsity",
-    "team": "221282"
-   },
-   "date": "2026-12-07",
-   "gender": "boys",
-   "home": {
-    "mascot": "Wildcats",
-    "name": "Morenci",
-    "program": "9553",
-    "squad": "varsity",
-    "team": "226488"
-   },
-   "id": "2532815",
-   "level": "Varsity",
-   "listed_in": [
-    "2A"
-   ],
-   "location": "Morenci Jr./Sr. High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -24481,66 +24512,6 @@
   },
   {
    "away": {
-    "mascot": "Mountain Lions",
-    "name": "Red Mountain",
-    "program": "2586",
-    "squad": "varsity",
-    "team": "213442"
-   },
-   "date": "2026-12-10",
-   "gender": "girls",
-   "home": {
-    "mascot": "Bulldogs",
-    "name": "Queen Creek",
-    "program": "4047",
-    "squad": "varsity",
-    "team": "220730"
-   },
-   "id": "2464390",
-   "level": "Varsity",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Queen Creek High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Mountain Lions",
-    "name": "Red Mountain",
-    "program": "2586",
-    "squad": "jv",
-    "team": "213444"
-   },
-   "date": "2026-12-10",
-   "gender": "girls",
-   "home": {
-    "mascot": "Bulldogs",
-    "name": "Queen Creek",
-    "program": "4047",
-    "squad": "jv",
-    "team": "220732"
-   },
-   "id": "2464391",
-   "level": "JV",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Queen Creek High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Pumas",
     "name": "Perry",
     "program": "2165",
@@ -29639,6 +29610,35 @@
   },
   {
    "away": {
+    "mascot": "Eagles",
+    "name": "Horizon Honors",
+    "program": "1113",
+    "squad": "jv",
+    "team": "227588"
+   },
+   "date": "2026-12-11",
+   "gender": "boys",
+   "home": {
+    "mascot": "Titans",
+    "name": "Chandler Prep",
+    "program": "3650",
+    "squad": "jv",
+    "team": "219123"
+   },
+   "id": "2579367",
+   "level": "JV",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Pecos Park",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "15:45",
+   "time_raw": "3:45 pm"
+  },
+  {
+   "away": {
     "mascot": "Pumas",
     "name": "Perry",
     "program": "2164",
@@ -29725,6 +29725,36 @@
    "tags": [],
    "time": "14:00",
    "time_raw": "2:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Warriors",
+    "name": "ALA - Ironwood",
+    "program": "11387",
+    "squad": "jv",
+    "team": "212360"
+   },
+   "date": "2026-12-12",
+   "gender": "boys",
+   "home": {
+    "mascot": "Rattlers",
+    "name": "Crismon",
+    "program": "13340",
+    "squad": "jv-2",
+    "team": "229018"
+   },
+   "id": "2579429",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Crismon High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -33074,6 +33104,66 @@
     "6A"
    ],
    "location": "Red Mountain High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mountain Lions",
+    "name": "Red Mountain",
+    "program": "2586",
+    "squad": "varsity",
+    "team": "213442"
+   },
+   "date": "2026-12-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Bulldogs",
+    "name": "Queen Creek",
+    "program": "4047",
+    "squad": "varsity",
+    "team": "220730"
+   },
+   "id": "2464390",
+   "level": "Varsity",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Queen Creek High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mountain Lions",
+    "name": "Red Mountain",
+    "program": "2586",
+    "squad": "jv",
+    "team": "213444"
+   },
+   "date": "2026-12-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Bulldogs",
+    "name": "Queen Creek",
+    "program": "4047",
+    "squad": "jv",
+    "team": "220732"
+   },
+   "id": "2464391",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Queen Creek High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -51527,6 +51617,35 @@
     "6A"
    ],
    "location": "Sunnyslope High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bears",
+    "name": "Basha",
+    "program": "2796",
+    "squad": "frso",
+    "team": "225065"
+   },
+   "date": "2027-01-07",
+   "gender": "boys",
+   "home": {
+    "mascot": "Aztecs",
+    "name": "Corona del Sol",
+    "program": "1791",
+    "squad": "frso",
+    "team": "222150"
+   },
+   "id": "2579336",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Corona del Sol High School",
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
@@ -99180,6 +99299,36 @@
   },
   {
    "away": {
+    "mascot": "Rattlers",
+    "name": "Crismon",
+    "program": "13340",
+    "squad": "frso",
+    "team": "229020"
+   },
+   "date": "2027-01-22",
+   "gender": "boys",
+   "home": {
+    "mascot": "Panthers",
+    "name": "Maryvale",
+    "program": "382",
+    "squad": "frso",
+    "team": "218510"
+   },
+   "id": "2579442",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "4A",
+    "6A"
+   ],
+   "location": "Maryvale High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Saints",
     "name": "Notre Dame Prep",
     "program": "2979",
@@ -123899,6 +124048,66 @@
   },
   {
    "away": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1663",
+    "squad": "varsity",
+    "team": "228172"
+   },
+   "date": "2027-02-01",
+   "gender": "girls",
+   "home": {
+    "mascot": "Chargers",
+    "name": "McClintock",
+    "program": "2819",
+    "squad": "varsity",
+    "team": "223774"
+   },
+   "id": "2474546",
+   "level": "Varsity",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "McClintock High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1663",
+    "squad": "jv",
+    "team": "228174"
+   },
+   "date": "2027-02-01",
+   "gender": "girls",
+   "home": {
+    "mascot": "Chargers",
+    "name": "McClintock",
+    "program": "2819",
+    "squad": "jv",
+    "team": "223776"
+   },
+   "id": "2474547",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "McClintock High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Bulldogs",
     "name": "Barry Goldwater",
     "program": "2710",
@@ -128138,82 +128347,22 @@
   },
   {
    "away": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1662",
-    "squad": "varsity",
-    "team": "228168"
-   },
-   "date": "2027-02-02",
-   "gender": "boys",
-   "home": {
     "mascot": "Chargers",
     "name": "McClintock",
     "program": "2818",
     "squad": "varsity",
     "team": "223770"
    },
-   "id": "2474544",
-   "level": "Varsity",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "McClintock High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rams",
-    "name": "Maricopa",
-    "program": "1662",
-    "squad": "jv",
-    "team": "228170"
-   },
    "date": "2027-02-02",
    "gender": "boys",
    "home": {
-    "mascot": "Chargers",
-    "name": "McClintock",
-    "program": "2818",
-    "squad": "jv",
-    "team": "223772"
-   },
-   "id": "2474545",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "McClintock High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Chargers",
-    "name": "McClintock",
-    "program": "2819",
-    "squad": "varsity",
-    "team": "223774"
-   },
-   "date": "2027-02-02",
-   "gender": "girls",
-   "home": {
     "mascot": "Rams",
     "name": "Maricopa",
-    "program": "1663",
+    "program": "1662",
     "squad": "varsity",
-    "team": "228172"
+    "team": "228168"
    },
-   "id": "2474546",
+   "id": "2474544",
    "level": "Varsity",
    "listed_in": [
     "5A"
@@ -128231,20 +128380,20 @@
    "away": {
     "mascot": "Chargers",
     "name": "McClintock",
-    "program": "2819",
+    "program": "2818",
     "squad": "jv",
-    "team": "223776"
+    "team": "223772"
    },
    "date": "2027-02-02",
-   "gender": "girls",
+   "gender": "boys",
    "home": {
     "mascot": "Rams",
     "name": "Maricopa",
-    "program": "1663",
+    "program": "1662",
     "squad": "jv",
-    "team": "228174"
+    "team": "228170"
    },
-   "id": "2474547",
+   "id": "2474545",
    "level": "JV",
    "listed_in": [
     "5A"
@@ -136797,27 +136946,27 @@
   },
   {
    "away": {
-    "mascot": "Knights",
-    "name": "Lake Havasu",
-    "program": "395",
-    "squad": "varsity",
-    "team": "217108"
-   },
-   "date": "2027-02-04",
-   "gender": "boys",
-   "home": {
     "mascot": "Chargers",
     "name": "McClintock",
     "program": "2818",
     "squad": "varsity",
     "team": "223770"
    },
+   "date": "2027-02-04",
+   "gender": "boys",
+   "home": {
+    "mascot": "Knights",
+    "name": "Lake Havasu",
+    "program": "395",
+    "squad": "varsity",
+    "team": "217108"
+   },
    "id": "2474592",
    "level": "Varsity",
    "listed_in": [
     "5A"
    ],
-   "location": "McClintock High School",
+   "location": "Lake Havasu High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -136828,27 +136977,27 @@
   },
   {
    "away": {
-    "mascot": "Knights",
-    "name": "Lake Havasu",
-    "program": "395",
-    "squad": "jv",
-    "team": "217110"
-   },
-   "date": "2027-02-04",
-   "gender": "boys",
-   "home": {
     "mascot": "Chargers",
     "name": "McClintock",
     "program": "2818",
     "squad": "jv",
     "team": "223772"
    },
+   "date": "2027-02-04",
+   "gender": "boys",
+   "home": {
+    "mascot": "Knights",
+    "name": "Lake Havasu",
+    "program": "395",
+    "squad": "jv",
+    "team": "217110"
+   },
    "id": "2474593",
    "level": "JV",
    "listed_in": [
     "5A"
    ],
-   "location": "McClintock High School",
+   "location": "Lake Havasu High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -136857,27 +137006,27 @@
   },
   {
    "away": {
-    "mascot": "Chargers",
-    "name": "McClintock",
-    "program": "2819",
-    "squad": "varsity",
-    "team": "223774"
-   },
-   "date": "2027-02-04",
-   "gender": "girls",
-   "home": {
     "mascot": "Knights",
     "name": "Lake Havasu",
     "program": "440",
     "squad": "varsity",
     "team": "217112"
    },
+   "date": "2027-02-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Chargers",
+    "name": "McClintock",
+    "program": "2819",
+    "squad": "varsity",
+    "team": "223774"
+   },
    "id": "2474594",
    "level": "Varsity",
    "listed_in": [
     "5A"
    ],
-   "location": "Lake Havasu High School",
+   "location": "McClintock High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -136888,27 +137037,27 @@
   },
   {
    "away": {
-    "mascot": "Chargers",
-    "name": "McClintock",
-    "program": "2819",
-    "squad": "jv",
-    "team": "223776"
-   },
-   "date": "2027-02-04",
-   "gender": "girls",
-   "home": {
     "mascot": "Knights",
     "name": "Lake Havasu",
     "program": "440",
     "squad": "jv",
     "team": "217114"
    },
+   "date": "2027-02-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Chargers",
+    "name": "McClintock",
+    "program": "2819",
+    "squad": "jv",
+    "team": "223776"
+   },
    "id": "2474595",
    "level": "JV",
    "listed_in": [
     "5A"
    ],
-   "location": "Lake Havasu High School",
+   "location": "McClintock High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -139187,6 +139336,7 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -139704,5 +139854,5 @@
    ]
   }
  ],
- "updated": "2026-11-18T17:19:24+00:00"
+ "updated": "2026-11-19T01:53:55+00:00"
 }
