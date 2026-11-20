@@ -468,6 +468,36 @@
   },
   {
    "away": {
+    "mascot": "Bruins",
+    "name": "Trevor G. Browne",
+    "program": "424",
+    "squad": "frso",
+    "team": "221168"
+   },
+   "date": "2026-11-30",
+   "gender": "girls",
+   "home": {
+    "mascot": "Jaguars",
+    "name": "South Mountain",
+    "program": "2143",
+    "squad": "frso",
+    "team": "214748"
+   },
+   "id": "2463656",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "South Mountain High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Knights",
     "name": "Westview",
     "program": "3367",
@@ -4390,8 +4420,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -23549,35 +23579,6 @@
   },
   {
    "away": {
-    "mascot": "Dragons",
-    "name": "West Point",
-    "program": "12221",
-    "squad": "frso",
-    "team": "217336"
-   },
-   "date": "2026-12-10",
-   "gender": "boys",
-   "home": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3539",
-    "squad": "frso",
-    "team": "225570"
-   },
-   "id": "2459878",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Gila Ridge High School",
-   "page_level": "Freshman/Sophomore",
-   "result": null,
-   "tags": [],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Hawks",
     "name": "Gila Ridge",
     "program": "3540",
@@ -39278,8 +39279,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -44329,6 +44330,35 @@
   },
   {
    "away": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12846",
+    "squad": "jv",
+    "team": "226962"
+   },
+   "date": "2027-01-05",
+   "gender": "boys",
+   "home": {
+    "mascot": "Bulldogs",
+    "name": "Safford",
+    "program": "1286",
+    "squad": "jv",
+    "team": "227704"
+   },
+   "id": "2522517",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Safford High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Bulldogs",
     "name": "Safford",
     "program": "1287",
@@ -44357,6 +44387,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bulldogs",
+    "name": "Safford",
+    "program": "1287",
+    "squad": "jv",
+    "team": "227708"
+   },
+   "date": "2027-01-05",
+   "gender": "girls",
+   "home": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12847",
+    "squad": "jv",
+    "team": "226966"
+   },
+   "id": "2522519",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Andrada Polytechnic High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -59460,6 +59519,35 @@
   },
   {
    "away": {
+    "mascot": "Mustangs",
+    "name": "Rancho Solano Prep",
+    "program": "13393",
+    "squad": "jv",
+    "team": "235104"
+   },
+   "date": "2027-01-08",
+   "gender": "boys",
+   "home": {
+    "mascot": "Crimson Knights",
+    "name": "Trivium Prep",
+    "program": "7792",
+    "squad": "jv",
+    "team": "233587"
+   },
+   "id": "2580952",
+   "level": "JV",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Trivium Preparatory Academy",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Coyotes",
     "name": "Campo Verde",
     "program": "2456",
@@ -71163,6 +71251,35 @@
   },
   {
    "away": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12846",
+    "squad": "jv",
+    "team": "226962"
+   },
+   "date": "2027-01-13",
+   "gender": "boys",
+   "home": {
+    "mascot": "Lions",
+    "name": "Pusch Ridge",
+    "program": "1545",
+    "squad": "jv",
+    "team": "215278"
+   },
+   "id": "2522457",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Pusch Ridge Christian Academy",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Lions",
     "name": "Pusch Ridge",
     "program": "1546",
@@ -71191,6 +71308,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Lions",
+    "name": "Pusch Ridge",
+    "program": "1546",
+    "squad": "jv",
+    "team": "215282"
+   },
+   "date": "2027-01-13",
+   "gender": "girls",
+   "home": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12847",
+    "squad": "jv",
+    "team": "226966"
+   },
+   "id": "2522459",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Andrada Polytechnic High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -79480,6 +79626,35 @@
   },
   {
    "away": {
+    "mascot": "Sabercats",
+    "name": "Sabino",
+    "program": "2644",
+    "squad": "jv",
+    "team": "224846"
+   },
+   "date": "2027-01-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12846",
+    "squad": "jv",
+    "team": "226962"
+   },
+   "id": "2522501",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Andrada Polytechnic High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Mavericks",
     "name": "Andrada Polytechnic",
     "program": "12847",
@@ -79508,6 +79683,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12847",
+    "squad": "jv",
+    "team": "226966"
+   },
+   "date": "2027-01-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Sabercats",
+    "name": "Sabino",
+    "program": "2645",
+    "squad": "jv",
+    "team": "224850"
+   },
+   "id": "2522503",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Sabino High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -84880,6 +85084,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12846",
+    "squad": "jv",
+    "team": "226962"
+   },
+   "date": "2027-01-19",
+   "gender": "boys",
+   "home": {
+    "mascot": "Ravens",
+    "name": "Empire",
+    "program": "414",
+    "squad": "jv",
+    "team": "222840"
+   },
+   "id": "2522587",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Empire High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
   },
   {
    "away": {
@@ -93668,8 +93901,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -100324,6 +100557,35 @@
   },
   {
    "away": {
+    "mascot": "Wolverines",
+    "name": "Tolleson Union",
+    "program": "3347",
+    "squad": "frso",
+    "team": "213192"
+   },
+   "date": "2027-01-25",
+   "gender": "boys",
+   "home": {
+    "mascot": "Dragons",
+    "name": "West Point",
+    "program": "12221",
+    "squad": "frso",
+    "team": "217336"
+   },
+   "id": "2459628",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "West Point High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Sidewinders",
     "name": "San Luis",
     "program": "381",
@@ -102890,35 +103152,6 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Wolverines",
-    "name": "Tolleson Union",
-    "program": "3347",
-    "squad": "frso",
-    "team": "213192"
-   },
-   "date": "2027-01-26",
-   "gender": "boys",
-   "home": {
-    "mascot": "Dragons",
-    "name": "West Point",
-    "program": "12221",
-    "squad": "frso",
-    "team": "217336"
-   },
-   "id": "2459628",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "West Point High School",
-   "page_level": "Freshman/Sophomore",
-   "result": null,
-   "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -111415,6 +111648,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Titans",
+    "name": "Palo Verde Magnet",
+    "program": "2623",
+    "squad": "jv",
+    "team": "217896"
+   },
+   "date": "2027-01-27",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12846",
+    "squad": "jv",
+    "team": "226962"
+   },
+   "id": "2522697",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Andrada Polytechnic High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
   },
   {
    "away": {
@@ -130459,6 +130721,35 @@
   },
   {
    "away": {
+    "mascot": "Hawks",
+    "name": "Tanque Verde",
+    "program": "418",
+    "squad": "jv",
+    "team": "228396"
+   },
+   "date": "2027-02-02",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12846",
+    "squad": "jv",
+    "team": "226962"
+   },
+   "id": "2522771",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Andrada Polytechnic High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Mavericks",
     "name": "Andrada Polytechnic",
     "program": "12847",
@@ -130487,6 +130778,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12847",
+    "squad": "jv",
+    "team": "226966"
+   },
+   "date": "2027-02-02",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Tanque Verde",
+    "program": "461",
+    "squad": "jv",
+    "team": "228400"
+   },
+   "id": "2522773",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Tanque Verde High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -138791,6 +139111,35 @@
   },
   {
    "away": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12846",
+    "squad": "jv",
+    "team": "226962"
+   },
+   "date": "2027-02-04",
+   "gender": "boys",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Thatcher",
+    "program": "3174",
+    "squad": "jv",
+    "team": "218778"
+   },
+   "id": "2522791",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "EAC Mickelson Field",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Eagles",
     "name": "Thatcher",
     "program": "4323",
@@ -138819,6 +139168,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
+    "name": "Thatcher",
+    "program": "4323",
+    "squad": "jv",
+    "team": "218782"
+   },
+   "date": "2027-02-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12847",
+    "squad": "jv",
+    "team": "226966"
+   },
+   "id": "2522793",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Andrada Polytechnic High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -140281,5 +140659,5 @@
    ]
   }
  ],
- "updated": "2026-11-20T07:26:20+00:00"
+ "updated": "2026-11-20T17:00:00+00:00"
 }

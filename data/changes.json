@@ -8,20 +8,296 @@
     ]
    },
    "game": {
-    "away": "Estrella Foothills",
-    "date": "2027-01-08",
-    "gender": "girls",
-    "home": "Combs",
+    "away": "Maryvale",
+    "date": "2026-12-02",
+    "gender": "boys",
+    "home": "West Point",
+    "level": "Freshman/Sophomore",
+    "location": "West Point High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2459828",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2027-01-26",
+     "2027-01-25"
+    ],
+    "time": [
+     "18:00",
+     "16:00"
+    ]
+   },
+   "game": {
+    "away": "Tolleson Union",
+    "date": "2027-01-25",
+    "gender": "boys",
+    "home": "West Point",
+    "level": "Freshman/Sophomore",
+    "location": "West Point High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2459628",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "time": [
+     "18:00",
+     "17:00"
+    ]
+   },
+   "game": {
+    "away": "McClintock",
+    "date": "2027-01-21",
+    "gender": "boys",
+    "home": "Central",
     "level": "Varsity",
-    "location": "Combs High School",
+    "location": "Central High School",
     "tags": [
      "Freedom"
     ],
+    "time": "17:00"
+   },
+   "id": "2488642",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "time": [
+     "18:00",
+     "17:00"
+    ]
+   },
+   "game": {
+    "away": "Cortez",
+    "date": "2026-12-17",
+    "gender": "boys",
+    "home": "Cactus",
+    "level": "Varsity",
+    "location": "Cactus High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "17:00"
+   },
+   "id": "2480606",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Andrada Polytechnic",
+    "date": "2027-01-05",
+    "gender": "boys",
+    "home": "Safford",
+    "level": "JV",
+    "location": "Safford High School",
+    "tags": [],
     "time": "16:00"
    },
-   "id": "2483512",
-   "kind": "changed"
+   "id": "2522517",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Andrada Polytechnic",
+    "date": "2027-01-13",
+    "gender": "boys",
+    "home": "Pusch Ridge",
+    "level": "JV",
+    "location": "Pusch Ridge Christian Academy",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522457",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Sabino",
+    "date": "2027-01-15",
+    "gender": "boys",
+    "home": "Andrada Polytechnic",
+    "level": "JV",
+    "location": "Andrada Polytechnic High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522501",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Andrada Polytechnic",
+    "date": "2027-01-19",
+    "gender": "boys",
+    "home": "Empire",
+    "level": "JV",
+    "location": "Empire High School",
+    "tags": [],
+    "time": "14:00"
+   },
+   "id": "2522587",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Palo Verde Magnet",
+    "date": "2027-01-27",
+    "gender": "boys",
+    "home": "Andrada Polytechnic",
+    "level": "JV",
+    "location": "Andrada Polytechnic High School",
+    "tags": [],
+    "time": "14:00"
+   },
+   "id": "2522697",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Tanque Verde",
+    "date": "2027-02-02",
+    "gender": "boys",
+    "home": "Andrada Polytechnic",
+    "level": "JV",
+    "location": "Andrada Polytechnic High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522771",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Andrada Polytechnic",
+    "date": "2027-02-04",
+    "gender": "boys",
+    "home": "Thatcher",
+    "level": "JV",
+    "location": "EAC Mickelson Field",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522791",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Rancho Solano Prep",
+    "date": "2027-01-08",
+    "gender": "boys",
+    "home": "Trivium Prep",
+    "level": "JV",
+    "location": "Trivium Preparatory Academy",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2580952",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Trevor G. Browne",
+    "date": "2026-11-30",
+    "gender": "girls",
+    "home": "South Mountain",
+    "level": "Freshman/Sophomore",
+    "location": "South Mountain High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2463656",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Safford",
+    "date": "2027-01-05",
+    "gender": "girls",
+    "home": "Andrada Polytechnic",
+    "level": "JV",
+    "location": "Andrada Polytechnic High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522519",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Pusch Ridge",
+    "date": "2027-01-13",
+    "gender": "girls",
+    "home": "Andrada Polytechnic",
+    "level": "JV",
+    "location": "Andrada Polytechnic High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522459",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Andrada Polytechnic",
+    "date": "2027-01-15",
+    "gender": "girls",
+    "home": "Sabino",
+    "level": "JV",
+    "location": "Sabino High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522503",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Andrada Polytechnic",
+    "date": "2027-02-02",
+    "gender": "girls",
+    "home": "Tanque Verde",
+    "level": "JV",
+    "location": "Tanque Verde High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522773",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Thatcher",
+    "date": "2027-02-04",
+    "gender": "girls",
+    "home": "Andrada Polytechnic",
+    "level": "JV",
+    "location": "Andrada Polytechnic High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522793",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "West Point",
+    "date": "2026-12-10",
+    "gender": "boys",
+    "home": "Gila Ridge",
+    "level": "Freshman/Sophomore",
+    "location": "Gila Ridge High School",
+    "tags": [],
+    "time": "15:00"
+   },
+   "id": "2459878",
+   "kind": "removed"
   }
  ],
- "run_at": "2026-11-20T07:26:20+00:00"
+ "run_at": "2026-11-20T17:00:00+00:00"
 }
