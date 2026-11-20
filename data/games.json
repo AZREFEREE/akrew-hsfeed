@@ -57133,8 +57133,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -139983,6 +139983,7 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -140280,5 +140281,5 @@
    ]
   }
  ],
- "updated": "2026-11-19T23:05:23+00:00"
+ "updated": "2026-11-20T07:26:20+00:00"
 }
