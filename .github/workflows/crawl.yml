@@ -42,8 +42,11 @@ jobs:
         run: python scripts/hsfeed.py --out data
       - name: Tell me about changes at my schools
         if: ${{ !inputs.quick }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Emails off (Nov 21): with no token, notify.py only prints the changes to this run's log
+        # and opens no GitHub issue. AKREW still flags changed games. To turn the emails back on,
+        # uncomment the next two lines.
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/notify.py
       - name: Save the data
         if: ${{ !inputs.quick && always() }}
