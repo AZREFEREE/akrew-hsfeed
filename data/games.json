@@ -3719,6 +3719,37 @@
    "away": {
     "mascot": "Centurions",
     "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "date": "2026-12-01",
+   "gender": "boys",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Anthem Prep",
+    "program": "7377",
+    "squad": "varsity",
+    "team": "215442"
+   },
+   "id": "2529067",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Anthem Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
     "program": "11422",
     "squad": "varsity",
     "team": "219739"
@@ -4449,8 +4480,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -6996,6 +7027,35 @@
   },
   {
    "away": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "date": "2026-12-03",
+   "gender": "boys",
+   "home": {
+    "mascot": "Volunteers",
+    "name": "Lee Williams",
+    "program": "5706",
+    "squad": "jv",
+    "team": "229596"
+   },
+   "id": "2497798",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Lee Williams High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Heroes",
     "name": "Heritage Acad Gateway",
     "program": "15191",
@@ -8644,6 +8704,37 @@
     "2A"
    ],
    "location": "Phoenix Christian Jr./Sr. High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "date": "2026-12-07",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mavericks",
+    "name": "ALA - Mesa North",
+    "program": "14349",
+    "squad": "varsity",
+    "team": "225782"
+   },
+   "id": "2447374",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "American Leadership Academy - Mesa North",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -19913,6 +20004,35 @@
   },
   {
    "away": {
+    "mascot": "Cardinals",
+    "name": "Glendale",
+    "program": "2245",
+    "squad": "jv",
+    "team": "219805"
+   },
+   "date": "2026-12-09",
+   "gender": "boys",
+   "home": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "id": "2480870",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Cactus High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Cobras",
     "name": "Cactus",
     "program": "1564",
@@ -23639,35 +23759,6 @@
   },
   {
    "away": {
-    "mascot": "Hawks",
-    "name": "Gila Ridge",
-    "program": "3540",
-    "squad": "frso",
-    "team": "225578"
-   },
-   "date": "2026-12-10",
-   "gender": "girls",
-   "home": {
-    "mascot": "Dragons",
-    "name": "West Point",
-    "program": "12222",
-    "squad": "frso",
-    "team": "217342"
-   },
-   "id": "2459881",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "West Point High School",
-   "page_level": "Freshman/Sophomore",
-   "result": null,
-   "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Roughriders",
     "name": "Youngker",
     "program": "1770",
@@ -25375,6 +25466,35 @@
   },
   {
    "away": {
+    "mascot": "Hawks",
+    "name": "Buckeye Union",
+    "program": "413",
+    "squad": "jv",
+    "team": "229682"
+   },
+   "date": "2026-12-10",
+   "gender": "boys",
+   "home": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "id": "2488619",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Central High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Bobcats",
     "name": "Central",
     "program": "3635",
@@ -26036,6 +26156,37 @@
    ],
    "time": "13:30",
    "time_raw": "1:30 pm"
+  },
+  {
+   "away": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "date": "2026-12-11",
+   "gender": "boys",
+   "home": {
+    "mascot": "Spartans",
+    "name": "Scottsdale Prep",
+    "program": "3726",
+    "squad": "varsity",
+    "team": "213370"
+   },
+   "id": "2447398",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Scottsdale Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -26979,6 +27130,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "date": "2026-12-11",
+   "gender": "boys",
+   "home": {
+    "mascot": "Matadors",
+    "name": "Shadow Mountain",
+    "program": "401",
+    "squad": "jv",
+    "team": "223336"
+   },
+   "id": "2477009",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Shadow Mountain High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -33982,6 +34162,35 @@
   },
   {
    "away": {
+    "mascot": "Lions",
+    "name": "Alhambra",
+    "program": "1489",
+    "squad": "jv",
+    "team": "223040"
+   },
+   "date": "2026-12-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "id": "2480742",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Central High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Bobcats",
     "name": "Central",
     "program": "3635",
@@ -38190,6 +38399,35 @@
   },
   {
    "away": {
+    "mascot": "Patriots",
+    "name": "ALA - QC",
+    "program": "6879",
+    "squad": "jv",
+    "team": "216436"
+   },
+   "date": "2026-12-16",
+   "gender": "boys",
+   "home": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "id": "2481012",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Cactus High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Cobras",
     "name": "Cactus",
     "program": "1564",
@@ -39281,6 +39519,35 @@
    ],
    "time": "17:00",
    "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Colts",
+    "name": "Cortez",
+    "program": "1582",
+    "squad": "jv",
+    "team": "217018"
+   },
+   "date": "2026-12-17",
+   "gender": "boys",
+   "home": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "id": "2480607",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Cactus High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -42311,6 +42578,37 @@
    ],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "date": "2027-01-05",
+   "gender": "boys",
+   "home": {
+    "mascot": "Roadrunners",
+    "name": "San Tan Charter",
+    "program": "12592",
+    "squad": "varsity",
+    "team": "217698"
+   },
+   "id": "2447444",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "San Tan Charter High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -48107,6 +48405,35 @@
    "away": {
     "mascot": "Bobcats",
     "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "date": "2027-01-06",
+   "gender": "boys",
+   "home": {
+    "mascot": "Rams",
+    "name": "Maricopa",
+    "program": "1662",
+    "squad": "jv",
+    "team": "228170"
+   },
+   "id": "2488627",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Maricopa High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bobcats",
+    "name": "Central",
     "program": "3635",
     "squad": "jv",
     "team": "218614"
@@ -48946,6 +49273,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
+    "name": "Flagstaff",
+    "program": "407",
+    "squad": "jv",
+    "team": "217424"
+   },
+   "date": "2027-01-06",
+   "gender": "boys",
+   "home": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "id": "2495045",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Cactus High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -50341,6 +50697,37 @@
     "2A"
    ],
    "location": "NFL YET College Preparatory",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
+    "name": "Scottsdale Christian",
+    "program": "2340",
+    "squad": "varsity",
+    "team": "227522"
+   },
+   "date": "2027-01-07",
+   "gender": "boys",
+   "home": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "id": "2447448",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Scottsdale Preparatory Academy",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -57766,6 +58153,35 @@
   },
   {
    "away": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "date": "2027-01-08",
+   "gender": "boys",
+   "home": {
+    "mascot": "Knights",
+    "name": "Westview",
+    "program": "3367",
+    "squad": "jv",
+    "team": "215366"
+   },
+   "id": "2492288",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Westview High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Knights",
     "name": "Westview",
     "program": "3368",
@@ -60137,6 +60553,37 @@
    "away": {
     "mascot": "Centurions",
     "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "date": "2027-01-11",
+   "gender": "boys",
+   "home": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12278",
+    "squad": "varsity",
+    "team": "222230"
+   },
+   "id": "2447492",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Lincoln Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
     "program": "11422",
     "squad": "varsity",
     "team": "219739"
@@ -62495,6 +62942,35 @@
   },
   {
    "away": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "date": "2027-01-11",
+   "gender": "boys",
+   "home": {
+    "mascot": "Knights",
+    "name": "Metro Tech",
+    "program": "8230",
+    "squad": "jv",
+    "team": "230370"
+   },
+   "id": "2477618",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Metro Tech High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Knights",
     "name": "Metro Tech",
     "program": "8231",
@@ -63819,6 +64295,36 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Red Wolves",
+    "name": "Walden Grove",
+    "program": "3920",
+    "squad": "jv",
+    "team": "212766"
+   },
+   "date": "2027-01-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Sabercats",
+    "name": "Sabino",
+    "program": "2645",
+    "squad": "jv",
+    "team": "224850"
+   },
+   "id": "2515240",
+   "level": "JV",
+   "listed_in": [
+    "3A",
+    "4A"
+   ],
+   "location": "Sabino High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -66839,6 +67345,37 @@
    ],
    "time": "15:45",
    "time_raw": "3:45 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mustangs",
+    "name": "Rancho Solano Prep",
+    "program": "13393",
+    "squad": "varsity",
+    "team": "213328"
+   },
+   "date": "2027-01-13",
+   "gender": "boys",
+   "home": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "id": "2447496",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Scottsdale Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -74193,6 +74730,35 @@
   },
   {
    "away": {
+    "mascot": "Scorpions",
+    "name": "Desert Edge",
+    "program": "2225",
+    "squad": "jv",
+    "team": "211580"
+   },
+   "date": "2027-01-14",
+   "gender": "boys",
+   "home": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "id": "2488635",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Central High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Bobcats",
     "name": "Central",
     "program": "3635",
@@ -77629,6 +78195,35 @@
   },
   {
    "away": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "date": "2027-01-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Wildcats",
+    "name": "Mesquite",
+    "program": "384",
+    "squad": "jv",
+    "team": "216638"
+   },
+   "id": "2481098",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Mesquite High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Wildcats",
     "name": "Mesquite",
     "program": "429",
@@ -80740,6 +81335,68 @@
   },
   {
    "away": {
+    "mascot": "Crimson Knights",
+    "name": "Trivium Prep",
+    "program": "7792",
+    "squad": "varsity",
+    "team": "212010"
+   },
+   "date": "2027-01-15",
+   "gender": "boys",
+   "home": {
+    "mascot": "Eagles",
+    "name": "NFL Yet",
+    "program": "7056",
+    "squad": "varsity",
+    "team": "222488"
+   },
+   "id": "2580967",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "NFL YET College Preparatory",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Crimson Knights",
+    "name": "Trivium Prep",
+    "program": "7678",
+    "squad": "varsity",
+    "team": "212012"
+   },
+   "date": "2027-01-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "NFL Yet",
+    "program": "7057",
+    "squad": "varsity",
+    "team": "222494"
+   },
+   "id": "2580968",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "NFL YET College Preparatory",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Pumas",
     "name": "Perry",
     "program": "2164",
@@ -81783,6 +82440,37 @@
    "away": {
     "mascot": "Falcons",
     "name": "Fountain Hills",
+    "program": "1692",
+    "squad": "varsity",
+    "team": "224126"
+   },
+   "date": "2027-01-19",
+   "gender": "boys",
+   "home": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "id": "2447540",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Scottsdale Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Falcons",
+    "name": "Fountain Hills",
     "program": "1693",
     "squad": "varsity",
     "team": "224128"
@@ -82329,6 +83017,36 @@
    ],
    "time": "19:00",
    "time_raw": "7:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "date": "2027-01-19",
+   "gender": "boys",
+   "home": {
+    "mascot": "Vikings",
+    "name": "Sunnyslope",
+    "program": "3157",
+    "squad": "jv",
+    "team": "217972"
+   },
+   "id": "2463875",
+   "level": "JV",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Sunnyslope High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -84656,6 +85374,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Sabercats",
+    "name": "Sabino",
+    "program": "2645",
+    "squad": "jv",
+    "team": "224850"
+   },
+   "date": "2027-01-19",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Tanque Verde",
+    "program": "461",
+    "squad": "jv",
+    "team": "228400"
+   },
+   "id": "2522555",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Tanque Verde High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -89533,6 +90280,35 @@
   },
   {
    "away": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "date": "2027-01-20",
+   "gender": "boys",
+   "home": {
+    "mascot": "Skyhawks",
+    "name": "Deer Valley",
+    "program": "3675",
+    "squad": "jv",
+    "team": "227832"
+   },
+   "id": "2481126",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Deer Valley High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Skyhawks",
     "name": "Deer Valley",
     "program": "3676",
@@ -92040,6 +92816,37 @@
    "away": {
     "mascot": "Centurions",
     "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "date": "2027-01-21",
+   "gender": "boys",
+   "home": {
+    "mascot": "Spartans",
+    "name": "Gilbert Classical",
+    "program": "3712",
+    "squad": "varsity",
+    "team": "226280"
+   },
+   "id": "2447564",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Gilbert Classical Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
     "program": "11422",
     "squad": "varsity",
     "team": "219739"
@@ -93906,6 +94713,35 @@
   },
   {
    "away": {
+    "mascot": "Chargers",
+    "name": "McClintock",
+    "program": "2818",
+    "squad": "jv",
+    "team": "223772"
+   },
+   "date": "2027-01-21",
+   "gender": "boys",
+   "home": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "id": "2488643",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Central High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Bobcats",
     "name": "Central",
     "program": "3635",
@@ -95655,6 +96491,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bulldogs",
+    "name": "Safford",
+    "program": "1287",
+    "squad": "jv",
+    "team": "227708"
+   },
+   "date": "2027-01-21",
+   "gender": "girls",
+   "home": {
+    "mascot": "Sabercats",
+    "name": "Sabino",
+    "program": "2645",
+    "squad": "jv",
+    "team": "224850"
+   },
+   "id": "2522637",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Sabino High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -99457,6 +100322,35 @@
   },
   {
    "away": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "date": "2027-01-22",
+   "gender": "boys",
+   "home": {
+    "mascot": "Trojans",
+    "name": "Paradise Valley",
+    "program": "1229",
+    "squad": "jv",
+    "team": "226718"
+   },
+   "id": "2500537",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Paradise Valley High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Bulldogs",
     "name": "Douglas",
     "program": "988",
@@ -100268,6 +101162,37 @@
     "2A"
    ],
    "location": "Bourgade Catholic High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Titans",
+    "name": "Chandler Prep",
+    "program": "3650",
+    "squad": "varsity",
+    "team": "219121"
+   },
+   "date": "2027-01-25",
+   "gender": "boys",
+   "home": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "id": "2447568",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Scottsdale Preparatory Academy",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -102463,6 +103388,37 @@
    "tags": [],
    "time": "17:00",
    "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Trojans",
+    "name": "Catalina",
+    "program": "455",
+    "squad": "varsity",
+    "team": "228046"
+   },
+   "date": "2027-01-25",
+   "gender": "girls",
+   "home": {
+    "mascot": "Guardians",
+    "name": "ALA - Sierra Vista",
+    "program": "15146",
+    "squad": "varsity",
+    "team": "232468"
+   },
+   "id": "2580977",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "American Leadership Academy - Sierra Vista",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -107053,6 +108009,35 @@
   },
   {
    "away": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "date": "2027-01-26",
+   "gender": "boys",
+   "home": {
+    "mascot": "Sabercats",
+    "name": "Saguaro",
+    "program": "1712",
+    "squad": "jv",
+    "team": "211482"
+   },
+   "id": "2481230",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Saguaro High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Sabercats",
     "name": "Saguaro",
     "program": "1713",
@@ -108192,6 +109177,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "date": "2027-01-26",
+   "gender": "boys",
+   "home": {
+    "mascot": "Vipers",
+    "name": "Verrado",
+    "program": "3613",
+    "squad": "jv",
+    "team": "219043"
+   },
+   "id": "2488603",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Verrado High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -110584,6 +111598,37 @@
    "away": {
     "mascot": "Chargers",
     "name": "Arete Prep",
+    "program": "4002",
+    "squad": "varsity",
+    "team": "214298"
+   },
+   "date": "2027-01-27",
+   "gender": "boys",
+   "home": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "id": "2447612",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Scottsdale Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Chargers",
+    "name": "Arete Prep",
     "program": "4003",
     "squad": "varsity",
     "team": "214300"
@@ -112043,6 +113088,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
+    "name": "Thatcher",
+    "program": "4323",
+    "squad": "jv",
+    "team": "218782"
+   },
+   "date": "2027-01-27",
+   "gender": "girls",
+   "home": {
+    "mascot": "Sabercats",
+    "name": "Sabino",
+    "program": "2645",
+    "squad": "jv",
+    "team": "224850"
+   },
+   "id": "2522721",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Sabino High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -117559,6 +118633,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "date": "2027-01-28",
+   "gender": "boys",
+   "home": {
+    "mascot": "Knights",
+    "name": "Lake Havasu",
+    "program": "395",
+    "squad": "jv",
+    "team": "217110"
+   },
+   "id": "2482678",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Lake Havasu High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -125100,6 +126203,35 @@
   },
   {
    "away": {
+    "mascot": "Titans",
+    "name": "Arcadia",
+    "program": "3821",
+    "squad": "jv",
+    "team": "228716"
+   },
+   "date": "2027-02-01",
+   "gender": "boys",
+   "home": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "id": "2481282",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Cactus High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Cobras",
     "name": "Cactus",
     "program": "1564",
@@ -127147,6 +128279,66 @@
   },
   {
    "away": {
+    "mascot": "Golden Eagles",
+    "name": "Bourgade Catholic",
+    "program": "1612",
+    "squad": "jv",
+    "team": "219433"
+   },
+   "date": "2027-02-01",
+   "gender": "boys",
+   "home": {
+    "mascot": "Crimson Knights",
+    "name": "Trivium Prep",
+    "program": "7792",
+    "squad": "jv",
+    "team": "233587"
+   },
+   "id": "2581007",
+   "level": "JV",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Trivium Preparatory Academy",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Guardians",
+    "name": "ALA - Sierra Vista",
+    "program": "15146",
+    "squad": "varsity",
+    "team": "232468"
+   },
+   "date": "2027-02-01",
+   "gender": "girls",
+   "home": {
+    "mascot": "Titans",
+    "name": "ALA - Anthem South",
+    "program": "13349",
+    "squad": "varsity",
+    "team": "228106"
+   },
+   "id": "2581011",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "American Leadership Academy - Anthem South",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Eagles",
     "name": "Horizon Honors",
     "program": "1114",
@@ -127485,6 +128677,37 @@
    ],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Centurions",
+    "name": "Cicero Prep",
+    "program": "11421",
+    "squad": "varsity",
+    "team": "219737"
+   },
+   "date": "2027-02-02",
+   "gender": "boys",
+   "home": {
+    "mascot": "Tigers",
+    "name": "Globe",
+    "program": "1596",
+    "squad": "varsity",
+    "team": "221282"
+   },
+   "id": "2447636",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Harbison Field",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -129750,6 +130973,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Stampede",
+    "name": "Betty H. Fairfax",
+    "program": "2997",
+    "squad": "jv",
+    "team": "228462"
+   },
+   "date": "2027-02-02",
+   "gender": "boys",
+   "home": {
+    "mascot": "Bobcats",
+    "name": "Central",
+    "program": "3634",
+    "squad": "jv",
+    "team": "218610"
+   },
+   "id": "2488651",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Central High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -134877,6 +136129,35 @@
   },
   {
    "away": {
+    "mascot": "Falcons",
+    "name": "Cactus Shadows",
+    "program": "3270",
+    "squad": "jv",
+    "team": "218190"
+   },
+   "date": "2027-02-03",
+   "gender": "boys",
+   "home": {
+    "mascot": "Cobras",
+    "name": "Cactus",
+    "program": "1563",
+    "squad": "jv",
+    "team": "229886"
+   },
+   "id": "2481328",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Cactus High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Cobras",
     "name": "Cactus",
     "program": "1564",
@@ -139717,6 +140998,35 @@
   },
   {
    "away": {
+    "mascot": "Sabercats",
+    "name": "Sabino",
+    "program": "2645",
+    "squad": "jv",
+    "team": "224850"
+   },
+   "date": "2027-02-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Lions",
+    "name": "Pusch Ridge",
+    "program": "1546",
+    "squad": "jv",
+    "team": "215282"
+   },
+   "id": "2522829",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Pusch Ridge Christian Academy",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Thunderbirds",
     "name": "Mohave",
     "program": "1676",
@@ -140601,6 +141911,7 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -140659,5 +141970,5 @@
    ]
   }
  ],
- "updated": "2026-11-20T17:00:00+00:00"
+ "updated": "2026-11-21T01:34:56+00:00"
 }

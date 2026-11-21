@@ -1,195 +1,539 @@
 {
  "changes": [
   {
-   "fields": {
-    "time": [
-     "18:00",
-     "16:00"
-    ]
-   },
    "game": {
-    "away": "Maryvale",
-    "date": "2026-12-02",
+    "away": "Central",
+    "date": "2027-01-19",
     "gender": "boys",
-    "home": "West Point",
-    "level": "Freshman/Sophomore",
-    "location": "West Point High School",
+    "home": "Sunnyslope",
+    "level": "JV",
+    "location": "Sunnyslope High School",
+    "tags": [],
+    "time": "17:00"
+   },
+   "id": "2463875",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Buckeye Union",
+    "date": "2026-12-10",
+    "gender": "boys",
+    "home": "Central",
+    "level": "JV",
+    "location": "Central High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2459828",
-   "kind": "changed"
+   "id": "2488619",
+   "kind": "added"
   },
   {
-   "fields": {
-    "date": [
-     "2027-01-26",
-     "2027-01-25"
-    ],
-    "time": [
-     "18:00",
-     "16:00"
-    ]
-   },
    "game": {
-    "away": "Tolleson Union",
-    "date": "2027-01-25",
+    "away": "Alhambra",
+    "date": "2026-12-15",
     "gender": "boys",
-    "home": "West Point",
-    "level": "Freshman/Sophomore",
-    "location": "West Point High School",
+    "home": "Central",
+    "level": "JV",
+    "location": "Central High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2459628",
-   "kind": "changed"
+   "id": "2480742",
+   "kind": "added"
   },
   {
-   "fields": {
-    "time": [
-     "18:00",
-     "17:00"
-    ]
+   "game": {
+    "away": "Central",
+    "date": "2027-01-06",
+    "gender": "boys",
+    "home": "Maricopa",
+    "level": "JV",
+    "location": "Maricopa High School",
+    "tags": [],
+    "time": "16:00"
    },
+   "id": "2488627",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-08",
+    "gender": "boys",
+    "home": "Westview",
+    "level": "JV",
+    "location": "Westview High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2492288",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-11",
+    "gender": "boys",
+    "home": "Metro Tech",
+    "level": "JV",
+    "location": "Metro Tech High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2477618",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Desert Edge",
+    "date": "2027-01-14",
+    "gender": "boys",
+    "home": "Central",
+    "level": "JV",
+    "location": "Central High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2488635",
+   "kind": "added"
+  },
+  {
    "game": {
     "away": "McClintock",
     "date": "2027-01-21",
     "gender": "boys",
     "home": "Central",
-    "level": "Varsity",
+    "level": "JV",
     "location": "Central High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "17:00"
+    "tags": [],
+    "time": "16:00"
    },
-   "id": "2488642",
-   "kind": "changed"
+   "id": "2488643",
+   "kind": "added"
   },
   {
-   "fields": {
-    "time": [
-     "18:00",
-     "17:00"
-    ]
+   "game": {
+    "away": "Central",
+    "date": "2027-01-22",
+    "gender": "boys",
+    "home": "Paradise Valley",
+    "level": "JV",
+    "location": "Paradise Valley High School",
+    "tags": [],
+    "time": "16:00"
    },
+   "id": "2500537",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-26",
+    "gender": "boys",
+    "home": "Verrado",
+    "level": "JV",
+    "location": "Verrado High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2488603",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Central",
+    "date": "2027-01-28",
+    "gender": "boys",
+    "home": "Lake Havasu",
+    "level": "JV",
+    "location": "Lake Havasu High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2482678",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Betty H. Fairfax",
+    "date": "2027-02-02",
+    "gender": "boys",
+    "home": "Central",
+    "level": "JV",
+    "location": "Central High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2488651",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cactus",
+    "date": "2026-12-03",
+    "gender": "boys",
+    "home": "Lee Williams",
+    "level": "JV",
+    "location": "Lee Williams High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2497798",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Glendale",
+    "date": "2026-12-09",
+    "gender": "boys",
+    "home": "Cactus",
+    "level": "JV",
+    "location": "Cactus High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2480870",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cactus",
+    "date": "2026-12-11",
+    "gender": "boys",
+    "home": "Shadow Mountain",
+    "level": "JV",
+    "location": "Shadow Mountain High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2477009",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "ALA - QC",
+    "date": "2026-12-16",
+    "gender": "boys",
+    "home": "Cactus",
+    "level": "JV",
+    "location": "Cactus High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2481012",
+   "kind": "added"
+  },
+  {
    "game": {
     "away": "Cortez",
     "date": "2026-12-17",
     "gender": "boys",
     "home": "Cactus",
-    "level": "Varsity",
+    "level": "JV",
     "location": "Cactus High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2480607",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Flagstaff",
+    "date": "2027-01-06",
+    "gender": "boys",
+    "home": "Cactus",
+    "level": "JV",
+    "location": "Cactus High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2495045",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cactus",
+    "date": "2027-01-15",
+    "gender": "boys",
+    "home": "Mesquite",
+    "level": "JV",
+    "location": "Mesquite High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2481098",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cactus",
+    "date": "2027-01-20",
+    "gender": "boys",
+    "home": "Deer Valley",
+    "level": "JV",
+    "location": "Deer Valley High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2481126",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cactus",
+    "date": "2027-01-26",
+    "gender": "boys",
+    "home": "Saguaro",
+    "level": "JV",
+    "location": "Saguaro High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2481230",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Arcadia",
+    "date": "2027-02-01",
+    "gender": "boys",
+    "home": "Cactus",
+    "level": "JV",
+    "location": "Cactus High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2481282",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cactus Shadows",
+    "date": "2027-02-03",
+    "gender": "boys",
+    "home": "Cactus",
+    "level": "JV",
+    "location": "Cactus High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2481328",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cicero Prep",
+    "date": "2026-12-01",
+    "gender": "boys",
+    "home": "Anthem Prep",
+    "level": "Varsity",
+    "location": "Anthem Preparatory Academy",
     "tags": [
      "Freedom"
     ],
-    "time": "17:00"
+    "time": "18:00"
    },
-   "id": "2480606",
-   "kind": "changed"
+   "id": "2529067",
+   "kind": "added"
   },
   {
    "game": {
-    "away": "Andrada Polytechnic",
+    "away": "Cicero Prep",
+    "date": "2026-12-07",
+    "gender": "boys",
+    "home": "ALA - Mesa North",
+    "level": "Varsity",
+    "location": "American Leadership Academy - Mesa North",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2447374",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cicero Prep",
+    "date": "2026-12-11",
+    "gender": "boys",
+    "home": "Scottsdale Prep",
+    "level": "Varsity",
+    "location": "Scottsdale Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2447398",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cicero Prep",
     "date": "2027-01-05",
     "gender": "boys",
-    "home": "Safford",
-    "level": "JV",
-    "location": "Safford High School",
-    "tags": [],
-    "time": "16:00"
+    "home": "San Tan Charter",
+    "level": "Varsity",
+    "location": "San Tan Charter High School",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
    },
-   "id": "2522517",
+   "id": "2447444",
    "kind": "added"
   },
   {
    "game": {
-    "away": "Andrada Polytechnic",
-    "date": "2027-01-13",
+    "away": "Scottsdale Christian",
+    "date": "2027-01-07",
     "gender": "boys",
-    "home": "Pusch Ridge",
-    "level": "JV",
-    "location": "Pusch Ridge Christian Academy",
-    "tags": [],
-    "time": "16:00"
+    "home": "Cicero Prep",
+    "level": "Varsity",
+    "location": "Scottsdale Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
    },
-   "id": "2522457",
+   "id": "2447448",
    "kind": "added"
   },
   {
    "game": {
-    "away": "Sabino",
-    "date": "2027-01-15",
+    "away": "Cicero Prep",
+    "date": "2027-01-11",
     "gender": "boys",
-    "home": "Andrada Polytechnic",
-    "level": "JV",
-    "location": "Andrada Polytechnic High School",
-    "tags": [],
-    "time": "16:00"
+    "home": "Lincoln Prep",
+    "level": "Varsity",
+    "location": "Lincoln Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
    },
-   "id": "2522501",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Andrada Polytechnic",
-    "date": "2027-01-19",
-    "gender": "boys",
-    "home": "Empire",
-    "level": "JV",
-    "location": "Empire High School",
-    "tags": [],
-    "time": "14:00"
-   },
-   "id": "2522587",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Palo Verde Magnet",
-    "date": "2027-01-27",
-    "gender": "boys",
-    "home": "Andrada Polytechnic",
-    "level": "JV",
-    "location": "Andrada Polytechnic High School",
-    "tags": [],
-    "time": "14:00"
-   },
-   "id": "2522697",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Tanque Verde",
-    "date": "2027-02-02",
-    "gender": "boys",
-    "home": "Andrada Polytechnic",
-    "level": "JV",
-    "location": "Andrada Polytechnic High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2522771",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Andrada Polytechnic",
-    "date": "2027-02-04",
-    "gender": "boys",
-    "home": "Thatcher",
-    "level": "JV",
-    "location": "EAC Mickelson Field",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2522791",
+   "id": "2447492",
    "kind": "added"
   },
   {
    "game": {
     "away": "Rancho Solano Prep",
-    "date": "2027-01-08",
+    "date": "2027-01-13",
+    "gender": "boys",
+    "home": "Cicero Prep",
+    "level": "Varsity",
+    "location": "Scottsdale Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2447496",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Trivium Prep",
+    "date": "2027-01-15",
+    "gender": "boys",
+    "home": "NFL Yet",
+    "level": "Varsity",
+    "location": "NFL YET College Preparatory",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2580967",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Fountain Hills",
+    "date": "2027-01-19",
+    "gender": "boys",
+    "home": "Cicero Prep",
+    "level": "Varsity",
+    "location": "Scottsdale Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2447540",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cicero Prep",
+    "date": "2027-01-21",
+    "gender": "boys",
+    "home": "Gilbert Classical",
+    "level": "Varsity",
+    "location": "Gilbert Classical Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2447564",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Chandler Prep",
+    "date": "2027-01-25",
+    "gender": "boys",
+    "home": "Cicero Prep",
+    "level": "Varsity",
+    "location": "Scottsdale Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2447568",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Arete Prep",
+    "date": "2027-01-27",
+    "gender": "boys",
+    "home": "Cicero Prep",
+    "level": "Varsity",
+    "location": "Scottsdale Preparatory Academy",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2447612",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Cicero Prep",
+    "date": "2027-02-02",
+    "gender": "boys",
+    "home": "Globe",
+    "level": "Varsity",
+    "location": "Harbison Field",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2447636",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Bourgade Catholic",
+    "date": "2027-02-01",
     "gender": "boys",
     "home": "Trivium Prep",
     "level": "JV",
@@ -197,55 +541,33 @@
     "tags": [],
     "time": "16:00"
    },
-   "id": "2580952",
+   "id": "2581007",
    "kind": "added"
   },
   {
+   "fields": {
+    "time": [
+     "18:00",
+     "16:00"
+    ]
+   },
    "game": {
-    "away": "Trevor G. Browne",
-    "date": "2026-11-30",
+    "away": "West Point",
+    "date": "2026-12-02",
     "gender": "girls",
-    "home": "South Mountain",
+    "home": "Maryvale",
     "level": "Freshman/Sophomore",
-    "location": "South Mountain High School",
-    "tags": [],
-    "time": "18:00"
-   },
-   "id": "2463656",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Safford",
-    "date": "2027-01-05",
-    "gender": "girls",
-    "home": "Andrada Polytechnic",
-    "level": "JV",
-    "location": "Andrada Polytechnic High School",
+    "location": "Maryvale High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2522519",
-   "kind": "added"
+   "id": "2459831",
+   "kind": "changed"
   },
   {
    "game": {
-    "away": "Pusch Ridge",
-    "date": "2027-01-13",
-    "gender": "girls",
-    "home": "Andrada Polytechnic",
-    "level": "JV",
-    "location": "Andrada Polytechnic High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2522459",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Andrada Polytechnic",
-    "date": "2027-01-15",
+    "away": "Walden Grove",
+    "date": "2027-01-11",
     "gender": "girls",
     "home": "Sabino",
     "level": "JV",
@@ -253,13 +575,13 @@
     "tags": [],
     "time": "16:00"
    },
-   "id": "2522503",
+   "id": "2515240",
    "kind": "added"
   },
   {
    "game": {
-    "away": "Andrada Polytechnic",
-    "date": "2027-02-02",
+    "away": "Sabino",
+    "date": "2027-01-19",
     "gender": "girls",
     "home": "Tanque Verde",
     "level": "JV",
@@ -267,37 +589,113 @@
     "tags": [],
     "time": "16:00"
    },
-   "id": "2522773",
+   "id": "2522555",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Safford",
+    "date": "2027-01-21",
+    "gender": "girls",
+    "home": "Sabino",
+    "level": "JV",
+    "location": "Sabino High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2522637",
    "kind": "added"
   },
   {
    "game": {
     "away": "Thatcher",
-    "date": "2027-02-04",
+    "date": "2027-01-27",
     "gender": "girls",
-    "home": "Andrada Polytechnic",
+    "home": "Sabino",
     "level": "JV",
-    "location": "Andrada Polytechnic High School",
+    "location": "Sabino High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2522793",
+   "id": "2522721",
    "kind": "added"
   },
   {
    "game": {
-    "away": "West Point",
-    "date": "2026-12-10",
-    "gender": "boys",
-    "home": "Gila Ridge",
-    "level": "Freshman/Sophomore",
-    "location": "Gila Ridge High School",
+    "away": "Sabino",
+    "date": "2027-02-04",
+    "gender": "girls",
+    "home": "Pusch Ridge",
+    "level": "JV",
+    "location": "Pusch Ridge Christian Academy",
     "tags": [],
-    "time": "15:00"
+    "time": "16:00"
    },
-   "id": "2459878",
+   "id": "2522829",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Trivium Prep",
+    "date": "2027-01-15",
+    "gender": "girls",
+    "home": "NFL Yet",
+    "level": "Varsity",
+    "location": "NFL YET College Preparatory",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "16:00"
+   },
+   "id": "2580968",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Catalina",
+    "date": "2027-01-25",
+    "gender": "girls",
+    "home": "ALA - Sierra Vista",
+    "level": "Varsity",
+    "location": "American Leadership Academy - Sierra Vista",
+    "tags": [
+     "Region"
+    ],
+    "time": "18:00"
+   },
+   "id": "2580977",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "ALA - Sierra Vista",
+    "date": "2027-02-01",
+    "gender": "girls",
+    "home": "ALA - Anthem South",
+    "level": "Varsity",
+    "location": "American Leadership Academy - Anthem South",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2581011",
+   "kind": "added"
+  },
+  {
+   "game": {
+    "away": "Gila Ridge",
+    "date": "2026-12-10",
+    "gender": "girls",
+    "home": "West Point",
+    "level": "Freshman/Sophomore",
+    "location": "West Point High School",
+    "tags": [],
+    "time": "18:00"
+   },
+   "id": "2459881",
    "kind": "removed"
   }
  ],
- "run_at": "2026-11-20T17:00:00+00:00"
+ "run_at": "2026-11-21T01:34:56+00:00"
 }
