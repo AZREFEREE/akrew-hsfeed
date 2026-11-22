@@ -1855,6 +1855,38 @@
   },
   {
    "away": {
+    "mascot": "Eagles",
+    "name": "Santa Rita",
+    "program": "2938",
+    "squad": "varsity",
+    "team": "233609"
+   },
+   "date": "2026-11-30",
+   "gender": "girls",
+   "home": {
+    "mascot": "Mavericks",
+    "name": "Andrada Polytechnic",
+    "program": "12847",
+    "squad": "varsity",
+    "team": "226964"
+   },
+   "id": "2527275",
+   "level": "Varsity",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "Andrada Polytechnic High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Patriots",
     "name": "Mohave Accelerated",
     "program": "4364",
@@ -9711,6 +9743,37 @@
   },
   {
    "away": {
+    "mascot": "Guardians",
+    "name": "ALA - Sierra Vista",
+    "program": "15146",
+    "squad": "varsity",
+    "team": "232468"
+   },
+   "date": "2026-12-07",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Santa Rita",
+    "program": "2938",
+    "squad": "varsity",
+    "team": "233609"
+   },
+   "id": "2462839",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Santa Rita High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Mustangs",
     "name": "North",
     "program": "385",
@@ -17355,6 +17418,37 @@
    ],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Vipers",
+    "name": "San Miguel",
+    "program": "7365",
+    "squad": "varsity",
+    "team": "211946"
+   },
+   "date": "2026-12-09",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Santa Rita",
+    "program": "2938",
+    "squad": "varsity",
+    "team": "233609"
+   },
+   "id": "2462817",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Santa Rita High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -53778,6 +53872,37 @@
   },
   {
    "away": {
+    "mascot": "Eagles",
+    "name": "Santa Rita",
+    "program": "2938",
+    "squad": "varsity",
+    "team": "233609"
+   },
+   "date": "2027-01-08",
+   "gender": "girls",
+   "home": {
+    "mascot": "Trojans",
+    "name": "Catalina",
+    "program": "455",
+    "squad": "varsity",
+    "team": "228046"
+   },
+   "id": "2462795",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Catalina Magnet High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Blue Devils",
     "name": "Sunnyside",
     "program": "387",
@@ -76774,6 +76899,37 @@
     "2A"
    ],
    "location": "American Leadership Academy - Anthem South",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Titans",
+    "name": "ALA - Anthem South",
+    "program": "13349",
+    "squad": "varsity",
+    "team": "228106"
+   },
+   "date": "2027-01-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Santa Rita",
+    "program": "2938",
+    "squad": "varsity",
+    "team": "233609"
+   },
+   "id": "2462549",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Santa Rita High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -103362,6 +103518,37 @@
   },
   {
    "away": {
+    "mascot": "Eagles",
+    "name": "Santa Rita",
+    "program": "2938",
+    "squad": "varsity",
+    "team": "233609"
+   },
+   "date": "2027-01-25",
+   "gender": "girls",
+   "home": {
+    "mascot": "Guardians",
+    "name": "ALA - Sierra Vista",
+    "program": "15146",
+    "squad": "varsity",
+    "team": "232468"
+   },
+   "id": "2569290",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "American Leadership Academy - Sierra Vista",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Hawks",
     "name": "Highland",
     "program": "1308",
@@ -112181,6 +112368,37 @@
   },
   {
    "away": {
+    "mascot": "Eagles",
+    "name": "Santa Rita",
+    "program": "2938",
+    "squad": "varsity",
+    "team": "233609"
+   },
+   "date": "2027-01-27",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Desert Christian",
+    "program": "10172",
+    "squad": "varsity",
+    "team": "226042"
+   },
+   "id": "2462525",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Desert Christian High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Hawks",
     "name": "Gila Ridge",
     "program": "3539",
@@ -113843,6 +114061,35 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Stallions",
+    "name": "Shadow Ridge",
+    "program": "1809",
+    "squad": "frso",
+    "team": "219585"
+   },
+   "date": "2027-01-28",
+   "gender": "boys",
+   "home": {
+    "mascot": "Dragons",
+    "name": "West Point",
+    "program": "12221",
+    "squad": "frso",
+    "team": "217336"
+   },
+   "id": "2458995",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "West Point High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -121190,6 +121437,37 @@
    ],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Wolves",
+    "name": "St. Augustine",
+    "program": "8016",
+    "squad": "varsity",
+    "team": "233607"
+   },
+   "date": "2027-01-29",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Santa Rita",
+    "program": "2938",
+    "squad": "varsity",
+    "team": "233609"
+   },
+   "id": "2462519",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Santa Rita High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -129462,6 +129740,37 @@
     "2A"
    ],
    "location": "Tombstone High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Dust Devil",
+    "name": "Santa Cruz Valley",
+    "program": "3785",
+    "squad": "varsity",
+    "team": "229530"
+   },
+   "date": "2027-02-02",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Santa Rita",
+    "program": "2938",
+    "squad": "varsity",
+    "team": "233609"
+   },
+   "id": "2462487",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Santa Rita High School",
    "page_level": "Varsity",
    "result": null,
    "tags": [
@@ -141970,5 +142279,5 @@
    ]
   }
  ],
- "updated": "2026-11-22T16:21:14+00:00"
+ "updated": "2026-11-22T21:54:38+00:00"
 }
