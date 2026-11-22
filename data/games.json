@@ -5083,66 +5083,6 @@
   },
   {
    "away": {
-    "mascot": "Scorpions",
-    "name": "Desert Edge",
-    "program": "2226",
-    "squad": "varsity",
-    "team": "211582"
-   },
-   "date": "2026-12-02",
-   "gender": "girls",
-   "home": {
-    "mascot": "Knights",
-    "name": "Westview",
-    "program": "3368",
-    "squad": "varsity",
-    "team": "215368"
-   },
-   "id": "2490659",
-   "level": "Varsity",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Westview High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Scorpions",
-    "name": "Desert Edge",
-    "program": "2226",
-    "squad": "jv",
-    "team": "211584"
-   },
-   "date": "2026-12-02",
-   "gender": "girls",
-   "home": {
-    "mascot": "Knights",
-    "name": "Westview",
-    "program": "3368",
-    "squad": "jv",
-    "team": "215370"
-   },
-   "id": "2490660",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Westview High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Rockets",
     "name": "Moon Valley",
     "program": "2768",
@@ -15346,6 +15286,66 @@
     "5A"
    ],
    "location": "Copper Canyon High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Scorpions",
+    "name": "Desert Edge",
+    "program": "2226",
+    "squad": "varsity",
+    "team": "211582"
+   },
+   "date": "2026-12-08",
+   "gender": "girls",
+   "home": {
+    "mascot": "Knights",
+    "name": "Westview",
+    "program": "3368",
+    "squad": "varsity",
+    "team": "215368"
+   },
+   "id": "2490659",
+   "level": "Varsity",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Westview High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Scorpions",
+    "name": "Desert Edge",
+    "program": "2226",
+    "squad": "jv",
+    "team": "211584"
+   },
+   "date": "2026-12-08",
+   "gender": "girls",
+   "home": {
+    "mascot": "Knights",
+    "name": "Westview",
+    "program": "3368",
+    "squad": "jv",
+    "team": "215370"
+   },
+   "id": "2490660",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Westview High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -141970,5 +141970,5 @@
    ]
   }
  ],
- "updated": "2026-11-21T23:10:23+00:00"
+ "updated": "2026-11-22T07:00:09+00:00"
 }

@@ -170,7 +170,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2573651,Dec 2,4:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Andrada Polytechnic,The Gregory School,The Gregory School,2A/3A,2026-12-02
 2449051,Dec 2,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Parker,Trivium Prep,Trivium Preparatory Academy,2A,2026-12-02
 2459828,Dec 2,4:00pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Maryvale,West Point,West Point High School,6A,2026-12-02
-2490660,Dec 2,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Desert Edge,Westview,Westview High School,5A,2026-12-02
 2530163,Dec 2,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Highland Prep,Yuma,Yuma High School,3A,2026-12-02
 2528801,Dec 2,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Calexico (CA) (Calexico CA),Yuma Catholic,Yuma Catholic,3A,2026-12-02
 2464039,Dec 2,5:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Xavier Prep,AZ College Prep,Arizona College Prep,6A,2026-12-02
@@ -194,7 +193,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2474254,Dec 2,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,McClintock,Skyline,Skyline High School,5A,2026-12-02
 2474264,Dec 2,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Camelback,South Mountain,South Mountain High School,5A,2026-12-02
 2449050,Dec 2,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Parker,Trivium Prep,Trivium Preparatory Academy,2A,2026-12-02
-2490659,Dec 2,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Desert Edge,Westview,Westview High School,5A,2026-12-02
 2530162,Dec 2,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Highland Prep,Yuma,Yuma High School,3A,2026-12-02
 2528800,Dec 2,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Calexico (CA) (Calexico CA),Yuma Catholic,Yuma Catholic,3A,2026-12-02
 2464038,Dec 2,7:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Xavier Prep,AZ College Prep,Arizona College Prep,6A,2026-12-02
@@ -511,6 +509,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2467968,Dec 8,4:00pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Flowing Wells,Nogales,Nogales High School,5A,2026-12-08
 2466181,Dec 8,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Boulder Creek,Sunnyslope,Sunnyslope High School,6A,2026-12-08
 2522379,Dec 8,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Benjamin Franklin,Thatcher,EAC Mickelson Field,3A,2026-12-08
+2490660,Dec 8,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Desert Edge,Westview,Westview High School,5A,2026-12-08
 2571815,Dec 8,4:00pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Shadow Ridge,Willow Canyon,Willow Canyon High School,5A/6A,2026-12-08
 2522401,Dec 8,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Tonopah Valley,Yuma,Yuma High School,3A,2026-12-08
 2535391,Dec 8,5:30pm,Boys Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Gila Ridge,"Central (El Centro, CA)",Central (CA) (El Centro CA),6A,2026-12-08
@@ -519,6 +518,7 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2464326,Dec 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Perry,Higley,Higley High School,6A,2026-12-08
 2466180,Dec 8,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Boulder Creek,Sunnyslope,Sunnyslope High School,6A,2026-12-08
 2522378,Dec 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Benjamin Franklin,Thatcher,EAC Mickelson Field,3A,2026-12-08
+2490659,Dec 8,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Desert Edge,Westview,Westview High School,5A,2026-12-08
 2522400,Dec 8,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Tonopah Valley,Yuma,Yuma High School,3A,2026-12-08
 2480850,Dec 9,1:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Arcadia,Flagstaff,Flagstaff High School,4A,2026-12-09
 2574068,Dec 9,2:00pm,Girls Winter Soccer,Freshman/Sophomore,,Regular Season,Regular,Red Mountain,Casteel,Casteel High School,6A,2026-12-09
