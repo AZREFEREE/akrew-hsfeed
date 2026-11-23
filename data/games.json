@@ -813,38 +813,6 @@
     "mascot": "Spartans",
     "name": "Camelback",
     "program": "2549",
-    "squad": "varsity",
-    "team": "216252"
-   },
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "mascot": "Jackrabbits",
-    "name": "Mesa",
-    "program": "2080",
-    "squad": "varsity",
-    "team": "215608"
-   },
-   "id": "2463701",
-   "level": "Varsity",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Mesa High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Spartans",
-    "name": "Camelback",
-    "program": "2549",
     "squad": "jv",
     "team": "216254"
    },
@@ -3961,37 +3929,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Yellow Jackets",
-    "name": "Tombstone",
-    "program": "11330",
-    "squad": "varsity",
-    "team": "229316"
-   },
-   "date": "2026-12-01",
-   "gender": "boys",
-   "home": {
-    "mascot": "Lightning",
-    "name": "Lincoln Prep",
-    "program": "12278",
-    "squad": "varsity",
-    "team": "222230"
-   },
-   "id": "2536165",
-   "level": "Varsity",
-   "listed_in": [
-    "2A"
-   ],
-   "location": "Lincoln Preparatory Academy",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -15148,6 +15085,126 @@
   },
   {
    "away": {
+    "mascot": "Red Wolves",
+    "name": "Walden Grove",
+    "program": "3919",
+    "squad": "varsity",
+    "team": "212760"
+   },
+   "date": "2026-12-07",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "409",
+    "squad": "varsity",
+    "team": "213022"
+   },
+   "id": "2581113",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Sahuarita High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Red Wolves",
+    "name": "Walden Grove",
+    "program": "3919",
+    "squad": "jv",
+    "team": "212762"
+   },
+   "date": "2026-12-07",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "409",
+    "squad": "jv",
+    "team": "213024"
+   },
+   "id": "2581114",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Sahuarita High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "454",
+    "squad": "varsity",
+    "team": "213026"
+   },
+   "date": "2026-12-07",
+   "gender": "girls",
+   "home": {
+    "mascot": "Red Wolves",
+    "name": "Walden Grove",
+    "program": "3920",
+    "squad": "varsity",
+    "team": "212764"
+   },
+   "id": "2581115",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Walden Grove High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mustangs",
+    "name": "Sahuarita",
+    "program": "454",
+    "squad": "jv",
+    "team": "213028"
+   },
+   "date": "2026-12-07",
+   "gender": "girls",
+   "home": {
+    "mascot": "Red Wolves",
+    "name": "Walden Grove",
+    "program": "3920",
+    "squad": "jv",
+    "team": "212766"
+   },
+   "id": "2581116",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Walden Grove High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Pumas",
     "name": "Perry",
     "program": "2165",
@@ -18616,8 +18673,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "17:30",
-   "time_raw": "5:30 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -18645,8 +18702,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -23584,35 +23641,6 @@
   },
   {
    "away": {
-    "mascot": "Raiders",
-    "name": "Cibola",
-    "program": "383",
-    "squad": "frso",
-    "team": "217246"
-   },
-   "date": "2026-12-10",
-   "gender": "boys",
-   "home": {
-    "mascot": "Wolverines",
-    "name": "Tolleson Union",
-    "program": "3347",
-    "squad": "frso",
-    "team": "213192"
-   },
-   "id": "2459574",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Tolleson High School",
-   "page_level": "Freshman/Sophomore",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Monsoon",
     "name": "Valley Vista",
     "program": "1508",
@@ -23793,6 +23821,35 @@
   },
   {
    "away": {
+    "mascot": "Dragons",
+    "name": "West Point",
+    "program": "12221",
+    "squad": "frso",
+    "team": "217336"
+   },
+   "date": "2026-12-10",
+   "gender": "boys",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3539",
+    "squad": "frso",
+    "team": "225570"
+   },
+   "id": "2459878",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Gila Ridge High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Hawks",
     "name": "Gila Ridge",
     "program": "3540",
@@ -23850,6 +23907,35 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Hawks",
+    "name": "Gila Ridge",
+    "program": "3540",
+    "squad": "frso",
+    "team": "225578"
+   },
+   "date": "2026-12-10",
+   "gender": "girls",
+   "home": {
+    "mascot": "Dragons",
+    "name": "West Point",
+    "program": "12222",
+    "squad": "frso",
+    "team": "217342"
+   },
+   "id": "2459881",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "West Point High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -29756,6 +29842,35 @@
   },
   {
    "away": {
+    "mascot": "Huskies",
+    "name": "Hamilton",
+    "program": "2058",
+    "squad": "frso",
+    "team": "228598"
+   },
+   "date": "2026-12-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Thunder",
+    "name": "Desert Vista",
+    "program": "2036",
+    "squad": "frso",
+    "team": "235056"
+   },
+   "id": "2581137",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Desert Vista High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Pumas",
     "name": "Perry",
     "program": "2164",
@@ -32052,6 +32167,37 @@
   },
   {
    "away": {
+    "mascot": "Yellow Jackets",
+    "name": "Tombstone",
+    "program": "11330",
+    "squad": "varsity",
+    "team": "229316"
+   },
+   "date": "2026-12-14",
+   "gender": "boys",
+   "home": {
+    "mascot": "Lightning",
+    "name": "Lincoln Prep",
+    "program": "12278",
+    "squad": "varsity",
+    "team": "222230"
+   },
+   "id": "2536165",
+   "level": "Varsity",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Lincoln Preparatory Academy",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Jaguars",
     "name": "Desert View",
     "program": "2858",
@@ -32809,6 +32955,38 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Spartans",
+    "name": "Camelback",
+    "program": "2549",
+    "squad": "varsity",
+    "team": "216252"
+   },
+   "date": "2026-12-15",
+   "gender": "girls",
+   "home": {
+    "mascot": "Jackrabbits",
+    "name": "Mesa",
+    "program": "2080",
+    "squad": "varsity",
+    "team": "215608"
+   },
+   "id": "2463701",
+   "level": "Varsity",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Mesa High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -45690,8 +45868,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -45719,8 +45897,37 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Raiders",
+    "name": "Cibola",
+    "program": "383",
+    "squad": "frso",
+    "team": "217246"
+   },
+   "date": "2027-01-06",
+   "gender": "boys",
+   "home": {
+    "mascot": "Wolverines",
+    "name": "Tolleson Union",
+    "program": "3347",
+    "squad": "frso",
+    "team": "213192"
+   },
+   "id": "2459574",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Tolleson High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -74850,8 +75057,8 @@
    "tags": [
     "Region"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -76167,6 +76374,35 @@
     "6A"
    ],
    "location": "Red Mountain High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Eagles",
+    "name": "Horizon Honors",
+    "program": "1113",
+    "squad": "jv",
+    "team": "227588"
+   },
+   "date": "2027-01-14",
+   "gender": "boys",
+   "home": {
+    "mascot": "Mustangs",
+    "name": "Rancho Solano Prep",
+    "program": "13393",
+    "squad": "jv",
+    "team": "235104"
+   },
+   "id": "2581061",
+   "level": "JV",
+   "listed_in": [
+    "2A"
+   ],
+   "location": "Rancho Solano Preparatory School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -97163,6 +97399,36 @@
   },
   {
    "away": {
+    "mascot": "Warriors",
+    "name": "ALA - Ironwood",
+    "program": "11387",
+    "squad": "jv",
+    "team": "212360"
+   },
+   "date": "2027-01-21",
+   "gender": "boys",
+   "home": {
+    "mascot": "Roadrunners",
+    "name": "San Tan Charter",
+    "program": "12592",
+    "squad": "jv",
+    "team": "234783"
+   },
+   "id": "2581127",
+   "level": "JV",
+   "listed_in": [
+    "2A",
+    "3A"
+   ],
+   "location": "San Tan Charter High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "14:00",
+   "time_raw": "2:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Hawks",
     "name": "Gila Ridge",
     "program": "3539",
@@ -100954,6 +101220,157 @@
    "tags": [],
    "time": "17:00",
    "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Jackrabbits",
+    "name": "Mesa",
+    "program": "2079",
+    "squad": "varsity",
+    "team": "215602"
+   },
+   "date": "2027-01-22",
+   "gender": "boys",
+   "home": {
+    "mascot": "Broncos",
+    "name": "Brophy Prep",
+    "program": "3839",
+    "squad": "varsity",
+    "team": "220634"
+   },
+   "id": "2581110",
+   "level": "Varsity",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Graham Family Sports Campus",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "19:00",
+   "time_raw": "7:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Jackrabbits",
+    "name": "Mesa",
+    "program": "2079",
+    "squad": "jv",
+    "team": "215604"
+   },
+   "date": "2027-01-22",
+   "gender": "boys",
+   "home": {
+    "mascot": "Broncos",
+    "name": "Brophy Prep",
+    "program": "3839",
+    "squad": "jv",
+    "team": "220636"
+   },
+   "id": "2581111",
+   "level": "JV",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Graham Family Sports Campus",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "17:00",
+   "time_raw": "5:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Jackrabbits",
+    "name": "Mesa",
+    "program": "2079",
+    "squad": "frso",
+    "team": "215606"
+   },
+   "date": "2027-01-22",
+   "gender": "boys",
+   "home": {
+    "mascot": "Broncos",
+    "name": "Brophy Prep",
+    "program": "3839",
+    "squad": "frso",
+    "team": "220638"
+   },
+   "id": "2581112",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Graham Family Sports Campus",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Blue Devils",
+    "name": "Sunnyside",
+    "program": "387",
+    "squad": "varsity",
+    "team": "211754"
+   },
+   "date": "2027-01-22",
+   "gender": "boys",
+   "home": {
+    "mascot": "Red Wolves",
+    "name": "Walden Grove",
+    "program": "3919",
+    "squad": "varsity",
+    "team": "212760"
+   },
+   "id": "2581125",
+   "level": "Varsity",
+   "listed_in": [
+    "4A",
+    "6A"
+   ],
+   "location": "Walden Grove High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Blue Devils",
+    "name": "Sunnyside",
+    "program": "387",
+    "squad": "jv",
+    "team": "211756"
+   },
+   "date": "2027-01-22",
+   "gender": "boys",
+   "home": {
+    "mascot": "Red Wolves",
+    "name": "Walden Grove",
+    "program": "3919",
+    "squad": "jv",
+    "team": "212762"
+   },
+   "id": "2581126",
+   "level": "JV",
+   "listed_in": [
+    "4A",
+    "6A"
+   ],
+   "location": "Walden Grove High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -125404,8 +125821,8 @@
    "tags": [
     "Region"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -125433,8 +125850,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -128614,6 +129031,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Thunder",
+    "name": "Desert Vista",
+    "program": "2036",
+    "squad": "frso",
+    "team": "235056"
+   },
+   "date": "2027-02-01",
+   "gender": "girls",
+   "home": {
+    "mascot": "Hawks",
+    "name": "Apollo",
+    "program": "1351",
+    "squad": "frso",
+    "team": "224542"
+   },
+   "id": "2581130",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Apollo High School",
+   "page_level": "Freshman/Sophomore",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -141865,6 +142311,8 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -142084,6 +142532,8 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -142264,7 +142714,10 @@
    "location": "Independence High School",
    "name": "2026 Independence Winter Soccer Invitational",
    "tags": [
-    "Invitational"
+    "Invitational",
+    "Freedom",
+    "Freedom",
+    "Freedom"
    ]
   },
   {
@@ -142279,5 +142732,5 @@
    ]
   }
  ],
- "updated": "2026-11-23T07:50:07+00:00"
+ "updated": "2026-11-23T20:18:41+00:00"
 }
