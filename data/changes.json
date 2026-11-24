@@ -2,200 +2,200 @@
  "changes": [
   {
    "fields": {
-    "time": [
-     "19:00",
-     "18:00"
-    ]
-   },
-   "game": {
-    "away": "Central",
-    "date": "2027-01-19",
-    "gender": "boys",
-    "home": "Sunnyslope",
-    "level": "Varsity",
-    "location": "Sunnyslope High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2463874",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "15:00",
-     "16:00"
-    ]
-   },
-   "game": {
-    "away": "Washington",
-    "date": "2027-01-19",
-    "gender": "boys",
-    "home": "Sunnyslope",
-    "level": "Freshman/Sophomore",
-    "location": "Sunnyslope High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2570390",
-   "kind": "changed"
-  },
-  {
-   "fields": {
     "date": [
-     "2026-12-04",
-     "2027-01-13"
+     "2026-12-07",
+     "2026-12-11"
     ]
    },
    "game": {
-    "away": "Mica Mountain",
-    "date": "2027-01-13",
-    "gender": "boys",
-    "home": "Casa Grande",
-    "level": "Varsity",
-    "location": "Casa Grande Union High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2506238",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-04",
-     "2027-01-13"
-    ]
-   },
-   "game": {
-    "away": "Mica Mountain",
-    "date": "2027-01-13",
-    "gender": "boys",
-    "home": "Casa Grande",
-    "level": "JV",
-    "location": "Casa Grande Union High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2506239",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-10",
-     "2027-01-06"
-    ]
-   },
-   "game": {
-    "away": "ALA - Radiance",
-    "date": "2027-01-06",
-    "gender": "boys",
-    "home": "Northwest Christian",
-    "level": "JV",
-    "location": "Northwest Christian High",
-    "tags": [],
-    "time": "18:00"
-   },
-   "id": "2532850",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "18:00",
-     "16:00"
-    ]
-   },
-   "game": {
-    "away": "Santa Rita",
-    "date": "2026-12-07",
-    "gender": "boys",
-    "home": "ALA - Sierra Vista",
-    "level": "Varsity",
-    "location": "American Leadership Academy - Sierra Vista",
-    "tags": [
-     "Region"
-    ],
-    "time": "16:00"
-   },
-   "id": "2461286",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-01",
-     "2026-12-02"
-    ]
-   },
-   "game": {
-    "away": "Mountain Ridge",
-    "date": "2026-12-02",
+    "away": "ALA - QC",
+    "date": "2026-12-11",
     "gender": "girls",
-    "home": "Perry",
-    "level": "Freshman/Sophomore",
-    "location": "Perry High School",
-    "tags": [],
+    "home": "Flagstaff",
+    "level": "Varsity",
+    "location": "Flagstaff High School",
+    "tags": [
+     "Freedom"
+    ],
     "time": "15:00"
    },
-   "id": "2569122",
+   "id": "2497367",
    "kind": "changed"
   },
   {
    "fields": {
     "date": [
-     "2026-12-10",
-     "2027-01-06"
+     "2026-12-07",
+     "2026-12-11"
     ]
    },
    "game": {
-    "away": "ALA - Radiance",
-    "date": "2027-01-06",
+    "away": "ALA - QC",
+    "date": "2026-12-11",
     "gender": "girls",
-    "home": "Northwest Christian",
+    "home": "Flagstaff",
     "level": "JV",
-    "location": "Northwest Christian High",
+    "location": "Flagstaff High School",
     "tags": [],
-    "time": "16:00"
+    "time": "13:00"
    },
-   "id": "2532851",
+   "id": "2497368",
    "kind": "changed"
   },
   {
    "game": {
-    "away": "Catalina Foothills",
-    "date": "2026-11-30",
+    "away": "San Luis",
+    "date": "2026-12-02",
     "gender": "girls",
-    "home": "Tucson",
-    "level": "Varsity",
-    "location": "Tucson High Magnet School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
+    "home": "Basha",
+    "level": "Freshman/Sophomore",
+    "location": "Basha High School",
+    "tags": [],
+    "time": "16:00"
    },
-   "id": "2463736",
+   "id": "2464049",
    "kind": "removed"
   },
   {
    "game": {
-    "away": "Catalina Foothills",
-    "date": "2026-11-30",
+    "away": "Moon Valley",
+    "date": "2026-12-02",
     "gender": "girls",
-    "home": "Tucson",
+    "home": "Paradise Honors",
     "level": "JV",
-    "location": "Tucson High Magnet School",
+    "location": "Paradise Honors High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2463737",
+   "id": "2500228",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Mingus Union",
+    "date": "2026-12-14",
+    "gender": "girls",
+    "home": "Moon Valley",
+    "level": "JV",
+    "location": "Moon Valley High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2493715",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Moon Valley",
+    "date": "2026-12-15",
+    "gender": "girls",
+    "home": "Agua Fria",
+    "level": "JV",
+    "location": "Agua Fria High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2485287",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Moon Valley",
+    "date": "2027-01-05",
+    "gender": "girls",
+    "home": "Metro Tech",
+    "level": "JV",
+    "location": "Metro Tech High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2485219",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Deer Valley",
+    "date": "2027-01-06",
+    "gender": "girls",
+    "home": "Moon Valley",
+    "level": "JV",
+    "location": "Moon Valley High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2480640",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "North Canyon",
+    "date": "2027-01-08",
+    "gender": "girls",
+    "home": "Moon Valley",
+    "level": "JV",
+    "location": "Moon Valley High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2476869",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Moon Valley",
+    "date": "2027-01-20",
+    "gender": "girls",
+    "home": "Tempe",
+    "level": "JV",
+    "location": "Tempe High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2485741",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Moon Valley",
+    "date": "2027-01-26",
+    "gender": "girls",
+    "home": "Cortez",
+    "level": "JV",
+    "location": "Cortez High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2485929",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Marcos de Niza",
+    "date": "2027-01-28",
+    "gender": "girls",
+    "home": "Moon Valley",
+    "level": "JV",
+    "location": "Moon Valley High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2485987",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Glendale",
+    "date": "2027-02-01",
+    "gender": "girls",
+    "home": "Moon Valley",
+    "level": "JV",
+    "location": "Moon Valley High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2486061",
    "kind": "removed"
   }
  ],
- "run_at": "2026-11-24T04:50:06+00:00"
+ "run_at": "2026-11-24T19:32:45+00:00"
 }

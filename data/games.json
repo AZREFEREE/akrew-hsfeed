@@ -4723,35 +4723,6 @@
   },
   {
    "away": {
-    "mascot": "Sidewinders",
-    "name": "San Luis",
-    "program": "426",
-    "squad": "frso",
-    "team": "229132"
-   },
-   "date": "2026-12-02",
-   "gender": "girls",
-   "home": {
-    "mascot": "Bears",
-    "name": "Basha",
-    "program": "2797",
-    "squad": "jv-2",
-    "team": "225071"
-   },
-   "id": "2464049",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Basha High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Hawks",
     "name": "Gila Ridge",
     "program": "3540",
@@ -4989,35 +4960,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "squad": "jv",
-    "team": "224386"
-   },
-   "date": "2026-12-02",
-   "gender": "girls",
-   "home": {
-    "mascot": "Panthers",
-    "name": "Paradise Honors",
-    "program": "4098",
-    "squad": "jv",
-    "team": "213106"
-   },
-   "id": "2500228",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Paradise Honors High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -13207,66 +13149,6 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Patriots",
-    "name": "ALA - QC",
-    "program": "7066",
-    "squad": "varsity",
-    "team": "216438"
-   },
-   "date": "2026-12-07",
-   "gender": "girls",
-   "home": {
-    "mascot": "Eagles",
-    "name": "Flagstaff",
-    "program": "452",
-    "squad": "varsity",
-    "team": "217426"
-   },
-   "id": "2497367",
-   "level": "Varsity",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Flagstaff High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Patriots",
-    "name": "ALA - QC",
-    "program": "7066",
-    "squad": "jv",
-    "team": "216440"
-   },
-   "date": "2026-12-07",
-   "gender": "girls",
-   "home": {
-    "mascot": "Eagles",
-    "name": "Flagstaff",
-    "program": "452",
-    "squad": "jv",
-    "team": "217428"
-   },
-   "id": "2497368",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Flagstaff High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "13:00",
-   "time_raw": "1:00 pm"
   },
   {
    "away": {
@@ -28615,6 +28497,66 @@
   },
   {
    "away": {
+    "mascot": "Patriots",
+    "name": "ALA - QC",
+    "program": "7066",
+    "squad": "varsity",
+    "team": "216438"
+   },
+   "date": "2026-12-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Flagstaff",
+    "program": "452",
+    "squad": "varsity",
+    "team": "217426"
+   },
+   "id": "2497367",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Flagstaff High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Patriots",
+    "name": "ALA - QC",
+    "program": "7066",
+    "squad": "jv",
+    "team": "216440"
+   },
+   "date": "2026-12-11",
+   "gender": "girls",
+   "home": {
+    "mascot": "Eagles",
+    "name": "Flagstaff",
+    "program": "452",
+    "squad": "jv",
+    "team": "217428"
+   },
+   "id": "2497368",
+   "level": "JV",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Flagstaff High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "13:00",
+   "time_raw": "1:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Falcons",
     "name": "Cactus Shadows",
     "program": "3270",
@@ -31709,35 +31651,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Marauders",
-    "name": "Mingus Union",
-    "program": "456",
-    "squad": "jv",
-    "team": "224302"
-   },
-   "date": "2026-12-14",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "squad": "jv",
-    "team": "224386"
-   },
-   "id": "2493715",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Moon Valley High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -34878,35 +34791,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "squad": "jv",
-    "team": "224386"
-   },
-   "date": "2026-12-15",
-   "gender": "girls",
-   "home": {
-    "mascot": "Owls",
-    "name": "Agua Fria",
-    "program": "3475",
-    "squad": "jv",
-    "team": "222762"
-   },
-   "id": "2485287",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Agua Fria High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -43706,36 +43590,6 @@
   },
   {
    "away": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "squad": "jv",
-    "team": "224386"
-   },
-   "date": "2027-01-05",
-   "gender": "girls",
-   "home": {
-    "mascot": "Knights",
-    "name": "Metro Tech",
-    "program": "8231",
-    "squad": "jv",
-    "team": "230376"
-   },
-   "id": "2485219",
-   "level": "JV",
-   "listed_in": [
-    "4A",
-    "5A"
-   ],
-   "location": "Metro Tech High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Rams",
     "name": "Maricopa",
     "program": "1662",
@@ -48035,35 +47889,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Skyhawks",
-    "name": "Deer Valley",
-    "program": "3676",
-    "squad": "jv",
-    "team": "227836"
-   },
-   "date": "2027-01-06",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "squad": "jv",
-    "team": "224386"
-   },
-   "id": "2480640",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Moon Valley High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -57131,35 +56956,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rattlers",
-    "name": "North Canyon",
-    "program": "431",
-    "squad": "jv",
-    "team": "228808"
-   },
-   "date": "2027-01-08",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "squad": "jv",
-    "team": "224386"
-   },
-   "id": "2476869",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Moon Valley High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -91394,35 +91190,6 @@
   },
   {
    "away": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "squad": "jv",
-    "team": "224386"
-   },
-   "date": "2027-01-20",
-   "gender": "girls",
-   "home": {
-    "mascot": "Buffaloes",
-    "name": "Tempe",
-    "program": "2499",
-    "squad": "jv",
-    "team": "215504"
-   },
-   "id": "2485741",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Tempe High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Volunteers",
     "name": "Lee Williams",
     "program": "5835",
@@ -109662,35 +109429,6 @@
   },
   {
    "away": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "squad": "jv",
-    "team": "224386"
-   },
-   "date": "2027-01-26",
-   "gender": "girls",
-   "home": {
-    "mascot": "Colts",
-    "name": "Cortez",
-    "program": "1583",
-    "squad": "jv",
-    "team": "217022"
-   },
-   "id": "2485929",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Cortez High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Bobcats",
     "name": "Central",
     "program": "3634",
@@ -120107,35 +119845,6 @@
   },
   {
    "away": {
-    "mascot": "Padres",
-    "name": "Marcos de Niza",
-    "program": "1733",
-    "squad": "jv",
-    "team": "227348"
-   },
-   "date": "2027-01-28",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "squad": "jv",
-    "team": "224386"
-   },
-   "id": "2485987",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Moon Valley High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Cardinals",
     "name": "Glendale",
     "program": "2245",
@@ -127617,35 +127326,6 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Cardinals",
-    "name": "Glendale",
-    "program": "2246",
-    "squad": "jv",
-    "team": "219809"
-   },
-   "date": "2027-02-01",
-   "gender": "girls",
-   "home": {
-    "mascot": "Rockets",
-    "name": "Moon Valley",
-    "program": "2768",
-    "squad": "jv",
-    "team": "224386"
-   },
-   "id": "2486061",
-   "level": "JV",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Moon Valley High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -142272,6 +141952,8 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -142460,7 +142142,6 @@
    "name": "ALA Battle of Ironwood",
    "tags": [
     "Invitational",
-    "Freedom",
     "Freedom",
     "Freedom",
     "Freedom",
@@ -142676,5 +142357,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T04:50:06+00:00"
+ "updated": "2026-11-24T19:32:45+00:00"
 }
