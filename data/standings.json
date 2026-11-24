@@ -4310,6 +4310,21 @@
    "conf": "0-0",
    "conf_pct": 0.0,
    "gender": "girls",
+   "name": "Mountain View (Marana)",
+   "overall": "0-0",
+   "overall_pct": 0.0,
+   "program": "439",
+   "region": "5A Sonoran",
+   "region_rec": "0-0",
+   "region_rec_pct": 0.0,
+   "tb": "0-0",
+   "team": "215698"
+  },
+  {
+   "class": "5A",
+   "conf": "0-0",
+   "conf_pct": 0.0,
+   "gender": "girls",
    "name": "Canyon Del Oro",
    "overall": "0-0",
    "overall_pct": 0.0,
@@ -4370,21 +4385,6 @@
    "conf": "0-0",
    "conf_pct": 0.0,
    "gender": "girls",
-   "name": "Mountain View (Marana)",
-   "overall": "0-0",
-   "overall_pct": 0.0,
-   "program": "439",
-   "region": "5A Sonoran",
-   "region_rec": "0-0",
-   "region_rec_pct": 0.0,
-   "tb": "Has Not Played",
-   "team": "215698"
-  },
-  {
-   "class": "5A",
-   "conf": "0-0",
-   "conf_pct": 0.0,
-   "gender": "girls",
    "name": "Rincon/University",
    "overall": "0-0",
    "overall_pct": 0.0,
@@ -4409,6 +4409,21 @@
    "region_rec_pct": 0.0,
    "tb": "Has Not Played",
    "team": "212075"
+  },
+  {
+   "class": "5A",
+   "conf": "0-0",
+   "conf_pct": 0.0,
+   "gender": "girls",
+   "name": "Pueblo",
+   "overall": "0-0",
+   "overall_pct": 0.0,
+   "program": "442",
+   "region": "5A Southern",
+   "region_rec": "0-0",
+   "region_rec_pct": 0.0,
+   "tb": "0-0",
+   "team": "215096"
   },
   {
    "class": "5A",
@@ -4484,21 +4499,6 @@
    "region_rec_pct": 0.0,
    "tb": "Has Not Played",
    "team": "227026"
-  },
-  {
-   "class": "5A",
-   "conf": "0-0",
-   "conf_pct": 0.0,
-   "gender": "girls",
-   "name": "Pueblo",
-   "overall": "0-0",
-   "overall_pct": 0.0,
-   "program": "442",
-   "region": "5A Southern",
-   "region_rec": "0-0",
-   "region_rec_pct": 0.0,
-   "tb": "Has Not Played",
-   "team": "215096"
   },
   {
    "class": "5A",
@@ -4925,6 +4925,21 @@
    "conf": "0-0",
    "conf_pct": 0.0,
    "gender": "girls",
+   "name": "Sahuarita",
+   "overall": "0-0",
+   "overall_pct": 0.0,
+   "program": "454",
+   "region": "4A Kino",
+   "region_rec": "0-0",
+   "region_rec_pct": 0.0,
+   "tb": "0-0",
+   "team": "213026"
+  },
+  {
+   "class": "4A",
+   "conf": "0-0",
+   "conf_pct": 0.0,
+   "gender": "girls",
    "name": "Douglas",
    "overall": "0-0",
    "overall_pct": 0.0,
@@ -4979,21 +4994,6 @@
    "region_rec_pct": 0.0,
    "tb": "Has Not Played",
    "team": "212428"
-  },
-  {
-   "class": "4A",
-   "conf": "0-0",
-   "conf_pct": 0.0,
-   "gender": "girls",
-   "name": "Sahuarita",
-   "overall": "0-0",
-   "overall_pct": 0.0,
-   "program": "454",
-   "region": "4A Kino",
-   "region_rec": "0-0",
-   "region_rec_pct": 0.0,
-   "tb": "Has Not Played",
-   "team": "213026"
   },
   {
    "class": "4A",
@@ -5472,7 +5472,7 @@
    "region": "3A South",
    "region_rec": "0-0",
    "region_rec_pct": 0.0,
-   "tb": "Has Not Played",
+   "tb": "0-0",
    "team": "221572"
   },
   {
@@ -6301,5 +6301,5 @@
    "team": "213278"
   }
  ],
- "updated": "2026-11-23T20:18:41+00:00"
+ "updated": "2026-11-24T04:50:06+00:00"
 }

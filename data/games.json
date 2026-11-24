@@ -991,68 +991,6 @@
   },
   {
    "away": {
-    "mascot": "Falcons",
-    "name": "Catalina Foothills",
-    "program": "1009",
-    "squad": "varsity",
-    "team": "220828"
-   },
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "mascot": "Badgers",
-    "name": "Tucson",
-    "program": "423",
-    "squad": "varsity",
-    "team": "225700"
-   },
-   "id": "2463736",
-   "level": "Varsity",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Tucson High Magnet School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Falcons",
-    "name": "Catalina Foothills",
-    "program": "1009",
-    "squad": "jv",
-    "team": "220830"
-   },
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "mascot": "Badgers",
-    "name": "Tucson",
-    "program": "423",
-    "squad": "jv",
-    "team": "225702"
-   },
-   "id": "2463737",
-   "level": "JV",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Tucson High Magnet School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Coyotes",
     "name": "Skyline",
     "program": "2101",
@@ -4089,35 +4027,6 @@
   },
   {
    "away": {
-    "mascot": "Mountain Lions",
-    "name": "Mountain Ridge",
-    "program": "3444",
-    "squad": "jv-2",
-    "team": "219217"
-   },
-   "date": "2026-12-01",
-   "gender": "girls",
-   "home": {
-    "mascot": "Pumas",
-    "name": "Perry",
-    "program": "2165",
-    "squad": "jv-2",
-    "team": "212866"
-   },
-   "id": "2569122",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "6A"
-   ],
-   "location": "Perry High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Thunderbirds",
     "name": "Mohave",
     "program": "1676",
@@ -5844,6 +5753,35 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Mountain Lions",
+    "name": "Mountain Ridge",
+    "program": "3444",
+    "squad": "jv-2",
+    "team": "219217"
+   },
+   "date": "2026-12-02",
+   "gender": "girls",
+   "home": {
+    "mascot": "Pumas",
+    "name": "Perry",
+    "program": "2165",
+    "squad": "jv-2",
+    "team": "212866"
+   },
+   "id": "2569122",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "6A"
+   ],
+   "location": "Perry High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -7786,68 +7724,6 @@
   },
   {
    "away": {
-    "mascot": "Thunderbolts",
-    "name": "Mica Mountain",
-    "program": "12573",
-    "squad": "varsity",
-    "team": "227262"
-   },
-   "date": "2026-12-04",
-   "gender": "boys",
-   "home": {
-    "mascot": "Cougars",
-    "name": "Casa Grande",
-    "program": "3250",
-    "squad": "varsity",
-    "team": "223524"
-   },
-   "id": "2506238",
-   "level": "Varsity",
-   "listed_in": [
-    "4A",
-    "5A"
-   ],
-   "location": "Casa Grande Union High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Thunderbolts",
-    "name": "Mica Mountain",
-    "program": "12573",
-    "squad": "jv",
-    "team": "227264"
-   },
-   "date": "2026-12-04",
-   "gender": "boys",
-   "home": {
-    "mascot": "Cougars",
-    "name": "Casa Grande",
-    "program": "3250",
-    "squad": "jv",
-    "team": "223526"
-   },
-   "id": "2506239",
-   "level": "JV",
-   "listed_in": [
-    "4A",
-    "5A"
-   ],
-   "location": "Casa Grande Union High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Cougars",
     "name": "Sahuaro",
     "program": "445",
@@ -9675,8 +9551,8 @@
    "tags": [
     "Region"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -26004,64 +25880,6 @@
    "tags": [],
    "time": "13:30",
    "time_raw": "1:30 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rangers",
-    "name": "ALA - Radiance",
-    "program": "15107",
-    "squad": "jv",
-    "team": "232284"
-   },
-   "date": "2026-12-10",
-   "gender": "boys",
-   "home": {
-    "mascot": "Crusaders",
-    "name": "Northwest Christian",
-    "program": "2530",
-    "squad": "jv",
-    "team": "223254"
-   },
-   "id": "2532850",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Northwest Christian High",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Rangers",
-    "name": "ALA - Radiance",
-    "program": "15108",
-    "squad": "jv",
-    "team": "232286"
-   },
-   "date": "2026-12-10",
-   "gender": "girls",
-   "home": {
-    "mascot": "Crusaders",
-    "name": "Northwest Christian",
-    "program": "2531",
-    "squad": "jv",
-    "team": "223258"
-   },
-   "id": "2532851",
-   "level": "JV",
-   "listed_in": [
-    "3A"
-   ],
-   "location": "Northwest Christian High",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -50183,6 +50001,64 @@
   },
   {
    "away": {
+    "mascot": "Rangers",
+    "name": "ALA - Radiance",
+    "program": "15107",
+    "squad": "jv",
+    "team": "232284"
+   },
+   "date": "2027-01-06",
+   "gender": "boys",
+   "home": {
+    "mascot": "Crusaders",
+    "name": "Northwest Christian",
+    "program": "2530",
+    "squad": "jv",
+    "team": "223254"
+   },
+   "id": "2532850",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Northwest Christian High",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Rangers",
+    "name": "ALA - Radiance",
+    "program": "15108",
+    "squad": "jv",
+    "team": "232286"
+   },
+   "date": "2027-01-06",
+   "gender": "girls",
+   "home": {
+    "mascot": "Crusaders",
+    "name": "Northwest Christian",
+    "program": "2531",
+    "squad": "jv",
+    "team": "223258"
+   },
+   "id": "2532851",
+   "level": "JV",
+   "listed_in": [
+    "3A"
+   ],
+   "location": "Northwest Christian High",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Lancers",
     "name": "Salpointe Catholic",
     "program": "3696",
@@ -71571,6 +71447,68 @@
   },
   {
    "away": {
+    "mascot": "Thunderbolts",
+    "name": "Mica Mountain",
+    "program": "12573",
+    "squad": "varsity",
+    "team": "227262"
+   },
+   "date": "2027-01-13",
+   "gender": "boys",
+   "home": {
+    "mascot": "Cougars",
+    "name": "Casa Grande",
+    "program": "3250",
+    "squad": "varsity",
+    "team": "223524"
+   },
+   "id": "2506238",
+   "level": "Varsity",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Casa Grande Union High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Thunderbolts",
+    "name": "Mica Mountain",
+    "program": "12573",
+    "squad": "jv",
+    "team": "227264"
+   },
+   "date": "2027-01-13",
+   "gender": "boys",
+   "home": {
+    "mascot": "Cougars",
+    "name": "Casa Grande",
+    "program": "3250",
+    "squad": "jv",
+    "team": "223526"
+   },
+   "id": "2506239",
+   "level": "JV",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Casa Grande Union High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Caballeros",
     "name": "Flowing Wells",
     "program": "399",
@@ -83407,8 +83345,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "19:00",
-   "time_raw": "7:00 pm"
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   },
   {
    "away": {
@@ -86832,8 +86770,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "15:00",
-   "time_raw": "3:00 pm"
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -142717,6 +142655,12 @@
     "Invitational",
     "Freedom",
     "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -142732,5 +142676,5 @@
    ]
   }
  ],
- "updated": "2026-11-23T20:18:41+00:00"
+ "updated": "2026-11-24T04:50:06+00:00"
 }

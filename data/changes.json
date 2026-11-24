@@ -3,435 +3,199 @@
   {
    "fields": {
     "time": [
-     "18:00",
-     "19:00"
+     "19:00",
+     "18:00"
     ]
    },
    "game": {
-    "away": "Cibola",
-    "date": "2027-01-06",
+    "away": "Central",
+    "date": "2027-01-19",
     "gender": "boys",
-    "home": "Tolleson Union",
+    "home": "Sunnyslope",
     "level": "Varsity",
-    "location": "Tolleson High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "19:00"
-   },
-   "id": "2459572",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Sunnyside",
-    "date": "2027-01-22",
-    "gender": "boys",
-    "home": "Walden Grove",
-    "level": "Varsity",
-    "location": "Walden Grove High School",
+    "location": "Sunnyslope High School",
     "tags": [
      "Freedom"
     ],
     "time": "18:00"
    },
-   "id": "2581125",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Mesa",
-    "date": "2027-01-22",
-    "gender": "boys",
-    "home": "Brophy Prep",
-    "level": "Varsity",
-    "location": "Graham Family Sports Campus",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "19:00"
-   },
-   "id": "2581110",
-   "kind": "added"
-  },
-  {
-   "fields": {
-    "time": [
-     "17:30",
-     "17:00"
-    ]
-   },
-   "game": {
-    "away": "Casteel",
-    "date": "2026-12-09",
-    "gender": "boys",
-    "home": "Sunnyside",
-    "level": "JV",
-    "location": "Sunnyside High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2464333",
+   "id": "2463874",
    "kind": "changed"
   },
   {
    "fields": {
     "time": [
-     "16:00",
-     "17:00"
+     "15:00",
+     "16:00"
     ]
    },
    "game": {
-    "away": "Cibola",
-    "date": "2027-01-06",
+    "away": "Washington",
+    "date": "2027-01-19",
     "gender": "boys",
-    "home": "Tolleson Union",
-    "level": "JV",
-    "location": "Tolleson High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2459573",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Sunnyside",
-    "date": "2027-01-22",
-    "gender": "boys",
-    "home": "Walden Grove",
-    "level": "JV",
-    "location": "Walden Grove High School",
+    "home": "Sunnyslope",
+    "level": "Freshman/Sophomore",
+    "location": "Sunnyslope High School",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2581126",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Mesa",
-    "date": "2027-01-22",
-    "gender": "boys",
-    "home": "Brophy Prep",
-    "level": "JV",
-    "location": "Graham Family Sports Campus",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2581111",
-   "kind": "added"
-  },
-  {
-   "fields": {
-    "time": [
-     "16:00",
-     "15:00"
-    ]
-   },
-   "game": {
-    "away": "Casteel",
-    "date": "2026-12-09",
-    "gender": "boys",
-    "home": "Sunnyside",
-    "level": "Freshman/Sophomore",
-    "location": "Sunnyside High School",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2464334",
+   "id": "2570390",
    "kind": "changed"
   },
   {
-   "game": {
-    "away": "West Point",
-    "date": "2026-12-10",
-    "gender": "boys",
-    "home": "Gila Ridge",
-    "level": "Freshman/Sophomore",
-    "location": "Gila Ridge High School",
-    "tags": [],
-    "time": "15:00"
+   "fields": {
+    "date": [
+     "2026-12-04",
+     "2027-01-13"
+    ]
    },
-   "id": "2459878",
-   "kind": "added"
+   "game": {
+    "away": "Mica Mountain",
+    "date": "2027-01-13",
+    "gender": "boys",
+    "home": "Casa Grande",
+    "level": "Varsity",
+    "location": "Casa Grande Union High School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2506238",
+   "kind": "changed"
+  },
+  {
+   "fields": {
+    "date": [
+     "2026-12-04",
+     "2027-01-13"
+    ]
+   },
+   "game": {
+    "away": "Mica Mountain",
+    "date": "2027-01-13",
+    "gender": "boys",
+    "home": "Casa Grande",
+    "level": "JV",
+    "location": "Casa Grande Union High School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2506239",
+   "kind": "changed"
   },
   {
    "fields": {
     "date": [
      "2026-12-10",
      "2027-01-06"
-    ],
-    "time": [
-     "16:00",
-     "15:00"
     ]
    },
    "game": {
-    "away": "Cibola",
+    "away": "ALA - Radiance",
     "date": "2027-01-06",
     "gender": "boys",
-    "home": "Tolleson Union",
-    "level": "Freshman/Sophomore",
-    "location": "Tolleson High School",
+    "home": "Northwest Christian",
+    "level": "JV",
+    "location": "Northwest Christian High",
     "tags": [],
-    "time": "15:00"
+    "time": "18:00"
    },
-   "id": "2459574",
+   "id": "2532850",
    "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Mesa",
-    "date": "2027-01-22",
-    "gender": "boys",
-    "home": "Brophy Prep",
-    "level": "Freshman/Sophomore",
-    "location": "Graham Family Sports Campus",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2581112",
-   "kind": "added"
   },
   {
    "fields": {
     "time": [
      "18:00",
-     "17:00"
+     "16:00"
     ]
    },
    "game": {
-    "away": "Desert Edge",
-    "date": "2027-01-14",
+    "away": "Santa Rita",
+    "date": "2026-12-07",
     "gender": "boys",
-    "home": "Central",
+    "home": "ALA - Sierra Vista",
     "level": "Varsity",
-    "location": "Central High School",
+    "location": "American Leadership Academy - Sierra Vista",
     "tags": [
      "Region"
     ],
-    "time": "17:00"
-   },
-   "id": "2488634",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Walden Grove",
-    "date": "2026-12-07",
-    "gender": "boys",
-    "home": "Sahuarita",
-    "level": "Varsity",
-    "location": "Sahuarita High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2581113",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Walden Grove",
-    "date": "2026-12-07",
-    "gender": "boys",
-    "home": "Sahuarita",
-    "level": "JV",
-    "location": "Sahuarita High School",
-    "tags": [],
     "time": "16:00"
    },
-   "id": "2581114",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "ALA - Ironwood",
-    "date": "2027-01-21",
-    "gender": "boys",
-    "home": "San Tan Charter",
-    "level": "JV",
-    "location": "San Tan Charter High School",
-    "tags": [],
-    "time": "14:00"
-   },
-   "id": "2581127",
-   "kind": "added"
+   "id": "2461286",
+   "kind": "changed"
   },
   {
    "fields": {
     "date": [
      "2026-12-01",
-     "2026-12-14"
+     "2026-12-02"
     ]
    },
    "game": {
-    "away": "Tombstone",
-    "date": "2026-12-14",
-    "gender": "boys",
-    "home": "Lincoln Prep",
-    "level": "Varsity",
-    "location": "Lincoln Preparatory Academy",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "16:00"
-   },
-   "id": "2536165",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Horizon Honors",
-    "date": "2027-01-14",
-    "gender": "boys",
-    "home": "Rancho Solano Prep",
-    "level": "JV",
-    "location": "Rancho Solano Preparatory School",
+    "away": "Mountain Ridge",
+    "date": "2026-12-02",
+    "gender": "girls",
+    "home": "Perry",
+    "level": "Freshman/Sophomore",
+    "location": "Perry High School",
     "tags": [],
-    "time": "16:00"
+    "time": "15:00"
    },
-   "id": "2581061",
-   "kind": "added"
+   "id": "2569122",
+   "kind": "changed"
   },
   {
    "fields": {
     "date": [
-     "2026-11-30",
-     "2026-12-15"
+     "2026-12-10",
+     "2027-01-06"
     ]
    },
    "game": {
-    "away": "Camelback",
-    "date": "2026-12-15",
+    "away": "ALA - Radiance",
+    "date": "2027-01-06",
     "gender": "girls",
-    "home": "Mesa",
-    "level": "Varsity",
-    "location": "Mesa High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2463701",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "18:00",
-     "19:00"
-    ]
-   },
-   "game": {
-    "away": "Desert Vista",
-    "date": "2027-02-01",
-    "gender": "girls",
-    "home": "Apollo",
-    "level": "Varsity",
-    "location": "Apollo High School",
-    "tags": [
-     "Region"
-    ],
-    "time": "19:00"
-   },
-   "id": "2465977",
-   "kind": "changed"
-  },
-  {
-   "fields": {
-    "time": [
-     "16:00",
-     "17:00"
-    ]
-   },
-   "game": {
-    "away": "Desert Vista",
-    "date": "2027-02-01",
-    "gender": "girls",
-    "home": "Apollo",
+    "home": "Northwest Christian",
     "level": "JV",
-    "location": "Apollo High School",
-    "tags": [],
-    "time": "17:00"
-   },
-   "id": "2465978",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Gila Ridge",
-    "date": "2026-12-10",
-    "gender": "girls",
-    "home": "West Point",
-    "level": "Freshman/Sophomore",
-    "location": "West Point High School",
-    "tags": [],
-    "time": "18:00"
-   },
-   "id": "2459881",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Hamilton",
-    "date": "2026-12-11",
-    "gender": "girls",
-    "home": "Desert Vista",
-    "level": "Freshman/Sophomore",
-    "location": "Desert Vista High School",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2581137",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Desert Vista",
-    "date": "2027-02-01",
-    "gender": "girls",
-    "home": "Apollo",
-    "level": "Freshman/Sophomore",
-    "location": "Apollo High School",
-    "tags": [],
-    "time": "15:00"
-   },
-   "id": "2581130",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Sahuarita",
-    "date": "2026-12-07",
-    "gender": "girls",
-    "home": "Walden Grove",
-    "level": "Varsity",
-    "location": "Walden Grove High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "18:00"
-   },
-   "id": "2581115",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Sahuarita",
-    "date": "2026-12-07",
-    "gender": "girls",
-    "home": "Walden Grove",
-    "level": "JV",
-    "location": "Walden Grove High School",
+    "location": "Northwest Christian High",
     "tags": [],
     "time": "16:00"
    },
-   "id": "2581116",
-   "kind": "added"
+   "id": "2532851",
+   "kind": "changed"
+  },
+  {
+   "game": {
+    "away": "Catalina Foothills",
+    "date": "2026-11-30",
+    "gender": "girls",
+    "home": "Tucson",
+    "level": "Varsity",
+    "location": "Tucson High Magnet School",
+    "tags": [
+     "Freedom"
+    ],
+    "time": "18:00"
+   },
+   "id": "2463736",
+   "kind": "removed"
+  },
+  {
+   "game": {
+    "away": "Catalina Foothills",
+    "date": "2026-11-30",
+    "gender": "girls",
+    "home": "Tucson",
+    "level": "JV",
+    "location": "Tucson High Magnet School",
+    "tags": [],
+    "time": "16:00"
+   },
+   "id": "2463737",
+   "kind": "removed"
   }
  ],
- "run_at": "2026-11-23T20:18:41+00:00"
+ "run_at": "2026-11-24T04:50:06+00:00"
 }
