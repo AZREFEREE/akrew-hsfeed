@@ -1575,68 +1575,6 @@
   },
   {
    "away": {
-    "mascot": "Cougars",
-    "name": "Casa Grande",
-    "program": "3251",
-    "squad": "varsity",
-    "team": "223528"
-   },
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "mascot": "Thunderbolts",
-    "name": "Mica Mountain",
-    "program": "12574",
-    "squad": "varsity",
-    "team": "227266"
-   },
-   "id": "2506240",
-   "level": "Varsity",
-   "listed_in": [
-    "4A",
-    "5A"
-   ],
-   "location": "Mica Mountain High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Cougars",
-    "name": "Casa Grande",
-    "program": "3251",
-    "squad": "jv",
-    "team": "223530"
-   },
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "mascot": "Thunderbolts",
-    "name": "Mica Mountain",
-    "program": "12574",
-    "squad": "jv",
-    "team": "227268"
-   },
-   "id": "2506241",
-   "level": "JV",
-   "listed_in": [
-    "4A",
-    "5A"
-   ],
-   "location": "Mica Mountain High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Bulldogs",
     "name": "Douglas",
     "program": "989",
@@ -28376,37 +28314,6 @@
   },
   {
    "away": {
-    "mascot": "Eagles",
-    "name": "ALA - Gilbert North",
-    "program": "11436",
-    "squad": "varsity",
-    "team": "225315"
-   },
-   "date": "2026-12-11",
-   "gender": "girls",
-   "home": {
-    "mascot": "Knights",
-    "name": "St. Mary's",
-    "program": "2015",
-    "squad": "varsity",
-    "team": "221096"
-   },
-   "id": "2497298",
-   "level": "Varsity",
-   "listed_in": [
-    "4A"
-   ],
-   "location": "Monterey Park",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Patriots",
     "name": "ALA - QC",
     "program": "7066",
@@ -51390,6 +51297,37 @@
   },
   {
    "away": {
+    "mascot": "Eagles",
+    "name": "ALA - Gilbert North",
+    "program": "11436",
+    "squad": "varsity",
+    "team": "225315"
+   },
+   "date": "2027-01-07",
+   "gender": "girls",
+   "home": {
+    "mascot": "Knights",
+    "name": "St. Mary's",
+    "program": "2015",
+    "squad": "varsity",
+    "team": "221096"
+   },
+   "id": "2497298",
+   "level": "Varsity",
+   "listed_in": [
+    "4A"
+   ],
+   "location": "Monterey Park",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Coyotes",
     "name": "Campo Verde",
     "program": "2456",
@@ -66719,6 +66657,68 @@
     "4A"
    ],
    "location": "Moon Valley High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Cougars",
+    "name": "Casa Grande",
+    "program": "3251",
+    "squad": "varsity",
+    "team": "223528"
+   },
+   "date": "2027-01-12",
+   "gender": "girls",
+   "home": {
+    "mascot": "Thunderbolts",
+    "name": "Mica Mountain",
+    "program": "12574",
+    "squad": "varsity",
+    "team": "227266"
+   },
+   "id": "2506240",
+   "level": "Varsity",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Mica Mountain High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Cougars",
+    "name": "Casa Grande",
+    "program": "3251",
+    "squad": "jv",
+    "team": "223530"
+   },
+   "date": "2027-01-12",
+   "gender": "girls",
+   "home": {
+    "mascot": "Thunderbolts",
+    "name": "Mica Mountain",
+    "program": "12574",
+    "squad": "jv",
+    "team": "227268"
+   },
+   "id": "2506241",
+   "level": "JV",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Mica Mountain High School",
    "page_level": "JV",
    "result": null,
    "tags": [],
@@ -141728,6 +141728,68 @@
    "tags": [],
    "time": "16:00",
    "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Falcons",
+    "name": "Catalina Foothills",
+    "program": "1009",
+    "squad": "varsity",
+    "team": "220828"
+   },
+   "date": "2027-02-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Red Wolves",
+    "name": "Walden Grove",
+    "program": "3920",
+    "squad": "varsity",
+    "team": "212764"
+   },
+   "id": "2585827",
+   "level": "Varsity",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Walden Grove High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Falcons",
+    "name": "Catalina Foothills",
+    "program": "1009",
+    "squad": "jv",
+    "team": "220830"
+   },
+   "date": "2027-02-04",
+   "gender": "girls",
+   "home": {
+    "mascot": "Red Wolves",
+    "name": "Walden Grove",
+    "program": "3920",
+    "squad": "jv",
+    "team": "212766"
+   },
+   "id": "2585828",
+   "level": "JV",
+   "listed_in": [
+    "4A",
+    "5A"
+   ],
+   "location": "Walden Grove High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
   }
  ],
  "season": "2026-2027",
@@ -142358,5 +142420,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T03:34:18+00:00"
+ "updated": "2026-11-25T14:31:12+00:00"
 }
