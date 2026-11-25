@@ -24,7 +24,7 @@
    ],
    "location": "Safford High School",
    "page_level": "Varsity",
-   "result": null,
+   "result": "1-5",
    "tags": [
     "Freedom"
    ],
@@ -55,7 +55,7 @@
    ],
    "location": "Safford High School",
    "page_level": "Varsity",
-   "result": null,
+   "result": "0-10",
    "tags": [
     "Freedom"
    ],
@@ -5724,36 +5724,6 @@
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Mountain Lions",
-    "name": "Mountain Ridge",
-    "program": "3444",
-    "squad": "jv-2",
-    "team": "219217"
-   },
-   "date": "2026-12-02",
-   "gender": "girls",
-   "home": {
-    "mascot": "Crusaders",
-    "name": "Northwest Christian",
-    "program": "2531",
-    "squad": "jv-2",
-    "team": "234822"
-   },
-   "id": "2569205",
-   "level": "Freshman/Sophomore",
-   "listed_in": [
-    "3A",
-    "6A"
-   ],
-   "location": "Northwest Christian High",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -16960,8 +16930,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "19:00",
+   "time_raw": "7:00 pm"
   },
   {
    "away": {
@@ -16989,8 +16959,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -17018,8 +16988,8 @@
    "page_level": "Freshman/Sophomore",
    "result": null,
    "tags": [],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "15:00",
+   "time_raw": "3:00 pm"
   },
   {
    "away": {
@@ -20812,66 +20782,6 @@
    "tags": [],
    "time": "15:00",
    "time_raw": "3:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Stampede",
-    "name": "Betty H. Fairfax",
-    "program": "2998",
-    "squad": "varsity",
-    "team": "228466"
-   },
-   "date": "2026-12-09",
-   "gender": "girls",
-   "home": {
-    "mascot": "Trojans",
-    "name": "Paradise Valley",
-    "program": "1230",
-    "squad": "varsity",
-    "team": "226722"
-   },
-   "id": "2488661",
-   "level": "Varsity",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Paradise Valley High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Region"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Stampede",
-    "name": "Betty H. Fairfax",
-    "program": "2998",
-    "squad": "jv",
-    "team": "228468"
-   },
-   "date": "2026-12-09",
-   "gender": "girls",
-   "home": {
-    "mascot": "Trojans",
-    "name": "Paradise Valley",
-    "program": "1230",
-    "squad": "jv",
-    "team": "226724"
-   },
-   "id": "2488662",
-   "level": "JV",
-   "listed_in": [
-    "5A"
-   ],
-   "location": "Paradise Valley High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -43649,6 +43559,66 @@
    ],
    "time": "18:00",
    "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Stampede",
+    "name": "Betty H. Fairfax",
+    "program": "2998",
+    "squad": "varsity",
+    "team": "228466"
+   },
+   "date": "2027-01-05",
+   "gender": "girls",
+   "home": {
+    "mascot": "Trojans",
+    "name": "Paradise Valley",
+    "program": "1230",
+    "squad": "varsity",
+    "team": "226722"
+   },
+   "id": "2488661",
+   "level": "Varsity",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Paradise Valley High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Region"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Stampede",
+    "name": "Betty H. Fairfax",
+    "program": "2998",
+    "squad": "jv",
+    "team": "228468"
+   },
+   "date": "2027-01-05",
+   "gender": "girls",
+   "home": {
+    "mascot": "Trojans",
+    "name": "Paradise Valley",
+    "program": "1230",
+    "squad": "jv",
+    "team": "226724"
+   },
+   "id": "2488662",
+   "level": "JV",
+   "listed_in": [
+    "5A"
+   ],
+   "location": "Paradise Valley High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
   },
   {
    "away": {
@@ -132771,6 +132741,36 @@
   },
   {
    "away": {
+    "mascot": "Mountain Lions",
+    "name": "Mountain Ridge",
+    "program": "3444",
+    "squad": "jv-2",
+    "team": "219217"
+   },
+   "date": "2027-02-02",
+   "gender": "girls",
+   "home": {
+    "mascot": "Crusaders",
+    "name": "Northwest Christian",
+    "program": "2531",
+    "squad": "jv-2",
+    "team": "234822"
+   },
+   "id": "2569205",
+   "level": "Freshman/Sophomore",
+   "listed_in": [
+    "3A",
+    "6A"
+   ],
+   "location": "Northwest Christian High",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Kings",
     "name": "Kofa",
     "program": "3221",
@@ -142070,6 +142070,7 @@
     "Freedom",
     "Freedom",
     "Freedom",
+    "Freedom",
     "Freedom"
    ]
   },
@@ -142357,5 +142358,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T19:32:45+00:00"
+ "updated": "2026-11-25T03:34:18+00:00"
 }
