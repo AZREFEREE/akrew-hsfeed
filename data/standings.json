@@ -5885,21 +5885,6 @@
    "conf": "0-0",
    "conf_pct": 0.0,
    "gender": "girls",
-   "name": "Scottsdale Prep",
-   "overall": "0-0",
-   "overall_pct": 0.0,
-   "program": "3727",
-   "region": "2A East",
-   "region_rec": "0-0",
-   "region_rec_pct": 0.0,
-   "tb": "Has Not Played",
-   "team": "213372"
-  },
-  {
-   "class": "2A",
-   "conf": "0-0",
-   "conf_pct": 0.0,
-   "gender": "girls",
    "name": "ALA - Anthem South",
    "overall": "0-0",
    "overall_pct": 0.0,
@@ -6301,5 +6286,5 @@
    "team": "213278"
   }
  ],
- "updated": "2026-11-25T14:31:12+00:00"
+ "updated": "2026-11-26T00:29:35+00:00"
 }

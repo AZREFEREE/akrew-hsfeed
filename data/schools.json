@@ -626,12 +626,10 @@
    "school": "Betty H. Fairfax",
    "teams": {
     "boys": {
-     "frso": "228464",
      "jv": "228462",
      "varsity": "228460"
     },
     "girls": {
-     "frso": "228470",
      "jv": "228468",
      "varsity": "228466"
     }
@@ -4630,23 +4628,20 @@
    "area_suggested": "East",
    "class": "2A",
    "class_boys": "2A",
-   "class_girls": "2A",
+   "class_girls": "",
    "key": "scottsdale prep",
    "lat": 33.6343413,
    "lon": -111.8817948,
    "mascot": "Spartans",
    "program_boys": "3726",
-   "program_girls": "3727",
+   "program_girls": null,
    "region": "East",
    "region_boys": "East",
-   "region_girls": "East",
+   "region_girls": "",
    "school": "Scottsdale Prep",
    "teams": {
     "boys": {
      "varsity": "213370"
-    },
-    "girls": {
-     "varsity": "213372"
     }
    },
    "venue": "Scottsdale Preparatory Academy"
@@ -5801,5 +5796,5 @@
    "venue": "Yuma Catholic"
   }
  ],
- "updated": "2026-11-25T14:31:12+00:00"
+ "updated": "2026-11-26T00:29:35+00:00"
 }
