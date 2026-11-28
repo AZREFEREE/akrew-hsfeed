@@ -4,250 +4,50 @@
    "fields": {
     "location": [
      "Heritage Academy Gateway",
-     "Benjamin Franklin High School"
-    ],
-    "time": [
-     "18:00",
-     "19:00"
+     "Arizona Athletic Grounds"
     ]
    },
    "game": {
-    "away": "Benjamin Franklin",
-    "date": "2027-01-07",
+    "away": "Florence",
+    "date": "2027-01-15",
     "gender": "boys",
     "home": "Heritage Acad Gateway",
     "level": "Varsity",
-    "location": "Benjamin Franklin High School",
+    "location": "Arizona Athletic Grounds",
     "tags": [
      "Region"
     ],
-    "time": "19:00"
+    "time": "18:00"
    },
-   "id": "2522320",
+   "id": "2522220",
    "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "San Luis",
-    "date": "2026-12-02",
-    "gender": "girls",
-    "home": "Basha",
-    "level": "Freshman/Sophomore",
-    "location": "Basha High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2464049",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Moon Valley",
-    "date": "2027-01-05",
-    "gender": "girls",
-    "home": "Metro Tech",
-    "level": "JV",
-    "location": "Metro Tech High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2485219",
-   "kind": "added"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-09",
-     "2026-12-08"
-    ]
-   },
-   "game": {
-    "away": "Saguaro",
-    "date": "2026-12-08",
-    "gender": "girls",
-    "home": "Coconino",
-    "level": "Varsity",
-    "location": "Coconino High School",
-    "tags": [
-     "Freedom"
-    ],
-    "time": "16:00"
-   },
-   "id": "2480897",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Moon Valley",
-    "date": "2026-12-02",
-    "gender": "girls",
-    "home": "Paradise Honors",
-    "level": "JV",
-    "location": "Paradise Honors High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2500228",
-   "kind": "added"
-  },
-  {
-   "fields": {
-    "date": [
-     "2026-12-09",
-     "2026-12-08"
-    ]
-   },
-   "game": {
-    "away": "Saguaro",
-    "date": "2026-12-08",
-    "gender": "girls",
-    "home": "Coconino",
-    "level": "JV",
-    "location": "Coconino High School",
-    "tags": [],
-    "time": "14:00"
-   },
-   "id": "2480898",
-   "kind": "changed"
-  },
-  {
-   "game": {
-    "away": "Mingus Union",
-    "date": "2026-12-14",
-    "gender": "girls",
-    "home": "Moon Valley",
-    "level": "JV",
-    "location": "Moon Valley High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2493715",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Moon Valley",
-    "date": "2026-12-15",
-    "gender": "girls",
-    "home": "Agua Fria",
-    "level": "JV",
-    "location": "Agua Fria High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2485287",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Deer Valley",
-    "date": "2027-01-06",
-    "gender": "girls",
-    "home": "Moon Valley",
-    "level": "JV",
-    "location": "Moon Valley High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2480640",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "North Canyon",
-    "date": "2027-01-08",
-    "gender": "girls",
-    "home": "Moon Valley",
-    "level": "JV",
-    "location": "Moon Valley High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2476869",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Moon Valley",
-    "date": "2027-01-20",
-    "gender": "girls",
-    "home": "Tempe",
-    "level": "JV",
-    "location": "Tempe High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2485741",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Moon Valley",
-    "date": "2027-01-26",
-    "gender": "girls",
-    "home": "Cortez",
-    "level": "JV",
-    "location": "Cortez High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2485929",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Marcos de Niza",
-    "date": "2027-01-28",
-    "gender": "girls",
-    "home": "Moon Valley",
-    "level": "JV",
-    "location": "Moon Valley High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2485987",
-   "kind": "added"
-  },
-  {
-   "game": {
-    "away": "Glendale",
-    "date": "2027-02-01",
-    "gender": "girls",
-    "home": "Moon Valley",
-    "level": "JV",
-    "location": "Moon Valley High School",
-    "tags": [],
-    "time": "16:00"
-   },
-   "id": "2486061",
-   "kind": "added"
   },
   {
    "fields": {
     "location": [
      "Heritage Academy Gateway",
-     "Benjamin Franklin High School"
+     "Arizona Athletic Grounds"
     ],
     "time": [
      "16:00",
-     "17:00"
+     "18:00"
     ]
    },
    "game": {
-    "away": "Benjamin Franklin",
-    "date": "2027-01-07",
+    "away": "Florence",
+    "date": "2027-01-15",
     "gender": "girls",
     "home": "Heritage Acad Gateway",
     "level": "Varsity",
-    "location": "Benjamin Franklin High School",
+    "location": "Arizona Athletic Grounds",
     "tags": [
      "Region"
     ],
-    "time": "17:00"
+    "time": "18:00"
    },
-   "id": "2522321",
+   "id": "2522221",
    "kind": "changed"
   }
  ],
- "run_at": "2026-11-28T00:05:48+00:00"
+ "run_at": "2026-11-28T07:58:11+00:00"
 }

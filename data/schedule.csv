@@ -2559,7 +2559,6 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2485647,Jan 15,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Dysart,Glendale,Glendale High School,4A,2027-01-15
 2483384,Jan 15,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Estrella Foothills,Goodyear,Goodyear High School,4A,2027-01-15
 2463797,Jan 15,4:00pm,Girls Winter Soccer,JV,,Regular Season,Regular,Higley,Hamilton,Hamilton High School,6A,2027-01-15
-2522221,Jan 15,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Florence,Heritage Acad Gateway,Heritage Academy Gateway,3A,2027-01-15
 2522217,Jan 15,4:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Coolidge,Heritage Acad Maricopa,Copper Sky Recreation Complex,3A,2027-01-15
 2522493,Jan 15,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Mohave,Highland Prep West,Highland Prep West,3A,2027-01-15
 2458130,Jan 15,4:00pm,Boys Winter Soccer,JV,,Regular Season,Regular,Campo Verde,Ironwood,Ironwood High School,5A,2027-01-15
@@ -2645,7 +2644,8 @@ ID,Date,Time,Sport,Level,Endorsement,Season,Type,Visitor,Home,Venue,Class,ISO Da
 2522861,Jan 15,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Madison Highland,Gilbert Christian,Gilbert Christian High School,3A,2027-01-15
 2483382,Jan 15,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Estrella Foothills,Goodyear,Goodyear High School,4A,2027-01-15
 2463796,Jan 15,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Freedom,Higley,Hamilton,Hamilton High School,6A,2027-01-15
-2522220,Jan 15,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Florence,Heritage Acad Gateway,Heritage Academy Gateway,3A,2027-01-15
+2522220,Jan 15,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Florence,Heritage Acad Gateway,Arizona Athletic Grounds,3A,2027-01-15
+2522221,Jan 15,6:00pm,Girls Winter Soccer,Varsity,,Regular Season,Region,Florence,Heritage Acad Gateway,Arizona Athletic Grounds,3A,2027-01-15
 2522216,Jan 15,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Coolidge,Heritage Acad Maricopa,Copper Sky Recreation Complex,3A,2027-01-15
 2522492,Jan 15,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Region,Mohave,Highland Prep West,Highland Prep West,3A,2027-01-15
 2458129,Jan 15,6:00pm,Boys Winter Soccer,Varsity,,Regular Season,Freedom,Campo Verde,Ironwood,Ironwood High School,5A,2027-01-15

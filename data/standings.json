@@ -2061,8 +2061,8 @@
    "conf_pct": 0.0,
    "gender": "boys",
    "name": "Coolidge",
-   "overall": "0-1",
-   "overall_pct": 0.0,
+   "overall": "0-1-1",
+   "overall_pct": 0.25,
    "program": "3867",
    "region": "3A East",
    "region_rec": "0-0",
@@ -2555,6 +2555,21 @@
    "conf": "0-0",
    "conf_pct": 0.0,
    "gender": "boys",
+   "name": "Globe",
+   "overall": "0-0-1",
+   "overall_pct": 0.5,
+   "program": "1596",
+   "region": "2A East",
+   "region_rec": "0-0",
+   "region_rec_pct": 0.0,
+   "tb": "0-0",
+   "team": "221282"
+  },
+  {
+   "class": "2A",
+   "conf": "0-0",
+   "conf_pct": 0.0,
+   "gender": "boys",
    "name": "ALA - Mesa North",
    "overall": "0-0",
    "overall_pct": 0.0,
@@ -2624,21 +2639,6 @@
    "region_rec_pct": 0.0,
    "tb": "Has Not Played",
    "team": "226280"
-  },
-  {
-   "class": "2A",
-   "conf": "0-0",
-   "conf_pct": 0.0,
-   "gender": "boys",
-   "name": "Globe",
-   "overall": "0-0",
-   "overall_pct": 0.0,
-   "program": "1596",
-   "region": "2A East",
-   "region_rec": "0-0",
-   "region_rec_pct": 0.0,
-   "tb": "Has Not Played",
-   "team": "221282"
   },
   {
    "class": "2A",
@@ -5241,8 +5241,8 @@
    "conf_pct": 0.0,
    "gender": "girls",
    "name": "Coolidge",
-   "overall": "0-1",
-   "overall_pct": 0.0,
+   "overall": "1-1",
+   "overall_pct": 0.5,
    "program": "3868",
    "region": "3A East",
    "region_rec": "0-0",
@@ -5735,6 +5735,21 @@
    "conf": "0-0",
    "conf_pct": 0.0,
    "gender": "girls",
+   "name": "Globe",
+   "overall": "0-1",
+   "overall_pct": 0.0,
+   "program": "1597",
+   "region": "2A East",
+   "region_rec": "0-0",
+   "region_rec_pct": 0.0,
+   "tb": "0-0",
+   "team": "221286"
+  },
+  {
+   "class": "2A",
+   "conf": "0-0",
+   "conf_pct": 0.0,
+   "gender": "girls",
    "name": "ALA - Mesa North",
    "overall": "0-0",
    "overall_pct": 0.0,
@@ -5819,21 +5834,6 @@
    "region_rec_pct": 0.0,
    "tb": "Has Not Played",
    "team": "226282"
-  },
-  {
-   "class": "2A",
-   "conf": "0-0",
-   "conf_pct": 0.0,
-   "gender": "girls",
-   "name": "Globe",
-   "overall": "0-0",
-   "overall_pct": 0.0,
-   "program": "1597",
-   "region": "2A East",
-   "region_rec": "0-0",
-   "region_rec_pct": 0.0,
-   "tb": "Has Not Played",
-   "team": "221286"
   },
   {
    "class": "2A",
@@ -6286,5 +6286,5 @@
    "team": "213278"
   }
  ],
- "updated": "2026-11-28T00:05:48+00:00"
+ "updated": "2026-11-28T07:58:11+00:00"
 }
