@@ -1239,68 +1239,6 @@
   },
   {
    "away": {
-    "mascot": "Knights",
-    "name": "AZ College Prep",
-    "program": "8036",
-    "squad": "varsity",
-    "team": "226182"
-   },
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "mascot": "Huskies",
-    "name": "Horizon",
-    "program": "436",
-    "squad": "varsity",
-    "team": "227122"
-   },
-   "id": "2463822",
-   "level": "Varsity",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Horizon High School",
-   "page_level": "Varsity",
-   "result": null,
-   "tags": [
-    "Freedom"
-   ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
-  },
-  {
-   "away": {
-    "mascot": "Knights",
-    "name": "AZ College Prep",
-    "program": "8036",
-    "squad": "jv",
-    "team": "226184"
-   },
-   "date": "2026-11-30",
-   "gender": "girls",
-   "home": {
-    "mascot": "Huskies",
-    "name": "Horizon",
-    "program": "436",
-    "squad": "jv",
-    "team": "227124"
-   },
-   "id": "2463823",
-   "level": "JV",
-   "listed_in": [
-    "5A",
-    "6A"
-   ],
-   "location": "Horizon High School",
-   "page_level": "JV",
-   "result": null,
-   "tags": [],
-   "time": "16:00",
-   "time_raw": "4:00 pm"
-  },
-  {
-   "away": {
     "mascot": "Patriots",
     "name": "Independence",
     "program": "2900",
@@ -5110,8 +5048,8 @@
    "tags": [
     "Freedom"
    ],
-   "time": "18:00",
-   "time_raw": "6:00 pm"
+   "time": "17:00",
+   "time_raw": "5:00 pm"
   },
   {
    "away": {
@@ -29997,6 +29935,68 @@
   },
   {
    "away": {
+    "mascot": "Knights",
+    "name": "AZ College Prep",
+    "program": "8036",
+    "squad": "varsity",
+    "team": "226182"
+   },
+   "date": "2026-12-14",
+   "gender": "girls",
+   "home": {
+    "mascot": "Huskies",
+    "name": "Horizon",
+    "program": "436",
+    "squad": "varsity",
+    "team": "227122"
+   },
+   "id": "2463822",
+   "level": "Varsity",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Horizon High School",
+   "page_level": "Varsity",
+   "result": null,
+   "tags": [
+    "Freedom"
+   ],
+   "time": "18:00",
+   "time_raw": "6:00 pm"
+  },
+  {
+   "away": {
+    "mascot": "Knights",
+    "name": "AZ College Prep",
+    "program": "8036",
+    "squad": "jv",
+    "team": "226184"
+   },
+   "date": "2026-12-14",
+   "gender": "girls",
+   "home": {
+    "mascot": "Huskies",
+    "name": "Horizon",
+    "program": "436",
+    "squad": "jv",
+    "team": "227124"
+   },
+   "id": "2463823",
+   "level": "JV",
+   "listed_in": [
+    "5A",
+    "6A"
+   ],
+   "location": "Horizon High School",
+   "page_level": "JV",
+   "result": null,
+   "tags": [],
+   "time": "16:00",
+   "time_raw": "4:00 pm"
+  },
+  {
+   "away": {
     "mascot": "Bears",
     "name": "Basha",
     "program": "2797",
@@ -52204,8 +52204,8 @@
    "page_level": "JV",
    "result": null,
    "tags": [],
-   "time": "14:00",
-   "time_raw": "2:00 pm"
+   "time": "13:00",
+   "time_raw": "1:00 pm"
   },
   {
    "away": {
@@ -142294,5 +142294,5 @@
    ]
   }
  ],
- "updated": "2026-11-28T07:58:11+00:00"
+ "updated": "2026-11-28T16:56:26+00:00"
 }
